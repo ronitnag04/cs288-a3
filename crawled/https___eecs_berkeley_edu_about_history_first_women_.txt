@@ -1,0 +1,134 @@
+The stellar women of Berkeley EECS have made their mark on the university, their fields, and the world. In celebration of 150 years of women at Berkeley, we present the following ten “firsts” which highlight the last 50 years of women’s evolution in the EECS department.
+
+The field of electrical engineering was first introduced to the Berkeley curriculum in 1893, became part of an official department name in 1903, and split into its own department in 1931. When “computer science” was added to the department name in 1963, the Department of Electrical Engineering and Computer Sciences became the first EECS department in the country, if not the world.
+
+Our profiles begin with our first woman graduate student, who arrived on campus in the mid-1960s. She earned her doctorate in 1969, just before our first woman computer science professor was appointed. An EECS alumna created the first commercial video game designed by a woman in 1980, our first woman EE professor was hired in 1988, and efforts made by women in the 1970s and ’80s started to gain recognition in the 1990s, with awards to alumnae for contributions to both their fields and society. The progress made by EECS women during in past half-century culminated with the election of an EECS professor to the position of the first woman dean of Berkeley Engineering in 2018.
+
+Learn more about women’s history in EECS and UC Berkeley: A Salute to Early Women in STEM at UC Berkeley 
+
+_This list was based on the work of Sheila Humphreys._
+
+##  Kawthar A. Zaki 
+
+### The first woman to earn a doctorate in Electrical Engineering at Berkeley (1969)
+
+Kawthar Abdelhamid Zaki, who is currently a Professor Emerita in the Electrical and Computer Engineering Department at the University of Maryland (UMD), was the **first woman to earn a Ph.D. in Electrical Engineering at Berke­ley** in 1969. In 1970, she was hired as the **first woman professor in the UMD College of Engineering**.
+
+Zaki was born in Egypt and received a B.S. (with honors) from Ain Shams University in Cairo in 1962 before coming to Berkeley. She was awarded an M.S. in 1966 and her Ph.D. at Berkeley under the guidance of Andrew Neureuther. Zaki’s research focused on microwaves, millimeter waves and optical devices, as well as computer-aided design. She has been awarded six patents and numerous honors including the 1971 UMD ECE George Corcoran Award for Significant Contributions to Electrical Engineering Education which recognized her “Teaching and Educational Leadership at the College Park Campus, Effective Contribution at the National Level, and Creative and other Scholarly Activities directed to EE Education.” Zaki is a Fellow of the IEEE.
+
+_Photo: University of Maryland_
+
+##  Susan L. Graham 
+
+### Berkeley’s first woman Computer Science professor (1971)
+
+Susan Graham (photo: Rose Lincoln/Harvard University)
+
+Susan Lois Graham, now the Pehong Chen Distinguished Professor of Electrical Engineering and Computer Sciences Emerita at Berkeley, was the **first woman to join the Computer Science faculty** in 1971. At the time, there were two distinct computer science programs, one in the College of Letters & Science (L&S) and one that was part of the EECS Department in the College of Engineering. Graham’s appointment was in L&S, and when the two programs merged with the CS Division of the EECS department in 1973, it made Graham the **first woman professor in Berkeley Engineering.**
+
+Graham earned an A.B. in Mathematics from Harvard, and M.S. and Ph.D. degrees in Computer Science from Stanford. Her research spans software tools, development, and environments, as well as many aspects of programming language implementation and high-performance computing. As a participant in the Berkeley Unix project in the 1970s, she and her students built the Berkeley Pascal system and the widely used program profiling tool gprof. Their paper on that tool was selected for the list of best papers from twenty years of the Conference on Programming Language Design and Implementation (1979-1999).
+
+Learn more about Susan in her Engineering and Technology History Wiki biography and 2002 oral history interview.
+
+##  Carol Shaw 
+
+### Creator of the first commercial video game designed by a woman (1980)
+
+Carol Shaw with her awards for River Raid, February 1984 (photo: Howard Shaw)
+
+Carol Shaw applied for a job at Atari while still completing the coursework for her M.S. in Computer Science at Cal in 1978. When they hired her shortly after, she became the **first documented woman designer and programmer in the video gaming industry**. In 1980, she produced the **first commercially released video game designed by a woman** : 3-D Tic-Tac-Toe.
+
+Shaw is best known for pioneering a vertical scrolling format for her Atari 2600 shooter game, River Raid, released in 1982 when Shaw worked at Activision. During this era, a single designer created an entire game, from concept to programming, graphics and sound. In 2011, Vintage Computing and Gaming magazine said that River Raid is “almost universally regarded as a masterpiece of game design.” It was the third highest selling game of 1983 and won several awards, including an Electronic Games Arkie Award for Best Action Videogame of 1983, Infoworld’s Best Action Game & Best Atari 8-bit Game of the Year, and The Video Game Update’s Game of the Year (Atari 2600) Award of Excellence. In 1996, Next Generation magazine included River Raid on its Top 100 Games of All Time citing its superior “Level design.” Shaw left game development in 1984 to work at Tandem Computers. After retiring, she volunteered at the Foresight Institute, an organization that promotes beneficial uses of technology for humankind.
+
+Learn more about Carol in her _Vintage Computing and Gaming_ magazine interview.
+
+*_The Video Game Update,_ Volume 2, Number 10. January 1984
+
+##  Avideh Zakhor 
+
+### Berkeley’s first woman Electrical Engineering professor (1988)
+
+Avideh Zakhor (photo: Anna Sziklai)
+
+Avideh Zakhor earned her B.S. in Electrical Engineering from Caltech in just three years, and her Ph.D. in EECS from MIT in four. In 1988, at the age of 24, she was hired as an Assistant Professor of Electrical Engineering at UC Berkeley. Zakhor is the first woman EE professor in the department, the **first woman hired directly into the EECS department** , and only the second woman professor to teach here. In keeping with her pattern of accelerated achievement, Zakhor earned tenure in just six years.
+
+Zakhor, who was born in Iran, is a pioneer in the field of signal processing which she describes as “compact ways of representing the world.”[1] She is credited with laying the groundwork for the technologies behind Google Earth and Street View. She is an IEEE fellow and was named 2018 Electronic Imaging Scientist of the Year by the Society of Photographic Instrumentation Engineers (SPIE) “for significant contributions to signal processing, including 3D image processing & computer vision; 3D reality capture systems; 3D modeling, mapping and positioning; and image and video compression and communication.” In addition to her distinguished research, Zakhor is also an extremely successful entrepreneur, having co-founded Signamask Inc. in 1996, Urban Scan Inc. in 2005, and Indoor Reality in 2015–all of which were acquired by private corporations between two and four years after being founded.
+
+Learn more about Avideh from her 2005 Berkeley News profile and 2017 Mercury News profile.
+
+##  Shafi Goldwasser 
+
+### Winner of the first Gödel Prize (1993)
+
+Shafi Goldwasser (photo: Adrien Bisson)
+
+EECS alumna and professor Shafrira Goldwasser is behind two critical advances in cryptography: probabilistic encryption, which is the gold standard for data encryption security; and zero-knowledge proofs, which are vital to the design of cryptographic protocols. Her innovations allow credit card numbers to be sent securely over the internet, making web commerce possible. In 1993, she won the **inaugural Gödel Prize in theoretical computer science** , one of the most prestigious awards in its field, for “knowledge complexity of interactive proof systems.” She won a second Gödel Prize in 2001, and she and her colleague, Silvio Micali, won the ACM A.M. Turing Award in 2012—considered “the Nobel Prize of Computer Science”—for “transformative work that laid the complexity-theoretic foundations for the science of cryptography and in the process pioneered new methods for efficient verification of mathematical proofs in complexity theory.”
+
+Goldwasser earned her M.S. (1981) and Ph.D. (1984) in Computer Science at Berkeley under the supervision of Manuel Blum. She is currently the director of the UC Berkeley Simons Institute for the Theory of Computing, and is chief scientist and co-founder of Duality Technologies, an Israeli-American start-up formed in 2016, which offers secure data analytics using advanced cryptographic techniques. She is also a scientific advisor for several technology startups.
+
+Learn more about Shafi from a 2019 MIT Technology Review article.
+
+##  Paula Hawthorn 
+
+### The first EECS Distinguished Alumna (1996)
+
+Paula Hawthorn on a panel at a Town Hall on Gun Violence in Oakland (photo: Lynette Gibson McElhaney)
+
+A tireless advocate for social progress, Paula Hawthorn was working on her Ph.D. in Electrical Engineering in 1979 when she co-founded (along with fellow “firsts” Barbara Simons and Susan Eggers) the student group Women in Computer Science and Engineering (WiCSE) and helped to create the CS Reentry Program, which encouraged women who had degrees in other fields to come back to school and study computer science. In 1996, Hawthorn became the **first woman honored with an EECS Distinguished Alumni Award**.
+
+Hawthorn had initially planned to be a math teacher after graduating from college in Texas but was arrested during a civil rights protest and was barred from teaching in that state. Instead, she took a job at Texaco where she became intrigued by computers. She earned her doctorate from Berkeley under the supervision of Michael Stonebraker and went on to work at Hewlett-Packard, Lawrence Berkeley National Laboratory, and a number of influential start-up companies. Although she is now retired, Hawthorn is still a dedicated social activist. She is the President of Soldiers Against Violence Everywhere (SAVE) Oakland, the Co-Chair of the Oakland/Alameda County Chapter of the Brady Campaign To Prevent Gun Violence, and a member of the Coalition for Police Accountability.
+
+Learn more about Paula through her 2002 oral history interview.
+
+##  Barbara Simons 
+
+### The first woman to receive the Berkeley Engineering Distinguished Alumni Award (2005)
+
+Like many women tech professionals of her generation, Barbara Bluestein Simons, the **first woman to become a UC Berkeley Distinguished Engineering Alumni** , took an indirect route to a career in computer science. She got married at the end of her sophomore year at Berkeley and dropped out as a junior, in 1961, to become a wife and mother full-time for nine years. At the age of 30, she returned to Stony Brook University in New York as a part-time undergraduate and, without completing her Bachelor’s, earned a Master’s degree in CS. When she transferred to the graduate program at Berkeley, she brought with her a wealth of practical experience which she applied to the challenges of attracting more women to the fields of EE and CS. She co-founded the student organization Women in Computer Science and Engineering (WiCSE) and the CS Reentry Program for women and minorities (along with fellow “firsts” Paula Hawthorn and Susan Eggers). She also embarked upon an influential career guiding U.S. government policy on technology.
+
+Simons earned her Ph.D. in 1981 under the supervision of Richard Karp, focusing on compiler optimization, scheduling theory, and algorithm analysis and design. She spent her early career working as an IBM researcher and founded ACM’s US Public Policy Committee (USACM) in 1993. She retired from IBM to serve as President of the Association for Computing Machinery (ACM), the nation’s largest educational and scientific computing society. She has been advocating to end electronic voting since 2002, which she says is poorly designed and easy to exploit, and has been a member of national workshops and government projects studying the issue. She currently serves as a Board Chair of the Verified Voting Foundation, a non-partisan and non-profit organization that advocates for legislation to promote safe and transparent voting.
+
+Learn more about Barbara from her 2002 oral history and a 2017 article about her in The Atlantic.
+
+_Photo: Verified Voting_
+
+##  Deborah Estrin 
+
+### The first Athena Lecturer (2006)
+
+Deborah Estrin earned her B.S. in EECS from Berkeley in 1980 and her Ph.D. from MIT in 1985. She is a highly influential researcher who is known for her work on sensor networks, mobile health, and small data, and is a pioneer in the development of embedded networked sensing (ENS). She is also the **first Association for Computing Machinery ACM-W Athena Lecturer** ever (2006), an honor which recognizes “outstanding women researchers who have made fundamental contributions to computer science.”
+
+Estrin’s research focuses on novel techniques for chronic disease management using smartphone data capture and analytics. She was a professor at both USC and UCLA, and was the founding director of the NSF-funded Center for Embedded Networked Sensing (CENS). In 2012, she was the**first academic hired to work at Cornell Tech** in New York City, where she is currently the Associate Dean for Impact and the Robert V. Tishman ’37 Professor of Computer Science. She co-founded a non-profit called Open mHealth, which creates open data sharing standards and tools that allow developers of health applications to store, process, and visualize data.
+
+Learn more about Debora in the Encyclopedia of World Biography.
+
+_Photo: Cornell Tech_
+
+##  Susan Eggers 
+
+### The first woman to win the ACM IEEE CS Eckert-Mauchly Award (2018)
+
+Susan J. Eggers received a B.A. in Economics from Connecticut College in 1965 and worked in related fields for 18 years before turning her attention to computer engineering. She was 47 when she earned her Ph.D. from Berkeley EECS under the supervision of Randy Katz, and helped co-found the student group Women in Computer Science and Engineering (WiCSE) along with fellow “firsts” Paula Hawthorn and Barbara Simons. Although she came to the field of computer architecture relatively late, she more than made up for it by producing some of the most significant and enduring contributions to the field in the past 30 years. In 2018, Eggers became the **first woman to receive the ACM-IEEE Eckert-Mauchly Award** in its 39-year history. The award, which is considered the computer architecture community’s most prestigious honor, recognized her “for contributions to the design and analysis of multithreaded and shared memory multiprocessors and compiler technology.”
+
+Eggers’ most significant contribution is in the development and commercialization of Simultaneous Multithreading (SMT), an architecture essential to processors currently being produced by Intel and IBM. She joined the University of Washington in 1989 where she is currently a Professor Emerita of Computer Science and Engineering.
+
+Learn more about Susan from her IEEE Computer Society biography and ACM Eckert-Mauchly press release.
+
+_Photo: University of Washington_
+
+##  Tsu-Jae King Liu 
+
+### The first woman chair of the EECS department (2014) and first woman dean of the College of Engineering (2018)
+
+Tsu-Jae King Liu, the **first woman Chair of the EECS department** and the**first woman dean of Berkeley Engineering** , is internationally recognized in academia and industry for her innovations in semiconductor devices and technology, as well as her achievements as an instructor, mentor and administrator. She earned a B.S., M.S., and Ph.D. in Electrical Engineering from Stanford, and worked at Xerox Palo Alto Research Center (PARC), before joining the EECS faculty in 1996. She has held a consecutive series of leadership positions guiding the Berkeley campus for 20 years: Faculty Director of the Microfabrication Laboratory (2000-2004 and 2006-2008), Senior Director of Engineering in the Advanced Technology Group of Synopsys (2004-2006), Associate Dean for Research in the College of Engineering (2008 -2012), Faculty Director of the Marvell Nanofabrication Laboratory (2012), Chair of the EE Division (2012-2014), Chair of the EECS Department (2014-2016), Vice Provost for Academic & Space Planning (2016-2018), and Dean of the College of Engineering starting in 2018..
+
+Liu has won a multitude of awards throughout her career including the Ross M. Tucker AIME Electronics Materials Award (1992) for seminal work in polycrystalline silicon-germanium thin films; the DARPA Significant Technical Achievement Award (2000) for development of the FinFET; the IEEE Kiyo Tomiyasu Award (2010) for contributions to nanoscale MOS transistors, memory devices, and MEMS devices; the Electrochemical Society Dielectric Science and Technology Division Thomas D. Callinan Award (2011) for excellence in dielectrics and insulation investigations; the Intel Outstanding Researcher in Nanotechnology Award (2012); the SRC Aristotle Award (2016); election to the Silicon Valley Engineering Council Hall of Fame (2018); and the Asian American Distinguished Science & Technology Award (2019). Liu has authored or co-authored over 500 publications, holds 95 patents, and is the co-founder of Progressant Technologies (acquired by Synopsys in 2004). In 2016, she joined Intel’s board of directors, which earned her a place on Women Inc.’s list of the Most Influential Corporate Board Members of 2018.
+
+Learn more about Tsu-Jae from her Berkeley Engineering profile.
+
+_Photo: Noah Berger_
+
+First published: January 16, 2020.  
+_Revised: December 9, 2021_.
+
+View  Open Faculty Positions __

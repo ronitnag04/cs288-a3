@@ -1,0 +1,147 @@
+##  Quick links 
+
+  * My EECS Info 
+
+Update research and faculty web pages and access internal functions like grad review 
+
+  * Building Access 
+
+Required procedures to obtain access to EECS facilities 
+
+  * Working From Home 
+
+VPN (GlobalProtect), mapping network drives, remote desktop (WINTERM), resource access URLs (EECS databases, zoom, docusign) 
+
+  * Event Planning Calendar 
+
+A list of major events that impact large segments of the EECS population (faculty/staff/students) to help you plan your event. 
+
+  * EECS Event Calendar 
+
+All departmental events on the campus calendar system. 
+
+  * Submit an event to the EECS Calendar 
+
+Post an event to the EECS Calendar: it will appear on the EECS home page and the Cory and Soda Hall wall displays. 
+
+  * Student Award Nominations 
+
+Please consider nominating deserving students for this year's student awards. 
+
+
+
+
+##  People 
+
+  * People overview 
+  * Faculty committees 
+  * Full department directory 
+
+With graduate students 
+
+  * Administrative Quick Contact List 
+  * Staff by Function 
+  * Departmental E-Mail Lists 
+
+Lists to contact groups of faculty, students, or staff. (login required) 
+
+
+
+
+##  Staff Information 
+
+  * EECS Staff Climate Feedback Form 
+  * Login URLs for EECS and Campus Resources 
+
+How to access EECS databases & mail lists, Qualtrics, Docusign, and other department and campus resources 
+
+  * Staff IT Procedures 
+
+Mail merge, requesting accounts, bMail and bCal tips, departure preparation, scanning from the Canon copiers, and more. 
+
+  * Wil Zeilinger Staff Excellence Award 
+  * EECS Etiquette: OOO Messages 
+
+
+
+##  Faculty Information 
+
+  * Courses and Instruction 
+
+Course scheduling, class and classroom management, course support, final exams, and grades. 
+
+  * Graduate Student Review 
+  * Undergraduate Faculty Advising 
+  * GSI Hiring Instructions 
+  * Tech Report Submission Form 
+  * Faculty Meeting Minutes 
+  * Academic Personnel Information 
+
+Departmental procedures and policies. 
+
+  * Department Policy on Academic Dishonesty 
+  * Student Affairs Guide for New Faculty 
+  * A Guide to IEEE and ACM Awards 
+  * ERSO/CSS Team 2 
+
+CoE support for receiving (receive@erso.berkeley.edu), payroll, visiting scholars, contracts and grants 
+
+  * Visiting Research Scholars 
+  * My EECS Info Guide 
+  * EECS Verified Departmental BPC Plan 
+
+
+
+##  Facilities & Equipment 
+
+For location of printers, copiers, FAXes, teleconference phones, portable A/V equipment, and supplies for offices/seminar rooms: 387 Soda Hall (csoffice@cs.berkeley.edu) or 253 Cory Hall (eecsoffice@eecs.berkeley.edu).
+
+  * Facilities, Safety & Space 
+
+Cory & Soda Hall building safety, space & maintenance, and department vehicle information. 
+
+  * Cory and Soda Hall Room Reservations 
+  * Building project/repair request 
+  * Campus Office of Emergency Management 
+
+Safety information and procedures for campus-wide and building emergencies. 
+
+  * Equipment Management 
+
+Inventory, excess and salvage is handled by ERSO Shipping and Receiving. 
+
+
+
+
+##  Computing & Technical Support 
+
+  * Instructional and Research Information Systems 
+
+
+
+##  Administrative Support 
+
+  * Administrative Services 
+
+General administrative services offered by the EECS Department and CS Division main offices in 253 Cory Hall and 387 Soda Hall. 
+
+  * Course Materials 
+
+Copying, scanning, storage, and disposal of course materials including exams and discussion handouts 
+
+  * accounting@eecs.berkeley.edu 
+
+For questions regarding use of department-managed funds for purchasing, reimbursements, travel and entertainment 
+
+  * csoffice@cs.berkeley.edu 
+
+Parking for events and permits for visitors to Soda Hall. Visitor's name, affiliation, and a chartstring are required when requesting a parking permit. 
+
+  * eecsoffice@eecs.berkeley.edu 
+
+Parking permits for visitors to Cory Hall. Visitor's name, affiliation, and a chartstring are required when requesting a parking permit. 
+
+
+
+
+View  Open Faculty Positions __
