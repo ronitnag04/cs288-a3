@@ -1,0 +1,24 @@
+## EECS Colloquium
+
+### Wednesday, January 25, 2017
+
+306 Soda Hall (HP Auditorium)  
+4:00 – 5:00 p
+
+### John Bowers
+
+Director of the Institute for Energy Efficiency and  
+Professor of Electrical and Computer Engineering  
+University of California, Santa Barbara
+
+#### Abstract
+
+We review recent advances in heterogeneous silicon photonic integration technology and components and describe progress in silicon photonic integrated circuits. Techniques for laser integration and the impact of active silicon photonic integrated circuits could have on interconnects, telecommunications and silicon electronics are reviewed. A variety of materials are being heterogeneously integrated, including arsenides for short wavelength lasers, phosphides for infrared lasers, LiNbO 3 for nonlinear applications and YIG for isolators and circulators. One application that has been recently demonstrated is a 2.56 Tbit/s transceiver that involved integrating 64 DFB lasers with 64 EAMs and 64 photodetectors together with 16 AWGs.
+
+#### Biography
+
+John E. Bowers holds the Fred Kavli Chair in Nanotechnology, and is the Director of the Institute for Energy Efficiency and a Professor in the Departments of Materials and Electrical and Computer Engineering at UCSB. He is a cofounder of Aurrion, Aerius Photonics and Calient Networks. Dr. Bowers received his M.S. and Ph.D. degrees from Stanford University and worked for AT&amp;T Bell Laboratories and Honeywell before joining UC Santa Barbara. Dr. Bowers is a member of the National Academy of Engineering and the National Academy of Inventors. He is a fellow of the IEEE, OSA and the American Physical Society, and a recipient of the IEEE Photonics Award, OSA Tyndal Award, the OSA Holonyak Prize, the IEEE LEOS William Streifer Award and the South Coast Business and Technology Entrepreneur of the Year Award. He has published eight book chapters, 600 journal papers, 900 conference papers and has received 54 patents. He and coworkers received the EE Times Annual Creativity in Electronics (ACE) Award for Most Promising Technology for the hybrid silicon laser in 2007.
+
+##  Video of Presentation 
+
+View  Open Faculty Positions __

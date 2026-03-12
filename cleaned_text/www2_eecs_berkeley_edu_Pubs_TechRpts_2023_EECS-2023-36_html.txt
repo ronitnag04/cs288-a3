@@ -1,0 +1,43 @@
+### Zhongkai Wang and Elad Alon
+
+### EECS Department, University of California, Berkeley
+
+### Technical Report No. UCB/EECS-2023-36
+
+###  May 1, 2023 
+
+###  http://www2.eecs.berkeley.edu/Pubs/TechRpts/2023/EECS-2023-36.pdf
+
+**Advisors:** Elad Alon
+
+* * *
+
+BibTeX citation:
+    
+    
+    @phdthesis{Wang:EECS-2023-36,
+        Author= {Wang, Zhongkai and Alon, Elad},
+        Title= {Analog Generators for SerDes Clock Generation and Distribution},
+        School= {EECS Department, University of California, Berkeley},
+        Year= {2023},
+        Month= {May},
+        Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2023/EECS-2023-36.html},
+        Number= {UCB/EECS-2023-36},
+    }
+    
+
+EndNote citation:
+    
+    
+    %0 Thesis
+    %A Wang, Zhongkai 
+    %A Alon, Elad 
+    %T Analog Generators for SerDes Clock Generation and Distribution
+    %I EECS Department, University of California, Berkeley
+    %D 2023
+    %8 May 1
+    %@ UCB/EECS-2023-36
+    %U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2023/EECS-2023-36.html
+    %F Wang:EECS-2023-36
+    
+    

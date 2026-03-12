@@ -1,0 +1,25 @@
+## EECS Colloquium
+
+### Wednesday, November 8, 2017
+
+306 Soda Hall (HP Auditorium)  
+4:00 – 5:00 pm
+
+### **Alfred Z. Spector  
+**
+
+Two Sigma
+
+Alfred Spector speaks on Opportunities and Perils in Data Science, 11/8/17 
+
+#### Abstract
+
+Over the last few decades, empiricism has become the third leg of computer science, adding to the field’s traditional bases in mathematical analysis and engineering. This shift has occurred due to the sheer growth in the scale of computation, networking, and usage as well as progress in machine learning and related technologies. Resulting data-driven approaches have led to extremely powerful prediction and optimization techniques and hold great promise, even in the humanities and social sciences. However, no new technology arrives without complications. In this presentation, I will balance the opportunities provided by big data and associated A.I. approaches with a discussion of the various challenges. I’ll enumerate ten plus one categories including those which are technical (e.g., resilience and complexity), societal (e.g., difficulties in setting objective functions or understanding causation), and humanist (e.g., issues relating to free will or privacy). I’ll provide many example problems, and make suggestions on how to address some of the unanticipated consequences of big data.
+
+#### Biography
+
+Alfred Spector is Chief Technology Officer and Head of Engineering at Two Sigma, a firm dedicated to using information to optimize diverse economic challenges. Prior to joining Two Sigma, Dr. Spector spent nearly eight years as Vice President of Research and Special Initiatives, at Google, where his teams delivered a range of successful technologies including machine learning, speech recognition, and translation. Prior to Google, Dr. Spector held various senior-level positions at IBM, including Vice President of Strategy and Technology (or CTO) for IBM Software and Vice President of Services and Software research across the company. He previously founded and served as CEO of Transarc Corporation, a pioneer in distributed transaction processing and wide-area file systems, and he was a professor of computer science at Carnegie Mellon University. Dr. Spector received a bachelor’s degree in Applied Mathematics from Harvard University and a Ph.D. in computer science from Stanford University. He is a Fellow of both the Association for Computing Machinery and the IEEE. He is an active member of the National Academy of Engineering and the American Academy of Arts and Sciences, where he serves on the Council. Dr. Spector won the 2001 IEEE Kanai Award for Distributed Computing and the 2016 ACM Software Systems Award, the latter for his work on the Andrew File System (AFS).
+
+##  Video of Presentation 
+
+View  Open Faculty Positions __

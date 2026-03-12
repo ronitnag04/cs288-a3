@@ -1,0 +1,24 @@
+## EECS Colloquium
+
+### Wednesday, October 25, 2017
+
+306 Soda Hall (HP Auditorium)  
+4:00 – 5:00 pm
+
+### **Simon Knowles**
+
+Graphcore
+
+Simon Knowles speaks on Designing Processors for Intelligence, 10/25/17 
+
+#### Abstract
+
+Intelligence is a new computing workload of unusual character and profound importance. We must adapt our understanding of computer design, forged over 70 years of “dumb” computing, to support this new opportunity. And doing so must acknowledge the energy constraints which dominate silicon capability through the autumn of geometry scaling. Graphcore has built a new type of processor from scratch to do this job, hoping to enable a vanguard generation to research the nature of intelligence more freely, and to engineer useful intelligent machines. This talk will discuss what is different about intelligence as computation, what that means for computer design, and Graphcore’s first steps into this new world.
+
+#### Biography
+
+Simon is co-founder & CTO of Graphcore, a young company developing processors for Machine Intelligence. Simon is a veteran processor designer with several architectures to his credit. Graphcore is his third chip start-up; he previously co-founded Element14 (acquired by Broadcom) and Icera (acquired by Nvidia). Simon is an Electrical Science graduate of the University of Cambridge.
+
+##  Video of Presentation 
+
+View  Open Faculty Positions __

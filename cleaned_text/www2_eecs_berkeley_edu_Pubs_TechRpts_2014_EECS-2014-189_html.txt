@@ -1,0 +1,54 @@
+### Chintan Thakkar and Elad Alon
+
+### EECS Department, University of California, Berkeley
+
+### Technical Report No. UCB/EECS-2014-189
+
+###  December 1, 2014 
+
+###  http://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-189.pdf
+
+The explosion of personal devices that need ubiquitous connectivity is making both wireless and wireline communication experience increasingly rapid growth in data-rates. Wireless channels have been 'fortunate' to see new channels/standards being made available over the past decade to meet up to multi-Gb/s demands. One such medium is the wideband 60GHz channel. Wireless mediums, by definition however, are thwarted by multi-path reflection-based inter-symbol interference (ISI) - a problem which becomes only worse at higher speeds. For decades, equalizers have been used efficiently to mitigate such interference. However, wireless equalizers in commercial CMOS products are typically implemented in DSP along multi-level modulation schemes like OFDM, which when scaled to Gb/s speeds dissipate substantial power. This is particularly detrimental for handheld/mobile devices with limited battery capacity.
+
+To ease the power bottleneck for equalization, this work instead proposes using mixed-signal techniques. As opposed to classic multi-level ADC/DSP design, such techniques are inspired by high-speed chip-to-chip wired communication that advocates the use of simple modulation schemes (such as QPSK) with few comparators. Since wireless channels suffer ISI with longer delay spreads than their wired counterparts, previously developed wireline equalizers cannot be directly ported. This work therefore enables energy-efficient equalizers to cancel extremely long ISI delay spreads. Our first prototype demonstrated a 40-coefficient complex (I/Q) decision feedback equalizer (DFE) in 65nm CMOS to enable 10Gb/s rates over line-of-sight (LOS) 60GHz channels, while consuming only 14mW of power. The second prototype in 65nm low-power (LP) CMOS enables non-line-of-sight (NLOS) channel equalization as well, by using a 32-coefficient receiver feedforward equalizer (FFE) and a longer 100-coefficient DFE, achieving 3.5-8Gb/s rates while consuming 20-67mW. These prototypes demonstrate a ~4X improvement in power efficiency over prior art using digital solutions and, importantly, enable achieving higher data-rates in the same technology node.
+
+While the equalizer prototypes in this dissertation have been targeted towards 60GHz channels, the techniques enable energy-efficient equalization for long ISI delay spreads for any high-speed wireless or wireline communication link.
+
+**Advisors:** Elad Alon
+
+* * *
+
+BibTeX citation:
+    
+    
+    @phdthesis{Thakkar:EECS-2014-189,
+        Author= {Thakkar, Chintan and Alon, Elad},
+        Title= {Design of Multi-Gb/s Multi-Coefficient Mixed-Signal Equalizers},
+        School= {EECS Department, University of California, Berkeley},
+        Year= {2014},
+        Month= {Dec},
+        Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-189.html},
+        Number= {UCB/EECS-2014-189},
+        Abstract= {The explosion of personal devices that need ubiquitous connectivity is making both wireless and wireline communication experience increasingly rapid growth in data-rates. Wireless channels have been 'fortunate' to see new channels/standards being made available over the past decade to meet up to multi-Gb/s demands. One such medium is the wideband 60GHz channel. Wireless mediums, by definition however, are thwarted by multi-path reflection-based inter-symbol interference (ISI) - a problem which becomes only worse at higher speeds. For decades, equalizers have been used efficiently to mitigate such interference. However, wireless equalizers in commercial CMOS products are typically implemented in DSP along multi-level modulation schemes like OFDM, which when scaled to Gb/s speeds dissipate substantial power. This is particularly detrimental for handheld/mobile devices with limited battery capacity.
+    
+    To ease the power bottleneck for equalization, this work instead proposes using mixed-signal techniques. As opposed to classic multi-level ADC/DSP design, such techniques are inspired by high-speed chip-to-chip wired communication that advocates the use of simple modulation schemes (such as QPSK) with few comparators. Since wireless channels suffer ISI with longer delay spreads than their wired counterparts, previously developed wireline equalizers cannot be directly ported. This work therefore enables energy-efficient equalizers to cancel extremely long ISI delay spreads. Our first prototype demonstrated a 40-coefficient complex (I/Q) decision feedback equalizer (DFE) in 65nm CMOS to enable 10Gb/s rates over line-of-sight (LOS) 60GHz channels, while consuming only 14mW of power. The second prototype in 65nm low-power (LP) CMOS enables non-line-of-sight (NLOS) channel equalization as well, by using a 32-coefficient receiver feedforward equalizer (FFE) and a longer 100-coefficient DFE, achieving 3.5-8Gb/s rates while consuming 20-67mW. These prototypes demonstrate a ~4X improvement in power efficiency over prior art using digital solutions and, importantly, enable achieving higher data-rates in the same technology node.
+    
+    While the equalizer prototypes in this dissertation have been targeted towards 60GHz channels, the techniques enable energy-efficient equalization for long ISI delay spreads for any high-speed wireless or wireline communication link.},
+    }
+    
+
+EndNote citation:
+    
+    
+    %0 Thesis
+    %A Thakkar, Chintan 
+    %A Alon, Elad 
+    %T Design of Multi-Gb/s Multi-Coefficient Mixed-Signal Equalizers
+    %I EECS Department, University of California, Berkeley
+    %D 2014
+    %8 December 1
+    %@ UCB/EECS-2014-189
+    %U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-189.html
+    %F Thakkar:EECS-2014-189
+    
+    

@@ -1,0 +1,176 @@
+Distinguished Alumni Awards winners are selected each year by the EE and CS Chairs in consultation with the EECS Faculty Awards Committee and with input from the EECS faculty. Winners receive a plaque awarded at a departmental event such as the BEARS conference or the L&S CS Commencement.
+
+  * 2025 
+    * **Dana Angluin**(Ph.D. 1976, advisor: Manuel Blum), Professor Emeritus of CS, Yale
+    * **John Schulman** (Ph.D. 2016, advisor: Pieter Abbeel), Co-Founder of OpenAI and creator of ChatGPT
+  * 2024 
+    * **Nancy Amato**(M.S. 1988, advisor: Manuel Blum), Abel Bliss Professor and CS Department Head, UIUC
+    * **Lars Rasmussen**(Ph.D. 1998, advisor: Alistair Sinclair), Angel Investor, co-founder of Google Maps, Google Wave, and Weav Music
+  * 2023 
+    * **Paul Debevec**(Ph.D. 1996, advisor: Jitendra Malik), Director of Production Innovative Research, Netflix; Adjunct Research Professor, USC Computer Science
+    * **Andrea and Remzi Arpaci-Dusseau**
+      * Andrea Arpaci-Dusseau (M.S. 1994/Ph.D. 1998, adviser: David Culler), Professor, University of Wisconsin, Madison
+      * Remzi Arpaci-Dusseau (M.S. 1996/Ph.D. 1999, adviser David Patterson), Professor, University of Wisconsin, Madison
+  * 2022 
+    * **Kimberly Keeton** (MS 1994/PhD 1999, adviser: David Patterson), Principal Engineer, Google
+    * **Noam Nisan** (PhD 1988, advisor: Richard Karp), Professor of Computer Science, Hebrew University of Jerusalem**  
+**
+
+
+  * 2021 
+    * **Ralph Merkle** (BA 1974/MS 1977), Senior Research Fellow, Institute for Molecular Manufacturing**  
+**
+    * **Hari Balakrishnan** (PhD 1998, advisor: Randy Katz), Fujitsu Professor of Computer Science and Artificial Intelligence at MIT, Founder/CTO of Cambridge Mobile Telematics**  
+**
+
+
+  * 2020 
+    * **Dan Jurafsky** (PhD 1992, advisor: Robert Wilensky), Professor of Linguistics and Computer Science, Stanford
+    * **Clyde Rodriguez** (BS 1995), CISO/VPE Meta Platforms, Founder Microsoft Azure Networking, VP/Advisor to the Chairman at AMD
+
+
+  * 2019 
+    * **Andrew Ng** (PhD 2003, advisor: Michael Jordan), Professor, Stanford
+    * **Amin Vahdat** (BS 1992/PhD 1998, advisor: Thomas Anderson), Engineering Fellow and Vice President, Google
+
+
+  * 2018 
+    * **Marie desJardins** (PhD 1992, advisor: Stuart Russell), Professor of Computer Science & Electrical Engineering at the University of Maryland, Baltimore
+    * **Eric Brewer** (BS 1989), Professor Emeritus of Computer Science at UC Berkeley, VP of Infrastructure at Google
+
+
+  * 2017 
+    * **Andy Hertzfeld** (MS 1979), Software Engineer & UX Designer at Google, Inc.
+    * **Gary Miller** (PhD Mathematics 1975), Professor of Computer Science at Carnegie Mellon University
+
+
+  * 2016 
+    * **Diane Greene**(MS 1988), Senior Vice President Google Cloud, Co-Founder and CEO of VMWare,
+    * **Michael Sipser** (PhD 1980, advisor: Manuel Blum), Dean of Science, MIT
+
+  * 2015 
+    * **Mike Olson**(BA 1991/MS 1993), Chief Strategy Officer, Chairman and Founder, Cloudera
+    * **Mark Wegman** (PhD 1981, advisor: Susan Graham), IBM Fellow/Chief Scientist Software Technology
+
+
+  * 2014 
+    * **Michael Luby** (PhD 1983, advisor: Richard Karp), founder of Digital Fountain, inventor of LT codes
+    * **Yoky Matsuoka** (BS 1993), Co-Founder of Google [x]; VP Technology at Nest; MacArthur Fellow.
+
+
+  * 2013 
+    * **Eric Allman** (BS 1977, MS 1980), Co-Founder of Sendmail, creator of sendmail Open Source MTA
+    * **Cecilia Aragon**(Ph.D. 2004, advisors: Shankar Sastry and Marti Hearst), Director, Human-Centered Data Science Lab, University of Washington, Seattle
+
+
+  * 2012 
+    * **Gaetano Borriello** (PhD 1988, advisor: Randy Katz), founding director of Intel Research
+    * **Klaus Schauser** (PhD 1994, advisor: David Culler), Chief Strategist and Co-Founder, AppFolio
+
+
+  * 2011 
+    * **Tony DeRose** (PhD 1985, advisor: Brian Barsky), Senior Scientist and Research Group lead at Pixar Animation Studios
+    * **Benjamin Wah** (PhD 1979, advisor: C. V. Ramamoorthy), Provost and Wei Lun Professor of Computer Science and Engineering at the Chinese University of Hong Kong
+
+
+  * 2010 
+    * **Margo Selzer**(PhD 1992, advisor: Michael Stonebraker), Director, Research on Computation and Society, Harvard University
+    * **Wen-mei Hwu** (PhD 1987, advisor: Alvin Despain), Chief Scientist, Parallel Computing Institute, University of Illinois, Urbana-Champaign
+
+
+  * 2009 
+    * **Susan Eggers** (PhD 1989, advisor: Randy Katz), Professor Emerita, Computer Science and Engineering, University of Washington, Seattle
+    * **Steve McCanne** (PhD 1996, advisor: Martin Vetterli), Founder and CTO, Jut
+
+
+  * 2008 
+    * **Deborah Estrin** (BS CS 1980), Professor of Computer Science at Cornell Tech and Professor of Public Health at Weill Cornell Medical College
+
+
+  * 2007 
+    * **Mendel Rosenblum**(MS 1989/ PhD 1982, advisor: John Ousterhout), Professor of Computer Science and of Electrical Engineering, Stanford University; Co-Founder of VMWare
+    * **Robert Epstein** (PhD 1980, advisor: Michael Stonebraker), Co-Founder of Environmental Entrepreneurs
+
+
+  * 2006 
+    * **Wen-Tsuen Chen** (MS 1973/PhD 1976, advisor: C. V. Ramamoorthy), President of National Tsing Hua University**  
+**
+    * ******Shafi Goldwasser****** (PhD 1984, advisor: Manuel Blum), RSA Professor of Electrical Engineering and Computer Science, Massachusetts Institute of Technology
+    * **Silvio Micali**(PhD 1983, advisor: Manuel Blum), Ford Professor of Engineering, Massachusetts Institute of Technology
+    * **Peter Norvig** (PhD 1986, advisor: Robert Wilensky), Director of Research, Google
+  *     * **Prabhakar Raghavan**(PhD 1986, advisor: Clark Thompson), Vice President of Engineering, Google
+
+
+  * 2004 
+    * **James Demmel** (PhD 1983, advisor: William Kahan), Professor, Electrical Engineering and Computer Science, UC Berkeley
+
+
+  * 2003 
+    * **Madhu Sudan** (PhD 1992, advisor: Umesh Vazirani), Associate Director of CSAIL, Fujitsu Professor, EECS Department, Massachusetts Institite of Technology
+    * **Sanjeev Arora** (PhD 1994, advisor: Umesh Vazirani), Charles C. Fitzmorris Professor of Computer Science, Princeton University
+
+
+  * 2002 
+    * **Michael Carey**(PhD 1983, advisor: Michael Stonebraker), Professor, Bren School of Information Sciences, UC Irvine
+    * **Sally Floyd** (MS 1987/PhD 1989, advisor: Richard Karp), Research Scientist, Networking and Security Group, International Computer Science Institute
+
+
+  * 2001 
+    * **Bruce Lindsay** (PhD 1977, advisor: Robert Fabry), Chief Data Scientist, Paradata; Fellow, IBM Research
+    * **Dale Skeen**(PhD 1982, advisor: Michael Stonebraker), CTO and Co-Founder, Vitria Technology
+
+
+  * 2000 
+    * **Barbara Simons**(PhD 1981, advisor: Richard Karp), IBM Research and ACM President
+
+
+  * 1999 
+    * **John Couch** (MS 1972), VP Education, Apple
+    * **Barbara Liskov** (BS Mathematics 1961), Institute Professor and head of the Programming Methodology Group at Massachusetts Institute of Technology
+
+
+  * 1998 
+    * **Steve Wozniak**(BA 1986), Co-founder of Apple
+
+
+  * 1997 
+    * **Barbara Grosz**(PhD 1977, advisor: Martin Graham), Higgins Professor of Natural Sciences, John A. Paulson School of Engineering and Applied Sciences, Harvard University
+    * **Eric Schmidt** (PhD 1982, advisor: Robert Fabry), Executive Chairman, Alphabet; Founding Partner, Innovation Endeavors
+
+
+  * 1996 
+    * **Charles Thacker**(BA Physics 1967), Technical Fellow, Microsoft Research
+    * **Paula Hawthorn** (PhD 1979, advisor: Michael Stonebraker), Database Group Manager at Hewlett-Packard and social activist**  
+**
+
+
+  * 1995 
+    * **Roger Sippl**(BS 1977), Founder Informix Software; Partner, Sippl Investments
+
+
+  * 1994 
+    * **James Eaton** (PhD 1963, advisor: Lotfi Zadeh), Director of the IBM Corporate Technical Committee and master inventor**  
+**
+
+
+  * 1993 
+    * **L. Peter Deutsch** (PhD 1973, advisor: Richard Karp), Founder of Aladdin Enterprises
+    * **Narendra Karmarkar** (PhD 1983, advisor: Richard Karp), technical staff and fellow, Bell Labs
+
+
+  * Fall 1992 
+    * **Butler Lampson** (PhD 1967, advisor: Harry Huskey), Distinguished Engineer at Microsoft Corporation; Adjunct Professor of Computer Science and Electrical Engineering at MIT
+    * **Niklaus Wirth** (PhD 1963, Harry Huskey), Emeritus Professor of Informatics, ETH Zurich
+
+
+  * Spring 1992 
+    * **James Gray**(First CS PhD 1969, advisor: Michael Harrison), Technical Fellow, Microsoft Research
+    * **Ken Thompson** (BS 1965/MS 1966), Distinguished Engineer, Google
+
+
+  * 1991 
+    * **Douglas Engelbart**(PhD 1955, advisor: Paul Morton), Stanford Research Institute
+
+
+
+View  Open Faculty Positions __

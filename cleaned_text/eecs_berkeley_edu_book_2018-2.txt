@@ -1,0 +1,20 @@
+##  More Than Moore: Is this the End of Moore's Law? 
+
+After nearly 50 years of Moore’s Law, and many premature predictions of its demise along the way, it is now clear that “conventional” transistor scaling is finally reaching fundamental limits. Nevertheless, Berkeley EECS researchers are forging ahead with innovations from the basic materials level, through device and circuit design, to new architectures that are anticipated to enable the continued functional scaling of information technology performance at lower power dissipation that Moore’s law has delivered. This year’s BEARS conference will highlight some of the latest thinking and results that show a bright future for electronics and computing.
+
+## 
+
+## Thursday, February 08, 2018
+
+9:30 AM to 3:00 PM (PST)
+
+**Sibley Auditorium**  
+Bechtel Engineering Center  
+University of California, Berkeley  
+Berkeley, CA 94709
+
+< BEARS 2018 Videos
+
+BEARS 2018 Faculty >
+
+View  Open Faculty Positions __

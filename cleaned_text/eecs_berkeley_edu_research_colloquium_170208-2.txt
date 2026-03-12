@@ -1,0 +1,23 @@
+## EECS Colloquium
+
+### Wednesday, February 8, 2017
+
+306 Soda Hall (HP Auditorium)  
+4:00 – 5:00 pm
+
+### Rob A. Rutenbar
+
+Professor and Head of the Department of Computer Science  
+University of Illinois at Urbana-Champaign
+
+#### Abstract
+
+Computer Science has become the most popular major and largest teaching unit on many campuses. (Statistics is seeing a similar exponential growth in demand, reflecting the rise of Data Science.) This is focusing welcome attention on CS curriculum design: what do we teach, and to whom. The first response to “rising- tide” demand is to go “deep”: more majors, more courses, more classroom seats, etc. I will argue this is necessary, but not sufficient. A vast number of students need a solid base of computing+data to address challenging problems in social science, humanities, policy, business, and the like. But they do not aspire to be computer (or even data) scientists. We need a systematic middle way to take CS “wide” into these diverse disciplines. The University of Illinois CS+X program is a portfolio of novel B.S. degrees, launched in 2014, architected as (Half-CS + Half-X), delivered as a degree in the Dept. of X. Several degrees are now on offer, ranging from CS+Anthropology to CS+Astronomy. The program has surprising traction – for example, one quarter of our Astronomy Dept. is now CS+X, and a dozen more +X degrees are in various stages of design/approval. I’ll talk about how we built the Illinois CS+X program, and where it’s going next. The other opportunity to go wide is to use new online teaching mechanisms to reach global audiences. The new Illinois Master of CS – Data Science (MCS-DS), delivered as a for-credit Illinois M.S. CS degree on the Coursera MOOC platform, is our attempt to deliver a Data Science curriculum to the widest possible audience. MCS-DS is itself a “wide” partnership among Illinois CS, Statistics and the School of Information Science. I’ll also talk about the design of this new M.S., which just launched in Fall 2016.
+
+#### Biography
+
+Rob A. Rutenbar is Bliss Professor and Head of Computer Science at the University of Illinois at Urbana-Champaign. He received the Ph.D. from the University of Michigan in 1984, and spent the next 25 years at Carnegie Mellon, where he ultimately held the Jatras Chair in Electrical and Computer Engineering. In 2010 he joined UIUC. His research has focused in three broad areas: tools for custom ICs; methods to manage the messy statistics of nanoscale chip design; and custom architectures for challenging tasks such as speech recognition and ML. In 1998 he cofounded Neolinear, a startup to commercialize the first full design flow for custom analog ICs; in 2009 he cofounded Voci Technologies to commercialize ultra-fast solutions for enterprise voice analytics. He’s received several awards for his work, including the 2001 SRC Aristotle Award acknowledging the impact of his students on the US semiconductor industry, and the 2007 IEEE CAS Industrial Pioneer Award. His work has been featured in venues ranging from EETimes to the Economist magazine. He is a Fellow of the ACM and IEEE.
+
+##  Video of Presentation 
+
+View  Open Faculty Positions __

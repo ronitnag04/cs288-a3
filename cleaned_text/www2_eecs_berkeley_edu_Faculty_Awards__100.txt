@@ -1,0 +1,376 @@
+## In This Page
+
+## Major Awards
+
+###  National Medal of Science   
+
+
+  * Richard M. Karp, 1996
+  * John R. Whinnery, 1992 *
+
+
+
+###  National Medal of Technology and Innovation   
+
+
+  * Chenming Hu, 2016
+
+
+
+###  ACM A.M. Turing Award   
+
+
+  * David A. Patterson, 2017
+  * Michael Stonebraker, 2014
+  * Shafi Goldwasser, 2012
+  * Manuel Blum, 1995
+  * William M. Kahan, 1989
+  * Richard M. Karp, 1985
+
+
+
+###  ACM Prize in Computing   
+
+
+  * Pieter Abbeel, 2021
+  * Alexei (Alyosha) Efros, 2016
+  * Eric Brewer, 2009
+
+
+
+###  IEEE Medal of Honor   
+
+
+  * Chenming Hu, 2020
+  * Donald O. Pederson, 1998 *
+  * Lotfi A. Zadeh, 1993 *
+  * John R. Whinnery, 1985 *
+
+
+
+###  SIAM John von Neumann Lecture Prize   
+
+
+  * Jennifer Chayes, 2015
+  * Bernd Sturmfels, 2010
+  * Jerrold Marsden, 2005 *
+  * William M. Kahan, 1997
+  * Richard M. Karp, 1987
+
+
+
+###  Computers and Communications (C&C) Prize   
+
+
+  * Michael Stonebraker, 2020
+  * Scott Shenker, 2015
+  * David A. Patterson, 2004
+  * Ernest S. Kuh, 1996 *
+  * Donald O. Pederson, 1996 *
+
+
+
+###  Silicon Valley Engineering Hall of Fame   
+
+
+  * Tsu-Jae King Liu, 2018
+  * Randy H. Katz, 2018
+  * Chenming Hu, 2017
+  * Paul R. Gray, 2015
+  * David A. Hodges, 2012 *
+  * Ernest S. Kuh, 2008 *
+  * Lotfi A. Zadeh, 2006 *
+  * David A. Patterson, 2005
+
+
+
+###  Harvey Prize   
+
+
+  * Eli Yablonovitch, 2011
+  * Richard M. Karp, 1998
+
+
+
+###  Honda Prize   
+
+
+  * Lotfi A. Zadeh, 1989 *
+
+
+
+###  Kyoto Prize   
+
+
+  * Richard M. Karp, 2008
+
+
+
+###  MacArthur Fellow   
+
+
+  * Dawn Song, 2010
+  * Claire Tomlin, 2006
+
+
+
+###  Okawa Prize   
+
+
+  * Constance Chang-Hasnain, 2018
+  * David E. Culler, 2013
+  * John R. Whinnery, 1997 *
+  * Lotfi A. Zadeh, 1996 *
+
+
+
+###  National Academy of Sciences (NAS) Member   
+
+
+  * Scott Shenker, 2019
+  * Jennifer Chayes, 2019
+  * Umesh Vazirani, 2018
+  * Jitendra Malik, 2015
+  * Bin Yu, 2014
+  * James Demmel, 2011
+  * Michael Jordan, 2010
+  * Christos Papadimitriou, 2009
+  * David A. Patterson, 2006
+  * Phillip Colella, 2004
+  * Shafi Goldwasser, 2004
+  * Eli Yablonovitch, 2003
+  * Manuel Blum, 2002
+  * Elwyn R. Berlekamp, 1999 *
+  * William J. Welch, 1999 *
+  * Donald O. Pederson, 1982 *
+  * Richard M. Karp, 1980
+  * John R. Whinnery, 1972 *
+
+
+
+###  National Academy of Engineering (NAE) Member   
+
+
+  * Ken Goldberg, 2026
+  * Kam Y. Lau, 2026
+  * Felix F. Wu, 2026
+  * Stuart J. Russell, 2025
+  * Ion Stoica, 2024
+  * Claire Tomlin, 2019
+  * Constance Chang-Hasnain, 2018
+  * David Tse, 2018 *
+  * Tsu-Jae King Liu, 2017
+  * Katherine A. Yelick, 2017
+  * Scott Shenker, 2012
+  * Jitendra Malik, 2011
+  * Michael Jordan, 2010
+  * Eric Brewer, 2007
+  * David E. Culler, 2005
+  * Shafi Goldwasser, 2005
+  * William M. Kahan, 2005
+  * A. Richard Newton, 2003 *
+  * Eli Yablonovitch, 2003
+  * Christos Papadimitriou, 2002
+  * Albert Pisano, 2001 *
+  * S. Shankar Sastry, 2001
+  * Randy H. Katz, 2000
+  * James Demmel, 1999
+  * Pravin Varaiya, 1999 *
+  * Alberto L. Sangiovanni-Vincentelli, 1998
+  * Ruzena Bajcsy, 1997
+  * Michael Stonebraker, 1997
+  * Theodore Van Duzer, 1997 *
+  * Chenming Hu, 1996
+  * Thomas F. Budinger, 1996
+  * Andrew R. Neureuther, 1995 *
+  * Richard M. White, 1994 *
+  * Robert K. Brayton, 1993 *
+  * Susan L. Graham, 1993
+  * David A. Patterson, 1993
+  * Richard M. Karp, 1992
+  * Richard S. Muller, 1992
+  * Paul R. Gray, 1990
+  * David G. Messerschmitt, 1990
+  * Robert W. Brodersen, 1988 *
+  * Eugene Wong, 1987
+  * William G. Oldham, 1986
+  * David A. Hodges, 1983 *
+  * Elwyn R. Berlekamp, 1977 *
+  * Charles A. Desoer, 1977 *
+  * Donald O. Pederson, 1974 *
+  * Lotfi A. Zadeh, 1973 *
+  * John R. Whinnery, 1972 *
+
+
+
+###  American Academy of Arts and Sciences Member   
+
+
+  * Dawn Song, 2025
+  * Alberto L. Sangiovanni-Vincentelli, 2024
+  * Claire Tomlin, 2019
+  * Eric Brewer, 2018
+  * James Demmel, 2018
+  * Katherine A. Yelick, 2017
+  * Robert Full, 2016
+  * Scott Shenker, 2016
+  * Jennifer Chayes, 2014
+  * Jitendra Malik, 2013
+  * Bin Yu, 2013
+  * Eli Yablonovitch, 2011
+  * Michael Jordan, 2010
+  * Ruzena Bajcsy, 2007
+  * David A. Patterson, 2006
+  * S. Shankar Sastry, 2003
+  * William M. Kahan, 2003
+  * Shafi Goldwasser, 2001
+  * Elwyn R. Berlekamp, 1996 *
+  * Manuel Blum, 1995
+  * Susan L. Graham, 1995
+  * Randy H. Katz, 1990
+  * A. Richard Newton, 1990 *
+  * Christos Papadimitriou, 1990
+  * Pravin Varaiya, 1985 *
+  * Richard M. Karp, 1980
+  * Eugene Wong, 1980
+  * John R. Whinnery, 1975 *
+
+
+
+###  Berkeley Citation   
+
+
+  * Randy H. Katz, 2026
+  * Tsu-Jae King Liu, 2025
+  * Ruzena Bajcsy, 2023
+  * David E. Culler, 2021
+  * S. Shankar Sastry, 2018
+  * Edward A. Lee, 2018
+  * David A. Patterson, 2016
+  * Carlo H. SÃ©quin, 2016
+  * Robert W. Brodersen, 2015 *
+  * Albert Pisano, 2013 *
+  * Chenming Hu, 2011
+  * Jerome A. Feldman, 2009
+  * Susan L. Graham, 2009
+  * Andrew R. Neureuther, 2007 *
+  * Paul R. Gray, 2006
+  * Pravin Varaiya, 2006 *
+  * David G. Messerschmitt, 2005
+  * Thomas F. Budinger, 2004
+  * William G. Oldham, 2004
+  * Steven E. Schwarz, 2000
+  * David A. Hodges, 1998 *
+  * Edwin R. Lewis, 1997
+  * Eugene Lawler, 1994 *
+  * Richard S. Muller, 1994
+  * Eugene Wong, 1994
+  * Ernest S. Kuh, 1993 *
+  * Theodore Van Duzer, 1993 *
+  * Arthur R. Bergen, 1991 *
+  * Charles K. (Ned) Birdsall, 1991 *
+  * Charles A. Desoer, 1991 *
+  * Donald O. Pederson, 1991 *
+  * George L. Turin, 1991 *
+  * Lotfi A. Zadeh, 1991 *
+  * Diogenes Angelakos, 1990 *
+  * John R. Whinnery, 1987 *
+
+
+
+###  UC Berkeley Distinguished Teaching Award   
+
+
+  * Dan Garcia, 2025
+  * Joshua Hug, 2023
+  * John DeNero, 2018
+  * Daniel Klein, 2010
+  * David Wagner, 2006
+  * Chenming Hu, 1997
+  * Robert Full, 1996
+  * Kameshwar Poolla, 1996
+  * Brian Harvey, 1995
+  * Randy H. Katz, 1992
+  * Richard M. Karp, 1986
+  * David A. Patterson, 1982
+  * Alberto L. Sangiovanni-Vincentelli, 1981
+  * Manuel Blum, 1977
+  * Edwin R. Lewis, 1972
+  * Charles A. Desoer, 1971 *
+  * Michael A. Lieberman, 1971
+
+
+
+###  Sloan Research Fellow   
+
+
+  * Yuan Cao, 2026
+  * Sarah Chasins, 2026
+  * John Wright, 2026
+  * Natacha Crooks, 2025
+  * Song Mei, 2025
+  * Nika Haghtalab, 2024
+  * Preeya Khanna, 2024
+  * Sophia Shao, 2024
+  * Angjoo Kanazawa, 2023
+  * Avishay Tal, 2022
+  * Matei Zaharia, 2022
+  * Alessandro Chiesa, 2021 *
+  * Sanjam Garg, 2020
+  * Aditya Parameswaran, 2020
+  * Alvin Cheung, 2019
+  * Moritz Hardt, 2019 *
+  * Sergey Levine, 2019
+  * Anca Dragan, 2018
+  * Raluca Ada Popa, 2018
+  * Prabal Dutta, 2017
+  * Jelani Nelson, 2017
+  * Ren Ng, 2017
+  * Nir Yosef, 2016 *
+  * BjÃ¶rn Hartmann, 2013
+  * Michael Lustig, 2013
+  * Prasad Raghavendra, 2012
+  * Sylvia Ratnasamy, 2012
+  * Benjamin Recht, 2011
+  * Pieter Abbeel, 2011
+  * Koushik Sen, 2011
+  * Ali Javey, 2010
+  * Jose M. Carmena, 2009 *
+  * Alexei (Alyosha) Efros, 2008
+  * Sanjit A. Seshia, 2008
+  * Yun S. Song, 2008
+  * Daniel Klein, 2007
+  * Dawn Song, 2007
+  * Venkatesan Guruswami, 2005
+  * Martin Wainwright, 2005 *
+  * Jonathan Shewchuk, 2004
+  * James O'Brien, 2003
+  * Ion Stoica, 2003
+  * David Wagner, 2003
+  * Jack Gallant, 1998
+  * Joseph M. Hellerstein, 1998
+  * Eric Brewer, 1997
+  * Constance Chang-Hasnain, 1994
+  * Bernd Sturmfels, 1991
+  * Jennifer Chayes, 1989
+  * Eli Yablonovitch, 1978
+  * Manuel Blum, 1972
+
+
+
+## Award Pages
+
+  * Major Awards
+  * ACM Awards
+  * NSF Awards
+  * IEEE Awards
+  * UC Berkeley Awards
+  * Society Awards
+  * Government & Private Awards
+  * Other Awards
+
+
+
+* * *
+
+*No longer active in the department

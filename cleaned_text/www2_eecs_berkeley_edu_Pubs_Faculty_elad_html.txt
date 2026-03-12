@@ -1,0 +1,139 @@
+## Book chapters or sections
+
+  * L. T. Wang, W. J. Poppe, L. Pang, A. R. Neureuther, E. Alon, and B. Nikolic, "Hypersensitive parameter-identifying ring oscillators for lithography process monitoring," in _Design for Manufacturability Through Design-Process Integration II_ , V. K. Singh and M. L. Rieger, Eds., Proceedings of SPIE, Vol. 6925, Bellingham, WA: SPIE -- Society of Photo-Optical Instrumentation Engineers, 2008, pp. 69250P-1-10.
+
+
+
+## Articles in journals or magazines
+
+  * T. L. Naing, T. O. Rocheleau, E. Alon, and C. Nguyen, "Low-Power MEMS-Based Pierce Oscillator Using a 61-MHz Capacitive-Gap Disk Resonator," _IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control_ , vol. 67, no. 7, pp. 1377–1391, July 2020.
+  * N. Kuo, B. Yang, A. Wang, L. Kong, C. Wu, V. P. Srini, E. Alon, B. Nikoli{\'c}, and A. Niknejad, "A 0.4-to-4 GHz All-Digital RF Transmitter Package with a Band-Selecting Interposer Combining Three Wideband CMOS Transmitters," _IEEE Transactions on Microwave Theory and Techniques_ , vol. 66, 2018.
+  * N. Kuo, B. Yang, A. Wang, L. Kong, C. Wu, V. P. Srini, E. Alon, B. Nikoli{\'c}, and A. Niknejad, "A Wideband All-Digital CMOS RF Transmitter on HDI Interposers With High Power and Efficiency," _IEEE Transactions on Microwave Theory and Techniques_ , vol. 65, no. 11, pp. 4724--4743, 2017.
+  * B. Zimmer, Y. Lee, A. Puggelli, J. Kwak, R. JevtiÄ, B. Keller, S. Bailey, M. BlagojeviÄ, P. F. Chiu, H. P. Le, P. H. Chen, N. Sutardja, R. Avizienis, A. Waterman, B. Richards, P. Flatresse, E. Alon, K. AsanoviÄ, and B. Nikolic, "A RISC-V Vector Processor With Simultaneous-Switching Switched-Capacitor DC #x2013;DC Converters in 28 nm FDSOI," _IEEE Journal of Solid-State Circuits_ , vol. 51, no. 4, pp. 930-942, April 2016.
+  * D. Seo, R. Neely, K. Shen, S. U, E. Alon, J. M. Rabaey, J. M. Carmena, and M. Maharbiz, "Wireless recording in the peripheral nervous system with ultrasonic neural dust," _Neuron_ , vol. 91, pp. 529-539, April 2016.
+  * A. Puglielli, A. Townley, G. LaCaille, V. MilovanoviÄ, P. Lu, K. Trotskovsky, A. Whitcombe, N. Narevsky, G. Wright, T. Courtade, E. Alon, B. Nikolic, and A. Niknejad, "Design of Energy- and Cost-Efficient Massive MIMO Arrays," _Proceedings of the IEEE_ , vol. 104, no. 3, pp. 586-606, March 2016.
+  * R. Muller, H. Le, W. Li, P. Ledochowitsch, S. Gambini, T. Bjorninen, A. Koralek, J. M. Carmena, M. Maharbiz, E. Alon, and J. M. Rabaey, "A minimally invasive 64-channel wireless uECOG implant," _Solid-State Circuits, IEEE Journal of_ , vol. 50, no. 1, pp. 344--359, 2015.
+  * D. Seo, J. M. Carmena, J. M. Rabaey, M. Maharbiz, and E. Alon, "Model validation of untethered, ultrasonic neural dust motes for cortical recording," _Journal of neuroscience methods_ , 2014.
+  * Y. Duan and E. Alon, "A 12.8 GS/s Time-Interleaved ADC With 25 GHz Effective Resolution Bandwidth and 4.6 ENOB," _Journal of Solid State Circuits_ , vol. 49, no. 8, pp. 1725-1738, July 2014.
+  * D. Seo, J. M. Carmena, J. M. Rabaey, E. Alon, and M. Maharbiz, "Neural dust: an ultrasonic, low power solution for chronic brain-machine interfaces," _arXiv preprint arXiv:1307.2196_ , 2013.
+  * T. K. Liu, D. Markovic, V. Stojanovic, and E. Alon, "The relay reborn," _IEEE Spectrum_ , vol. 49, no. 4, pp. 40-43, 2012.
+  * M. Spencer, F. Chen, C. C. Wang, R. Nathanael, H. Fariborzi, A. Gupta, H. Kam, V. Pott, J. Jeon, T. K. Liu, D. MarkoviÄ, E. Alon, and V. StojanoviÄ, "Demonstration of Integrated Micro-Electro-Mechanical Relay Circuits for VLSI Applications," _IEEE Journal of Solid-State Circuits_ , vol. 46, no. 1, pp. 308-320, 2011.
+  * H. Kam, T. K. Liu, V. StojanoviÄ, D. MarkoviÄ, and E. Alon, "Design, Optimization, and Scaling of MEM Relays for Ultra-Low-Power Digital Logic," _IEEE Transactions on Electron Devices_ , vol. 58, no. 1, pp. 236-250, 2011.
+  * M. Tabesh, J. Chen, C. Marcu, L. Kong, S. Kang, A. Niknejad, and E. Alon, "A 65 nm CMOS 4-Element Sub-34 mW/Element 60 GHz Phased-Array Transceiver," _IEEE Journal of Solid-State Circuits_ , vol. 46, no. 12, pp. 3018-3032, Dec. 2011.
+  * H. Kam, T. King Liu, V. Stojanovic, D. Markovic, and E. Alon, "Design, Optimization, and Scaling of MEM Relays for Ultra-Low-Power Digital Logic," _Electron Devices, IEEE Transactions on_ , vol. 58, no. 1, pp. 236 -250, Jan. 2011.
+  * M. Spencer, F. Chen, C. Wang, R. Nathanael, H. Fariborzi, A. Gupta, H. Kam, V. Pott, J. Jeon, T. K. Liu, D. Markovic, E. Alon, and V. Stojanovic, "Demonstration of Integrated Micro-Electro-Mechanical Relay Circuits for VLSI Applications," _Solid-State Circuits, IEEE Journal of_ , vol. 46, no. 1, pp. 308 -320, Jan. 2011.
+  * V. Pott, H. Kam, R. Nathanael, J. Jeon, E. Alon, and T. King Liu, "Mechanical Computing Redux: Relays for Integrated Circit Applications," _Proceedings of the IEEE_ , vol. 98, no. 12, pp. 2076, Dec. 2010.
+  * J. Jeon, V. Pott, H. Kam, R. Nathanael, E. Alon, and T. King Liu, "Seesaw Relay Logic and Memory Circuits," _Microelectromechanical Systems, Journal of_ , vol. 19, no. 4, pp. 1012 -1014, Aug. 2010.
+  * R. Nathanael, V. Pott, H. Kam, J. Jeon, E. Alon, and T. King Liu, "Four-Terminal-Relay Body-Biasing Schemes for Complementary Logic Circuits," _Electron Device Letters, IEEE_ , vol. 31, no. 8, pp. 890 -892, Aug. 2010.
+  * R. Ho, F. Liu, D. Patil, X. Zheng, G. Li, I. Shubin, E. Alon, J. Lexau, H. Schwetman, and J. Cunningham, "Optical interconnect for high-end computer systems," _IEEE Design and Test of Computers_ , vol. 27, no. 4, July 2010.
+  * J. Jeon, V. Pott, H. Kam, R. Nathanael, E. Alon, and T. King Liu, "Perfectly Complementary Relay Design for Digital Logic Applications," _Electron Device Letters, IEEE_ , vol. 31, no. 4, pp. 371 -373, April 2010.
+  * C. Marcu, D. Chowdhury, C. Thakkar, J. Park, L. Kong, M. Tabesh, Y. Wang, B. Afshar, A. Gupta, A. Arbabian, S. Gambini, R. Zamani, E. Alon, and A. Niknejad, "A 90nm CMOS Low-Power 60GHz Transceiver With Integrated Baseband Circuitry," _IEEE Journal of Solid-State Circuits_ , vol. 44, no. 12, pp. 3434-3447, Dec. 2009.
+  * C. Marcu, D. Chowdhury, C. Thakkar, J. Park, L. Kong, M. Tabesh, Y. Wang, B. Afshar, A. Gupta, A. Arbabian, S. Gambini, R. Zamani, E. Alon, and A. Niknejad, "A 90 nm CMOS Low-Power 60 GHz Transceiver With Integrated Baseband Circuitry," _Solid-State Circuits, IEEE Journal of_ , vol. 44, no. 12, pp. 3434 -3447, Dec. 2009.
+  * B. Nezamfar, E. Alon, and M. Horowitz, "Energy-Performance Tunable Logic," _Solid-State Circuits, IEEE Journal of_ , vol. 44, no. 9, pp. 2554 -2567, Sep. 2009.
+  * E. Alon, V. Abramzon, B. Nezamfar, and M. Horowitz, "On-Die Power Supply Noise Measurement Techniques," _Advanced Packaging, IEEE Transactions on_ , vol. 32, no. 2, pp. 248-259, May 2009.
+  * E. Alon and M. Horowitz, "Integrated Regulation for Energy-Efficient Digital Circuits," _IEEE J. Solid State Circuits_ , vol. 43, no. 8, pp. 1795-1807, Aug. 2008.
+  * M. Horowitz, D. Stark, and E. Alon, "Digital circuit design trends," _IEEE J. Solid-State Circuits_ , vol. 43, no. 4, pp. 757-761, April 2008.
+  * E. Alon, J. Kim, S. Pamarti, K. Chang, and M. Horowitz, "Replica Compensated Linear Regulators for Supply-Regulated Phase-Locked Loops," _IEEE J. Solid-State Circuits_ , vol. 41, no. 2, pp. 413-424, Feb. 2006.
+  * S. Naffziger, B. Stackhouse, T. Grutkowski, D. Josephson, J. Desai, E. Alon, and M. Horowitz, "The implementation of a 2-core, multi-threaded itanium family processor," _IEEE J. Solid-State Circuits_ , vol. 41, no. 1, pp. 197-209, Jan. 2006.
+  * E. Alon, V. Stojanovic, and M. A. Horowitz, "Circuits and Techniques for High-Resolution Measurement of On-Chip Power Supply Noise," _IEEE J. Solid-State Circuits_ , vol. 40, no. 4, pp. 820-828, April 2005.
+  * V. Stojanovic, A. Ho, B. W. Garlepp, F. Chen, J. Wei, G. Tsang, E. Alon, R. T. Kollipara, C. W. Werner, J. L. Zerbe, and M. A. Horowitz, "Autonomous dual-mode (PAM2/4) serial link transceiver with adaptive equalization and data recovery," _IEEE J. Solid-State Circuits_ , vol. 40, no. 4, pp. 1012-1026, April 2005.
+  * K. Mai, R. Ho, E. Alon, D. Liu, Y. Kim, D. Patil, and M. A. Horowitz, "Architecture and circuit techniques for a 1.1-GHz 16-kb reconfigurable memory in 0.18-mu m CMOS," _IEEE J. Solid-State Circuits_ , vol. 40, no. 1, pp. 261-275, Jan. 2005.
+
+
+
+## Articles in conference proceedings
+
+  * A. Moin, G. Alexandrov, B. C. Johnson, I. Izyumin, F. Burghardt, K. Shah, S. Pannu, E. Alon, R. Muller, and J. M. Rabaey, "Powering and communication for OMNI: A distributed and modular closed-loop neuromodulation device," in _Engineering in Medicine and Biology Society (EMBC), 2016 IEEE 38th Annual International Conference of the_ , 2016, pp. 4471--4474.
+  * X. Xiao, A. Pratt, A. Niknejad, E. Alon, and B. Nikolic, "A 65nm CMOS wideband TDD front-end with integrated T/R switching via PA re-use," in _ESSCIRC Conference 2016: 42nd European Solid-State Circuits Conference_ , 2016, pp. 181-184.
+  * B. Keller, M. Cochet, B. Zimmer, Y. Lee, M. Blagojevic, J. Kwak, A. Puggelli, S. Bailey, P. F. Chiu, P. Dabbelt, C. Schmidt, E. Alon, K. AsanoviÄ, and B. Nikolic, "Sub-microsecond adaptive voltage scaling in a 28nm FD-SOI processor SoC," in _ESSCIRC Conference 2016: 42nd European Solid-State Circuits Conference_ , 2016, pp. 269-272.
+  * S. Ramakrishnan, L. Calderin, A. Puglielli, E. Alon, A. Niknejad, and B. Nikolic, "A 65nm CMOS transceiver with integrated active cancellation supporting FDD from 1GHz to 1.8GHz at +12.6dBm TX power leakage," in _2016 IEEE Symposium on VLSI Circuits (VLSI-Circuits)_ , 2016, pp. 1-2.
+  * N. Kuo, B. Yang, C. Wu, L. Kong, A. Wang, M. Reiha, E. Alon, A. Niknejad, and B. Nikolic, "A frequency-reconfigurable multi-standard 65nm CMOS digital transmitter with LTCC interposers," in _Solid-State Circuits Conference (A-SSCC), 2014 IEEE Asian_ , 2014, pp. 345--348.
+  * E. Moradi, K. Koski, T. Bjorninen, R. Muller, P. Ledochowitsch, L. Sydanheimo, E. Alon, M. Maharbiz, J. M. Rabaey, L. Ukkonen, and R. Rahmat-Samii, "Advances in implantable and wearable antennas for wireless brain-machine interface systems," in _Radio Science Meeting (USNC-URSI NRSM), 2014 United States National Committee of URSI National_ , 2014, pp. 1--1.
+  * R. Muller, H. Le, W. Li, P. Ledochowitsch, S. Gambini, T. Bjorninen, A. Koralek, J. M. Carmena, M. Maharbiz, E. Alon, and J. M. Rabaey, "A miniaturized 64-channel 225uW wireless electrocorticographic neural sensor," in _Solid-State Circuits Conference Digest of Technical Papers (ISSCC), 2014 IEEE International_ , 2014, pp. 412--413.
+  * A. Bertrand, D. Seo, F. Maksimovic, J. M. Carmena, M. Maharbiz, E. Alon, and J. M. Rabaey, "Beamforming approaches for untethered, ultrasonic neural dust motes for cortical recording: a simulation study," in _Proc. Int. Conf. of the IEEE Engineering in Medicine and Biology Society (EMBC), Chicago, Illinois, USA_ , 2014.
+  * Y. Duan and E. Alon, "A 12.8GS/s time-interleaved SAR ADC with 25GHz 3dB ERBW and 4.6b ENOB," in _Custom Integrated Circuits Conference_ , IEEE, 2013, pp. 1-4.
+  * M. Tabesh, J. Chen, C. Marcu, L. Kong, S. Kang, E. Alon, and A. Niknejad, "A 65nm CMOS 4-Element Sub-34mW/Element 60GHz Phased-Array Transceiver," in _International Solid-State Circuits Conference_ , 2011.
+  * J. Crossley, E. Naviasky, and E. Alon, "An energy-efficient ring-oscillator digital PLL," in _Custom Integrated Circuits Conference (CICC), 2010 IEEE_ , 2010, pp. 1--4.
+  * H. Kam, E. Alon, and T. King Liu, "A predictive contact reliability model for MEM logic switches," in _Electron Devices Meeting (IEDM), 2010 IEEE International_ , 2010, pp. 16.4.1 -16.4.4.
+  * T. King Liu, J. Jeon, R. Nathanael, H. Kam, V. Pott, and E. Alon, "Prospects for MEM logic switch technology," in _Electron Devices Meeting (IEDM), 2010 IEEE International_ , 2010, pp. 18.3.1 -18.3.4.
+  * J. Crossley, E. Naviasky, and E. Alon, "An energy-efficient ring-oscillator digital PLL," in _Custom Integrated Circuits Conference (CICC), 2010 IEEE_ , 2010, pp. 1 -4.
+  * D. Chowdhury, L. Ye, E. Alon, and A. Niknejad, "A 2.4GHz mixed-signal polar power amplifier with low-power integrated filtering in 65nm CMOS," in _Custom Integrated Circuits Conference (CICC), 2010 IEEE_ , 2010, pp. 1 -4.
+  * H. Fariborzi, M. Spencer, V. Karkare, J. Jeon, R. Nathanael, C. Wang, F. Chen, H. Kam, V. Pott, T. King Liu, E. Alon, V. Stojanovic, and D. Markovic, "Analysis and demonstration of MEM-relay power gating," in _Custom Integrated Circuits Conference (CICC), 2010 IEEE_ , 2010, pp. 1 -4.
+  * T. Ali, D. Patil, F. Liu, E. Alon, J. Lexau, C. K. Yang, and R. Ho, "Clocking Links in Multi-chip Packages: A Case Study," in _High Performance Interconnects (HOTI), 2010 IEEE 18th Annual Symposium on_ , 2010, pp. 96 -103.
+  * M. Seeman, V. Ng, H. Le, M. John, E. Alon, and S. R. Sanders, "A Comparative Analysis of Switched-Capacitor and Inductor-Based DC-DC Conversion Technologies," in _Control and Modeling for Power Electronics (COMPEL), 2010 IEEE 12th Workshop on_ , 2010, pp. 1 -7.
+  * S. Gambini, J. W. Crossley, E. Alon, and J. M. Rabaey, "A Fully Integrated, 300pJ/bit, Dual Mode 65nm CMOS Transceiver for cm-Range Wireless Links," in _2010 Symp. on VLSI Circuits Digest of Technical Papers_ , 2010.
+  * H. Le, M. Seeman, S. R. Sanders, V. Sathe, S. Naffziger, and E. Alon, "A 32nm Fully integrated Reconfigurable Switched-Capacitor DC-DC Converter Delivering 0.55W/mm^2 at 81% Efficiency," in _Solid-State Circuits Conference Digest of Technical Papers (ISSCC), 2010 IEEE International_ , 2010, pp. 210 -211.
+  * F. Chen, M. Spencer, R. Nathanael, C. Wang, H. Fariborzi, A. Gupta, H. Kam, V. Pott, J. Jeon, T. King Liu, D. Markovic, V. Stojanovic, and E. Alon, "Demonstration of Integrated Micro-Electro-Mechanical Switch Circuits for VLSI Applications," in _Solid-State Circuits Conference Digest of Technical Papers (ISSCC), 2010 IEEE International_ , 2010, pp. 150 -151.
+  * H. Kam, V. Pott, R. Nathanael, J. Jeon, E. Alon, and T. King Liu, "Design and reliability of a micro-relay technology for zero-standby-power digital logic applications," in _Electron Devices Meeting (IEDM), 2009 IEEE International_ , 2009, pp. 1 -4.
+  * R. Ho, J. Lexau, F. Liu, D. Patil, R. Hopkins, E. Alon, N. Pinckney, P. Amberg, X. Zheng, J. Cunningham, and A. Krishnamoorthy, "Circuits for Silicon Photonics on a Macrochip," in _Solid-State Circuits Conference, 2009. A-SSCC 2009. IEEE Asian_ , 2009, pp. 17 -20.
+  * C. Marcu, D. Chowdhury, C. Thakkar, L. Kong, M. Tabesh, J. Park, Y. Wang, B. Afshar, A. Gupta, A. Arbabian, S. Gambini, R. Zamani, A. Niknejad, and E. Alon, "A 90nm CMOS Low-Power 60GHz Transceiver with Integrated Baseband Circuitry," in _IEEE International Solid-State Circuits Conference_ , IEEE, 2009, pp. 314-315.
+  * C. Marcu, D. Chowdhury, C. Thakkar, L. Kong, M. Tabesh, J. Park, Y. Wang, B. Afshar, A. Gupta, A. Arbabian, S. Gambini, R. Zamani, A. Niknejad, and E. Alon, "A 90nm CMOS Low-Power 60GHz Transceiver with Integrated Baseband Circuitry," in _IEEE International Solid-State Circuits Conference Digest of Technical Papers_ , 2009, pp. 314-315.
+  * H. Kam, T. King Liu, E. Alon, and M. Horowitz, "Circuit-Driven Requirements for CMOS-Replacement Devices," in _IEEE International Electron Devices Meeting_ , 2008.
+  * F. Chen, H. Kam, D. Markovic, T. King Liu, V. Stojanovic, and E. Alon, "Integrated Circuit Design with NEM Relays," in _IEEE/ACM International Conference on Computer-Aided Design_ , 2008.
+  * E. Alon and M. Horowitz, "Integrated Regulation for Energy-Efficient Digital Circuits," in _Proc. 2007 IEEE Custom Integrated Circuits Conf. (CICC '07)_ , Piscataway, NJ: IEEE Press, 2007, pp. 389-392.
+  * M. Horowitz, E. Alon, D. Patil, S. Naffziger, R. Kumar, and K. Bernstein, "Scaling, Power, and the Future of CMOS (Plenary Talk)," in _2005 IEEE Intl. Electron Devices Meeting (IEDM '05) Technical Digest_ , Piscataway, NJ: IEEE Press, 2005, pp. 7 pg.
+  * V. Abramzon, E. Alon, B. Nezamfar, and M. Horowitz, "Scalable Circuits for Supply Noise Measurement," in _Proc. 31st European Solid-State Circuits Conf. (ESSCIRC 2005)_ , L. Fesquet, A. Kaiser, S. Cristoloveanu, and M. Brillouet, Eds., Piscataway, NJ: IEEE Press, 2005, pp. 463-466.
+  * C. Werner, C. Hoyer, A. Ho, M. Jeeradit, F. Chen, B. Garlepp, W. Stonecypher, S. Li, A. Bansal, A. Agarwal, E. Alon, V. Stojanovic, and J. Zerbe, "Modeling, simulation, and design of a multi-mode 2-10 Gb/sec fully adaptive serial link system," in _Proc. 2005 IEEE Custom Integrated Circuits Conf. (CICC '05)_ , Piscataway, NJ: IEEE Press, 2005, pp. 709-716.
+  * K. Chang, S. Pamarti, K. Kaviani, E. Alon, X. Shi, T. J. Chin, J. Shen, G. Yip, C. Madden, R. Schmitt, C. Yuan, F. Assaderaghi, and M. Horowitz, "Clocking and Circuit Design for a Parallel I/O on a First-Generation CELL Processor," in _52nd IEEE Intl. Solid-State Circuits Conf. (ISSCC 2005) Digest of Technical Papers_ , L. C. Fujino, Ed., Vol. 48, Piscataway, NJ: IEEE Press, 2005, pp. 526-527, 615.
+  * E. Alon, V. Stojanovic, J. M. Kahn, S. Boyd, and M. Horowitz, "Equalization of Modal Dispersion in Multimode Fiber using Spatial Light Modulators," in _Proc. 2004 IEEE Global Telecommunications Conf. (GLOBECOM '04)_ , Vol. 2, Piscataway, NJ: IEEE Press, 2004, pp. 1023-1029.
+  * V. Stojanovic, A. Ho, B. Garlepp, F. Chen, J. Wei, E. Alon, C. Werner, J. Zerbe, and M. A. Horowitz, "Adaptive equalization and data recovery in a dual-mode (PAM2/4) serial link transceiver," in _2004 Symp. on VLSI Circuits Digest of Technical Papers_ , Gaithersburg, MD: Widerkehr and Associates, 2004, pp. 348-351.
+  * E. Alon, V. Stojanovic, and M. Horowitz, "Circuits and techniques for high-resolution measurement of on-chip power supply noise," in _2004 Symp. on VLSI Circuits Digest of Technical Papers_ , Gaithersburg, MD: Widerkehr and Associates, 2004, pp. 102-105.
+  * A. Ho, V. Stojanovic, F. Chen, C. Werner, G. Tsang, E. Alon, R. Kollipara, J. Zerbe, and M. A. Horowitz, "Common-mode backchannel signaling system for differential high-speed links," in _2004 Symp. on VLSI Circuits Digest of Technical Papers_ , Gaithersburg, MD: Widerkehr and Associates, 2004, pp. 352-355.
+  * K. Mai, R. Ho, E. Alon, D. Liu, Y. Kim, D. Patil, and M. Horowitz, "Architecture and circuit techniques for a reconfigurable memory block," in _2004 IEEE Intl. Solid-State Circuits Conf. (ISSCC '04) Digest of Technical Papers_ , Vol. 47, Piscataway, NJ: IEEE Press, 2004, pp. 10 pg.
+
+
+
+## Patents
+
+  * V. Stojanovic, A. C. Ho, A. Bessios, F. F. Chen, E. Alon, and M. A. Horowitz, "High speed signaling system with adaptive transmit pre-emphasis," U.S. Patent 9,000,803. April 2015.
+  * V. Stojanovic, A. C. Ho, A. Bessios, F. F. Chen, E. Alon, and M. A. Horowitz, "High speed signaling system with adaptive transmit pre-emphasis," U.S. Patent 8,994,398. March 2015.
+  * V. Stojanovic, A. C. Ho, A. Bessios, F. F. Chen, E. Alon, and M. A. Horowitz, "High speed signaling system with adaptive transmit pre-emphasis," U.S. Patent 8,564,328. Oct. 2013.
+  * E. Alon, S. Pamarti, F. Assaderaghi, and K. Chang, "Simultaneous bi-directional link," U.S. Patent 8,509,321. Aug. 2013.
+  * F. Y. Liu, D. D. Dinesh D., R. Ronald, and E. Alon, "Optical receiver with a calibration mode," U.S. Patent 8,238,761. Aug. 2012.
+  * V. Stojanovic, A. C. C. Ho, A. Bessios, F. F. Chen, E. Alon, and M. A. Horowitz, "High speed signaling system with adaptive transmit pre-emphasis," U.S. Patent 8,183,887. May 2012.
+  * E. Alon, V. Stojanovic, and A. Amirkhany, "Digital transmitter with data stream transformation circuitry," U.S. Patent 7,711,063. May 2010.
+  * A. Ho, V. Stojanovic, F. F. Chen, E. Alon, and M. A. Horowitz, "Noise-tolerant signaling schemes supporting simplified timing and data recovery," U.S. Patent 7,672,380. March 2010.
+  * V. Stojanovic, A. C. C. Ho, A. Bessios, F. F. Chen, E. Alon, and M. A. Horowitz, "High speed signaling system with adaptive transmit pre-emphasis," U.S. Patent 7,656,981. Feb. 2010.
+  * E. Alon and S. Pamarti, "Transmitter with skew reduction," U.S. Patent 7,650,526. Jan. 2010.
+  * A. Amirkhany, V. Stojanovic, E. Alon, J. L. Zerbe, and M. Horowitz, "Linear transformation circuits," U.S. Patent 7,483,491. Jan. 2009.
+  * V. M. Stojanovic, A. C. C. Ho, A. Bessios, F. F. Chen, E. Alon, and M. A. Horowitz, "High speed signaling system with adaptive transmit pre-emphasis," U.S. Patent 7,423,454. Sep. 2008.
+  * A. Ho, V. Stojanovic, F. F. Chen, E. Alon, and M. A. Horowitz, "Noise-tolerant signaling schemes supporting simplified timing and data recovery," U.S. Patent 7,292,637. Nov. 2007.
+  * V. Stojanovic, A. Ho, A. Bessios, F. F. Chen, E. Alon, and M. A. Horowitz, "High speed signaling system with adaptive transmit pre-emphasis and reflection cancellation," U.S. Patent 7,199,615. April 2007.
+  * J. M. Kahn, M. A. Horowitz, E. Alon, and V. Stojanovic, "Adaptive control for mitigating interference in a multimode transmission medium," U.S. Patent 7,194,155. March 2007.
+  * A. Amirkhany, V. M. Stojanovic, E. Alon, J. L. Zerbe, and M. A. Horowitz, "Linear transformation circuits," U.S. Patent Application. Nov. 2006.
+  * A. Amirkhany, V. Stojanovic, E. Alon, J. L. Zerbe, and M. A. Horowitz, "Linear transformation circuits," U.S. Patent 7,133,463. Nov. 2006.
+  * V. Stojanovic, A. C. C. Ho, A. Bessios, F. F. Chen, E. Alon, and M. A. Horowitz, "High speed signaling system with adaptive transmit pre-emphasis," U.S. Patent 7,126,378. Oct. 2006.
+  * E. Alon, B. W. Garlepp, V. Stojanovic, A. Ho, and F. F. Chen, "Circuit calibration system and method," U.S. Patent 7,126,510. Oct. 2006.
+  * A. Ho, A. Bessios, F. F. Chen, E. Alon, M. A. Horowitz, and V. Stojanovic, "High speed signaling system with adaptive transmit pre-emphasis and reflection cancellation," U.S. Patent 7,030,657. April 2006.
+  * E. Alon, V. M. Stojanovic, and A. Amirkhany, "Digital transmitter with data stream transformation circuitry," U.S. Patent Application. Aug. 2005.
+  * E. Alon and S. Best, "Apparatus and method for a digital delay locked loop," U.S. Patent 6,919,749. July 2005.
+  * E. Alon and S. Best, "Apparatus and method for a digital delay locked loop," U.S. Patent 6,919,749. July 2005.
+  * E. Alon, S. Pamarti, F. Assaderaghi, and K. Chang, "Simultaneous bi-directional link," U.S. Patent Application. Dec. 2004.
+  * E. Alon, J. L. Burns, K. J. Nowka, and R. M. Rao, "Technique for mitigating gate leakage during a sleep state," U.S. Patent 6,791,361. Sep. 2004.
+  * E. Alon and S. Best, "Apparatus and method for a digital delay locked loop," U.S. Patent 6,642,760. Nov. 2003.
+
+
+
+## Ph.D. Theses
+
+  * Z. Wang and E. Alon, "Analog Generators for SerDes Clock Generation and Distribution," EECS Department, University of California, Berkeley, Tech. Rep. UCB/EECS-2023-36, May 2023.
+  * A. Moin, J. M. Rabaey, and E. Alon, "Human Intranet: Connecting Wearable and Implantable Devices," EECS Department, University of California, Berkeley, Tech. Rep. UCB/EECS-2021-221, Dec. 2021.
+  * K. Trotskovsky, "Scalable RF Receivers for Large Antenna Arrays," E. Alon, A. Niknejad, and I. Adler, Eds., EECS Department, University of California, Berkeley, Tech. Rep. UCB/EECS-2020-188, Dec. 2020.
+  * S. Jung, "Neuromodulation IC for System Integration and Self-Interference Cancellation," E. Alon and J. M. Rabaey, Eds., EECS Department, University of California, Berkeley, Tech. Rep. UCB/EECS-2019-157, Dec. 2019.
+  * A. Puglielli, B. Nikolic, and E. Alon, "System Architecture and Signal Processing Techniques for Massive Multi-user Antenna Arrays," EECS Department, University of California, Berkeley, Tech. Rep. UCB/EECS-2019-149, Dec. 2019.
+  * D. Gerber, "An Integrated Multilevel Converter with Sigma Delta Control for LED Lighting," S. R. Sanders, E. Alon, and D. Callaway, Eds., EECS Department, University of California, Berkeley, Tech. Rep. UCB/EECS-2017-73, May 2017.
+  * C. Thakkar and E. Alon, "Design of Multi-Gb/s Multi-Coefficient Mixed-Signal Equalizers," EECS Department, University of California, Berkeley, Tech. Rep. UCB/EECS-2014-189, Dec. 2014.
+  * S. Gambini, J. M. Rabaey, and E. Alon, "Design of a system for cm-range wireless communication," EECS Department, University of California, Berkeley, Tech. Rep. UCB/EECS-2009-184, Dec. 2009.
+  * E. Alon, "Measurement and Regulation of On-Chip Power Supply Noise," Stanford University, Department of Electrical Engineering, Dec. 2006.
+
+
+
+## Masters Reports
+
+  * J. Dunn, "An Open, Scalable Massive MIMO Testbed Operating at E-Band Frequencies," B. Nikolic, A. Niknejad, and E. Alon, Eds., EECS Department, University of California, Berkeley, Tech. Rep. UCB/EECS-2020-194, Dec. 2020.
+  * A. Moin, J. M. Rabaey, and E. Alon, "OMNI: A Distributed, Modular, Closed-Loop Neuromodulation Device for the Treatment of Neuropsychiatric Disorders," EECS Department, University of California, Berkeley, Tech. Rep. UCB/EECS-2017-178, Dec. 2017.
+  * P. Lu and E. Alon, "RF Transmitter Design for Large Array Applications," EECS Department, University of California, Berkeley, Tech. Rep. UCB/EECS-2017-11, May 2017.
+  * M. Veryanskiy, K. Dillon, K. Saxena, S. Liu, and C. Xu, "Next Generation Memory Interfaces," E. Alon and V. Stojanovic, Eds., EECS Department, University of California, Berkeley, Tech. Rep. UCB/EECS-2015-111, May 2015.
+  * A. Gupta and E. Alon, "NEM Relay Memory Design," EECS Department, University of California, Berkeley, Tech. Rep. UCB/EECS-2009-83, May 2009.
+
+

@@ -1,0 +1,52 @@
+### Abhinav Gupta and Elad Alon
+
+### EECS Department, University of California, Berkeley
+
+### Technical Report No. UCB/EECS-2009-83
+
+###  May 21, 2009 
+
+###  http://www2.eecs.berkeley.edu/Pubs/TechRpts/2009/EECS-2009-83.pdf
+
+The technology scaling of feature sizes and supply voltages in earlier CMOS designs enabled significant improvements in terms of density, performance, and energy efficiency. With the overall power consumption being largely dominated by the dynamic component, supply scaling drastically reduced the total power albeit exponentially increasing the leakage component. However, todayâs integrated circuit designs are equally limited by the dynamic and leakage power components halting the trend of further supply scaling and causing designers to examine the use of parallel architectures (e.g. multi-core processors). Although parallelism can continue to improve the energy efficiency achievable by CMOS devices, the finite sub-threshold slope of CMOS transistors will eventually limit any further improvements. Thus, a device with a steeper sub-threshold slope is needed in order to continue the scaling trends beyond those of CMOS technology.
+
+One such device is a nano-electromechanical (NEM) relay consisting of an electrostatically actuated beam that can be positioned to either allow conduction between the source and drain or leave them open-circuited. Because a physical connection determines conduction, relay devices can achieve zero off current and effectively an infinite sub-threshold slope. However, unlike CMOS technology where delay is largely set by the charging and discharging of capacitances, the mechanical motion of the actuated beam largely dominates the delay of relay-based circuits. Thus, as opposed to traditional CMOS designs where gates are cascaded to construct more complex functions, optimized relay circuit designs arrange for all mechanical motion to occur simultaneously by using large, complex gates.
+
+Considering that a complete system requires both computational blocks and memory structures, this work, in addition to examining logic design, also explores memory designs using relay devices. These designs are then benchmarked to their equivalent CMOS implementations in terms of performance, density, and energy-efficiency. The relay-based logic circuits will be shown to achieve ~10x improvement in energy-efficiency while the memory designs achieve nearly a 3x improvement as compared to CMOS designs for throughputs in the 100 MOPS range with only 20% area overhead.
+
+* * *
+
+BibTeX citation:
+    
+    
+    @mastersthesis{Gupta:EECS-2009-83,
+        Author= {Gupta, Abhinav and Alon, Elad},
+        Title= {NEM Relay Memory Design},
+        School= {EECS Department, University of California, Berkeley},
+        Year= {2009},
+        Month= {May},
+        Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2009/EECS-2009-83.html},
+        Number= {UCB/EECS-2009-83},
+        Abstract= {The technology scaling of feature sizes and supply voltages in earlier CMOS designs enabled significant improvements in terms of density, performance, and energy efficiency. With the overall power consumption being largely dominated by the dynamic component, supply scaling drastically reduced the total power albeit exponentially increasing the leakage component. However, todayâs integrated circuit designs are equally limited by the dynamic and leakage power components halting the trend of further supply scaling and causing designers to examine the use of parallel architectures (e.g. multi-core processors). Although parallelism can continue to improve the energy efficiency achievable by CMOS devices, the finite sub-threshold slope of CMOS transistors will eventually limit any further improvements. Thus, a device with a steeper sub-threshold slope is needed in order to continue the scaling trends beyond those of CMOS technology.
+    
+    One such device is a nano-electromechanical (NEM) relay consisting of an electrostatically actuated beam that can be positioned to either allow conduction between the source and drain or leave them open-circuited. Because a physical connection determines conduction, relay devices can achieve zero off current and effectively an infinite sub-threshold slope. However, unlike CMOS technology where delay is largely set by the charging and discharging of capacitances, the mechanical motion of the actuated beam largely dominates the delay of relay-based circuits.  Thus, as opposed to traditional CMOS designs where gates are cascaded to construct more complex functions, optimized relay circuit designs arrange for all mechanical motion to occur simultaneously by using large, complex gates.
+    
+    Considering that a complete system requires both computational blocks and memory structures, this work, in addition to examining logic design, also explores memory designs using relay devices. These designs are then benchmarked to their equivalent CMOS implementations in terms of performance, density, and energy-efficiency. The relay-based logic circuits will be shown to achieve ~10x improvement in energy-efficiency while the memory designs achieve nearly a 3x improvement as compared to CMOS designs for throughputs in the 100 MOPS range with only 20% area overhead.},
+    }
+    
+
+EndNote citation:
+    
+    
+    %0 Thesis
+    %A Gupta, Abhinav 
+    %A Alon, Elad 
+    %T NEM Relay Memory Design
+    %I EECS Department, University of California, Berkeley
+    %D 2009
+    %8 May 21
+    %@ UCB/EECS-2009-83
+    %U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2009/EECS-2009-83.html
+    %F Gupta:EECS-2009-83
+    
+    

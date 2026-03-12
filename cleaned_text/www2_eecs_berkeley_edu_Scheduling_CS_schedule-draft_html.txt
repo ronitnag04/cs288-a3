@@ -1,0 +1,448 @@
+by course | by faculty
+
+Listing by course Course | Title | Fall 2026 | Spring 2027  
+---|---|---|---  
+CS 10 |  The Beauty and Joy of Computing  |  Dan Garcia  
+|  Dan Garcia  
+  
+CS 61A |  The Structure and Interpretation of Computer Programs  |  John DeNero  
+Kay Ousterhout  
+|  Kay Ousterhout  
+  
+CS 61B |  Data Structures  |  Joshua Hug  
+Manuel Sabin  
+|  Manuel Sabin  
+  
+CS 61C |  Great Ideas of Computer Architecture (Machine Structures)  |  Dan Garcia  
+|  Lisa Yan  
+  
+CS 70  |  Discrete Mathematics and Probability Theory  |  Joshua Hug  
+Manuel Sabin  
+|  Avishay Tal  
+  
+CS 152 |  Computer Architecture and Engineering  |  Christopher Fletcher  
+|   
+CS 160 |  User Interface Design and Development  |  Eric Paulos  
+|  BjÃ¶rn Hartmann  
+Amy Pavel  
+  
+CS 161 |  Computer Security  |  David Wagner  
+|  Raluca Ada Popa  
+  
+CS 162 |  Operating Systems and System Programming  |  John D. Kubiatowicz  
+|  Matei Zaharia  
+  
+CS 164 |  Programming Languages and Compilers  |  Max Willsey  
+|  Sarah Chasins  
+  
+CS 168 |  Introduction to the Internet: Architecture and Protocols  |  Sylvia Ratnasamy  
+Ion Stoica  
+|   
+CS 169A |  Introduction to Software Engineering  |  Michael Ball  
+|   
+CS 169L |  Software Engineering Team Project  |  |  Michael Ball  
+Armando Fox  
+  
+CS 170 |  Efficient Algorithms and Intractable Problems  |  Nika Haghtalab  
+John Wright  
+|  Christian Borgs  
+  
+CS 171 |  Cryptography  |  Sanjam Garg  
+|   
+CS 172 |  Computability and Complexity  |  |  Lijie Chen  
+  
+CS 174 |  Combinatorics and Discrete Probability  |  |  Alistair Sinclair  
+  
+CS C176 |  Algorithms for Computational Biology  |  |  Allon Wagner  
+  
+CS 180 |  Intro to Computer Vision and Computational Photography  |  Alexei (Alyosha) Efros  
+Ren Ng  
+|   
+CS C182 |  Designing, Visualizing and Understanding Deep Neural Networks  |  Gireeja Ranade  
+|   
+CS 184 |  Foundations of Computer Graphics  |  James O'Brien  
+|  Ren Ng  
+  
+CS 185 |  Deep Reinforcement Learning, Decision Making, and Control  |  |  Sergey Levine  
+  
+CS 186 |  Introduction to Database Systems  |  Alvin Cheung  
+|  Alvin Cheung  
+  
+CS 188 |  Introduction to Artificial Intelligence  |  Emma Pierson  
+Dawn Song  
+|  Pieter Abbeel  
+  
+CS 189 |  Introduction to Machine Learning  |  Joseph Gonzalez  
+Narges Norouzi  
+|  Jennifer Listgarten  
+Jonathan Shewchuk  
+  
+CS 194-244 |  STAR Assessments for Proficiency-Based Learning  |  Armando Fox  
+Dan Garcia  
+Narges Norouzi  
+|  Armando Fox  
+Dan Garcia  
+Narges Norouzi  
+  
+CS 194-245 |  STAR Assessments for Proficiency-Based Learning  |  Armando Fox  
+Dan Garcia  
+Narges Norouzi  
+|  Armando Fox  
+Dan Garcia  
+Narges Norouzi  
+  
+CS 195 |  Social Implications of Computer Technology  |  |  Joshua Hug  
+  
+CS H195 |  Honors Social Implications of Computer Technology  |  |  Joshua Hug  
+  
+CS C249A |  Introduction to Embedded Systems  |  Prabal Dutta  
+Sanjit A. Seshia  
+|   
+CS 252A |  Graduate Computer Architecture  |  Christopher Fletcher  
+|   
+CS 260A |  User Interface Design and Development  |  Eric Paulos  
+|  BjÃ¶rn Hartmann  
+Amy Pavel  
+  
+CS 260B |  Human-Computer Interaction Research  |  BjÃ¶rn Hartmann  
+|   
+CS 261 |  Security in Computer Systems  |  |  David Wagner  
+  
+CS 262A |  Advanced Topics in Computer Systems  |  Rishabh Iyer  
+|   
+CS 265 |  Compiler Optimization and Code Generation  |  |  Max Willsey  
+  
+CS 268 |  Computer Networks  |  |  Sylvia Ratnasamy  
+  
+CS 270 |  Combinatorial Algorithms and Data Structures  |  Prasad Raghavendra  
+|   
+CS 271 |  Randomness and Computation  |  Alistair Sinclair  
+|   
+CS 280A |  Intro to Computer Vision and Computational Photography  |  Alexei (Alyosha) Efros  
+Ren Ng  
+|   
+CS C280 |  Computer Vision  |  |  Alexei (Alyosha) Efros  
+Angjoo Kanazawa  
+  
+CS C281A |  Statistical Learning Theory  |  Jason Lee  
+|   
+CS C281B  |  Advanced Topics in Learning and Decision Making  |  |  Jason Lee  
+  
+CS 282A |  Designing, Visualizing and Understanding Deep Neural Networks  |  Gireeja Ranade  
+|   
+CS 284A |  Foundations of Computer Graphics  |  James O'Brien  
+|  Ren Ng  
+  
+CS 284B |  Advanced Computer Graphics Algorithms and Techniques  |  |  James O'Brien  
+  
+CS 285 |  Deep Reinforcement Learning, Decision Making, and Control  |  |  Sergey Levine  
+  
+CS 286 |  Implementation of Data Base Systems  |  |  Aditya Parameswaran  
+  
+CS 287 |  Advanced Robotics  |  |  Jitendra Malik  
+  
+CS 288  |  Natural Language Processing  |  |  Sewon Min  
+  
+CS 289A |  Introduction to Machine Learning  |  Joseph Gonzalez  
+Narges Norouzi  
+|  Jennifer Listgarten  
+Jonathan Shewchuk  
+  
+CS 294-66 |  Quantum Computing  |  Umesh Vazirani  
+|   
+CS 294-150 |  Machine Learning and Statistics Meet Biology & Chemistry  |  Jennifer Listgarten  
+|   
+CS 294-162 |  ML Systems  |  |  Joseph Gonzalez  
+  
+CS 294-173 |  Learning for 3D Vision  |  Angjoo Kanazawa  
+|   
+CS 294-244 |  STAR Assessments for Proficiency-Based Learning  |  Armando Fox  
+Dan Garcia  
+Narges Norouzi  
+|  Armando Fox  
+Dan Garcia  
+Narges Norouzi  
+  
+CS 294-245 |  STAR Assessments for Proficiency-Based Learning  |  Armando Fox  
+Dan Garcia  
+Narges Norouzi  
+|  Armando Fox  
+Dan Garcia  
+Narges Norouzi  
+  
+CS 294-254 |  Physics-Inspired Deep Learning  |  Aditi Krishnapriyan  
+|   
+CS 294-279 |  Data Science for Social Change  |  |  Emma Pierson  
+  
+CS 294-286 |  Machine Learning and Human Behavior  |  Serina Chang  
+|   
+CS 294-288 |  Data-Centric Large Language Models  |  Sewon Min  
+|   
+CS 294-302 |  Computational Single-Cell and Systems Immunology  |  Allon Wagner  
+|   
+CS 294-310 |  Privacy-Protecting Systems  |  Henry Corrigan-Gibbs  
+|   
+CS 294-314 |  Nonstochastic Statistics  |  Benjamin Recht  
+|   
+CS 294-316 |  Modern Programming Tools  |  Sarah Chasins  
+|   
+CS 294-318 |  Vision-Language-Action Models and General-Purpose Robotic Learning  |  Sergey Levine  
+|   
+CS 302 |  Designing Computer Science Education  |  |  Michael Ball  
+Dan Garcia  
+  
+CS 365 |  Introduction to Instructional Methods in Computer Science for Academic Interns  |  Christopher Hunn  
+|  Christopher Hunn  
+  
+CS 370 |  Adaptive Instruction Methods in Computer Science  |  Christopher Hunn  
+|  Christopher Hunn  
+  
+CS 375 |  Teaching Techniques for Computer Science  |  Michael Ball  
+|  Armando Fox  
+  
+  
+Listing by faculty Faculty | Fall 2026 | Spring 2027  
+---|---|---  
+Pieter Abbeel  
+|  |  CS 188   
+  
+Michael Ball  
+|  CS 169A   
+CS 375   
+|  CS 169L   
+CS 302   
+  
+Christian Borgs  
+|  |  CS 170   
+  
+Serina Chang  
+|  CS 294-286   
+|   
+Sarah Chasins  
+|  CS 294-316   
+|  CS 164   
+  
+Lijie Chen  
+|  |  CS 172   
+  
+Alvin Cheung  
+|  CS 186   
+|  CS 186   
+  
+Henry Corrigan-Gibbs  
+|  CS 294-310   
+|   
+John DeNero  
+|  CS 61A   
+|   
+Prabal Dutta  
+|  CS C249A   
+|   
+Alexei (Alyosha) Efros  
+|  CS 180   
+CS 280A   
+|  CS C280   
+  
+Christopher Fletcher  
+|  CS 152   
+CS 252A   
+|   
+Armando Fox  
+|  CS 194-244   
+CS 194-245   
+CS 294-244   
+CS 294-245   
+|  CS 169L   
+CS 194-244   
+CS 194-245   
+CS 294-244   
+CS 294-245   
+CS 375   
+  
+Dan Garcia  
+|  CS 10   
+CS 61C   
+CS 194-244   
+CS 194-245   
+CS 294-244   
+CS 294-245   
+|  CS 10   
+CS 194-244   
+CS 194-245   
+CS 294-244   
+CS 294-245   
+CS 302   
+  
+Sanjam Garg  
+|  CS 171   
+|   
+Joseph Gonzalez  
+|  CS 189   
+CS 289A   
+|  CS 294-162   
+  
+Nika Haghtalab  
+|  CS 170   
+|   
+BjÃ¶rn Hartmann  
+|  CS 260B   
+|  CS 160   
+CS 260A   
+  
+Joshua Hug  
+|  CS 61B   
+CS 70   
+|  CS 195   
+CS H195   
+  
+Christopher Hunn  
+|  CS 365   
+CS 370   
+|  CS 365   
+CS 370   
+  
+Rishabh Iyer  
+|  CS 262A   
+|   
+Angjoo Kanazawa  
+|  CS 294-173   
+|  CS C280   
+  
+Aditi Krishnapriyan  
+|  CS 294-254   
+|   
+John D. Kubiatowicz  
+|  CS 162   
+|   
+Jason Lee  
+|  CS C281A   
+|  CS C281B   
+  
+Sergey Levine  
+|  CS 294-318   
+|  CS 185   
+CS 285   
+  
+Jennifer Listgarten  
+|  CS 294-150   
+|  CS 189   
+CS 289A   
+  
+Jitendra Malik  
+|  |  CS 287   
+  
+Sewon Min  
+|  CS 294-288   
+|  CS 288   
+  
+Ren Ng  
+|  CS 180   
+CS 280A   
+|  CS 184   
+CS 284A   
+  
+Narges Norouzi  
+|  CS 189   
+CS 194-244   
+CS 194-245   
+CS 289A   
+CS 294-244   
+CS 294-245   
+|  CS 194-244   
+CS 194-245   
+CS 294-244   
+CS 294-245   
+  
+James O'Brien  
+|  CS 184   
+CS 284A   
+|  CS 284B   
+  
+Kay Ousterhout  
+|  CS 61A   
+|  CS 61A   
+  
+Aditya Parameswaran  
+|  |  CS 286   
+  
+Eric Paulos  
+|  CS 160   
+CS 260A   
+|   
+Amy Pavel  
+|  |  CS 160   
+CS 260A   
+  
+Emma Pierson  
+|  CS 188   
+|  CS 294-279   
+  
+Raluca Ada Popa  
+|  |  CS 161   
+  
+Prasad Raghavendra  
+|  CS 270   
+|   
+Gireeja Ranade  
+|  CS C182   
+CS 282A   
+|   
+Sylvia Ratnasamy  
+|  CS 168   
+|  CS 268   
+  
+Benjamin Recht  
+|  CS 294-314   
+|   
+Manuel Sabin  
+|  CS 61B   
+CS 70   
+|  CS 61B   
+  
+Sanjit A. Seshia  
+|  CS C249A   
+|   
+Jonathan Shewchuk  
+|  |  CS 189   
+CS 289A   
+  
+Alistair Sinclair  
+|  CS 271   
+|  CS 174   
+  
+Dawn Song  
+|  CS 188   
+|   
+Ion Stoica  
+|  CS 168   
+|   
+Avishay Tal  
+|  |  CS 70   
+  
+Umesh Vazirani  
+|  CS 294-66   
+|   
+Allon Wagner  
+|  CS 294-302   
+|  CS C176   
+  
+David Wagner  
+|  CS 161   
+|  CS 261   
+  
+Max Willsey  
+|  CS 164   
+|  CS 265   
+  
+John Wright  
+|  CS 170   
+|   
+Lisa Yan  
+|  |  CS 61C   
+  
+Matei Zaharia  
+|  |  CS 162   
+  
+  
+Non-EECS Instructors Instructor | Fall 2026 | Spring 2027  
+---|---|---

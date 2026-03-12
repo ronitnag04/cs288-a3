@@ -1,0 +1,28 @@
+## EECS Colloquium
+
+### Wednesday, November 1, 2017
+
+306 Soda Hall (HP Auditorium)  
+4:00 – 5:00 pm
+
+### **Eric Paulos  
+**
+
+Associate Professor, EECS  
+UC Berkeley
+
+Eric Paulos speaks on Cosmetic Computing, Fashioning Fashionables, and Epidermal Electronics: Towards a New Wearable Ecosystem, 11/1/17 
+
+#### Abstract
+
+This talk will present and critique a new body of evolving collaborative work at the intersection of art, computer science, and design research. It will present an argument for hybrid materials, methods, and artifacts as strategic tools for insight and innovation within computing culture. The narrative will explore work across three primary themes – New Making Renaissance, Design Research, and Cosmetic Computing.
+
+Cosmetic Computing is a vociferous expression of radical individuality and an opportunity for deviance from binary gender norms. It is a catalyst towards an open, playful, and creative expression of individuality through wearable technologies. It’s a liberation call across gender, race, and body types. Leveraging the term “cosmetics”, originally meaning “technique of dress”, we envision how intentionally designed new-wearables, specifically those that integrate with fashionable materials and overlays applied directly atop the skin or body, can (and should) empower individuals towards novel explorations of body and self-expression. Unlike many modern traditional cosmetics that are culturally laden with prescriptive social norms of required usage that are restrictive, sexually binary, and oppressive, we desire a new attitude and creative engagement with wearable technologies that can empower individuals with a more personal, playful, performative, and meaningful “technique of dress” — Cosmetic Computing.
+
+#### Biography
+
+Eric Paulos is the founder and director of the Hybrid Ecologies Lab, an Associate Professor in Electrical Engineering Computer Science Department at UC Berkeley, Director of the CITRIS Invention Lab, Chief Learning Officer for the Jacobs Institute for Design Innovation, a Co-Director of the Swarm Lab, and faculty within the Berkeley Center for New Media (BCNM). Previously, Eric held the Cooper-Siegel Associate Professor Chair in the School of Computer Science at Carnegie Mellon University where he was faculty at the Human-Computer Interaction Institute with courtesy faculty appointments in the Robotics Institute and in the Entertainment Technology Center. Prior to CMU, Eric was Senior Research Scientist at Intel Research in Berkeley, California where he founded the Urban Atmospheres research group. His areas of expertise span a deep body of research territory in wearables, social telepresence, robotics, urban computing, citizen science, digital fabrication, maker culture, new media, design research, physical computing, persuasive technologies, and intimate media. Eric received his Ph.D. in Electrical Engineering and Computer Science from UC Berkeley. Eric is also the founder and director of the Experimental Interaction Unit and a frequent collaborator with Mark Pauline of Survival Research Laboratories.
+
+##  Video of Presentation 
+
+View  Open Faculty Positions __

@@ -1,0 +1,79 @@
+#  Guide for Current ASEs 
+
+Teaching assistants and undergraduate course staff help run many of the courses offered by the EECS department. EECS catalyzes the learning experience by providing support to our course staff to inspire advances in teaching, learning, and research.
+
+##  Preparation and Management 
+
+  * Workload & Teaching Resources 
+  * Setting Course Staff Expectations 
+  * Recommendations for Course Policies 
+  * Writing & Grading Exams 
+
+
+
+##  Course Software and Resources 
+
+  * Campus & EECS Services 
+  * Staff Management & Courseware 
+  * Student Courseware 
+
+
+
+##  Staff Services and Procedures 
+
+  * Student Wellness & EECS Advising 
+  * Administrative Staff Services 
+  * DSP Accommodations 
+  * Academic Misconduct Policy 
+
+
+
+### Time Sheets for Hourly Academic Student Employees
+
+Most Readers and UCS1s will record their hours worked in CalTime. Information and Job Aids can be found on the CalTime website.
+
+  * Payroll FAQ: Hourly Appointments 
+  * Payroll FAQ: Information for GSI Appointments 
+  * Policy on GSIs Working in Excess of Contracted Appointment Hours 
+
+
+
+##  Resources 
+
+  * GSI Guide: Preparation and Management 
+  * GSI Guide: Course Software and Services 
+  * GSI Guide: Staff Services and Procedures 
+  * GSI Guide: Payroll & HR 
+
+
+
+##  Contact 
+
+**EECS TAs & UCS2s**
+
+For any questions or concerns, please contact the Graduate Support Team at gsicoordinators@eecs.berkeley.edu
+
+For support in course-related logistics and administration, student cases regarding accommodations or student conduct, or if you’re looking for coaching, training and review in pedagogy, please contact eecs-course-management@eecs.berkeley.edu.
+
+**EECS Readers, & UCS1s**
+
+For any questions or concerns, please contact the EECS ASE Program Team at ase-program@eecs.berkeley.edu
+
+##  Course Support Contacts 
+
+**Administrative course support requests** (copy, textbooks, eGrades, HW box keys, etc.): eecs-course-support@eecs.berkeley.edu
+
+**Instructional support requests** (copy, document preparation, grade changes, etc.): eecs-inst-support@eecs.berkeley.edu
+
+**Instructional computing support** (class accounts, instructional websites):  
+inst@eecs.berkeley.edu
+
+**Questions about enrolling in CS classes:** cs-enrollments@eecs.berkeley.edu
+
+**EE class scheduling in Cory Hall:** cs-scheduling@eecs.berkeley.edu
+
+**CS class scheduling in Soda Hall:** ee-scheduling@eecs.berkeley.edu
+
+**Facilities support** (keys, card key access, copycards, etc.), please visit Facilities and Engineering Services.
+
+View  Open Faculty Positions __

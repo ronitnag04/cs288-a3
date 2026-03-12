@@ -1,0 +1,103 @@
+Dedicated to hosting presentations at the intersection of Electrical Engineering and Computer Science, the EECS Colloquium offers a mix of short talks by faculty describing their latest research results as well as internationally distinguished speakers. It provides an opportunity for an exchange of ideas between our department’s community and the outside world.
+
+**Wednesdays 4:00-5:00 PM, HP Auditorium, 306 Soda Hall** _(unless otherwise noted)_
+
+Subscribe to the eecs-announce mailing list through the web interface or via email so you can be apprised of upcoming talks.
+
+###  Hany Farid, Dartmouth College
+
+#### **Photo Forensics**
+
+**September 6, 2017**
+
+* * *
+
+###  Patrick Groeneveld, Cadence
+
+#### Planes, Trains and Automobiles: Engineering Efficient and Clean Powertrains
+
+**September 13, 2017**
+
+* * *
+
+###  Ankur Mehta, UCLA
+
+#### Robots for Everyone Everywhere
+
+**September 20, 2017**
+
+* * *
+
+###  Edward A. Lee, UC Berkeley
+
+#### Symbiosis or Annihilation? How Humans and Technology Coevolve
+
+**September 27, 2017**
+
+* * *
+
+###  Roger Antonsen, University of Oslo/UC Berkeley
+
+#### Mathematical Explorations and Visualizations with Code
+
+**October 4, 2017**
+
+* * *
+
+###  Pieter Abbeel, UC Berkeley
+
+#### Deep Learning-to-Learn Robotic Control
+
+**October 11, 2017**
+
+* * *
+
+###  Lars Blackmore, SpaceX
+
+####  Landing SpaceX’s Reusable Rockets
+
+**October 18, 2017**
+
+* * *
+
+###  Simon Knowles, Graphcore
+
+####  Designing Processors for Intelligence
+
+**October 25, 2017**
+
+* * *
+
+###  Eric Paulos, EECS/UC Berkeley
+
+#### Cosmetic Computing, Fashioning Fashionables, and Epidermal Electronics: Towards a New Wearable Ecosystem
+
+**November 1, 2017**
+
+* * *
+
+###  Alfred Z. Spector, Two Sigma
+
+#### Opportunities and Perils in Data Science
+
+**November 8, 2017**
+
+* * *
+
+###  Eli Yablonovitch
+
+#### Deep Learning; the Reincarnation of Analog Computing
+
+**November 15, 2017**
+
+* * *
+
+###  Klara Nahrstedt, UIUC
+
+#### Challenges and Opportunities with Multi-Camera multimedia
+
+**November 29, 2017**
+
+## Colloquium Archives
+
+View  Open Faculty Positions __

@@ -1,0 +1,52 @@
+### Miron Veryanskiy and Kyle Dillon and Kalika Saxena and Sinan Liu and Chenyang Xu
+
+### EECS Department, University of California, Berkeley
+
+### Technical Report No. UCB/EECS-2015-111
+
+###  May 14, 2015 
+
+###  http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-111.pdf
+
+This Capstone project aims to develop a novel memory controller to deliver a high-bandwidth interface for the DDR4 memory standard. DDR4 is the current cutting edge memory standard developed by JEDEC. The high-bandwidth interface is used as a communication link between a memory controller operating at 400MHz and a DDR4 SDRAM. Our team developed a physical interface that can transmit 3.2Gbps of data using only one transmission line. The design consisted of five major sub-modules: 8 to 1 Serializer, Transmitter, Receiver, 2 to 8 Deserializer, and Clock-Generating circuits. This paper discusses the design process, as well as the final results, of the completed 3.2Gbps 2 to 8 Deserializer module. The Deserializer discussed in this paper takes two data-line inputs operating at 1.6Gbps each, and deserializes them onto eight data-lines operating at 400Mbps each.
+
+**Advisors:** Elad Alon and Vladimir Stojanovic
+
+* * *
+
+BibTeX citation:
+    
+    
+    @mastersthesis{Veryanskiy:EECS-2015-111,
+        Author= {Veryanskiy, Miron and Dillon, Kyle and Saxena, Kalika and Liu, Sinan and Xu, Chenyang},
+        Editor= {Alon, Elad and Stojanovic, Vladimir},
+        Title= {Next Generation Memory Interfaces},
+        School= {EECS Department, University of California, Berkeley},
+        Year= {2015},
+        Month= {May},
+        Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-111.html},
+        Number= {UCB/EECS-2015-111},
+        Abstract= {This Capstone project aims to develop a novel memory controller to deliver a high-bandwidth interface for the DDR4 memory standard. DDR4 is the current cutting edge memory standard developed by JEDEC. The high-bandwidth interface is used as a communication link between a memory controller operating at 400MHz and a DDR4 SDRAM. Our team developed a physical interface that can transmit 3.2Gbps of data using only one transmission line. The design consisted of five major sub-modules: 8 to 1 Serializer, Transmitter, Receiver, 2 to 8 Deserializer, and Clock-Generating circuits. This paper discusses the design process, as well as the final results, of the completed 3.2Gbps 2 to 8 Deserializer module. The Deserializer discussed in this paper takes two data-line inputs operating at 1.6Gbps each, and deserializes them onto eight data-lines operating at 400Mbps each.},
+    }
+    
+
+EndNote citation:
+    
+    
+    %0 Thesis
+    %A Veryanskiy, Miron 
+    %A Dillon, Kyle 
+    %A Saxena, Kalika 
+    %A Liu, Sinan 
+    %A Xu, Chenyang 
+    %E Alon, Elad 
+    %E Stojanovic, Vladimir 
+    %T Next Generation Memory Interfaces
+    %I EECS Department, University of California, Berkeley
+    %D 2015
+    %8 May 14
+    %@ UCB/EECS-2015-111
+    %U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-111.html
+    %F Veryanskiy:EECS-2015-111
+    
+    

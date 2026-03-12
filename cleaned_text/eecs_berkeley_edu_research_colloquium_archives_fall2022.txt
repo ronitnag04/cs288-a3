@@ -1,0 +1,131 @@
+Dedicated to hosting presentations at the intersection of Electrical Engineering and Computer Science, the EECS Colloquium offers a mix of short talks by faculty describing their latest research results as well as internationally distinguished speakers. It provides an opportunity for an exchange of ideas between our department’s community and the outside world.
+
+**Wednesdays 4:00-5:00 PM, HP Auditorium, 306 Soda Hall**  _(unless otherwise noted)_  
+_Light refreshments served at 3:30 pm_
+
+Subscribe to the eecs-announce mailing list through the web interface or via email so you can be apprised of upcoming talks.
+
+###  Dave Patterson, Google, and UC Berkeley
+
+####  A Decade of Machine Learning Accelerators: Lessons Learned and Carbon Footprint
+
+Youtube Webinar
+
+**September 7, 2022  
+**
+
+* * *
+
+###  Eli Yablonovitch, UC Berkeley
+
+####  Physics does Constrained Optimization (for Free); A New Approach Toward Computation
+
+**Youtube Webinar**
+
+**September 21, 2022**
+
+* * *
+
+###  Yann LeCun, Meta-FAIR & New York University
+
+####  From Machine Learning to Autonomous Intelligence
+
+****Banatao Auditorium, 310 Sutardja Dai Hall****
+
+**Youtube Webinar**
+
+**September 27, 2022**
+
+* * *
+
+###  David Duvenaud, University of Toronto
+
+####  When should we make our models continuous in time?
+
+**Youtube Webinar**
+
+**October 5, 2022**
+
+* * *
+
+###  Ali Javey, UC Berkeley
+
+####  Wearable Sweat Sensors – Towards big data for human health
+
+**Youtube Webinar**
+
+**October 12, 2022**
+
+* * *
+
+### No talk this week
+
+**October 19, 2022**
+
+* * *
+
+###  Gabriel Loh, AMD Research
+
+####  Silicon Cityscapes
+
+**Youtube Webinar**
+
+**October 26, 2022**
+
+* * *
+
+###  Amin Vahdat, Google Systems and Services Infrastructure
+
+####  Reinventing Computing: How necessity will transform next-generation infrastructure
+
+**Youtube Webinar**
+
+**November 2, 2022**
+
+* * *
+
+###  TBD
+
+####  TBD
+
+**Youtube Webinar**
+
+**November 9, 2022**
+
+* * *
+
+###  Antonio Torralba, MIT
+
+####  Learning to see without real images
+
+**Youtube Webinar**
+
+**November 16, 2022**
+
+* * *
+
+### _Holiday_
+
+**November 23, 2022**
+
+* * *
+
+###  Bill Dally, NVIDIA
+
+####  Trends in Deep Learning Hardware
+
+**Youtube Webinar**
+
+**November 30, 2022**
+
+* * *
+
+###  Yaser Sheikh, Meta Reality Labs
+
+####  What is a Codec Avatar?
+
+**Youtube Webinar**
+
+**December 7, 2022**
+
+View  Open Faculty Positions __

@@ -1,0 +1,26 @@
+##  EECS Colloquium 
+
+### Wednesday, April 21, 2021
+
+4:00 – 5:00 pm
+
+Zoom webinar: https://berkeley.zoom.us/s/99825370819
+
+### Laura Waller
+
+Associate Professor, EECS  
+UC Berkeley
+
+Laura Waller speaks on "End-to-end learning for computational microscopy," 4/21/21 
+
+#### Abstract:
+
+Computational imaging involves the joint design of imaging system hardware and software, optimizing across the entire pipeline from acquisition to reconstruction. Computers can replace bulky and expensive optics by solving computational inverse problems. This talk will describe end-to-end learning for development of new microscopes that use computational imaging to enable 3D fluorescence and phase measurement. Traditional model-based image reconstruction algorithms are based on large-scale nonlinear non-convex optimization; we combine these with unrolled neural networks to learn both the image reconstruction algorithm and the optimized data capture strategy.
+
+#### Biography
+
+Laura Waller leads the Computational Imaging Lab, which develops new methods for optical imaging, with optics and computational algorithms designed jointly. She holds the Ted Van Duzer Endowed Professorship and is a Senior Fellow at the Berkeley Institute of Data Science (BIDS), with affiliations in Bioengineering and Applied Sciences & Technology. Laura was a Postdoctoral Researcher and Lecturer of Physics at Princeton University from 2010-2012 and received BS, MEng and PhD degrees from MIT in 2004, 2005 and 2010, respectively. She is a Moore Foundation Data-Driven Investigator, Bakar fellow, Distinguished Graduate Student Mentoring awardee, NSF CAREER awardee, Chan-Zuckerberg Biohub Investigator, SPIE Early Career Achievement Awardee and Packard Fellow.
+
+##  Video of this Presentation 
+
+View  Open Faculty Positions __

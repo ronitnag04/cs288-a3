@@ -1,0 +1,55 @@
+### Ali Moin and Jan M. Rabaey and Elad Alon
+
+### EECS Department, University of California, Berkeley
+
+### Technical Report No. UCB/EECS-2021-221
+
+###  December 1, 2021 
+
+###  http://www2.eecs.berkeley.edu/Pubs/TechRpts/2021/EECS-2021-221.pdf
+
+With the explosive growth of the smart society and Internet of Things, enormous amounts of information are available in the enhanced world around us and the cyber-world beyond. Hence the traditional human input/output modalities (sight, smell, hearing, taste and touch as inputs, and motor control as output) no longer have the necessary bandwidth or expressiveness to effectively deal with the increasing pace of this augmented world. One possible solution is extending the range of human body's existing input/output modalities through wearable and implantable sensors and actuators. Human Intranet (HI) is an open and scalable platform enabling efficient and robust connectivity of wearable and implantable nodes surrounding the human body to each other and to the cloud.
+
+The first half of this thesis presents two embedded systems that are developed as HI nodes: an implantable neuromodulation device featuring closed-loop sense-interpret-actuate functionality aimed at treating neuropsychiatric disorders, and a wearable electromyography-based hand gesture recognition device with real-time classification and in-sensor model training and updates for human-machine interface applications. The experimental results showing simultaneous low-noise, low-power neural recording of local field potential with high-compliance electrical stimulation in a nonhuman primate and online recognition of 21 hand gestures in human subjects are presented.
+
+The second half focuses on the efficient and robust design of the HI data network. A design space exploration platform is developed that leverages mixed integer linear programming and discrete-event simulations to find the optimum network configuration that maximizes its lifetime under reliability constraints. In order to cope with the highly dynamic and lossy wireless channel around the human body, an adaptive network scheme is proposed that learns the network state based on body kinematics and biosignals and reconfigures its parameters accordingly to reduce energy consumption and increase robustness.
+
+**Advisors:** Jan M. Rabaey and Elad Alon
+
+* * *
+
+BibTeX citation:
+    
+    
+    @phdthesis{Moin:EECS-2021-221,
+        Author= {Moin, Ali and Rabaey, Jan M. and Alon, Elad},
+        Title= {Human Intranet: Connecting Wearable and Implantable Devices},
+        School= {EECS Department, University of California, Berkeley},
+        Year= {2021},
+        Month= {Dec},
+        Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2021/EECS-2021-221.html},
+        Number= {UCB/EECS-2021-221},
+        Abstract= {With the explosive growth of the smart society and Internet of Things, enormous amounts of information are available in the enhanced world around us and the cyber-world beyond. Hence the traditional human input/output modalities (sight, smell, hearing, taste and touch as inputs, and motor control as output) no longer have the necessary bandwidth or expressiveness to effectively deal with the increasing pace of this augmented world. One possible solution is extending the range of human body's existing input/output modalities through wearable and implantable sensors and actuators. Human Intranet (HI) is an open and scalable platform enabling efficient and robust connectivity of wearable and implantable nodes surrounding the human body to each other and to the cloud.
+    
+    The first half of this thesis presents two embedded systems that are developed as HI nodes: an implantable neuromodulation device featuring closed-loop sense-interpret-actuate functionality aimed at treating neuropsychiatric disorders, and a wearable electromyography-based hand gesture recognition device with real-time classification and in-sensor model training and updates for human-machine interface applications. The experimental results showing simultaneous low-noise, low-power neural recording of local field potential with high-compliance electrical stimulation in a nonhuman primate and online recognition of 21 hand gestures in human subjects are presented.
+    
+    The second half focuses on the efficient and robust design of the HI data network. A design space exploration platform is developed that leverages mixed integer linear programming and discrete-event simulations to find the optimum network configuration that maximizes its lifetime under reliability constraints. In order to cope with the highly dynamic and lossy wireless channel around the human body, an adaptive network scheme is proposed that learns the network state based on body kinematics and biosignals and reconfigures its parameters accordingly to reduce energy consumption and increase robustness.},
+    }
+    
+
+EndNote citation:
+    
+    
+    %0 Thesis
+    %A Moin, Ali 
+    %A Rabaey, Jan M. 
+    %A Alon, Elad 
+    %T Human Intranet: Connecting Wearable and Implantable Devices
+    %I EECS Department, University of California, Berkeley
+    %D 2021
+    %8 December 1
+    %@ UCB/EECS-2021-221
+    %U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2021/EECS-2021-221.html
+    %F Moin:EECS-2021-221
+    
+    

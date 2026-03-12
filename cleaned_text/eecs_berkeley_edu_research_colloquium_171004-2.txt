@@ -1,0 +1,24 @@
+## EECS Colloquium
+
+### Wednesday, October 4, 2017
+
+306 Soda Hall (HP Auditorium)  
+4:00 – 5:00 pm
+
+### **Roger Antonsen  
+**
+
+Associate Professor of Computer Science, University of Oslo, Norway  
+Visiting Scholar, University of California, Berkeley
+
+Roger Antonsen speaks on Mathematical Explorations and Visualizations with Code, 10/4/17 
+
+#### Abstract
+
+The world of digital/algorithmic/generative art is blooming, and creative coding is becoming more and more popular. This talk is a part of a family of talks I give, where I try to highlight the connections between computer science, mathematics, and art. For the EECS Colloquium I will go more in depth and focus on the interplay between mathematical structures and programming, with many of my own examples. Programming not only enables beautiful expression, art and engaging visualizations and explanations, but also, more importantly, opens up the world of mathematics to insightful exploration and deeper understanding. With only a few lines of code, we can parameterize and experiment with mathematical structures and learn more about them. Keywords: Math, Art, Creative Coding, Geometry, Curves, Envelopes, Primes, Permutations, Card Shuffling, Partitions, Flocking, Cellular Automata, and Celtic Knots
+
+#### Biography
+
+Roger Antonsen is an Associate Professor of Computer Science at the University of Oslo. He is a mathematician, logician, computer scientist, philosopher, researcher, author, lecturer, artist, and public speaker, with a PhD in mathematical logic and proof theory. Roger is currently a Visiting Scholar at UC Berkeley, California. Home page: http://rantonse.no/en
+
+View  Open Faculty Positions __

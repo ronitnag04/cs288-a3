@@ -1,0 +1,61 @@
+### Daniel Gerber
+
+### EECS Department, University of California, Berkeley
+
+### Technical Report No. UCB/EECS-2017-73
+
+###  May 12, 2017 
+
+###  http://www2.eecs.berkeley.edu/Pubs/TechRpts/2017/EECS-2017-73.pdf
+
+High brightness LEDs have become a mainstream lighting technology due to their efficiency, life span, and environmental benefits. As such, the lighting industry values LED drivers with low cost, small form factor, and long life span. Additional specifications that define a high quality LED driver are high efficiency, high power factor, wide-range dimming, minimal flicker, and a galvanically isolated output. The flyback LED driver is a popular topology that satisfies all these specifications, but it requires a bulky and costly flyback transformer. In addition, its passive methods for cancelling AC power ripple require electrolytic capacitors, which have been known to have life span issues. This dissertation details the design, construction, and verification of a novel LED driver that satisfies all the specifications. In addition, it does not require a flyback transformer or electrolytic capacitors, thus marking an improvement over the flyback driver on size, cost, and life span.
+
+This dissertation presents an integrated circuit (IC) LED driver, which features a pair of generalized multilevel converters that are controlled via sigma-delta modulation. The first is a multilevel rectifier responsible for power factor correction (PFC) and dimming. The PFC rectifier employs a second order sigma-delta loop to precisely control the input current harmonics and amplitude. The second is a bidirectional multilevel inverter used to cancel AC power ripple from the DC bus. This ripple-cancellation module transfers energy to and from a storage capacitor. It uses a first order sigma-delta loop with a preprogrammed waveform to swing the storage capacitor voltage. The system also contains an output stage that powers the LEDs with DC and provides for galvanic isolation. The output stage consists of an H-bridge stack that connects to the output through a small toroid transformer.
+
+The IC LED driver was simulated and prototyped on an ABCD silicon test chip. Testing and verification indicates functional performance for all the modules in the LED driver. The driver exhibits moderate efficiency at half voltage. Although the part was only testable to half voltage, loss models predict that its efficiency would be much higher at full voltage. The driver also meets specifications on the line current harmonics and ripple cancellation.
+
+This dissertation introduces multilevel circuit techniques to the IC and LED research space. The prototype's functional performance indicates that integrated multilevel converters are a viable topology for lighting and other similar applications.
+
+**Advisors:** Seth R. Sanders
+
+* * *
+
+BibTeX citation:
+    
+    
+    @phdthesis{Gerber:EECS-2017-73,
+        Author= {Gerber, Daniel},
+        Editor= {Sanders, Seth R. and Alon, Elad and Callaway, Duncan},
+        Title= {An Integrated Multilevel Converter with Sigma Delta Control for LED Lighting},
+        School= {EECS Department, University of California, Berkeley},
+        Year= {2017},
+        Month= {May},
+        Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2017/EECS-2017-73.html},
+        Number= {UCB/EECS-2017-73},
+        Abstract= {High brightness LEDs have become a mainstream lighting technology due to their efficiency, life span, and environmental benefits.  As such, the lighting industry values LED drivers with low cost, small form factor, and long life span.  Additional specifications that define a high quality LED driver are high efficiency, high power factor, wide-range dimming, minimal flicker, and a galvanically isolated output.  The flyback LED driver is a popular topology that satisfies all these specifications, but it requires a bulky and costly flyback transformer.  In addition, its passive methods for cancelling AC power ripple require electrolytic capacitors, which have been known to have life span issues.  This dissertation details the design, construction, and verification of a novel LED driver that satisfies all the specifications.  In addition, it does not require a flyback transformer or electrolytic capacitors, thus marking an improvement over the flyback driver on size, cost, and life span.
+    
+    This dissertation presents an integrated circuit (IC) LED driver, which features a pair of generalized multilevel converters that are controlled via sigma-delta modulation.  The first is a multilevel rectifier responsible for power factor correction (PFC) and dimming.  The PFC rectifier employs a second order sigma-delta loop to precisely control the input current harmonics and amplitude.  The second is a bidirectional multilevel inverter used to cancel AC power ripple from the DC bus.  This ripple-cancellation module transfers energy to and from a storage capacitor.  It uses a first order sigma-delta loop with a preprogrammed waveform to swing the storage capacitor voltage.  The system also contains an output stage that powers the LEDs with DC and provides for galvanic isolation.  The output stage consists of an H-bridge stack that connects to the output through a small toroid transformer.
+    
+    The IC LED driver was simulated and prototyped on an ABCD silicon test chip.  Testing and verification indicates functional performance for all the modules in the LED driver.  The driver exhibits moderate efficiency at half voltage.  Although the part was only testable to half voltage, loss models predict that its efficiency would be much higher at full voltage.  The driver also meets specifications on the line current harmonics and ripple cancellation.
+    
+    This dissertation introduces multilevel circuit techniques to the IC and LED research space.  The prototype's functional performance indicates that integrated multilevel converters are a viable topology for lighting and other similar applications.},
+    }
+    
+
+EndNote citation:
+    
+    
+    %0 Thesis
+    %A Gerber, Daniel 
+    %E Sanders, Seth R. 
+    %E Alon, Elad 
+    %E Callaway, Duncan 
+    %T An Integrated Multilevel Converter with Sigma Delta Control for LED Lighting
+    %I EECS Department, University of California, Berkeley
+    %D 2017
+    %8 May 12
+    %@ UCB/EECS-2017-73
+    %U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2017/EECS-2017-73.html
+    %F Gerber:EECS-2017-73
+    
+    

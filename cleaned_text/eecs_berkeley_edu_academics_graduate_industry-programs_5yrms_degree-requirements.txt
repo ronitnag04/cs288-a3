@@ -1,0 +1,35 @@
+The 5th year MS program entails three main components: technical courses, a research project with a faculty advisor, and breadth courses.
+
+  * **Technical Courses*:** Students take **at least** 10 units of 200-level (graduate) courses in EE or CS excluding 298/299 units, as approved by your 5th year MS faculty advisor. Usually these will be very closely related to your project and **research area**.
+
+
+  * **Breadth Courses*:** Students take 8-11 units of 100- or 200-level courses outside EECS as approved by your faculty advisor. These courses are meant to provide students with the leadership, management, entrepreneurial, or interdisciplinary technical skills to prepare them for their future career in industry. 
+    1. Requires at least 8 units outside EECS.
+    2. Must form a coherent set of courses that prepares the student for leadership goals.
+    3. No courses cross listed with EE or CS will be approved.
+    4. Breadth courses must be approved by the student’s research faculty advisor.
+
+
+
+*IMPORTANT*–**ALL courses toward the degree should be taken for a letter grade** ,  _except_ for 299 research units, which should be taken S/U.
+
+*For both technical and breadth coursework, a minimum “B-” or better grade needs to be earned in order to receive credit towards satisfying degree requirements. A minimum cumulative GPA of 3.0 is required overall, and a minimum cumulative GPA of 3.5 is required for Technical coursework in order to graduate.
+
+  * **Research Project & Report:** Under the supervision of an EECS Faculty Research Advisor, students choose a specific topic or project on which to conduct research. Students are expected to commit a significant amount of time and energy to the research, integrating and fusing what has been learned in the classroom, to reach a deep level of involvement in and understanding of the project. Carefully planning required courses to span three semesters (final undergrad semester and two graduate semesters) should allow the necessary time for research. Possible Masters projects may include, but are not limited to: 
+    * Traditional independent research project.
+    * In-depth follow-up to EECS199 project.
+    * Extension of class project.
+    * Product development with business plan.
+    * Interdisciplinary project in outside area such as Health Care, Education, Technology for 3rd World, etc.
+    * Industry collaborative project.
+
+Students complete the degree program with a written culmination of their research. The report must be approved by the student’s faculty advisor and an additional faculty reader who has expertise on the topic of the report. This report must be submitted before the end of the student’s second semester in the 5th year MS program. This report should be at the level of a conference paper or other publishable contribution to the field of EECS and represent at least 3-6 units of EECS299 research.
+
+**Past project reports online**.
+
+**NOTE:** Berkeley undergraduates who take graduate course work during their last undergraduate semester may petition to backdate graduate standing in order to receive graduate credit for that course work. Graduate standing may be backdated for only **one course** , and students may petition for credit only for coursework that was not previously used to satisfy requirements for another degree and/or the honors program at Berkeley or at any other institution.
+
+
+
+
+View  Open Faculty Positions __

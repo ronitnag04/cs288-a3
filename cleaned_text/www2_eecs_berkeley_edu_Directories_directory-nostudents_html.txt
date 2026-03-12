@@ -1,0 +1,432 @@
+_Please add .berkeley.edu to all email addresses._
+
+_ERSO/CSS Team 2 affiliates are no longer included on this directory. You can find them using theERSO People Finder. _
+
+  * A
+  * B
+  * C
+  * D
+  * E
+  * F
+  * G
+  * H
+  * I
+  * J
+  * K
+  * L
+  * M
+  * N
+  * O
+  * P
+  * Q
+  * R
+  * S
+  * T
+  * U
+  * V
+  * W
+  * X
+  * Y
+  * Z
+
+
+
+Name | Office | Phone | E-Mail | Status | Affil. | Sponsor  
+---|---|---|---|---|---|---  
+Abbatecola, Angie  | 8046 Berkeley Way West | +1 510 643-6413 | angie@eecs | Staff | EECS  | Goldstein, Leslie  
+Abbeel, Pieter | 8064 Berkeley Way West | +1 510 642-7034 | pabbeel@eecs | Faculty | CS  |   
+Afzal, Hamidreza  |  |  | hamidreza@eecs | Postdoctorate | BWRC  | Chien, Jun-Chau  
+Agnew, Bennett  | 221 Cory Hall | +1 510 642-3694 | bennettagnew@eecs | Staff | EECS  | Chou, Faye  
+Aiello, Monica  | 353 Cory Hall |  | monica.aiello@eecs | Staff | EECS  | Flinker, Julia  
+Allen-Gardizi, Nadia  | 307 Cory Hall |  | nadia.allengardizi@eecs | Staff | EECS  | Anwar, Mekhail  
+Allman, Eric  | 490 Cory Hall |  | eric@eecs | Staff | EECS  | Rabaey, Jan  
+Allstot, Dave  | 564 Cory Hall |  | allstot@eecs | Faculty | EECS  |   
+Alonzo, Manuel  | 321 Soda Hall |  | malonzo@eecs | Staff | EECS  | Rohrbach, Lars  
+Ambrose, Amy  | Calvin Lab |  | amyambrose@eecs | Staff | EECS  | Mason, Drew  
+Ameli, Siavash  | 465 Soda Hall |  | sameli@eecs | Postdoctorate | EECS  | Mahoney, Michael  
+Anantharam, Venkatachalam | 271 Cory Hall | +1 510 643-8435 | ananth@eecs | Faculty | EE  |   
+Anderson, Andre  | 330 Sutardja Dai Hall |  | andreanderson@eecs | Staff | Other  |   
+Anderson-Lee, Jeffrey |  | +1 510 643-6447 | jonah@eecs | Staff | EECS  | Fraser, Eric  
+Anton, Glenna  | 205 Cory Hall |  | ganton@eecs | Staff | EECS  | Chou, Faye  
+Anumanchipalli, Gopala  | 490A Cory Hall |  | gopala@eecs | Faculty | EECS  |   
+Arabzadehghahyazi, Negar  | 465 Soda Hall |  | negara@eecs | Postdoctorate | EECS  | Zaharia, Matei  
+Arcak, Murat | 201 Cory Hall | +1 510 642-4804 | arcak@eecs | Faculty | EE  |   
+Ardakani, Arash  | 584 Soda Hall |  | arash.ardakani@eecs | Postdoctorate | EECS  | Wawrzynek, John  
+Arias, Ana | 231B Cory Hall | +1 510 642-1728 | acarias@eecs | Faculty | EE  |   
+Arntzenius, Michael  | 573 Soda Hall |  | rntz@eecs | Postdoctorate | EECS  | Willsey, Max  
+Asanovic, Krste | 579B Soda Hall | +1 510 642-6506 | krste@eecs | Faculty | CS  |   
+Atamturk, Alper  | 423 Sutardja Dai Hall |  | atamturk@eecs | Faculty | IEOR  |   
+Atchley, Kattt  | 465 Soda Hall | +1 510 643-3499 | atchley@eecs | Staff | EECS  | Stoica, Ion  
+Attwood, David | 201 Cory Hall |  | attwood@eecs | Professor in Residence | EE  |   
+Au, David  | 377 Cory Hall | 510-642-6929 | davidau8195@eecs | Staff | EECS  | Law, Katherina  
+Ayazifar, Babak | 517 Cory Hall | +1 510 642-9945 | ayazifar@eecs | Faculty | EE&CS  |   
+B. Pasandi, Hannah  | 421 Soda Hall |  | hanapasandi@eecs | Postdoctorate | EECS  | Shenker, Scott  
+Baldini, Logan  | 253A Cory Hall | +1 510 384-8914 | lbaldini@eecs | Staff | EECS  | Chou, Faye  
+Bar, Amir  |  |  | amir.bar@eecs | Collaborator | EE&CS  | Darrell, Trevor  
+Barsky, Brian | 441 Soda Hall | +1 510 642-9838 | barsky@cs | Faculty | CS  |   
+Bartl, Michael | 403 Cory Hall |  | michael.bartl@eecs | Staff | EECS  | Yablonovitch, Eli  
+Bartlett, Peter | 723 Sutardja Dai Hall | +1 510 642-7780 | bartlett@eecs | Faculty | CS  |   
+Bayen, Alexandre | 642 Sutardja Dai Hall |  | bayen@eecs | Faculty | EE&CS  |   
+Bianco, Stephanie  | 210C Jacobs Hall |  | bianco@eecs | Staff | EECS  |   
+Bochem, Severin  | 515 Soda Hall |  | sbochem@eecs | Visiting Graduate Student | EECS  | Fletcher, Christopher  
+Bodeker, Barry  |  |  | barry.b@eecs | Staff | EECS  | Mason, Drew  
+Bokor, Jeffrey | 545P Sutardja Dai Hall | +1 510 642-4134 | jbokor@eecs | Faculty | EE  |   
+Boles, Jessica  | 571 Cory Hall |  | boles@eecs | Faculty | EE  |   
+Borgs, Christian | 8060 Berkeley Way West |  | borgs@eecs | Faculty | CS  |   
+Boser, Bernhard |  | +1 510 643-8350 | boser@eecs | Faculty | EE  |   
+Bouchard, Caroline  | BWRC |  | cbouchard@eecs | Staff | BWRC  | Candelaria, Jonathan  
+Brewer, Eric | 443 Soda Hall | +1 510 642-8143 | brewer@cs | Faculty | CS  |   
+Briggs, Ria  | 563 Soda Hall | +1 510 643-1455 | riamelendres@eecs | Staff | COE  | Atchley, Kattt  
+BSAC, Reception  | 403 Cory Hall | +1 510 643-6690 | bsacdesk@eecs | Staff | BSAC  |   
+Buluc, Aydin | Soda Hall |  | aydin@eecs | Adjunct Professor | CS  |   
+Caceres, Carlos  | 273 Cory Hall | +1 510 642-7777 | ccaceres@eecs | Staff | EECS  | Rohrbach, Lars  
+Caldas, Luisa  | 337F Cory Hall |  | lcaldas@eecs | Faculty | CEDR  |   
+Calderon, Derek  | Soda Hall | +1 510 642-2338 | dcalderon@eecs | Staff | EECS  | Fraser, Eric  
+Callaway, Duncan | 4th floor Sutardja Dai Hall |  | dcal@eecs | Faculty | EE  |   
+Caloud, Carissa  | 367 Soda Hall |  | ccaloud@eecs | Staff | EECS  | Chou, Faye  
+Candelaria, Jonathan  |  |  | jjcandel@eecs | Staff | BSAC  | Candelaria, Jonathan  
+Canny, John | 637 Soda Hall | +1 510 642-9955 | jfc@cs | Faculty | CS  |   
+Cao, Yuan | 253M Cory Hall |  | caoyuan@eecs | Faculty | EE  |   
+Carmena, Jose | 563 Cory Hall | +1 510 643-2430 | carmena@eecs | Faculty | EE  |   
+Carretero, Ana  | BWRC |  | anacp@eecs | Visiting Postdoc | EECS  | Muller, Rikky  
+Carson, Cathryn  | 465 Soda Hall |  | clcarson@EECS | Faculty | HISTORY  |   
+Castrellon, Jamie  | 315 Soda Hall |  | jamiecastrellon@eecs | Staff | EECS  | Chou, Faye  
+Cavizo-Briggs, Mikaela  | BWRC |  | m.cbriggs@eecs | Staff | EECS  |   
+Chang, Gabe | 375 Soda Hall | +1 510 642-1390 | gabe@eecs | Staff | EECS  | Chou, Faye  
+Chang, Hamilton  | 313 Soda Hall |  | hamiltonchang@eecs | Staff | EECS  | Chou, Faye  
+Chang, Serina  | 387 Soda Hall |  | serinac@eecs | Faculty | CS  |   
+Chang-Hasnain, Constance |  | +1 510 642-4315 | cch@eecs | Emeritus | EE  |   
+Chasins, S.  | 727 Soda Hall |  | schasins@eecs | Faculty | CS  |   
+Chayes, Jennifer | 102 South Hall |  | jchayes@eecs | Faculty | CS  |   
+Chen, Lijie  | 627 Soda Hall |  | lijiechen@eecs | Faculty | CS  |   
+Chen, William  | 323 Soda Hall |  | william@eecs | Staff | EECS  | Rohrbach, Lars  
+Chen, Zaijun  | 259M Cory Hall |  | zaijun@eecs | Faculty | EE  |   
+Cheung, Alvin | 785 Soda Hall |  | akcheung@eecs | Faculty | CS  |   
+Chien, Jun-Chau  | 518 Cory Hall |  | jcchien@eecs | Faculty | EE  |   
+Chiu, Finsen  | 378 Cory Hall | +1 510 643-6141 | finsen@eecs | Staff | EECS  | Fraser, Eric  
+Chou, Faye  | 231B Cory Hall |  | faye.chou@eecs | Staff | EECS  |   
+Chouteau, Tami  | 565 Soda Hall | +1 510 643-4816 | tamille@eecs | Staff | EECS  | Nikolic, Borivoje  
+Chu, Eric  | 193M Cory Hall | +1 510 643-8400 | eric_chu@eecs | Staff | EECS  | Helmbrecht, Michael  
+Chua, Leon |  | +1 510 642-3209 | chua@eecs | Emeritus | EE  |   
+Chuang, Shu-Yan  | BWRC |  | sychuang@eecs | Visiting Scholar | BWRC  | Chien, Jun-Chau  
+Coleman, Victoria  |  |  | vcoleman@eecs | Faculty | EECS  |   
+Cook, Benjamin  | BWRC |  | ben.cook@eecs | Visiting Scholar | EE  | Pister, Kristofer  
+Coombs, Rachel  |  |  | rscoombs@eecs | Postdoctorate | MCB  |   
+Corpus Steudeman, Candy  | BWRC |  | candycorpus@eecs | Staff | BWRC  |   
+Corrigan-Gibbs, Henry  |  |  | henrycg@eecs | Faculty | EECS  |   
+Courtade, Thomas | 265 Cory Hall | +1 510 643-0359 | courtade@eecs | Faculty | EE  |   
+Crittenden, Camille  | 356E Sutardja Dai Hall | +1 510 643-8834 | ccrittenden@eecs | Staff | EECS  | Spanos, Costas  
+Crooks, Natacha | 723 Soda Hall |  | ncrooks@eecs | Faculty | CS  |   
+Culler, David | 443 Soda Hall |  | culler@cs | Faculty | CS  |   
+Darrell, Trevor | 8010 Berkeley Way West |  | trevor@eecs | Adjunct Professor | EE&CS  |   
+Davis, Becky  | 375 Soda Hall |  | beckydavis@eecs | Staff | EECS  | Chou, Faye  
+Davis, Antoine  | 221 Cory Hall | +1 510 642-7214 | antoined@eecs | Staff | EECS  | Chou, Faye  
+Davis, Colin  | 395 Soda Hall |  | colinm@eecs | Staff | EECS  | Chou, Faye  
+Delle Monache, Maria Laura  | 646 Sutardja Dai Hall |  | mldellemonache@eecs | Faculty | CE  |   
+Delligatti, Chris  | 393 Soda Hall | +1 510 704-3853 | delligatti@EECS | Staff | EECS  | Chou, Faye  
+Demmel, James | Soda Hall | +1 510 643-5386 | demmel@cs | Faculty | CS  |   
+DeNero, John | 795 Soda Hall | +1 510 643-7354 | denero@eecs | Lecturer | CS  |   
+Desai, Aditya  | Soda Hall |  | apdesai@eecs | Postdoctorate | EECS  | Stoica, Ion  
+Dey-Ward, Caitlin | 313 Soda Hall | +1 510 643-5383 | caitlin@eecs | Staff | CS  | Chou, Faye  
+Dimakis, Alex | 253 Cory Hall |  | alexdimakis@eecs | Faculty | EE  |   
+Dragan, Anca | 8042 Berkeley Way West |  | anca@eecs | Faculty | CS  |   
+Duncan, Charlene  | 349 Soda Hall | +1 510 642-2357 | cdhughes@EECS | Staff | EECS  | Chou, Faye  
+Dunleavy, Michele  |  |  | mdunleavy@eecs | Staff | Other  |   
+Dutta, Prabal | 550C Cory Hall |  | prabal@eecs | Faculty | EE&CS  |   
+Efros, Alexei | 8016 Berkeley Way West |  | efros@eecs | Faculty | EE&CS  |   
+El Ghaoui, Laurent | Soda Hall | +1 510 643-8351 | elghaoui@eecs | Emeritus | EE  |   
+Eldredge, James  | 377 Cory Hall |  | jeldredge@eecs | Staff | EECS  | Law, Katherina  
+Enriquez, Marcelino  | 333 Soda Hall | +1 510 642-9543 | mars@eecs | Staff | EECS  | Chiu, Finsen  
+Eom, Kyeongho  | 333A Cory Hall |  | kyeongho@eecs | Postdoctorate | BWRC  | Chien, Jun-Chau  
+Ergen Behr, Can  |  |  | cergen@eecs | Postdoctorate | EECS  | Yosef, Nir  
+Erichson, Ben  | 465 Soda Hall |  | erichson@eecs | Visiting Scholar | STATS  | Mahoney, Michael  
+Faraji, Morteza  | 331 Soda Hall |  | mfaraji@eecs | Staff | EECS  | Kuo, Yu-Tin  
+Fateman, Richard | 441 Soda Hall | +1 510 642-1879 | fateman@cs | Emeritus | CS  |   
+Fearing, Ronald | 545P Cory Hall | +1 510 642-9193 | ronf@eecs | Faculty | EE  |   
+Feldman, Jerome | 441 Soda Hall | +1 510 666-2914 | jfeldman@cs | Emeritus | CS  |   
+Finlayson, Jill  | Sutardja Dai Hall |  | finlayson@eecs | Staff | EECS  | Crittenden, Camille  
+Fletcher, Christopher  | Soda Hall |  | cwfletcher@eecs | Faculty | EECS  |   
+Flinker, Julia  | 381 Soda Hall | +1 510 643-6618 | jflinker@EECS | Staff | EECS  | Chou, Faye  
+Fong, Michelle  | 377 Soda Hall |  | fong.michelle@eecs | Staff | EECS  | Chou, Faye  
+Fox, Armando | 581 Soda Hall | +1 510 642-6820 | fox@cs | Faculty | CS  |   
+Fraser, Eric | 317 Soda Hall | +1 510 520-1346 | fraser@eecs | Staff | EECS  |   
+Friedland, Gerald | 387 Soda Hall |  | fractor@EECS | Faculty | CS  |   
+Gambali, Chaitanya  |  |  | gseshasai.chaitanya@eecs | Visiting Researcher | EECS  | Fletcher, Christopher  
+Gamble, Jessica | 337E Cory Hall | +1 510 643-5105 | jesnjosh@eecs | Staff | EE  | Pister, Kristofer  
+Garcia, Carlos  | 379 Soda Hall |  | carlosagarcia@eecs | Staff | EECS  | Chou, Faye  
+Garcia, Dan | 777 Soda Hall | +1 510 517-4041 | ddgarcia@cs | Faculty | CS  |   
+Garcia, Gina  | 205 Cory Hall |  1 510 642-1786 | garciagi@eecs | Staff | EECS  | Chou, Faye  
+Garcia Cortes, Floriberto  | 349 Soda Hall |  | fj2019@eecs | Staff | EECS  | Chou, Faye  
+Garg, Sanjam | 685 Soda Hall |  | sanjamg@EECS | Faculty | CS  |   
+Gerlein-Safdi, Cynthia  | 640 Sutardja Dai Hall |  | cgerlein@eecs | Faculty | CEE  |   
+Gholaminejad, Amir  | 573 Soda Hall |  | amirgh@eecs | Postdoctorate | EECS  | Keutzer, Kurt  
+Gin, Gary  | Jacobs Hall |  | garygin@eecs | Staff | EECS  |   
+Glen, Cody  | 110 Jacobs Hall | 5106647565 | codyglen@eecs | Staff | EECS  |   
+Goldberg, Ken | 8020 Berkeley Way West | +1 510 643-9565 | goldberg@eecs | Faculty | CS  |   
+goldwasser, shafi | 689 Soda Hall |  | shafi@eecs | Faculty | CS  |   
+Gomez, Hani  | 490 Cory Hall |  | gomezhc@eecs | Postdoctorate | EE  | Pister, Kristofer  
+Gonzalez, Joey | 773 Soda Hall |  | jegonzal@eecs | Faculty | CS  |   
+Gottbrath, Joseph  | Jacobs Hall |  | joeygottbrath@EECS | Staff | EECS  |   
+Graham, Susan | 751 Soda Hall | +1 510 642-2059 | graham@cs | Emeritus | CS  |   
+Greene, James  | 231 Cory Hall |  | jpgreene@eecs | Staff | EECS  | Chou, Faye  
+Grimsley Vazquez, Tiffany  | 253 Cory Hall |  | grimsley@eecs | Staff | EECS  | Chou, Faye  
+Gu, Shangding  | 406F Cory Hall | +1 510 761-1718 | shangding.gu@eecs | Postdoctorate | EECS  | Spanos, Costas  
+Guruswami, Venkatesan | 625 Soda Hall |  | venkatg@eecs | Faculty | CS  |   
+Gustafson, Ture | 558B Cory Hall | +1 510 642-3139 | tkg@eecs | Emeritus | EE  |   
+Guthrie, Kaitlyn  | 205 Cory Hall | 2-1786 | kait.guthrie@eecs | Staff | EECS  | Chou, Faye  
+Haghtalab, Nika | 8028 Berkeley Way West |  | nika@eecs | Faculty | CS  |   
+Hartmann, Bjoern | 417 Sutardja Dai Hall |  | bjoern@eecs | Faculty | EE&CS  |   
+Harvey, Brian | 441 Soda Hall | +1 510 642-8311 | bh@cs | Emeritus | CS  |   
+Hassanzadehyamchi, Saleh  |  |  | salehyk@eecs | Postdoctorate | EECS  | Niknejad, Ali  
+Hasson, Ashley  | 118 Calvin Lab |  | ahasson@eecs | Staff | EECS  | Mason, Drew  
+Hearst, Marti | 212 South Hall | +1 510 642-8016 | marti@eecs | Visiting Faculty | CS  |   
+Hegazy, Kareem  | 465 Soda Hall |  | khegazy@eecs | Postdoctorate | EECS  | Mahoney, Michael  
+Hellerstein, Joseph | 789 Soda Hall | +1 510 643-4011 | hellerstein@eecs | Faculty | CS  |   
+Hernan, Patrick | 215 Cory Hall | +1 510 642-9265 | hernan@eecs | Staff | EE  |   
+Herrera, Steven  |  |  | steven.herrera@eecs | Staff | Other  |   
+Heuer, Michael  | 465 Soda Hall |  | mheuer@eecs | Staff | EECS  | Joseph, Anthony  
+Hilfinger, Paul | 787 Soda Hall | +1 510 642-8401 | hilfingr@cs | Faculty | CS  |   
+Hoey, Robin  | 121 Calvin Lab | +1 510 664-9075 | rhoey@EECS | Staff | EECS  | Mason, Drew  
+Horsley, David  | 490B Cory Hall | +1 510 643-6690 | dhorsley@eecs | Visiting Faculty | EECS  |   
+Hu, Chenming | 502 Cory Hall | +1 510 642-3393 | hu@eecs | Faculty | EE  |   
+Hu, Zhanhao  | 721 Soda Hall |  | huzhanhao@eecs | Postdoctorate | EECS  | Wagner, David  
+Huang, Linda  | 384 Cory Hall | +1 510 643-6096 | lindah@eecs | Staff | EECS  | Chiu, Finsen  
+Huang, Wayne  | 331 Soda Hall |  | ywhuang@eecs | Staff | COE  | Kuo, Yu-Tin  
+Huang, Junwei  | 406 Cory Hall |  | jwhuang@eecs | Visiting Scholar | EECS  | Pilawa-Podgurski, Robert  
+Hug, Joshua | 779 Soda Hall |  | hug@eecs | Lecturer | CS  |   
+Humphreys, Sheila | 558D Cory Hall | +1 510 643-1974 | humphrys@eecs | Staff | EECS  |   
+Hunn, Christopher | 341C Soda Hall | +1 510 664-7546 | cthunn@eecs | Staff | CS  | Chou, Faye  
+Infante, Roxana  | 108C Berkeley Way West | +1 510 643-3257 | roxana@eecs | Staff | EECS  | Abbatecola, Angie  
+Ioannidis, Nilah | 513 Soda Hall |  | nilah@eecs | Faculty | CS  |   
+Iyer, Rishabh  | 525 Soda Hall |  | rishabh.iyer@eecs | Faculty | EECS  |   
+Javey, Ali | 621C Sutardja Dai Hall | +1 510 643-7263 | ajavey@eecs | Faculty | EE  |   
+Jia, Wenxuan  |  |  | wenxuanj@eecs | Postdoctorate | EE&CS  | Chen, Zaijun  
+Jiao, Jiantao  | 257M Cory Hall |  | jiantao@eecs | Faculty | EECS  |   
+Johnston, Grayson  | 205 Cory Hall | +1 510 642-7372 | gjohnston@eecs | Staff | EECS  | Chou, Faye  
+Jones, Sarah  | 254M Cory Hall |  | sarah.jones@eecs | Staff | CDSS  | Hill, Adrian  
+Jordan, Michael | 8028 Berkeley Way West | +1 510 642-3806 | jordan@cs | Faculty | CS  |   
+Joseph, Anthony | 479 Soda Hall | +1 510 643-7212 | adj@eecs | Faculty | CS  |   
+Kahan, William | 441 Soda Hall | +1 510 642-5638 | wkahan@cs | Emeritus | CS  |   
+Kanazawa, Angjoo | 8014 Berkeley Way West |  | kanazawa@eecs | Faculty | CS  |   
+Kane, Kristin  | 121 Calvin Lab |  | kakane@eecs | Staff | EECS  | Karp, Richard  
+Kang, Munkyu  | 468 Cory Hall |  | munkyu@eecs | Postdoctorate | BWRC  | Waller, Laura  
+Kante, Boubacar | 265M Cory Hall |  | bkante@eecs | Faculty | EE  |   
+Kao, Peyrin  | 443 Soda Hall |  | peyrin@eecs | Lecturer | EECS  |   
+Karandikar, Sagar | 505 Cory Hall |  | skarandikar@eecs | Faculty | EE  |   
+Karp, Richard | Soda Hall | +1 510 642-5799 | karp@cs | Emeritus | CS  |   
+Katagiri, Ami  | 108C Berkeley Way West |  | amickatagiri@eecs | Staff | Other  | Abbatecola, Angie  
+Katz, Randy | 751 Soda Hall | +1 510 643-1381 | randy@cs | Faculty | CS  |   
+Kawamura, Emi  | 261M Cory Hall |  | kawamura@eecs | Postdoctorate | EECS  | Lieberman, Michael  
+Keutzer, Kurt | 8020 Berkeley Way West | +1 510 642-9267 | keutzer@eecs | Faculty | EE  |   
+Khan, Asir Intisar  | 253 Cory Hall |  | asir@eecs | Faculty | EE  |   
+Klein, Dan | 8058 Berkeley Way West | +1 510 643-0805 | klein@eecs | Faculty | CS  |   
+Klingenberger, Frances  | 121 Calvin Lab |  | fklingenberger@eecs | Staff | EECS  |   
+Knapp, Shane  |  |  | sknapp@eecs | Staff | EECS  | Fraser, Eric  
+Kohli, Amit  | 465 Soda Hall |  | apkohli@eecs | Postdoctorate | EE  | Zaharia, Matei  
+Kothapalli, Abhiram  | 665 Soda Hall |  | akothapalli@eecs | Postdoctorate | EECS  | Garg, Sanjam  
+Kozachenko, Igor  | 577 Soda Hall |  | igor175@eecs | Staff | EECS  | Demmel, James  
+Krishnapriyan, Aditi  | 8048 Berkeley Way West |  | aditik@eecs | Faculty | EECS  |   
+Kuan, Huo Chao  | 490C Cory Hall |  | hckuan@eecs | Staff | EECS  | Gamble, Jessica  
+Kubiatowicz, John | 673 Soda Hall | +1 510 643-6817 | kubitron@cs | Faculty | CS  |   
+Kulkarni, Yash  |  |  | yashkulkarni@eecs | Staff | MCB  |   
+Kumar, Abhishek  | 550 Sutardja Dai Hall |  | abhishekg@eecs | Postdoctorate | EECS  | Salahuddin, Sayeef  
+Kuo, Yu-Tin  | 327 Soda Hall | 510-643-7848 | yutin@eecs | Staff | EECS  | Fraser, Eric  
+Kuroda, Jon | 465R Soda Hall | +1 510 643-7455 | jkuroda@cs | Staff | EECS  | Gonzalez, Joey  
+Landau, Zeph  | 617 Soda Hall |  | landau@eecs | Visiting Faculty | MATH  | Vazirani, Umesh  
+Lao, Chon Lam  | 465 Soda Hall |  | chonlamlao@eecs | Visiting Graduate Student | EECS  | Stoica, Ion  
+Larsen, Kelsey  | 118 Calvin Lab | 510-664-9856 | kjlarsen@eecs | Staff | EECS  | Mason, Drew  
+Lau, Kam | 574 Cory Hall | +1 510 642-6251 | klau@eecs | Emeritus | EE  |   
+Law, Katherina  | 380 Cory Hall | +1 510 643-0843 | law@eecs | Staff | EECS  | Chou, Faye  
+Le, Vivian  | 231C Cory Hall |  | vivian.le@eecs | Staff | EECS  | Chou, Faye  
+Lee, Andy  | 465 Soda Hall |  | zhifei.li@eecs | Visiting Scholar | EECS  | Stoica, Ion  
+Lee, Bryan  | 205 McLaughlin Hall | +1 510 643-6966 | blee@eecs | Staff | COE  |   
+Lee, Edward | 545Q Cory Hall | +1 510 643-3728 | eal@eecs | Emeritus | EE  |   
+Lee, Jason  | 533 Soda Hall |  | jasondlee@eecs | Faculty | EECS  |   
+Lee, Meredith  | 449 Soda Hall |  | mmlee@eecs | Staff | EECS  | Chayes, Jennifer  
+Levien, Heather  | 253 Cory Hall | +1 510 643-8208 | heather@eecs | Staff | EECS  | Flinker, Julia  
+Levine, Sergey | 8056 Berkeley Way West |  | svlevine@EECS | Faculty | CS  |   
+Lewis, Edwin | 565 Cory Hall | +1 510 642-4513 | lewis@eecs | Emeritus | EE  |   
+Lieberman, Michael | 261M Cory Hall | +1 510 643-6632 | lieber@eecs | Emeritus | EE  |   
+Lin, Yiming  | 465 Soda Hall |  | yiminglin@eecs | Postdoctorate | EECS  | Parameswaran, Aditya  
+Lindeman, David  | Sutardja Dai Hall |  | dlindeman@eecs | Staff | CITRIS  | Spanos, Costas  
+Listgarten, Jennifer | 8022 Berkeley Way West |  | jennl@eecs | Faculty | CS  |   
+Liu, Chunlei | 574 Cory Hall |  | chunlei.liu@eecs | Faculty | EE  |   
+Liu, Tsu-Jae | 225 Cory Hall | +1 510 643-9251 | tking@eecs | Faculty | EE  |   
+Loianno, Giuseppe  | 506 Cory Hall |  | loiannog@eecs | Faculty | EE  |   
+Luo, Steven  | 386 Cory Hall |  | s_luo@eecs | Staff | EECS  | Chiu, Finsen  
+Lustig, Miki | 513 Cory Hall |  | mlustig@eecs | Faculty | EE&CS  |   
+Lutz, Kenneth  | 490 Cory Hall | +1 510 643-4872 | lutz@eecs | Staff | BWRC  | Rabaey, Jan  
+Ma, Yi | 333D Cory Hall |  | yima@eecs | Professor in Residence | EE  |   
+Ma, Yiping  | 721 Soda Hall |  | yipingma@eecs | Postdoctorate | EECS  | Popa, Raluca  
+Maharbiz, Michel |  | +1 510 227-0196 | maharbiz@eecs | Faculty | EE  |   
+Mahoney, Michael  | 481 Soda Hall |  | mmahoney@eecs | Adjunct Professor | STATS  |   
+Malik, Jitendra | 8012 Berkeley Way West | +1 510 642-7597 | malik@cs | Faculty | EE&CS  |   
+Mangelsdorf, Christopher  | BWRC |  | mangelsdorf@eecs | Visiting Scholar | BWRC  | Nikolic, Borivoje  
+Marshall, Carol | 349 Soda Hall |  | carolm@cs | Staff | CS  |   
+Martinez, Aleta  | 234 Jacobs Hall | +1 510 664-7574 | aleta@eecs | Staff | COE  |   
+Mason, Drew  | 126 Calvin Lab |  | mason@EECS | Staff | EECS  | Guruswami, Venkatesan  
+Matsuoka, Dan  | 187M Cory Hall |  | d.matsuoka@EECS | Staff | Other  |   
+McNicholas, Rob | 321 Soda Hall | +1 510 290-8403 | robm@eecs | Staff | EECS  | Fraser, Eric  
+Merlo, Sabrina  | 210B Jacobs Hall |  | smerlo@eecs | Staff | EECS  |   
+Messerschmitt, David | 558B Cory Hall | +1 510 642-1090 | messer@eecs | Emeritus | EE  |   
+Meyer, Robert |  | +1 510 642-8026 | rmeyer@eecs | Emeritus | EE  |   
+Min, Sewon  | 387 Soda Hall |  | sewonm@eecs | Faculty | CS  |   
+Mishchenko, Alan  | 545F Cory Hall |  | alanmi@eecs | Staff | EECS  | Mishchenko, Alan  
+Mitguard, Skyler  | 187 Cory Hall | 5106438400 | skyler@eecs | Staff | EECS  | Helmbrecht, Michael  
+Miyasaka, Yukio  | 333A Cory Hall |  | yukio_miyasaka@eecs | Postdoctorate | EE  | Mishchenko, Alan  
+Morgan, Nelson | 465 ICSI | +1 510 666-2931 | morgan@cs | Professor in Residence | EE  |   
+Muller, Richard |  | +1 510 642-0614 | muller@eecs | Emeritus | EE  |   
+Muller, Rikky | 564 Cory Hall | 5106427907 | rikky@eecs | Faculty | EE  |   
+Muppala, Aditya Varma  | 510 Cory Hall |  | muppala@eecs | Faculty | EE  |   
+Murch, Kater  | 392 Cory Hall |  | katermurch@eecs | Faculty | EE  |   
+Myers, Christopher  | 141 Sutardja Dai Hall |  | chrismyers@eecs | Staff | EECS  |   
+Nehrdich, Sebastian  |  |  | nehrdich@eecs | Postdoctorate | EECS  | Keutzer, Kurt  
+Nelson, Jelani | 633 Soda Hall |  | minilek@eecs | Faculty | CS  |   
+Neureuther, Andrew | 501 Cory Hall | +1 510 642-4590 | neureuth@eecs | Emeritus | EE  |   
+Ng, Ren | 8062 Berkeley Way West |  | ren@EECS | Faculty | CS  |   
+Nguyen, Clark | 516 Cory Hall | +1 510 642-6251 | ctnguyen@eecs | Faculty | EE  |   
+Nguyen, Michael  | 377 Cory Hall |  | mnguy@eecs | Staff | EECS  | Law, Katherina  
+Niknejad, Ali | 511 Cory Hall | +1 510 642-0459 | niknejad@eecs | Faculty | EE  |   
+Nikolic, Borivoje | 581 Soda Hall | +1 510 643-9297 | bora@eecs | Faculty | EE  |   
+Norouzi, Narges  | 775 Soda Hall |  | norouzi@eecs | Faculty | EECS  |   
+Nuzzo, Pierluigi  | 567 Cory Hall |  | nuzzo@eecs | Faculty | EE  |   
+O'Brien, James | 731 Soda Hall | +1 510 642-0865 | job@eecs | Faculty | CS  |   
+Oldham, Bill |  | +1 510 642-2318 | oldham@eecs | Faculty | EE  |   
+Ong, Pamela  | 353 Cory Hall |  | pong@eecs | Staff | EECS  | Flinker, Julia  
+Ortega, Ivan  | 465A Soda Hall |  | iaortega657@eecs | Staff | EECS  | Atchley, Kattt  
+Ousterhout, Kay  | 781 Soda Hall |  | kayo@eecs | Faculty | CS  |   
+Pahwa, Girish  | 550 Sutardja Dai Hall |  | pahwa@eecs | Staff | EECS  | Salahuddin, Sayeef  
+Pampori, Ahtisham Ul Haq  | 550 Sutardja Dai Hall |  | pampori@eecs | Postdoctorate | EECS  | Hu, Chenming  
+Papadimitriou, Christos | 689 Soda Hall | +1 510 642-1559 | christos@cs | Emeritus | CS  |   
+Parameswaran, Aditya | 787 Soda Hall |  | adityagp@eecs | Faculty | CS  |   
+Parekh, Shyam | 255M Cory Hall |  | shyam@eecs | Adjunct Professor | EE  |   
+Parsell, Christopher  | Jacobs Hall |  | cparsell@eecs | Staff | EECS  |   
+Paschall, Justin  | 465 Soda Hall |  | jpaschall@eecs | Staff | EECS  | Patterson, David  
+Patterson, David |  | +1 510 642-6587 | pattrsn@cs | Emeritus | CS  |   
+Paulos, Eric | 464 Sutardja Dai Hall | +1 510 843-2040 | paulos@cs | Faculty | CS  |   
+Pavel, Amy |  |  | amypavel@eecs | Faculty | CS  |   
+Paxson, Vern | 737 Soda Hall | +1 510 643-4209 | vern@cs | Faculty | CS  |   
+Pierson, Emma  | 387 Soda Hall |  | emmapierson@eecs | Faculty | CS  |   
+Pilawa-Podgurski, Robert | 573 Cory Hall |  | pilawa@eecs | Faculty | EE  |   
+Pister, Kristofer | 512 Cory Hall | +1 510 643-9268 | pister@eecs | Faculty | EE&CS  |   
+Polak, Elijah | 255M Cory Hall | +1 510 642-2644 | polak@eecs | Emeritus | EE  |   
+Ponnapalli, Soujanya  | 465 Soda Hall |  | soujanya@eecs | Postdoctorate | EECS  | Crooks, Natacha  
+Popa, Raluca | 387 Soda Hall |  | raluca@eecs | Faculty | CS  |   
+Preetam, Shruti  | 377 Cory Hall |  | shrutipreetam@eecs | Staff | EECS  | Law, Katherina  
+Qiao, Yifan  | 465 Soda Hall |  | yifanqiao@eecs | Postdoctorate | EECS  | Stoica, Ion  
+Rabaey, Jan | 563 Cory Hall | +1 510 642-2328 | jan@eecs | Faculty | EE  |   
+Raghavendra, Prasad | 623 Soda Hall |  | prasad@eecs | Faculty | CS  |   
+Ramchandran, Kannan | 257 Cory Hall | +1 510 642-2353 | kannanr@eecs | Faculty | EE&CS  |   
+Ranade, Gireeja | 565 Cory Hall |  | gireeja@eecs | Faculty | EE  |   
+Rao, Satish | 687 Soda Hall | +1 510 642-4328 | satishr@cs | Faculty | CS  |   
+Rashid, Atiya  | 118 Calvin Lab | 510-664-5238 | arashid123@eecs | Staff | EECS  | Mason, Drew  
+Ratnasamy, Sylvia | 413 Soda Hall | +1 510 642-8905 | sylvia@eecs | Faculty | CS  |   
+Ratzlaff, Joseph  | 126 Calvin Lab |  | jratz@eecs | Staff | EECS  | Mason, Drew  
+Ravnik, Katie  | 253 Cory Hall | +1 510 643-6633 | kravnik@eecs | Staff | EECS  | Chou, Faye  
+Raya, Lydia  | 349 Soda Hall | +1 510 644-4436 | lraya@EECS | Staff | EECS  | Chou, Faye  
+Recht, Benjamin  | 8008 Berkeley Way West |  | brecht@berkeley | Faculty | EECS  |   
+Rhee, Choong-Ho  |  |  | chrhee@eecs | Visiting Scholar | EECS  | Liu, Tsu-Jae  
+Rogers, Tyshon  | 310C/234 Jacobs Hall | n/a | trogers@eecs | Staff | Other  |   
+Rohrbach, Lars | 319 Soda Hall | +1 510 642-6792 | larsrohr@eecs | Staff | EECS  | Fraser, Eric  
+Rojas, Jessica  | 353 Cory Hall | +1 510 644-4674 | jessicarojas@EECS | Staff | EECS  | Flinker, Julia  
+Rowe, Lawrence |  | +1 510 642-5117 | larry@cs | Emeritus | CS  |   
+Roy, Arkadev  |  |  | arroy@eecs | Postdoctorate | BWRC  | Wu, Ming-Chiang  
+Roychowdhury, Jaijeet | 545E Cory Hall | +1 510 643-5664 | jr@eecs | Faculty | EE&CS  |   
+Ruggiero, Chris  | 223 Cory Hall | +1 510 642-2384 | chrisjru@eecs | Staff | EECS  | Flinker, Julia  
+Russell, Stuart | 8040 Berkeley Way West | +1 510 642-4964 | russell@cs | Faculty | CS  |   
+Ryu, Donghyun  | 5th floor Sutardja Dai Hall | 341-333-9508 | ehdgus9208@eecs | Postdoctorate | EECS  | Liu, Tsu-Jae  
+Sabin, Manuel  | 621 Soda Hall |  | msabin@eecs | Faculty | CS  |   
+Sadeghi, Mahsa  | BWRC |  | mahsa.sadeghi@eecs | Postdoctorate | EE  | Nikolic, Borivoje  
+Sahai, Anant | 267 Cory Hall | +1 510 642-9719 | sahai@eecs | Faculty | EE&CS  |   
+Salahuddin, Sayeef | 515 Sutardja Dai Hall | +1 510 642-4662 | sayeef@eecs | Faculty | EE  |   
+Sandall, Erik  | 110A Jacobs Hall | 510-664-7566 | eriksandall@eecs | Staff | EECS  | Gottbrath, Joseph  
+Sanders, Seth | 558B Cory Hall | +1 510 642-4425 | sanders@eecs | Emeritus | EE  |   
+Sandoval, Alex  | 385 Soda Hall | 2-0253 | alexandersandoval@eecs | Staff | EECS  | Chou, Faye  
+Sangiovanni-Vincentelli, Alberto | 515 Cory Hall | +1 510 642-4882 | alberto@eecs | Faculty | EE  |   
+Santillan, Matthew  | 253 Cory Hall | +1 510 643-4976 | msantillan@eecs | Staff | EECS  | Chou, Faye  
+Sastry, Sosale | 333C Cory Hall | +1 510 642-1857 | sastry@eecs | Faculty | EE  |   
+Scarlett, Savannah  | 379 Soda Hall |  | savannahscarlett@eecs | Staff | EECS  | Chou, Faye  
+Schmidt, Alexander  | 556 Sutardja Dai Hall |  | schmalex@eecs | Staff | EECS  | Salahuddin, Sayeef  
+Sen, Koushik | 735 Soda Hall | +1 510 642-2420 | ksen@eecs | Faculty | CS  |   
+Sequin, Carlo | 639 Soda Hall | +1 510 642-5103 | sequin@cs | Emeritus | CS  |   
+Seshia, Sanjit | 566 Cory Hall | +1 510 643-6968 | sseshia@eecs | Faculty | EE&CS  |   
+Shana'a, Osama | 253 Cory Hall |  | osama.shanaa@eecs | Adjunct Professor | EE  |   
+Shao, Sophia | 570 Cory Hall |  | ysshao@eecs | Faculty | EE&CS  |   
+Shenker, Scott | 415 Soda Hall | +1 510 643-3043 | shenker@eecs | Faculty | CS  |   
+Shewchuk, Jonathan | 529 Soda Hall | +1 510 642-3936 | jrs@cs | Faculty | CS  |   
+Shi, Amanda  |  |  | manshi@eecs | Postdoctorate | EECS  | Shao, Sophia  
+Shu, Janet  | 325 Soda Hall | +1 510 643-5112 | janetshu@eecs | Staff | EECS  | Fraser, Eric  
+Silva, Thomas  | 231 Cory Hall | 2-7699 | thomassilva@eecs | Staff | EECS  | Chou, Faye  
+Simon, Krystle  | 315 Soda Hall |  | krystle@eecs | Staff | EECS  | Chou, Faye  
+Sinclair, Alistair | 677 Soda Hall | +1 510 643-8144 | sinclair@cs | Faculty | CS  |   
+Sipahigil, Alp  | 572 Cory Hall |  | alp@eecs | Faculty | EECS  |   
+Skenderi, Lira  | 121 Calvin Lab |  | lira@eecs | Staff | EECS  |   
+Smith, Alan | 192 Soda Hall | +1 510 642-5290 | smith@eecs | Faculty | CS  |   
+Smithson, Judy  | 217 Cory Hall |  | jsmithson@eecs | Staff | EECS  | Chou, Faye  
+Sojoudi, Somayeh | 5114 Etcheverry Hall |  | sojoudi@eecs | Professor in Residence | EE  |   
+Song, Dawn | 675 Soda Hall | +1 510 642-8282 | dawnsong@cs | Faculty | CS  |   
+Song, Yun | 304B Stanley Hall | +1 510 642-2351 | yss@eecs | Faculty | CS  |   
+Spanos, Costas | Cory Hall | +1 510 643-6776 | spanos@eecs | Faculty | EE&CS  |   
+Speers, Ruben  | 266 SDH Unknown |  | rubenspeers@eecs | Staff | Other  |   
+Sreenath, Koushil  |  |  | koushils@eecs | Professor in Residence | MECH  |   
+Stoica, Ion | 449 Soda Hall | +1 510 643-4007 | istoica@eecs | Faculty | CS  |   
+Stojanovic, Vladimir | 558D Cory Hall | +1 510 664-4322 | vlada@eecs | Faculty | EE  |   
+Strauss, Jean-Nicolas  | Soda Hall |  | jnstrauss@eecs | Visiting Researcher | EECS  | Fletcher, Christopher  
+Suhr, Alane  | 8052 Berkeley Way West |  | suhr@eecs | Faculty | CS  |   
+Sun, Michael  | 205 Cory Hall | +1 510 643-8107 | msun86@eecs | Staff | EECS  | Chou, Faye  
+Sun, Tiffany  | 253 Cory Hall |  | tiffanysun1@eecs | Staff | EECS  | Chou, Faye  
+Tal, Avishay | 635 Soda Hall |  | atal@eecs | Faculty | CS  |   
+Tang, Haoning  | 533 Cory Hall |  | haoningtang@eecs | Visiting Faculty | EECS  |   
+Tennant, Jean-Paul  | 263 Cory Hall |  | jptennant@eecs | Lecturer | EECS  |   
+Thao, Karla  | 253 Cory Hall |  | kthao012@EECS | Staff | EECS  | Ruggiero, Chris  
+Tikhomirov, Grigory  | 568 Cory Hall |  | gt3@eecs | Faculty | EECS  |   
+Tomlin, Claire | 225 Cory Hall | +1 510 643-6610 | tomlin@eecs | Chair | EE&CS  |   
+Turner, Tracy  | 454 Sutardja Dai Hall |  | tallen@eecs | Staff | BECI  | Wright, Paul  
+Vazirani, Umesh | 671 Soda Hall | +1 510 642-0572 | vazirani@cs | Faculty | CS  |   
+Vladimirescu, Andrei  | 550 Cory Hall |  | andrei@eecs | Visiting Faculty | EE  |   
+Wagner, Allon  | 387 Soda Hall |  | allonwag@eecs | Faculty | CS  |   
+Wagner, David | 389 Soda Hall | +1 510 642-2758 | daw@cs | Faculty | CS  |   
+Waller, Laura | 514 Cory Hall | +1 510 642-2753 | waller@eecs | Faculty | EE&CS  |   
+Walrand, Jean |  | +1 510 642-1529 | wlr@eecs | Faculty | EE&CS  |   
+Wang, Bowen  | 465 Soda Hall |  | wangbw@eecs | Visiting Researcher | EECS  | Stoica, Ion  
+Wang, Yingchen  |  |  | yingchenwang@eecs | Postdoctorate | EECS  | Fletcher, Christopher  
+Wawrzynek, John | 383 Soda Hall | +1 510 643-9434 | johnw@cs | Faculty | EE&CS  |   
+Weber, Christy  |  |  | cweber@eecs | Staff | Other  |   
+Werthimer, Dan  | BWRC |  | danw@eecs | Staff | BWRC  | Werthimer, Dan  
+Willsey, Max  | 725 Soda Hall |  | mwillsey@eecs | Faculty | CS  |   
+Wong, Eugene | 269M Cory Hall | +1 510 642-8458 | wong@eecs | Emeritus | EE  |   
+Wong, Ming  | 377 Cory Hall | +1 510 643-2954 | ming@eecs | Staff | EECS  | Law, Katherina  
+Wright, John | 683 Soda Hall |  | jswright@eecs | Faculty | CS  |   
+Wright, Paul  | 456 Sutardja Dai Hall |  | pwright@eecs | Faculty | BWRC  |   
+Wu, Felix | 269M Cory Hall | +1 510 642-9455 | ffwu@eecs | Emeritus | EE  |   
+Wu, Ming-Chiang | 621D Sutardja Dai Hall | +1 510 643-0808 | wu@eecs | Faculty | EE  |   
+Wu, Xiaoman  | 377 Cory Hall |  | xmw@eecs | Staff | EECS  | Law, Katherina  
+Wu, Yongji  | 465 Soda Hall |  | yongji.wu@eecs | Postdoctorate | EECS  | Stoica, Ion  
+Yablonovitch, Eli | 267M Cory Hall |  | eliy@eecs | Faculty | EE  |   
+Yamasaki, Naomi  | 524 Soda Hall | +1 510 710-8488 | naomiy@eecs | Staff | EECS  | Jordan, Michael  
+Yan, Lisa  | 783 Soda Hall |  | yanlisa@eecs | Faculty | CS  |   
+Yang, Allen | 333B Cory Hall |  | yang@eecs | Lecturer | CS  |   
+Yang, Lucas  |  |  | lucasyang@eecs | Postdoctorate | EECS  | Wu, Ming-Chiang  
+Yang, Yaoqing  |  |  | yyaoqing@eecs | Postdoctorate | EECS  | Mahoney, Michael  
+Yeh, Annie  | Sutardja Dai Hall |  | annieyeh@eecs | Staff | CITRIS  | Turner, Tracy  
+Yelick, Katherine | 771 Soda Hall | +1 510 642-8900 | yelick@cs | Faculty | CS  |   
+Yong, Seunghyun  |  |  | shyong@eecs | Visiting Researcher | EECS  | Fletcher, Christopher  
+Young, Anne  | BWRC |  | anne_young@eecs | Staff | BWRC  | Candelaria, Jonathan  
+Young, Carson  | 118 Calvin Lab |  | carsonfoxyoung@eecs | Staff | EECS  | Mason, Drew  
+Yu, Mengjie  | 508 Cory Hall |  | mengjie.yu@eecs | Faculty | EE  |   
+Yu, Stella | Soda Hall | +1 510 642-4979 | stellayu@eecs | Visiting Faculty | CS  |   
+Zaharia, Matei  |  |  | matei@eecs | Faculty | CS  |   
+Zakhor, Avideh | 507 Cory Hall | +1 510 643-6777 | avz@eecs | Faculty | EE  |   
+Zarkos, Panagiotis  |  |  | panzarkos@eecs | Alumni | EE  | Chien, Jun-Chau  
+Zeighami, Sepanta  | 465 Soda Hall |  | zeighami@eecs | Postdoctorate | EECS  | Parameswaran, Aditya  
+Zhang, Jintao  | 465 Soda Hall |  | jintaozhang@eecs | Visiting Scholar | EECS  | Stoica, Ion  
+Zhang, Tianlun  | 307 Cory Hall |  | tianlun_zhang@eecs | Staff | EECS  | Sastry, Sosale  
+Zheng, Wenzhao  |  |  | wzzheng@eecs | Postdoctorate | EECS  | Keutzer, Kurt  
+Zhou, Yang  | Soda Hall |  | yangzhou.rpc@eecs | Postdoctorate | EECS  | Stoica, Ion  
+  
+This campus directory is the property of the University of California, Berkeley. To protect the privacy of individuals listed herein, in accordance with the State of California Information Practices Act, **this directory may not be used, rented, distributed, or sold for commercial purposes**. 
+
+This file was automatically generated on Thu. Mar 12, 2026 at 11:21:19 PDT
+
+Send requests for updates to roster@eecs.  
+Send any other questions or comments about this page to acg@eecs. 

@@ -1,0 +1,46 @@
+  * Department Chairs 
+  * External Relations Group 
+
+
+
+##  Department Chairs 
+
+###  Claire Tomlin 
+
+EECS Department Chair 
+
+Claire Tomlin holds the James and Katherine Lau Chair in Engineering at Berkeley. She earned degrees in electrical engineering from the University of Waterloo (BS ’92), the Imperial College, London (MS ’93), and Berkeley EECS (PhD ’98). Her research interests include hybrid systems, distributed and decentralized optimization, and control theory, with an emphasis on applications, unmanned aerial vehicles, air traffic control and modeling of biological processes. She taught at Stanford University from 1998 to-2007 where she was a director of the Hybrid Systems Laboratory and held joint positions the Department of Aeronautics and Astronautics and the Department of Electrical Engineering. She was awarded a MacArthur Genius grant in 2006 and the IEEE Transportation Technologies Award in 2017 “for contributions to air transportation systems, focusing on collision avoidance protocol design and avionics safety verification.”
+
+###  Clark Nguyen 
+
+EE Division Chair 
+
+Clark T.-C. Nguyen graduated from Berkeley EECS (BS ’88, MS’91, PhD ’94) and taught at the University of Michigan, Ann Arbor, from 1995 to 2006, before returning to join the Berkeley faculty. He currently serves as the Executive Director of the Berkeley Sensor & Actuator Center (BSAC) and explores micro electromechanical systems (MEMS), particularly integrated micromechanical signal processors and sensors, merged circuit/micromechanical technologies, RF communication architectures, and integrated circuit design and technology. He was a member of NASA’s New Millennium Integrated Product Development Team on Communications in the late 1990s, which roadmapped future communications technologies for NASA, and founded Discera, Inc. in 2001, the first company to commercialize MEMS-based timing products using the very vibrating micromechanical resonators pioneered by his research.
+
+###  David Wagner 
+
+CS Division Chair 
+
+David Wagner earned an A. B. in Mathematics from Princeton (’95), and M.S./Ph.D. degrees from Berkeley EECS (1999/2000) where he was advised by Eric Brewer. His research interests include computer security, systems security, usable security, and program analysis for security. He has previously worked on security for wearable devices, smartphone security, software security, electronic voting, wireless security, sensor network security, and applied cryptography. He is part of Berkeley’s security research group, was a PI for the Intel Science and Technology Center for Secure Computing, an active member of the TRUST and ACCURATE centers, and is part of the Science of Security project. His software includes: OpenCount, a tool to help with auditing of elections conducted using optical-scan paper ballots; Joe-E, a Java-based programming language for secure programming; html-sanitizer-testbed, a suite of tests to probe the security of a HTML sanitizer; and CQual++, a tool for type inference analysis of C and C++ code.
+
+##  External Relations Group (XRG) 
+
+###  Sayeef Salahuddin 
+
+EE Division Co-Chair, External Relations 
+
+###  Trevor Darrell 
+
+CS Division Co-Chair, External Relations 
+
+###  Bennett Agnew 
+
+Director, External Relations 
+
+public-relations@eecs.berkeley.edu
+
+< BEARS 2023: Schedule
+
+BEARS 2023 Open House: Labs and Centers >
+
+View  Open Faculty Positions __

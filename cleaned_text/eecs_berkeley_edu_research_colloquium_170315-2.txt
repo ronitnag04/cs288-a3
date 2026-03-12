@@ -1,0 +1,25 @@
+## EECS Colloquium
+
+### Wednesday, May 3, 2017
+
+306 Soda Hall (HP Auditorium)  
+5:00 – 6:00 pm
+
+### David Patterson
+
+EECS Professor Emeritus and Professor in the Graduate School, UC Berkeley  
+Distinguished engineer, Google
+
+[[{“fid”:”828″,”view_mode”:”default”,”fields”:{“format”:”default”,”field_file_image_alt_text[und][0][value]”:false,”field_file_image_title_text[und][0][value]”:”EECS Prof. Emeritus David Patterson speaks on “Evaluation of the Tensor Processing Unit: A Deep Neural Network Accelerator for the Datacenter,” 3/15/17″},”type”:”media”,”field_deltas”:{“1”:{“format”:”default”,”field_file_image_alt_text[und][0][value]”:false,”field_file_image_title_text[und][0][value]”:”EECS Prof. Emeritus David Patterson speaks on “Evaluation of the Tensor Processing Unit: A Deep Neural Network Accelerator for the Datacenter,” 3/15/17″}},”attributes”:{“title”:”EECS Prof. Emeritus David Patterson speaks on “Evaluation of the Tensor Processing Unit: A Deep Neural Network Accelerator for the Datacenter,” 3/15/17″,”class”:”panopoly-image-original media-element file-default”,”data-delta”:”1″}}]]
+
+#### Abstract
+
+With the ending of Moore’s Law, many computer architects believe that major improvements in cost-energy-performance must now come from domain-specific hardware. The Tensor Processing Unit (TPU), deployed in Google datacenters since 2015, is a custom chip that accelerates deep neural networks (DNNs). We compare the TPU to contemporary server-class CPUs and GPUs deployed in the same datacenters. Our benchmark workload, written using the high-level TensorFlow framework, uses production DNN applications that represent 95% of our datacenters’ DNN demand. The TPU is an order of magnitude faster than contemporary CPUs and GPUs and its relative performance per Watt is even larger.
+
+#### Biography
+
+After 40 years as a UC Berkeley professor, David Patterson retired in 2016 and joined Google as a distinguished engineer. He has been Chair of Berkeley’s CS Division, Chair of the Computing Research Association, and President of the Association for Computing Machinery. His most successful research projects have been Reduced Instruction Set Computers (RISC), Redundant Arrays of Inexpensive Disks (RAID), and Network of Workstations. All helped lead to multibillion-dollar industries. This research led to many papers, six books, and about 40 honors, including election to the National Academy of Engineering, the National Academy of Sciences, the Silicon Valley Engineering Hall of Fame, and Fellow of the Computer History Museum. He shared the IEEE von Neumann Medal and the NEC C&C Prize with John Hennessy, past president of Stanford University and co-author of two of his books.
+
+##  Video of Presentation 
+
+View  Open Faculty Positions __

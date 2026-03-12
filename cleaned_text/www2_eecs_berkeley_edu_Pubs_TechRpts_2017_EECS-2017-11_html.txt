@@ -1,0 +1,50 @@
+### Pengpeng Lu and Elad Alon
+
+### EECS Department, University of California, Berkeley
+
+### Technical Report No. UCB/EECS-2017-11
+
+###  May 1, 2017 
+
+###  http://www2.eecs.berkeley.edu/Pubs/TechRpts/2017/EECS-2017-11.pdf
+
+Recent advance in wireless technologies has enabled rapid growth of data traffic. Consequently, emerging applications for mobile devices impose a big challenge on our network. To solve this problem, researchers at BWRC have proposed the âxGâ vision. In our âxGâ vision, we would build a network that can grow organically. Basically we would spread access points (hubs) everywhere and allow them to talk to each other to form a mesh network. Also, we would put large antenna arrays on the large surfaces around us â tables, walls, floors, ceilings, etc, so that these large antenna arrays (âeWallpaperâ) could help out small terminals to do beam forming and signal processing. This report therefore focuses on the design of RF transmitters on the âeWallpaperâ.
+
+As part of the âxGâ vision, the âeWallpaperâ should have good spatial selectivity, low out-of-band noise and low power consumption, making the design of the RF transmitters challenging. Taking into account the limited power budget, this report investigates the design choices of the number of antennas in the whole system and on one chip. In order to reduce the out-of-band noise while minimizing the power consumption, a new topology called âcurrent-integratingâ DAC is proposed. It utilized the fact that integrating in time domain creates notches in frequency domain to cancel out the images of the signal. To improve the efficiency and scalability of the transmitter, switched-cap DC-DC converter is embedded in the âcurrent-integratingâ DAC.
+
+**Advisors:** Elad Alon
+
+* * *
+
+BibTeX citation:
+    
+    
+    @mastersthesis{Lu:EECS-2017-11,
+        Author= {Lu, Pengpeng and Alon, Elad},
+        Title= {RF Transmitter Design for Large Array Applications},
+        School= {EECS Department, University of California, Berkeley},
+        Year= {2017},
+        Month= {May},
+        Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2017/EECS-2017-11.html},
+        Number= {UCB/EECS-2017-11},
+        Abstract= {Recent advance in wireless technologies has enabled rapid growth of data traffic. Consequently, emerging applications for mobile devices impose a big challenge on our network. To solve this problem, researchers at BWRC have proposed the âxGâ vision. In our âxGâ vision, we would build a network that can grow organically. Basically we would spread access points (hubs) everywhere and allow them to talk to each other to form a mesh network. Also, we would put large antenna arrays on the large surfaces around us â tables, walls, floors, ceilings, etc, so that these large antenna arrays (âeWallpaperâ) could help out small terminals to do beam forming and signal processing. This report therefore focuses on the design of RF transmitters on the âeWallpaperâ.
+    
+    As part of the âxGâ vision, the âeWallpaperâ should have good spatial selectivity, low out-of-band noise and low power consumption, making the design of the RF transmitters challenging. Taking into account the limited power budget, this report investigates the design choices of the number of antennas in the whole system and on one chip. In order to reduce the out-of-band noise while minimizing the power consumption, a new topology called âcurrent-integratingâ DAC is proposed. It utilized the fact that integrating in time domain creates notches in frequency domain to cancel out the images of the signal. To improve the efficiency and scalability of the transmitter, switched-cap DC-DC converter is embedded in the âcurrent-integratingâ DAC.},
+    }
+    
+
+EndNote citation:
+    
+    
+    %0 Thesis
+    %A Lu, Pengpeng 
+    %A Alon, Elad 
+    %T RF Transmitter Design for Large Array Applications
+    %I EECS Department, University of California, Berkeley
+    %D 2017
+    %8 May 1
+    %@ UCB/EECS-2017-11
+    %U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2017/EECS-2017-11.html
+    %F Lu:EECS-2017-11
+    
+    

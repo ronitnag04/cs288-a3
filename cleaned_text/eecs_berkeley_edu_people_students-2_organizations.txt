@@ -1,0 +1,392 @@
+##  In This Page 
+
+  * Groups allowed to book rooms 
+
+Only a subset of EECS-affiliated student groups may reserve rooms in Cory and Soda Halls. 
+
+  * All EECS-affiliated groups 
+  * All EE-affiliated groups 
+  * All CS-affiliated groups 
+  * All EECS-affiliated Campus STEM groups and cultural networks 
+
+
+
+#### The LEAD Center
+
+Any student organization wishing to receive EECS Department support or use departmental space must be a member of the LEAD center. The LEAD Center maintains a complete list of UC Berkeley student organizations and explains how you can start your own student organization. See also Engineering Student Teams and Organizations.
+
+##  Student groups allowed to book rooms 
+
+Only the leaders of the following groups are permitted to reserve rooms in Cory and Soda Halls:
+
+  * AWE
+  * BESSA
+  * BGESS
+  * Bias Busters
+  * CSGSA
+  * CS Kickstart
+  * CS Mentors
+  * CSUA
+  * EEGSA
+  * HES
+  * HKN
+  * IEEE
+  * LAGSES
+  * QICSE
+  * UPE
+  * WICSE
+
+
+
+Only the leaders of the following groups are permitted to hold events with food/drink in Cory and Soda Halls:
+
+  * EECSA
+  * CSGSA
+  * WICSE
+  * QICSE
+  * LAGSES
+  * BGESS
+  * BiasBusters
+
+
+
+_(Last updated: 22-Aug-2022)_
+
+##  EECS organizations 
+
+### The Association of Women in EE & CS (AWE)
+
+Formerly AUWICSEE.
+
+aweberkeley@gmail.com
+
+AWE is a supportive community at UC Berkeley that seeks to empower women pursuing Computer Science and/or Electrical Engineering. AWE provides exposure to industry and research opportunities, as well as space to connect with each other, by hosting various academic, social, and professional events throughout the academic year.
+
+### Bias Busters
+
+biasbusters-admin@lists.eecs.berkeley.edu
+
+Bias Busters is an organization run by students, faculty, and staff to address implicit bias issues in the EECS department. Our goal is to make our department welcoming and inclusive to all, helping us to continue to be one of the best departments in the nation.
+
+### Black Engineering and Science Student Association (BESSA)
+
+ucberkeleybessa@gmail.com
+
+BESSA is UC Berkeley’s National Society of Black Engineers (NSBE) collegiate chapter. We provide a space for all folks within STEM, not limited to CS or engineering. Our mission is to increase the number of black engineers and scientist to excel academically, succeed professionally and positively impact the community. We participate in a variety of community events both cultural and academic along with providing a community to create study groups for popular technical classes.
+
+### Blockchain at Berkeley
+
+admin@blockchain.berkeley.edu
+
+Blockchain at Berkeley is a university-based organization out of UC Berkeley dedicated to serving the crypto and blockchain communities. Our members comprise of 60+ active undergraduate and graduate students from Berkeley Engineering, Haas, and Berkeley Law, and a wealth of advisors from both industry and academia. We primarily focus on developing blockchain solutions as part of our consulting department for Fortune 500 companies, with our capabilities ranging from Proof of Concepts to advisory and consultancy. We also offer on and off-campus courses through our education department that range from offering fundamental know-how of the blockchain space to skills for developers to have the means to become a full-stack blockchain developer. Visit us at blockchain.berkeley.edu if you are interested in learning more about us.
+
+### Cloud at Cal
+
+cloudatcal@gmail.com
+
+Cloud at California is UC Berkeley’s Largest Cloud Computing Organization and provides UC Berkeley students with opportunities to learn and apply cloud technologies. Members develop hands-on skills in cloud infrastructure, data analytics, machine learning, and more through workshops and consulting projects. In the past, we have worked with companies including Amazon and Accenture, as well as research labs in UCSF and MIT. We aim to provide our members with academic and real-world industry experience in a wide range of computer science fields, to become well-rounded researchers and developers.
+
+### EECS Transfers at Berkeley
+
+EECS Transfers at Berkeley aims to build a community and provide resources to better ensure academic success and career readiness for transfer students interested in the fields of EECS & CS. We try to create an open and fun environment where anyone with any skill level can join us!
+
+### Eta Kappa Nu (HKN) EECS Honor Society
+
+hkn@hkn.eecs.berkeley.edu
+
+Eta Kappa Nu (HKN) is the Electrical Engineering and Computer Sciences honor society. The Berkeley (Mu) chapter is among the most active engineering societies at Cal, providing a variety of services to the students and staff at Berkeley. We offer free drop-in tutoring in both of our offices, 345 Soda and 290 Cory, from 11am to 5pm Mondays through Fridays. Many resources can be found on our website, such as course guides, an archive of past examinations, and semesterly evaluations of all EECS classes. Besides activities on campus, HKN also helps with many community service events to give back to the surrounding neighborhood. In addition, HKN has a long history of assisting companies in coordinating infosessions and career fairs. Membership in Eta Kappa Nu is extended to the top fourth of the junior class and the top third of the senior class in the EECS department.
+
+### Graduates for Engaged and Extended Scholarship around Computing & Engineering (GEESE)
+
+geese-org@lists.berkeley.edu
+
+GEESE aims to address growing concerns around the rapid advancement and integration of technologies by building a campus community of graduate students and postdocs that brings together disciplines and perspectives to promote cross-disciplinary and engaged scholarship on issues that cannot be purely addressed from the silos of our individual fields.
+
+### Machine Learning at Berkeley (ML@B)
+
+contact@ml.berkeley.edu
+
+Machine Learning at Berkeley (ML@B) is the premiere data science and machine learning student organization at UC Berkeley. Our goal is to build a community around ML while bridging the gap between industry and research. Every semester, we work with companies to experiment and apply these techniques in novel ways. ML@B members get the opportunity to use terabytes of data to create tools that do astonishing things, from predicting the prices of the stock market to exposing the underlying value of written text. Our focus on the future of computer science through ML affords us many opportunities that we use to drive research and education. We sponsor several research projects on the bleeding edge of ML over the semester and host a range of classes and workshops. ML@B members are chosen through a rigorous application process and are highly desired for their accomplishments and expertise. If you’d like to know more, feel free to email our club or check out our website.
+
+### Neurotech@Berkeley 
+
+contact@neurotech.berkeley.edu
+
+Neurotech@Berkeley serves as a hub for discussing the myriad technologies used in research and industry to collect, analyze, and utilize signals from the brain. As a student organization, we focus on non-invasive techniques such as EEG, TMS, and fMRI. Through meetings, workshops, and events, we aim to educate the wider community about the challenges and benefits of biosensing and neurotechnology. We further aim to be the central repository for biosensing hardware at UC Berkeley, providing access to devices for students to use for class, hackathons, or other projects.
+
+###  Queer Graduate Students in Computer Science and Electrical Engineering (QICSE)
+
+qicse@lists.eecs.berkeley.edu
+
+QICSE is the organization of queer graduate students in Computer Science and Electrical Engineering at the University of California at Berkeley. QICSE is a social group that supports gay, lesbian, bisexual, transgender, intersex, questioning, or queer grad students and their allies within the EECS department by offering them opportunities to connect to each other and with the broader campus community.
+
+###  Robotics@Berkeley (R@B)
+
+leadership@rab.berkeley.edu
+
+The mission of Robotics at Berkeley is to create and maintain a financial, social, and informational hub for undergraduate roboticists at UC Berkeley by
+
+  1. Providing monetary, informational, and administrative support for students. robotics-related projects and competition teams,
+  2. Collecting and publicizing information about and opportunities in UC Berkeley’s robotics-related student groups and research labs, and
+  3. Organizing socially and intellectually engaging events for roboticists of all ages, majors, and interests.
+
+
+
+###  Women in Computer Science and Electrical Engineering (WICSE)
+
+wicse-presidents@lists.eecs.berkeley.edu
+
+WICSE is an organization that aims to support women graduate students in Computer Science and Engineering at the University of California in Berkeley. We meet every week for a casual lunch, and maintain several ongoing projects, including a mentorship program for new graduate students as well as larger social events and meetups within Berkeley and across universities.
+
+##  EE organizations 
+
+### Black Graduate Engineering and Science Students (BGESS)
+
+bgess.berkeley@gmail.com
+
+BGESS is dedicated to the nurturing of academic and social support systems for historically underrepresented students in the United States at UC Berkeley. Black Graduate Engineering and Science Students (BGESS) has been established for 31 years with a fourfold mission: recruitment, retention, and professional development of Black graduate students in STEM fields at Berkeley, along with outreach to the local community. Their events and activities focus on delivering on that mission.
+
+### Electrical Engineering Graduate Student Association (EEGSA)
+
+The Electrical Engineering Graduate Student Association is a service and social organization within the EECS department at UC Berkeley. They organize prelim review sessions, provide peer advising services, and assist with new student orientation. In an effort to promote communication and camaraderie within the department, they sponsor social activities such as the weekly coffee hours. EEGSA also sponsors occasional ice cream socials, wine and cheese parties, and dances.
+
+### Formula Electric at Berkeley (EV)
+
+_Formerly Berkeley Hyperloop_
+
+contact@ev.berkeley.edu
+
+Formula Electric at Berkeley is a team of undergraduate and graduate students that designs, builds, and races a formula-style electric race car in the Formula SAE EV competition. We aim to push the boundaries of sustainable transportation technology while equipping teammates with valuable engineering and entrepreneurial skills.
+
+### Institute of Electrical and Electronics Engineers (IEEE Student Branch)
+
+_Formerly UCSEE_
+
+ieee@berkeley.edu
+
+We are the student chapter of IEEE at U.C. Berkeley. As an active organization on campus, we provide lab services, promote student professional awareness, participate in outreach programs, and serve as the backbone for student-industry networking in EECS. In addition to hosting industry events such as infosessions and the semi-annual Startup Fair, we plan social activities to maintain balance with the technical atmosphere.
+
+### Society of Women Engineers (SWE)
+
+swe.berkeley@gmail.com
+
+Society of Women Engineers is a national nonprofit organization. SIts objective is to encourage and empower women to reach their full potential as engineers. SWE strives to highlight the achievements and contributions of women as leaders and engineers. Supporting both students and professionals, SWE consists of over 17,000 members in 90 sections and 300 student sections. The UC Berkeley student chapter has been established since 1975 and supports students through professional development, social events and outreach to young women interested in the STEM field.
+
+##  CS organizations 
+
+### ANova
+
+executive@berkeleyanova.org
+
+ANova is a student organization dedicated to improving computer science education in under-resourced communities across the Bay Area. We partner with middle and high school teachers and administrators to develop curriculum catered individually for each classroom. Our outreach and mentorship efforts strive to introduce students of all backgrounds to computer science.
+
+### BERKE1337 Computer Security Team
+
+berke1337-admin@lists.berkeley.edu
+
+The BERKE1337 Computer Security Team is a group of computer security enthusiasts at UC Berkeley. Our mission is to organize, hack, defend, and educate our members in the field of security with particular emphasis on understanding emerging technologies and developing practical security skills. We compete in many cyber security competitions such as CTFs and CCDC in order to fortify and practice our security knowledge in a safe and ethical way.
+
+### Cal Blueprint
+
+Contact Cal Blueprint
+
+Blueprint is a club at UC Berkeley that develops pro-bono apps for nonprofits and promotes tech for social good. Our mission is to make beautiful engineering accessible and useful for those who create communities and promote public welfare. We place the interests of the people and partners we serve above our own; value the academic, social, and personal growth of our peers; seek to cherish our time spent together; recognize that change is both inevitable and necessary; ande strive to remain humble, accept our imperfections, and be receptive to feedback.
+
+### CodeBase
+
+contact@codebase.berkeley.edu
+
+CodeBase is one of Berkeley’s first technical consulting groups, spearheading technical challenges for high-growth startups. CodeBase helps companies bridge technical gaps by developing mobile and web applications, assisting companies in setting up scalable infrastructure, providing code review/application testing, and implementing future product features for research and evaluation.
+
+### Codeology
+
+info@codeology.club
+
+Whether coding is already your passion or you’ve yet to print your first “Hello World,” Codeology aims to provide a tight-knit community to support you in “finding your fit” in the world of tech. Through projects, professional development, industry events, and social events, we offer opportunities to help our members explore different roles in the tech industry and develop technical expertise in their areas of interest!
+
+### Code the Change, Berkeley chapter
+
+berkeley@codethechange.org
+
+Code the Change is an organization that empowers computer scientists to use their technical skills for social good through non-profit projects. The Berkeley chapter consists of two divisions. Our DeCal program is intended for students with less experience in computer science; it offers them a chance to learn web development while working on a project for a nonprofit organization. Our other division is comprised of project teams, which work on more challenging projects for nonprofits.
+
+### Cognitive Science Students Association (CSSA)
+
+cssa@ocf.berkeley.edu
+
+CSSA is an undergraduate organization at UC Berkeley whose mission is to support and enrich the academic life of anyone interested in the interdisciplinary study of the brain and mind. Cognitivie science involves fields such as neuroscience, psychology, philosophy, linguistics, computer science, social cognition, and others, to try to shed light on how the mind works. We regularly coordinate academic events such as guest lectures and information sessions; plan social events like professor-student dinners and cog sci themed gatherings; and work with cog sci faculty and university officials to provide assistance for students. Additionally, the CSSA teaches its own decal on research methodology, has an academic outreach program, and organizes the annual California Cognitive Science Conference
+
+### Computer Science Graduate Entrepreneurs (CSGE)
+
+Join the members-only mailing list by sending an email to sympa@lists.eecs.berkeley.edu with the following subject: `subscribe csge-members@lists.eecs.berkeley`
+
+The CSGE (Computer Science Graduate Entrepreneurs) is an organization for graduate students, alumni, and faculty of the Computer Science department at UC Berkeley. Our vision is a thriving culture of entrepreneurship in the department producing the world’s most influential startups and entrepreneurs. We work toward this goal by collecting and transferring ideas, experience, and connections from generation to generation of entrepreneurial Berkeley EECS graduate students and alumni.
+
+### Computer Science Graduate Student Association (CSGSA)
+
+csgsa@cs.berkeley.edu
+
+The Computer Science Graduate Student Association is the only student-run organization serving the CS graduate student community at Berkeley. The CSGSA sponsors orientation programs for new students, a number of academic and administrative services, and hosts a variety of social events throughout the year.
+
+### Computer Science KickStart  (CSK)
+
+apps.cskickstart@gmail.com
+
+CS KickStart is a one week introductory class in computer science designed for incoming freshman women at UC Berkeley. Participants learn how to program, learn about the different areas of computer science, and meet other computer science students.
+
+### Computer Science Mentors (CSM)
+
+mentors@berkeley.edu
+
+Computer Science Mentors is dedicated to UC Berkeley’s community of computer science educators and students. We provide academic and social support not only through various events, but also by offering aspiring educators mentorship, leadership, and teaching opportunities, and offering students supplementary sections (including for EE 16A) and one-on-one tutoring.
+
+### Computer Science Undergraduate Association (CSUA)
+
+politburo@csua.berkeley.edu _  
+_
+
+The CSUA is a social computer science club dedicated to supporting the undergraduate computer science student body. It provides social events, workshops, tech talks, and hackathons for students and works with companies to act as an entry point to industry.
+
+### Data Science Society at Berkeley
+
+dss.berkeley@gmail.com
+
+Data Science Society at Berkeley is UC Berkeley’s first undergraduate student organization focused on Data Science. Established on the pillars of education, professional development, and community, Data Science Society has a long-standing record of helping students build their data science skills through learning opportunities and cultivating an academic and professional environment by connecting students with industry leaders and researchers. We have 5 teams helping us promote our mission: Academic Development Committee, Analytics Committee, DeCal Team, Career Development Committee, and our Culture Committee. We also have a General Membership program in which groups of General Members are mentored by the Academic Development Committee and work on a data science project of their choice.
+
+### Game Design and Development Club
+
+calgamedesign@gmail.com
+
+The Game Design and Development Club strives to build a community for anyone interested in gaming – whether it’s playing, creating, or discussing games. We run a DeCal that provides a structured approach and club programs that bring a more self-paced approach to learning game development. We also have a Discord community open to everyone interested in learning and collaborating on game projects. Additionally, we host a number of events every semester including, a hackathon called Bear Jams!
+
+### Generative AI at Berkeley
+
+berkeleygenai@gmail.com
+
+Generative AI at Berkeley is the biggest Generative AI student organization at UC Berkeley. We focus on exploring the groundbreaking field of Generative AI as well as its transformative potential applications. Members collaborate on diverse projects that combine technical and creative work: applying cutting-edge technologies such as Stable Diffusion and LLMs to real-world problems or exploring new forms of artistic expression through multi-modal AI. We offer a space for anyone simply seeking to learn more about Generative AI and find others who share that interest. Whether you are a coder, artist, musician, or anyone else, this club offers an inclusive and social space for anyone curious about the limitless possibilities of Generative AI.
+
+### Hackers at Berkeley (HACK)
+
+ir@hackersatberkeley.com
+
+Hackers at Berkeley is an organization that fosters a culture of creation at Berkeley. It strives to encourage, stimulate, and maintain excellence in scholarship of its members in all fields, particularly in software engineering, and to advance the art of ethical software development.
+
+### Hack the Bay (CalHacks)
+
+team@calhacks.io
+
+Cal Hacks organizes and runs large-scale computer science and technology entrepreneurship related events
+
+### Launchpad
+
+team@callaunchpad.org
+
+Launchpad is a project-based organization that develops applications using artificial intelligence and machine learning. Our members work on projects such as music generation, image and music classification, and reinforcement learning in robotics. We also like to hold external events to contribute to the general Berkeley CS community. Our vision is to turn the theory students learn from intelligent software classes into real applications that teams can take ownership of.
+
+### Mobile Developers of Berkeley (MDB)
+
+contact@mobiledevsberkeley.org
+
+MDB provides a collaborative environment for members to grow their technical skills while building the next generation of software products. Our dev cycle is designed to produce the best environment for our members to build cutting-edge apps. Through weekly workshops and major events, it provides a framework to guide our teams to success. Along each stage of the cycle, our teams receive support from mentors and industry advisors. Each team has access to a wealth of resources such as professional software, technical assistance, marketing outlets, and funding.
+
+### Open Computing Facility (OCF)
+
+help@ocf.berkeley.edu
+
+The OCF is a student-run, student-funded organization and is dedicated to free computing for all University of California at Berkeley students, faculty, and staff. The mission of the OCF is to provide an environment where no member of Berkeley’s campus community is denied the computer resources he or she seeks, to appeal to all members of the Berkeley campus community with unsatisfied computing needs, and to provide a place for those interested in computing so that they can fully explore that interest.
+
+### Philosophy of Computation at Berkeley (POCAB)
+
+berkeleypoc@gmail.com
+
+We are a group of students working towards computer science as an end in itself, software engineers who think deeply about ethics, and radically cross-disciplinary trains of thought. We talk about things like culture and paradoxes, brain development and computation, P vs. NP, and how to make robots that would not try to destroy humanity.
+
+We are offering a DeCal, “The Poetry of Computer Science, the Computer Science of Poetry: Philosophy of Computation” in Fall 2017! Like our Facebook page at https://pocab.wordpress.com/ to stay updated.
+
+### UC Berkeley Undergraduate Graphics Group (UCBUGG)
+
+staff[AT]ucbugg[DOT]com
+
+The UC Berkeley Undergraduate Graphics Group is a casual bunch of students at Berkeley who want to introduce our fellow students to the process of producing a 3D animated short film. The course is offered through Democratic Education at Cal.
+
+### Undergraduate Group for Theoretical Computer Science (UGTCS)
+
+Contact UGTC
+
+Give students interested in theoretical computing the resources to better their knowledge and interact with students with similar interests.
+
+### Upsilon Pi Epsilon (UPE) Computer Science Honor Society
+
+officers@upe.berkeley.edu
+
+Upsilon Pi Epsilon is the first and only international honor society for the Computing Sciences. The Nu chapter of UPE at UC Berkeley was founded in 1995 and continues to serve Computer Science undergraduate students in the College of Computing, Data Science, and Society. We are committed to promoting more social interaction and communication, and relationships between undergraduate students, faculty, and industry in the computing discipline. We identify with academic excellence and work to assist undergraduate computer science students with opportunities that are otherwise not available in the curriculum. We offer assistance in lower-division labs, luncheons with faculty members, info-sessions from the industry, and a variety of social events every semester.
+
+##  Campus STEM and Cultural Networks 
+
+### Blueprint, Technology for Nonprofits(BP)
+
+team@calblueprint.org
+
+Blueprint’s mission is to make beautiful engineering accessible and useful for those who create communities and promote public welfare. As a student organization on campus, we use technology to build applications and bring knowledge to local non-profit organizations that are making social change. We want to aid and be part of the group of community builders who are doing meaningful productive work. Each semester, teams of five students each work with these organizations to implement technologies for efficiency and accessibility. We are always looking for self-driven students, who like to learn new things and can bring their own expertise to the table!
+
+### Diversatech
+
+diversatech.berkeley@gmail.com
+
+DiversaTech is a student-run technology consulting organization at UC Berkeley. We are firm believers that the most innovative and creative solutions arise from diversity of thought. Therefore, we form interdisciplinary teams of undergraduates from all corners of campus to connect, collaborate, and create. Combining engineering, design, and business principles, we deliver dynamic and actionable recommendations to address our clients’ most pressing technology needs. Our most recent clients include Google, LinkedIn, Adobe, Dropbox, Wikipedia, and more.
+
+### FEM Tech
+
+femtechberkeley@gmail.com
+
+The purpose of FEM Tech is to promote gender diversity and inspire women from all majors, backgrounds and sexual orientations to excel in technology careers. Through organized seminars, mentorship programs, training workshops, and networking events, FEM Tech provides a supportive community for students to create meaningful connections with like-minded women. FEMTech hopes to excite new interest in tech and provide support for underrepresented women already in STEM majors.
+
+### Hispanic Engineers and Scientists(HES)
+
+hesberkeley8@gmail.com
+
+The Hispanic Engineers and Scientists of UC Berkeley are determined to increase the number of culturally responsible engineers and scientists who succeed academically, lead professionally, and contribute passionately to society
+
+### Innovate Berkeley
+
+innovateberkeley@gmail.com
+
+Innovate Berkeley aims to inspire innovation among students at UC Berkeley and beyond. Working at the intersection of technology, business, and education, we provide a holistic opportunity for all Cal students to entrepreneurially engage in the improvement of the student experience. Here at IB, we acknowledge our privilege as students of a leading institution for higher education; we are passionate about not only using innovation to make our campus better, but also spreading our knowledge and experiences to those in our community who are less privileged.
+
+### Latinx Association of Graduate Students in Engineering and Science(LAGSES)
+
+lagses.contact@gmail.com
+
+LAGSES is an inclusive multicultural organization that strives to increase diversity on campus by recruiting, retaining, and graduating underrepresented advanced degree students in STEM. We aim to provide a support network for minority graduate students by organizing outreach, networking, and community service activities throughout the year. We also organize social events to create a cohesive group of members that extends beyond the academic setting and include other on-campus organizations and nearby universities to amplify our reach.
+
+### Pioneers in Engineering(PiE)
+
+leadership@pioneers.berkeley.edu
+
+PiE promotes science, technology, engineering, and mathematics (STEM) education through an exciting, mentorship-based process. PiE is a student outreach organization based in UC Berkeley and was founded in 2008 by members of Tau Beta Pi led by Xiao-Yu Fu. We strongly believe that no student should be denied a quality STEM education experience.
+
+### Society of Women Engineers (SWE)
+
+swe.berkeley@gmail.com
+
+Society of Women Engineers is a national nonprofit organization. SIts objective is to encourage and empower women to reach their full potential as engineers. SWE strives to highlight the achievements and contributions of women as leaders and engineers. Supporting both students and professionals, SWE consists of over 17,000 members in 90 sections and 300 student sections. The UC Berkeley student chapter has been established since 1975 and supports students through professional development, social events and outreach to young women interested in the STEM field.
+
+### Space Enterprise at Berkeley(SEB)
+
+spaceenterpriseatberkeley@gmail.com
+
+Space Enterprise at Berkeley (SEB) is a student-run liquid-fueled rocket team dedicated to achieving spaceflight and developing rocket technologies at UC Berkeley. SEB is open to interested students of all experience levels and majors, who are motivated, committed, and willing to learn new skills and have fun!
+
+### Space Technologies at Cal(STAC)
+
+general@stac.berkeley.edu
+
+Space Technologies @ Cal (STAC) is a group of passionate scientists who want to push the frontier of space research and the space industry. We are not a typical engineering club that focuses on a set competition but rather we focus on making strides in innovating the field of space technology! Our innovation in space technologies is a multi-campus effort with UC Santa Barbara and our various partners.
+
+### Unmanned Aerial Vehicles at Berkeley (UAVs)
+
+uav-leadership@lists.berkeley.edu
+
+UAVs@Berkeley) is a student organization dedicated to providing a central resource for all topics related to drones at UC Berkeley. By providing a resource-rich organization for UC Berkeley students interested in designing, building, and flying UAVs for a multitude of purposes, we hope to incite collaboration across multiple engineering disciplines. Students will be encouraged to step out of their comfort zone and learn new skills by working on project teams with other majors. Activities include a range of aerial photography/videography projects, academic research projects, and racing competitions. Other goals include: teaching basic, intermediate, and advanced courses in flying, operating, and controlling UAVs; organizing and setting up events for UAV flying meet-ups and outreach opportunities; and creating an open space for all UAV enthusiasts, engineers, and flyers to collaborate and create new and rich experiences through the use of UAVs.
+
+View  Open Faculty Positions __

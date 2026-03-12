@@ -1,0 +1,41 @@
+Dedicated to hosting presentations at the intersection of Electrical Engineering and Computer Science, the EECS Colloquium offers a mix of short talks by faculty describing their latest research results as well as internationally distinguished speakers. It provides an opportunity for an exchange of ideas between our department’s community and the outside world.
+
+**Wednesdays 4:00-5:00 PM, HP Auditorium, 306 Soda Hall** _(unless otherwise noted)_  
+_Light refreshments served at 3:30 pm_
+
+Subscribe to the eecs-announce mailing list through the web interface or via email so you can be apprised of upcoming talks.
+
+### Edward Chang, UCSF
+
+#### The Neural Code of Speech
+
+**April 3, 2019**
+
+* * *
+
+### Jonathan Bachrach, UCB
+
+#### Just in Time Electronics
+
+**April 10, 2019**
+
+* * *
+
+### Marc Raibert, Boston Dynamics
+
+#### Building Dynamic Robots
+
+****Banatao Auditorium, 310 Sutardja Dai Hall****
+
+**April 17, 2019  
+**
+
+* * *
+
+###  Massimiliano Di Ventra
+
+#### **Memcomputing: leveraging memory and physics to compute efficiently**
+
+**April 24, 2019**
+
+View  Open Faculty Positions __

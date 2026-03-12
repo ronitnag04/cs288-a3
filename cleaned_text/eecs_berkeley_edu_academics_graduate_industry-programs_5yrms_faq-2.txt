@@ -1,0 +1,67 @@
+_**How is this program different from the existing M.S. program?**_  
+While the degree requirements are identical to the B.S. and the M.S.-only program (with one exception, see below), both degrees give considerable flexibility to choose a curriculum that is more or less specialized and more or less interdisciplinary. The fifth year of education with the combined Bachelors/Masters program can enable a student to pursue a program of study that is more interdisciplinary, including concentrations in EECS and allied fields like the sciences, other engineering, or business, law, or public policy, and at the same time achieve mastery of a specialized area of technology. For this reason, the M.S. component of the five year program has a breadth requirement that is not present in the regular M.S., with candidates required to take at least eight units outside of EECS. An education that includes interdisciplinary technical skills as well as a broader understanding of business, legal, and social context of technology development and use is valuable for many future careers as well as future graduate study in engineering, business, law, public policy, etc.
+
+* * *
+
+_**Does EECS accept applications for the Spring semester?**_  
+Currently, we are only accepting applications for fall admission. For more information, please see our **Admissions page**.
+
+* * *
+
+_**I don’t quite meet the GPA requirement of 3.5. Will exceptional applicants be considered with a cumulative GPA of less than 3.5?**_  
+Chances of admission are not good with a cumulative GPA of less than 3.5. However, demonstrated leadership and interdisciplinary (technical or otherwise) skills could augment a slightly lower cumulative GPA.
+
+* * *
+
+_**I don’t have any research experience. How important is this for my application?**_  
+Undergraduate research is definitely a plus, but is not required for admission. What is required is a letter of recommendation from a faculty member in EECS who will advise you during the MS program.
+
+* * *
+
+_**I’d like to take some time off between completing my bachelor’s degree and starting the master’s degree. Is this possible?**_  
+No. This program will not accommodate leaves of absence. Admitted students are expected to transition immediately from the undergrad program to the grad program in order to complete the entire program in five consecutive years. You are encouraged to apply to any of our other graduate programs if you would like to take time off.
+
+Additionally, in order to be eligible for the 5th Yr MS program you MUST have graduated in the Fall term before or be on the Spring degree list in your final year as an undergraduate.
+
+* * *
+
+_**How does financial support for the graduate year work?**_  
+Students are expected to provide their own financial support for the year of graduate work. Students should be aware that there are NO undergraduate-style, need-based grants for graduate students.
+
+* * *
+
+_**Can 5th Year students be appointed as Graduate Student Instructors (GSI)?**_  
+Sometimes. Completing the requirements for the M.S. degree in two semesters will be very challenging and time consuming and students will likely not have time to commit to teaching. Students may petition to GSI during this program. Availability of GSI positions for 5th year MS students depends on many factors. We don’t recommend relying on the availability of GSI positions to fund your Master’s studies. **More about these policies**.
+
+* * *
+
+_**Can 5th Year students receive Graduate Research Assistantship (GSR) support?**_  
+Sometimes. If a faculty member wishes to support a 5th year student to complete his or her M.S. program within two semesters, then that is the decision of the individual professor.
+
+* * *
+
+_**Is this program well suited for someone who eventually wants a Ph.D.?**_  
+This program is not intended for students who want a Ph.D. It is intended as a terminal M.S. degree.
+
+* * *
+
+_**I am considering applying to the Five Year Bachelor/Master Program, but may I also apply for a Ph.D. program at other schools and Berkeley as well? Am I allowed to apply to this program and, if not admitted, move my application to the MEng or M.S./Ph.D. program later?**_  
+According to UC Berkeley Graduate Admissions policy, applicants may only apply to _one single degree program per admission term_. If you are more interested in a different Masters program or our PhD program, _please plan on applying directly to that program instead*_. Note that most graduate degree applications have deadlines in mid/late-December–including the MEng & M.S./Ph.D. programs here at EECS. However, you can most definitely apply to _other_ schools when you apply to this program.
+
+If you have questions regarding which program may be the best fit for your career and academic goals, please contact the EECS Graduate Admissions Office located in 215 Cory Hall.
+
+*_If you have applied to one of the EECS Berkeley research-oriented graduate degree programs and wish to be considered for our 5th Yr MS**instead** , you **must** reach out to your intended faculty research advisor and have them contact the Masters Program Advisor and request a switch **before** final decisions for the M.S./Ph.D. have been released (usually takes place in early February). This effectively removes you from consideration for the original program you applied for, and places you into the applicant pool for the 5th Yr MS instead. Once M.S./Ph.D. decisions have been sent out, we will not consider you for a different degree program (see aforementioned Graduate Admissions policy). There will be **NO** exceptions._
+
+* * *
+
+_**Can you update any documents, test scores, or information after I have submitted my application?**_  
+No, even if you submit the application before the deadline, we cannot update your application after you have submitted it. Please make sure to check that your application is complete and all information and materials are correct before you submit.
+
+* * *
+
+_**I am thinking about graduating a year early and am planning on applying for the EECS 5th Yr MS. In theory, if I am rejected–can I opt to return to undergraduate studies for another year and then re-apply the following year?**_  
+You may only apply once to the EECS 5th Yr MS. You are not however, precluded from applying to one of our other graduate programs (MS/PhD, MEng, MS-only).
+
+* * *
+
+View  Open Faculty Positions __

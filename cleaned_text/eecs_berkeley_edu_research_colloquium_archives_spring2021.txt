@@ -1,0 +1,90 @@
+##  Spring 2021 
+
+Dedicated to hosting presentations at the intersection of Electrical Engineering and Computer Science, the EECS Colloquium offers a mix of short talks by faculty describing their latest research results as well as internationally distinguished speakers. It provides an opportunity for an exchange of ideas between our department’s community and the outside world.
+
+**The Spring 2021 Colloquium lectures will be presented as Zoom webinars.** They will be publicly accessible without a password, but you will need to have a Zoom account to attend. Videos of the presentations are available to everyone.
+
+Starting March 31, 2021, all colloquium Zoom webinars can be accessed from: https://berkeley.zoom.us/s/99825370819
+
+Subscribe to the eecs-announce mailing list through the web interface or via email so you can be apprised of upcoming talks.
+
+###  Mark Yim, University of Pennsylvania
+
+####  **Kinematic Versatility in Robotics**
+
+**Zoom Webinar**
+
+**March 10, 2021**
+
+* * *
+
+### Sawyer B. Fuller, University of Washington
+
+#### **Autonomous insect-sized robots**
+
+**Zoom Webinar**
+
+**March 17, 2021**
+
+* * *
+
+### _Spring Break_
+
+**March 24, 2021  
+**
+
+* * *
+
+### Dan Spielman, Yale University
+
+#### **Algorithmic Discrepancy Theory for Randomized Controlled Trials**
+
+**Zoom Webinar**
+
+**March 31, 2021****  
+**
+
+* * *
+
+### Bryan Catanzaro, NVIDIA
+
+#### **Applications of Deep Learning in Graphics, Conversational AI, and Systems Design**
+
+**Zoom Webinar**
+
+**April 7, 2021****  
+**
+
+* * *
+
+### Quoc Le, Google Brain
+
+#### **Neural Architecture Search and Meta Pseudo Labels**
+
+**Zoom Webinar**
+
+**April 14, 2021  
+**
+
+* * *
+
+### Laura Waller, Berkeley EECS
+
+####  End-to-end learning for computational microscopy
+
+**Zoom Webinar**
+
+**April 21, 2021  
+**
+
+* * *
+
+###  Chris Urmson, Aurora
+
+####  **Delivering the benefits of self-driving technology: Aurora’s approach to development**
+
+**Zoom Webinar**
+
+**April 28, 2021**
+
+View  Open Faculty Positions __

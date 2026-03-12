@@ -1,0 +1,23 @@
+## EECS Colloquium
+
+### Wednesday, October 18, 2017
+
+306 Soda Hall (HP Auditorium)  
+4:00 – 5:00 pm
+
+### **Lars Blackmore  
+**
+
+Principal Rocket Landing Engineer, SpaceX
+
+Lars Blackmore speaks on Landing SpaceX's Reusable Rockets, 10/18/17 
+
+#### Abstract
+
+SpaceX’s reusable rocket program aims to reduce the cost of space travel by making rockets that can land, refuel and refly, instead of being thrown away after every flight. Autonomous precision landing of a rocket is a unique problem, which has been likened to balancing a rubber broomstick on your hand in a windstorm. Rockets do not have wings (unlike airplanes) and they cannot rely on a high ballistic coefficient to fly in a straight line (unlike missiles). In the past two years, SpaceX has successfully landed sixteen rockets, some of which were on dry land at Cape Canaveral, and some of which were on a floating platform in the Atlantic. This talk will discuss the challenges involved, how these challenges were overcome, and next steps towards rapid reusability.
+
+#### Biography
+
+Lars Blackmore is responsible for Entry, Descent and Landing of SpaceX’s Falcon 9 Reusable (F9R) rocket. His team developed the precision landing algorithms and operations required to bring F9R back to the launch site. Previously, Lars was with the NASA Jet Propulsion Laboratory, where he was co-inventor of the G-FOLD algorithm for precision landing on Mars, and was a member of the control team for the SMAP climate change observatory. Lars was named one of MIT Tech Review’s “35 under 35” innovators. Lars has a PhD in Guidance, Navigation and Control from the MIT Department of Aeronautics and Astronautics, where he was a Kennedy Scholar, and recipient of the AIAA Guidance Navigation and Control Graduate Student Award.
+
+View  Open Faculty Positions __

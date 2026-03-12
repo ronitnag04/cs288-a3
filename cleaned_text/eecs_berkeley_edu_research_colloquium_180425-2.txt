@@ -1,0 +1,25 @@
+## EECS Colloquium
+
+### Wednesday, April 25, 2018
+
+306 Soda Hall (HP Auditorium)  
+4:00 – 5:00 pm
+
+### **Rajeev Alur  
+**
+
+Zisman Family Professor  
+Department of Computer and Information Science  
+University of Pennsylvania
+
+Rajeev Alur speaks on "Syntax-Guided Program Synthesis" 04/25/18 
+
+#### Abstract
+
+The classical synthesis problem is to find a program or a system that meets a correctness specification given as a logical formula. Recent work on synthesis and optimization illustrates many potential benefits of allowing the user to supplement the logical specification with a syntactic template that constrains the space of allowed implementations. The formulation of the syntax-guided synthesis problem (SyGuS) is aimed at standardizing the core computational problem common to these proposals in a logical framework. In this talk, we first describe how a wide range of problems such as automatic synthesis of loop invariants, program optimization, program repair to defend against timing-based attacks, and learning programs from examples can be formalized as SyGuS instances. We then explain the counterexample-guided-inductive-synthesis strategy for solving the SyGuS problem, its different instantiations, and experimental evaluation over benchmarks from a variety of applications. We conclude by discussing how program synthesis and machine learning can play mutually beneficial roles to transform the way we build software.
+
+#### Biography
+
+Rajeev Alur is Zisman Family Professor of Computer and Information Science at University of Pennsylvania. He obtained his bachelor’s degree in computer science from IIT Kanpur and PhD in computer science from Stanford University. His research is focused on formal methods for system design, and spans theoretical computer science, software verification and synthesis, and cyber-physical systems. He is a Fellow of the AAAS, ACM, and IEEE, an Alfred P. Sloan Faculty Fellow, and a Simons Investigator. He was awarded the inaugural CAV (Computer-Aided Verification) award, ACM/IEEE Logic in Computer Science (LICS) Test-of-Time award and the inaugural ACM SIGLOG Alonzo Church award for his work on timed automata. He is the author of the textbook Principles of Cyber-Physical Systems (MIT Press, 2015), and is currently the lead PI of the NSF Expeditions in Computing center ExCAPE (Expeditions in Computer Augmented Program Engineering).
+
+View  Open Faculty Positions __

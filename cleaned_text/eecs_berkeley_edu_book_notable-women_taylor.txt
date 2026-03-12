@@ -1,0 +1,19 @@
+## Valerie E. Taylor (EECS M.S. 1986 / Ph.D. 1991)
+
+### The first Black Chair of the Department of Computer Science and Engineering at Texas A&M University (2003)
+
+### Director of the Mathematics and Computer Science Division of Argonne National Laboratory
+
+2020 EE Distinguished Alumna Valerie Elaine Taylor learned about mechanics and electronics at the hands of her father. He was an engineer at Sonicraft, said to be the first Black technology company to land large government contracts. Taylor attended Purdue University where she received a B.S. in computer and electrical engineering in 1985 and an M.S. in electrical engineering in 1986. She then came to Berkeley where she co-founded the Summer Undergraduate Program in Engineering Research at Berkeley (SUPERB) and earned her Ph.D. in EECS in 1991 under the supervision of David Messerschmitt. “I wasn’t sure if I would like academia, but my advisor kept telling me, ‘Oh, you’ve got to become a professor, you’ve got to go into teaching! Women need role models!’ My shoulders felt so heavy,” she said. But when she was hired at Northwestern University as an assistant professor in 1991, she wasn’t just worried about preparing her first lecture, she was at a loss about what to wear and how to present herself. At the time, she said to a friend “I’ve never seen a Black woman [professor] stand in front of me, so I don’t know what it looks like, and I don’t know how that person will be received by the students.” It took a semester for her to begin to feel comfortable as an instructor and as herself. “And I wore bright colors,” she laughed.
+
+Taylor was promoted to full professor in 2002 and joined Texas A&M University as the Chair of the Department of Computer Science and Engineering (CSE) the following year–the first African-American to hold that position. There, she also served as the senior associate dean of academic affairs in the College of Engineering and a Regents Professor in the field of high performance computing (HPC). In 2017, she became the director of the Mathematics and Computer Science (MCS) Division of Argonne National Laboratory (part of the U.S. Department of Energy) and was elevated to Argonne Distinguished Fellow in 2019, “the highest scientific and engineering rank at the laboratory.” She is also currently the Executive Director of the Center for Minorities and People with Disabilities in IT (CMD-IT), a non-profit she co-founded to help create a more diverse U.S. IT workforce.
+
+Taylor’s research is focused on performance analysis and modeling of parallel, scientific applications, and she has authored or co-authored over 160 papers. Among Taylor’s many accolades are the 2001 Hewlett Packard Harriet B. Rigas Education Award; the 2002 UC Berkeley Distinguished Engineering Alumni Society Young Outstanding Leader award; the 2002 Computing Research Association (CRA) A. Nico Habermann Award; the 2005 Richard A. Tapia Achievement Award for Scientific Scholarship, Civic Science, and Diversifying Computing; and the 2018 Purdue University Outstanding Electrical and Computer Engineer (ECE) Award. She became a fellow of the Institute of Electrical and Electronics Engineers (IEEE) in 2013 “for contributions to performance enhancement of parallel computing applications,” and a Fellow of the Association for Computing Machinery (ACM) in 2016 for her “leadership in broadening participation in computing.”
+
+Learn more about Valerie from her History Makers interview and Researching Inclusion: Valerie E. Taylor by Eleanor Yates.
+
+< Notable Women of EECS
+
+EECS Notable Women: Sheila Humphreys >
+
+View  Open Faculty Positions __

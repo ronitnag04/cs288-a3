@@ -1,0 +1,60 @@
+### Seobin Jung
+
+### EECS Department, University of California, Berkeley
+
+### Technical Report No. UCB/EECS-2019-157
+
+###  December 1, 2019 
+
+###  http://www2.eecs.berkeley.edu/Pubs/TechRpts/2019/EECS-2019-157.pdf
+
+Recent advances in brain-machine interfaces (BMI) have demonstrated its clinical efficacy for various applications such as prosthetic controls for motor-disabled patients and neural disease treatments. Among many other signal modalities, electrophysiology is one of the key areas to understand and engineer neural systems. While impressive technical breakthroughs have been made on electrodes, signal acquisition, and microstimulation, no electrode-based instrumentation reported so far achieves both the coverage and resolution required for a closed-loop BMI with a high degree of freedom and clinical lifespan.
+
+In this dissertation, a minimally invasive neural interface system that has scalability (starting from thousands of neural sites and scaling up to millions), fine resolution (<10um, <1ms), broad coverage (a year, >10cm), automated electrode insertion, and a low-energy neuromodulation (<500uW for 64-channel recording). This system became feasible by integrating state-of-the-art sub-components developed across UC Berkeley and UCSF labs. Each sub-component is reviewed along with discussions on current progress and challenges. Prototype in vitro and ex vivo results are also shown.
+
+Another challenge for a bidirectional neural interface is the existence of self-interference. While simultaneous stimulation and recording are required for neuromodulation chips to support closed-loop BMI applications, such ICs suffer from large stimulus artifacts. The stimulus artifact is essentially a form of self-interference that originates from a stimulator pulse and couples into front-end recorders. Because the ICs typically have front-ends with limited input ranges, they saturate and lose desired neural signals.
+
+This dissertation presents an active cancellation IC that expands the effective dynamic range (uncancelled artifact/cancelled artifact) of the front-end to 8kHz bandwidth and for up to 200mVpp differential-mode (DM) artifact signals with only a modest (~10%) noise penalty. The analog canceller uses a LMS loop to cancel a majority of the artifact signal at the input of the LNA while the digital canceller with another LMS loop further cancels out residual error. The chip was validated with in vivo cancellation measurement result.
+
+**Advisors:** Elad Alon
+
+* * *
+
+BibTeX citation:
+    
+    
+    @phdthesis{Jung:EECS-2019-157,
+        Author= {Jung, Seobin},
+        Editor= {Alon, Elad and Rabaey, Jan M.},
+        Title= {Neuromodulation IC for System Integration and Self-Interference Cancellation},
+        School= {EECS Department, University of California, Berkeley},
+        Year= {2019},
+        Month= {Dec},
+        Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2019/EECS-2019-157.html},
+        Number= {UCB/EECS-2019-157},
+        Abstract= {Recent advances in brain-machine interfaces (BMI) have demonstrated its clinical efficacy for various applications such as prosthetic controls for motor-disabled patients and neural disease treatments. Among many other signal modalities, electrophysiology is one of the key areas to understand and engineer neural systems. While impressive technical breakthroughs have been made on electrodes, signal acquisition, and microstimulation, no electrode-based instrumentation reported so far achieves both the coverage and resolution required for a closed-loop BMI with a high degree of freedom and clinical lifespan.
+    
+    In this dissertation, a minimally invasive neural interface system that has scalability (starting from thousands of neural sites and scaling up to millions), fine resolution (&lt;10um, &lt;1ms), broad coverage (a year, &gt;10cm), automated electrode insertion, and a low-energy neuromodulation (&lt;500uW for 64-channel recording). This system became feasible by integrating state-of-the-art sub-components developed across UC Berkeley and UCSF labs. Each sub-component is reviewed along with discussions on current progress and challenges. Prototype in vitro and ex vivo results are also shown.
+    
+    Another challenge for a bidirectional neural interface is the existence of self-interference. While simultaneous stimulation and recording are required for neuromodulation chips to support closed-loop BMI applications, such ICs suffer from large stimulus artifacts. The stimulus artifact is essentially a form of self-interference that originates from a stimulator pulse and couples into front-end recorders. Because the ICs typically have front-ends with limited input ranges, they saturate and lose desired neural signals.
+    
+    This dissertation presents an active cancellation IC that expands the effective dynamic range (uncancelled artifact/cancelled artifact) of the front-end to 8kHz bandwidth and for up to 200mVpp differential-mode (DM) artifact signals with only a modest (~10%) noise penalty. The analog canceller uses a LMS loop to cancel a majority of the artifact signal at the input of the LNA while the digital canceller with another LMS loop further cancels out residual error. The chip was validated with in vivo cancellation measurement result.},
+    }
+    
+
+EndNote citation:
+    
+    
+    %0 Thesis
+    %A Jung, Seobin 
+    %E Alon, Elad 
+    %E Rabaey, Jan M. 
+    %T Neuromodulation IC for System Integration and Self-Interference Cancellation
+    %I EECS Department, University of California, Berkeley
+    %D 2019
+    %8 December 1
+    %@ UCB/EECS-2019-157
+    %U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2019/EECS-2019-157.html
+    %F Jung:EECS-2019-157
+    
+    

@@ -1,0 +1,141 @@
+##  Course Support Contacts 
+
+  * ee-scheduling@eecs.berkeley.edu 
+
+EE class scheduling in Cory Hall 
+
+  * cs-scheduling@eecs.berkeley.edu 
+
+CS class scheduling in Soda Hall. 
+
+  * cs-enrollments@eecs.berkeley.edu 
+
+Questions about enrolling in CS classes. 
+
+  * eecs-course-support@eecs.berkeley.edu 
+
+All administrative course support questions and requests (copying, textbooks, eGrade submissions, etc.) 
+
+  * eecs-course-management@eecs.berkeley.edu 
+
+Management of undergraduate student instructors and courses. 
+
+  * inst@eecs.berkeley.edu 
+
+Instructional computing (class accounts, instructional websites) 
+
+
+
+
+##  Staff On This Page 
+
+  * Course Support 
+  * Class Scheduling 
+  * Undergraduate Course Instruction & Management Support 
+  * Instructional Computing Support 
+
+
+
+##  Course Support 
+
+### EECS Main Office
+
+**Karla Thao**
+
+253 Cory Hall  
+eecs-course-support@eecs.berkeley.edu
+
+Course support manager; oversees course material preparation and distribution.
+
+* * *
+
+### Teaching and Classroom Support
+
+Course material support and copying services
+
+eecs-course-support@eecs.berkeley.edu
+
+* * *
+
+### Course Textbook Adoption and Instructional Library
+
+eecs-course-support@eecs.berkeley.edu
+
+* * *
+
+### eGrade Submission Assistance
+
+eecs-course-support@eecs.berkeley.edu
+
+* * *
+
+##  Class Scheduling 
+
+### Class schedules, classroom assignments, student statistics; Heaven Points.
+
+**EE Scheduling – Kait Guthrie**  
+205 Cory, +1 (510) 642-1786  
+ee-scheduling@eecs.berkeley.edu
+
+**CS Scheduling and Enrollment – Cindy Conners**  
+379 Soda, +1 (510) 643-6002  
+cs-scheduling@cs.berkeley.edu
+
+**CS Special Programs Enrollment – Savannah Scarlett**  
+379 Soda, +1 (510) 643-6002  
+cs-enrollments@cs.berkeley.edu
+
+**Faculty support contacts** (academic personnel, awards, chair support, department home page updates).
+
+##  Undergraduate Course Instruction & Management Support 
+
+### Director of Undergraduate Student Instruction
+
+Oversees the undergraduate student instructors.
+
+**Christopher Hunn**  
+341C Soda, +1 (510) 664-7546  
+cthunn@cs.berkeley.edu  
+Office Hours: Mon-Thurs 10am-12pm,1pm-5pm
+
+* * *
+
+### Course Managers
+
+Supports specific faculty in their teaching roles including support in course-related logistics, administration, UGSI orientation or on-boarding, and student cases regarding accommodations or academic misconduct.
+
+**Krystle Simon**  
+315 Soda  
+krystle@eecs.berkeley.edu
+
+##  Instructional Computing Support 
+
+EECS Instructional computing and computer lab support in Cory, Soda, and Sutardja Dai Halls: workstations & servers, accounts, email, course home pages.
+
+### Instructional Support Group Manager
+
+#### Finsen Chiu
+
+378 Cory, +1 (510) 643-6141, finsen@eecs.berkeley.edu
+
+### Senior System Administrators
+
+#### Marcelino Enriquez
+
+333 Soda, mars@eecs.berkeley.edu
+
+#### Linda Huang
+
+384 Cory, +1 (510) 643-6096, lindah@eecs.berkeley.edu
+
+#### Steven Luo
+
+386 Cory, s_luo@eecs.berkeley.edu
+
+### Offices
+
+378, 384 & 386 Cory, 333 Soda  
+inst@eecs.berkeley.edu  
++1 (510) 643-6141, +1 (510) 642-9543
+
+View  Open Faculty Positions __

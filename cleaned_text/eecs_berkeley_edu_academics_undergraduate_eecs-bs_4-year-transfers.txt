@@ -1,0 +1,37 @@
+Please know that the University of California gives California community college students first priority over other transfer applicants. Students who wish to transfer to UC Berkeley from another school are considered in light of their personal circumstances and the availability of space. Transfer students are not admitted from institutions abroad unless they have since attended a domestic institution. 
+
+The UC system application period is November 1-30 for admission to the following fall semester. UC Berkeley does not accept new transfer applications for the spring semester. For more information on the admissions process, contact the Office of Undergraduate Admissions.
+
+Transfer applicants must apply with 60–80 semester units completed by the end of the spring prior to fall matriculation. Students with too many “upper division” (junior and senior level) units are inelgible.
+
+The main criteria for admission to the College of Engineering is:
+
+  * grade point average (GPA) in technical courses and overall. (3.5+ recommended)
+  * completion of 100% of the required core preparation courses by the end of the spring term prior to fall enrollment
+  * personal statement essays detailing interest in the intended major, influencing experiences, goals, etc.
+
+
+
+Transfer applicants to the College of Engineering must complete all required core preparation courses in order to be eligible for admission. **Unfortunately, UC does not maintain articulation agreements from any four-year institutions or community colleges outside of California.** Students are responsible for finding courses that they believe are equivalent to those listed below. The College of Engineering will evaluate coursework from the transfer institution on a case-by-case basis, only after admission. Once you are admitted to our program, you will be asked to submit all relevant syllabi in order to have them reviewed by our faculty. Unfortunately, we cannot make any guarantees that courses will be articulated at UC Berkeley.
+
+####  Required core preparation courses:
+
+  * one year calculus (Math 51 & 52 at UC Berkeley)
+  * multivariable calculus (Math 53 at UC Berkeley)
+  * differential equations and linear algebra (Math 54 at UC Berkeley)
+  * two courses of calculus based physics with lab (Physics 7A & 7B at UC Berkeley)
+  * one course in natural science from the following (Chem 1A, Chem 1B, Physics 7C, Bio 1A, or Bio 1B at UC Berkeley)
+  * two approved reading and composition courses (numbered R1A and R1B from various departments at UC Berkeley) 
+    * This webpage lists courses articulated to fulfill the reading and composition requirement at many institutions across the country.
+
+
+
+Courses that cover or partially cover material in our department’s lower division courses required for graduation (but not admission) are strongly recommended; the more of these courses completed, the stronger the application will be. Therefore, when possible, it is to the applicant’s benefit to take courses in data structures, discrete math, probability, circuits, data structures, and C++ or Java.
+
+For more information about transfer admission, please visit the College of Engineering Prospective Transfer website or email them at esstransferadmissions@berkeley.edu
+
+Students who are transferring to Berkeley should complete all the requirements as listed on Assist.org. The UC Transfer Pathway for Computer Science prepares students well to major in EECS at UC Berkeley.
+
+***If you are a prospective student from a California Community College, please viewthis page instead* **
+
+View  Open Faculty Positions __

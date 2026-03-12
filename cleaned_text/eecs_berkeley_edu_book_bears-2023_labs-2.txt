@@ -1,0 +1,33 @@
+##  12:00 - 2:00 pm 
+
+[[{“fid”:”4115″,”view_mode”:”default”,”fields”:{“format”:”default”,”field_file_image_alt_text[und][0][value]”:”alt=”””,”field_file_image_title_text[und][0][value]”:”Berkeley Center for Responsible Decentralized Intelligence “},”type”:”media”,”field_deltas”:{“1”:{“format”:”default”,”field_file_image_alt_text[und][0][value]”:”alt=”””,”field_file_image_title_text[und][0][value]”:”Berkeley Center for Responsible Decentralized Intelligence “}},”attributes”:{“alt”:”alt=”””,”title”:”Berkeley Center for Responsible Decentralized Intelligence “,”class”:”media-element file-default”,”data-delta”:”1″}}]]
+
+Join RDI at their Web3/ZKP/DeFi/Blockchain table during lunch and see flier at check-in for more information.
+
+  * Multi-disciplinary, campus-wide center to advance the science and technology of decentralization & web3 and empower a responsible digital economy with 3 core pillars: research, education, and community / entrepreneurship.
+  * 3 new courses as MOOCs on DeFi, Entrepreneurship in Web3 & ZKP – 300k+ lecture views
+  * Berkeley Blockchain Xcelerator – 85 global teams raised $450+M plus 400+ new applications for 2023 cohort
+
+
+
+##  3:00 - 4:30 pm 
+
+[[{“fid”:”4116″,”view_mode”:”default”,”fields”:{“format”:”default”,”field_file_image_alt_text[und][0][value]”:”alt=”””,”field_file_image_title_text[und][0][value]”:”SLICE Lab”},”type”:”media”,”field_deltas”:{“2”:{“format”:”default”,”field_file_image_alt_text[und][0][value]”:”alt=”””,”field_file_image_title_text[und][0][value]”:”SLICE Lab”}},”attributes”:{“alt”:”alt=”””,”title”:”SLICE Lab”,”class”:”media-element file-default”,”data-delta”:”2″}}]]
+
+SLICE Lab – (5th floor Soda Hall)
+
+The SLICE Lab at UC Berkeley aims to democratize the design, programming, and integration of domain-specific computing at scale so that a wide-range of applications can benefit from specialized hardware, extending the continued growth in computational capabilities for future-generation computing ecosystems.
+
+What to expect:
+
+  * engage with students
+  * poster sessions featuring current research
+  * lab tours
+
+
+
+< BEARS 2023: Leadership
+
+BEARS 2023: EECS Distinguished Alumni >
+
+View  Open Faculty Positions __

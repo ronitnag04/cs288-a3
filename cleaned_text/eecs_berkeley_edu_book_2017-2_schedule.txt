@@ -1,0 +1,35 @@
+## Brains and Machines: AI, Robotics and Neural Computation at Berkeley
+
+##  Thursday, February 9 
+
+Time | Event  
+---|---  
+8:30 AM | Registration  
+9:30 AM | Welcome from the EECS Chairs  
+9:45 AM | _DistinguishedEE and CS Alumni Awards Presentation_  
+**Eric Brewer** , EECS Professor, UC Berkeley  
+**Marie desJardins** , CSEE Professor, UCBM  
+**Andrea Goldsmith** , EE Professor, Stanford University  
+**Richard Ruby** , Director of Technology, Broadcom  
+10:00 AM | **Safe Learning in Robotics** –Claire Tomlin  
+A great deal of research in recent years has focused on robot learning. In many applications, guarantees that specifications are satisfied throughout the learning process are paramount. For the safety specification, we present a controller synthesis technique based on the computation of reachable sets, using optimal control and game theory. Second, we will present a toolbox of methods combining reachability with machine learning techniques to enable performance improvement while maintaining safety. We will illustrate these “safe learning” methods on a quadrotor UAV experimental platform which we have at Berkeley.  
+10:30 AM | **Deep Learning for Robotics** –Pieter Abbeel  
+11:00 AM | **Conversational AI** – Dan Klein  
+11:30 AM | **Recent Advances in Neural Dust, a platform for peripheral and central nervous system recording** —Michel Maharbiz  
+Recently, we demonstrated neural dust, a wireless and scalable ultrasonic backscatter system for powering and communicating with implanted bioelectronics. We showed that ultrasound is effective at delivering power to mm-scale devices in tissue; likewise, passive, battery-less communication using backscatter enables high-fidelity transmission of electromyogram (EMG) and electroneurogram (ENG) signals from anesthetized rats. These results highlight the potential for an ultrasound-based neural interface system for advancing future bioelectronics-based therapies. The emerging field of bioelectronic medicine seeks methods for deciphering and modulating electrophysiological activity in the body to attain therapeutic effects at target organs. Current approaches to interfacing with peripheral nerves and muscles rely heavily on wires, creating problems for chronic use, while emerging wireless approaches lack the size scalability necessary to interrogate small-diameter nerves. Furthermore, conventional electrode-based technologies lack the capability to record from nerves with high spatial resolution or to record independently from many discrete sites within a nerve bundle.  
+12:00 PM | Lunch  
+1:00 – 2:15PM | Panel 1 – **Self Driving Cars: Is Autonomous Driving AI-Complete?**  
+Trevor Darrell, Anca Dragan, and Jitendra Malik  
+2:15-2:45PM | Break  
+2:45-4:00PM | Panel 2 – **Long-Term Future of (Artificial) Intelligence**  
+Alyosha Efros, Ben Recht, and Stuart Russell  
+  
+##  Questions? 
+
+Send mail to bears-admin@eecs.berkeley.edu
+
+< Berkeley EECS Annual Research Symposium (BEARS) 2017
+
+Berkeley EECS Annual Research Symposium (BEARS) 2017 >
+
+View  Open Faculty Positions __

@@ -1,0 +1,386 @@
+by course | by faculty
+
+Listing by course Course | Title | Fall 2026 | Spring 2027  
+---|---|---|---  
+EE 105 |  Microelectronic Devices and Circuits  |  Alp Sipahigil  
+|  Aditya Varma Muppala  
+  
+EE 108 |  Introduction to Electric Power and Renewable Energy  |  |  Robert Pilawa-Podgurski  
+  
+EE 113B |  Power Electronics Design  |  |  Jessica Boles  
+  
+EE 113 |  Power Electronics  |  Jessica Boles  
+|   
+EE 117 |  Electromagnetic Fields and Waves  |  Ali Niknejad  
+|   
+EE 118 |  Introduction to Optical Engineering  |  Boubacar KantÃ©  
+|   
+EE 120 |  Signals and Systems  |  Babak Ayazifar  
+Anant Sahai  
+|  Kannan Ramchandran  
+  
+EE 121 |  Introduction to Digital Communication Systems  |  Michael Lustig  
+|  Michael Lustig  
+  
+EE 123 |  Digital Signal Processing  |  |  Gopala Krishna Anumanchipalli  
+  
+EE C128 |  Feedback Control Systems  |  Murat Arcak  
+Claire Tomlin  
+|   
+EE 130 |  Integrated-Circuit Devices  |  Yuan Cao  
+|  Asir Intisar Khan  
+  
+EE 134 |  Fundamentals of Photovoltaic Devices  |  |  Mengjie Yu  
+  
+EE 140 |  Linear Integrated Circuits  |  Jun-Chau Chien  
+|  Ali Niknejad  
+  
+EE 143 |  Microfabrication Technology  |  Grigory Tikhomirov  
+|  Ali Javey  
+  
+EE 144  |  Fundamental Algorithms for Systems Modeling, Analysis, and Optimization  |  |  Pierluigi Nuzzo  
+  
+EE 147 |  Introduction to Microelectromechanical Systems (MEMS)  |  Kristofer Pister  
+|   
+EE 194 |  Special Topics  |  Sophia Shao  
+|  Sagar Karandikar  
+Kristofer Pister  
+  
+EE 194-16 |  Scalable AI: Bridging Theory, Understanding, and Practice  |  Jiantao Jiao  
+|   
+EE 194-18 |  Special Topics  |  Jiantao Jiao  
+|   
+EE 213A |  Power Electronics  |  Jessica Boles  
+|   
+EE 213B |  Power Electronics Design  |  |  Jessica Boles  
+  
+EE 218A |  Introduction to Optical Engineering  |  Boubacar KantÃ©  
+|   
+EE 221A |  Linear System Theory  |  Murat Arcak  
+Claire Tomlin  
+|   
+EE C222 |  Nonlinear Systems  |  |  Murat Arcak  
+Claire Tomlin  
+  
+EE 223 |  Stochastic Systems: Estimation and Control  |  |  Venkat Anantharam  
+  
+EE 226A |  Random Processes in Systems  |  Thomas Courtade  
+|   
+EE 226B |  Applications of Stochastic Process Theory  |  |  Thomas Courtade  
+  
+EE 227BT |  Convex Optimization  |  |  Venkat Anantharam  
+  
+EE 229A  |  Information Theory and Coding  |  |  Thomas Courtade  
+  
+EE 230A |  Integrated-Circuit Devices  |  Yuan Cao  
+|  Asir Intisar Khan  
+  
+EE 230C |  Solid State Electronics  |  |  Sayeef Salahuddin  
+  
+EE 232 |  Lightwave Devices  |  |  Yuan Cao  
+  
+EE 234A |  Fundamentals of Photovoltaic Devices  |  |  Mengjie Yu  
+  
+EE C235 |  Nanoscale Fabrication  |  |  Grigory Tikhomirov  
+  
+EE 240A |  Analog Integrated Circuits  |  Jun-Chau Chien  
+|  Ali Niknejad  
+  
+EE 240B |  Advanced Analog Integrated Circuits  |  |  Osama Shana'a  
+  
+EE 240C |  Analysis and Design of VLSI Analog-Digital Interface Integrated Circuits  |  Jun-Chau Chien  
+|   
+EE 244  |  Fundamental Algorithms for Systems Modeling, Analysis, and Optimization  |  |  Pierluigi Nuzzo  
+  
+EE 247A |  Introduction to Microelectromechanical Systems (MEMS)  |  Kristofer Pister  
+|   
+EE C247B |  Introduction to MEMS Design  |  Ming C. Wu  
+|   
+EE C249A |  Introduction to Embedded Systems  |  Prabal Dutta  
+Sanjit A. Seshia  
+|   
+EE 290 |  Advanced Topics in Electrical Engineering  |  |  Sagar Karandikar  
+Kristofer Pister  
+  
+EE 290-5 |  Computational Imaging  |  Laura Waller  
+|   
+EE 290-13 |  Advanced Brain Imaging Methods  |  Chunlei Liu  
+|   
+EE 290-16 |  Scalable AI: Bridging Theory, Understanding, and Practice  |  Jiantao Jiao  
+|   
+EE 290-17 |  Advanced Photonic information processing  |  Zaijun Chen  
+|   
+EE 290-18 |  Engineering Responsible Systems: Platform Governance, AI, and Global Technology Policy  |  Alexandre Bayen  
+|   
+EE 375 |  Teaching Techniques for Electrical Engineering  |  Babak Ayazifar  
+|  Babak Ayazifar  
+  
+EECS 16A |  Foundations of Signals, Dynamical Systems, and Information Processing  |  Babak Ayazifar  
+|  Babak Ayazifar  
+Laura Waller  
+  
+EECS 16B |  Introduction to Circuits & Devices  |  Rikky Muller  
+Kater Murch  
+|  Prabal Dutta  
+  
+EECS C106A |  Introduction to Robotics  |  Horowitz, Roberto  
+|   
+EECS C106B |  Robotic Manipulation and Interaction  |  |  Giuseppe Loianno  
+S. Shankar Sastry  
+  
+EECS 126 |  Probability and Random Processes  |  Venkat Anantharam  
+|  Benjamin Recht  
+  
+EECS 127 |  Optimization Models in Engineering  |  Somayeh Sojoudi  
+|  Gireeja Ranade  
+  
+EECS 149 |  Introduction to Embedded and Cyber Physical Systems  |  Prabal Dutta  
+Sanjit A. Seshia  
+|   
+EECS 151LA |  Application Specific Integrated Circuits Laboratory  |  Sagar Karandikar  
+Borivoje Nikolic  
+|  Christopher Fletcher  
+  
+EECS 151LB |  Field-Programmable Gate Array Laboratory  |  Sagar Karandikar  
+Borivoje Nikolic  
+|  Christopher Fletcher  
+  
+EECS 151 |  Introduction to Digital Design and Integrated Circuits  |  Sagar Karandikar  
+Borivoje Nikolic  
+|  Christopher Fletcher  
+  
+EECS C206A |  Introduction to Robotics  |  Horowitz, Roberto  
+|   
+EECS C206B |  Robotic Manipulation and Interaction  |  |  Giuseppe Loianno  
+S. Shankar Sastry  
+  
+EECS 219A |  Numerical Simulation and Modeling  |  |  Jaijeet Roychowdhury  
+  
+EECS 219C |  Formal Methods: Specification, Verification, and Synthesis  |  |  Sanjit A. Seshia  
+  
+EECS 227AT |  Optimization Models in Engineering  |  Somayeh Sojoudi  
+|  Gireeja Ranade  
+  
+EECS C249B |  Cyber Physical System Design Prinicples and Applications  |  |  Pierluigi Nuzzo  
+  
+EECS 251A |  Introduction to Digital Design and Integrated Circuits  |  Sagar Karandikar  
+Borivoje Nikolic  
+|  Christopher Fletcher  
+  
+EECS 251B |  Advanced Digital Integrated Circuits and Systems  |  |  Richard Dorrance  
+  
+EECS 251LA |  Introduction to Digital Design and Integrated Circuits Lab  |  Sagar Karandikar  
+Borivoje Nikolic  
+|  Christopher Fletcher  
+  
+EECS 251LB |  Introduction to Digital Design and Integrated Circuits  |  Sagar Karandikar  
+Borivoje Nikolic  
+|  Christopher Fletcher  
+  
+  
+Listing by faculty Faculty | Fall 2026 | Spring 2027  
+---|---|---  
+Venkat Anantharam  
+|  EECS 126   
+|  EE 223   
+EE 227BT   
+  
+Gopala Krishna Anumanchipalli  
+|  |  EE 123   
+  
+Murat Arcak  
+|  EE C128   
+EE 221A   
+|  EE C222   
+  
+Babak Ayazifar  
+|  EE 120   
+EE 375   
+EECS 16A   
+|  EE 375   
+EECS 16A   
+  
+Alexandre Bayen  
+|  EE 290-18   
+|   
+Jessica Boles  
+|  EE 113   
+EE 213A   
+|  EE 113B   
+EE 213B   
+  
+Yuan Cao  
+|  EE 130   
+EE 230A   
+|  EE 232   
+  
+Zaijun Chen  
+|  EE 290-17   
+|   
+Jun-Chau Chien  
+|  EE 140   
+EE 240A   
+EE 240C   
+|   
+Thomas Courtade  
+|  EE 226A   
+|  EE 226B   
+EE 229A   
+  
+Richard Dorrance  
+|  |  EECS 251B   
+  
+Prabal Dutta  
+|  EE C249A   
+EECS 149   
+|  EECS 16B   
+  
+Christopher Fletcher  
+|  |  EECS 151LA   
+EECS 151LB   
+EECS 151   
+EECS 251A   
+EECS 251LA   
+EECS 251LB   
+  
+Ali Javey  
+|  |  EE 143   
+  
+Jiantao Jiao  
+|  EE 194-16   
+EE 194-18   
+EE 290-16   
+|   
+Boubacar KantÃ©  
+|  EE 118   
+EE 218A   
+|   
+Sagar Karandikar  
+|  EECS 151LA   
+EECS 151LB   
+EECS 151   
+EECS 251A   
+EECS 251LA   
+EECS 251LB   
+|  EE 194   
+EE 290   
+  
+Asir Intisar Khan  
+|  |  EE 130   
+EE 230A   
+  
+Chunlei Liu  
+|  EE 290-13   
+|   
+Giuseppe Loianno  
+|  |  EECS C106B   
+EECS C206B   
+  
+Michael Lustig  
+|  EE 121   
+|  EE 121   
+  
+Rikky Muller  
+|  EECS 16B   
+|   
+Aditya Varma Muppala  
+|  |  EE 105   
+  
+Kater Murch  
+|  EECS 16B   
+|   
+Ali Niknejad  
+|  EE 117   
+|  EE 140   
+EE 240A   
+  
+Borivoje Nikolic  
+|  EECS 151LA   
+EECS 151LB   
+EECS 151   
+EECS 251A   
+EECS 251LA   
+EECS 251LB   
+|   
+Pierluigi Nuzzo  
+|  |  EE 144   
+EE 244   
+EECS C249B   
+  
+Robert Pilawa-Podgurski  
+|  |  EE 108   
+  
+Kristofer Pister  
+|  EE 147   
+EE 247A   
+|  EE 194   
+EE 290   
+  
+Kannan Ramchandran  
+|  |  EE 120   
+  
+Gireeja Ranade  
+|  |  EECS 127   
+EECS 227AT   
+  
+Benjamin Recht  
+|  |  EECS 126   
+  
+Jaijeet Roychowdhury  
+|  |  EECS 219A   
+  
+Anant Sahai  
+|  EE 120   
+|   
+Sayeef Salahuddin  
+|  |  EE 230C   
+  
+S. Shankar Sastry  
+|  |  EECS C106B   
+EECS C206B   
+  
+Sanjit A. Seshia  
+|  EE C249A   
+EECS 149   
+|  EECS 219C   
+  
+Osama Shana'a  
+|  |  EE 240B   
+  
+Sophia Shao  
+|  EE 194   
+|   
+Alp Sipahigil  
+|  EE 105   
+|   
+Somayeh Sojoudi  
+|  EECS 127   
+EECS 227AT   
+|   
+Grigory Tikhomirov  
+|  EE 143   
+|  EE C235   
+  
+Claire Tomlin  
+|  EE C128   
+EE 221A   
+|  EE C222   
+  
+Laura Waller  
+|  EE 290-5   
+|  EECS 16A   
+  
+Ming C. Wu  
+|  EE C247B   
+|   
+Mengjie Yu  
+|  |  EE 134   
+EE 234A   
+  
+  
+Non-EECS Instructors Instructor | Fall 2026 | Spring 2027  
+---|---|---  
+Horowitz, Roberto  
+|  EECS C106A   
+EECS C206A   
+| 

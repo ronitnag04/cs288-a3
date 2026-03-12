@@ -1,0 +1,56 @@
+### Simone Gambini and Jan M. Rabaey and Elad Alon
+
+### EECS Department, University of California, Berkeley
+
+### Technical Report No. UCB/EECS-2009-184
+
+###  December 18, 2009 
+
+###  http://www2.eecs.berkeley.edu/Pubs/TechRpts/2009/EECS-2009-184.pdf
+
+The continuous growth in the number of mobile phone subscribers, which exceeded 3 billions by 2007 , and of the number of wireless devices and systems, led to visions of a near future in which wireless technology is so ubiquitous that 1000 Radios per person will exist. In this context, ad-hoc area networks between several consumer electronic devices located within a meter of each other will be necessary in order to reduce traffic towards the base station and reduce power consumption and interference generation. As existing air interfaces still both radiate and dissipate an order of magnitude higher power than what this future scenario requires, a new, low-power radio technology must be developed. In this thesis, we develop a low-power transceiver with range of a few centimeters targeted to mobile-mobile data exchange. The same transceiver could also be employed in some implanted applications, as well as in distributed industrial control environments. 
+
+The design of the air-interface for this cm-range communication system at the propagation, system and circuit levels. First, we describe an optimization methodology that enables the designer to choose, for any given antenna design, which carrier frequency results in the maximum receiver Signal-To-Noise-Ratio (SNR). We then show how by using impulse-radio signaling, the chosen high-SNR channel can be leveraged to simplify the radio receiver architecture to the simplest possible RF receiver-consisting only of an RF rectifier. To mitigate the known issues of sensitivity to interference for these rectifier-based receivers, a technique to improve selectivity that uses only baseband processing and requires no RF prefilter is introduced. 
+
+These techniques are demostrated by a transceiver test chip, implemented in a 65nm CMOS process . The transceiver dissipates 250 micro-Watts in receive mode, and 25 micro-Watts in transmit mode when operating at 1Mbps , and it integrates a timing-recovery loop that achieves jitter lower than 2nS while consuming 45 micro-Watts .This figures correspond to an energy per bit of 300pJ/bit, which compares favorably with current state-of-the art.
+
+**Advisors:** Jan M. Rabaey
+
+* * *
+
+BibTeX citation:
+    
+    
+    @phdthesis{Gambini:EECS-2009-184,
+        Author= {Gambini, Simone and Rabaey, Jan M. and Alon, Elad},
+        Title= {Design of a system for cm-range wireless communication},
+        School= {EECS Department, University of California, Berkeley},
+        Year= {2009},
+        Month= {Dec},
+        Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2009/EECS-2009-184.html},
+        Number= {UCB/EECS-2009-184},
+        Abstract= {The continuous growth in the number of mobile phone subscribers, which  exceeded 3 billions by 2007 , and of the number of wireless devices and systems,  led to  visions of a near future in which wireless technology is so ubiquitous that 1000 Radios   per person will  exist.  In this context, ad-hoc area networks between several consumer electronic devices located within a meter of each other will be necessary in order to reduce traffic towards the base station and reduce power consumption and interference generation. As existing air interfaces still  both radiate and dissipate  an order of magnitude higher power than what this future scenario requires, a new, low-power radio technology must be developed. 
+    In this thesis, we develop a low-power transceiver with range of a few centimeters  targeted to mobile-mobile data exchange.  The same transceiver  could also be employed in some implanted applications, as well as in distributed industrial control environments. 
+    
+    The design of the air-interface for this cm-range communication system at the propagation, system and circuit  levels. First, we describe an optimization methodology that enables the designer to choose, for any given antenna design,  which  carrier frequency results in the maximum receiver Signal-To-Noise-Ratio (SNR). We then show how by using impulse-radio signaling, the  chosen high-SNR channel can be leveraged to simplify the radio receiver architecture to the simplest possible RF receiver-consisting only of an RF  rectifier.  To mitigate the known issues of sensitivity to interference for these rectifier-based receivers,  a technique to improve selectivity that uses only baseband processing and requires no RF prefilter is introduced.  
+    
+    These techniques are demostrated by a transceiver test chip, implemented in a 65nm CMOS process . The transceiver dissipates 250 micro-Watts  in receive mode, and 25 micro-Watts in transmit mode when operating at 1Mbps , and it integrates a timing-recovery loop that achieves jitter lower than 2nS while consuming 45 micro-Watts .This figures correspond to an  energy per bit of 300pJ/bit, which compares favorably with current state-of-the art.},
+    }
+    
+
+EndNote citation:
+    
+    
+    %0 Thesis
+    %A Gambini, Simone 
+    %A Rabaey, Jan M. 
+    %A Alon, Elad 
+    %T Design of a system for cm-range wireless communication
+    %I EECS Department, University of California, Berkeley
+    %D 2009
+    %8 December 18
+    %@ UCB/EECS-2009-184
+    %U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2009/EECS-2009-184.html
+    %F Gambini:EECS-2009-184
+    
+    

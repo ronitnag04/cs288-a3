@@ -1,0 +1,278 @@
+The EECS Technical Memorandum Series provides a dated archive of EECS research. It includes Ph.D. theses and master's reports as well as technical documents that complement traditional publication media such as journals. For example, technical reports may document work in progress, early versions of results that are eventually published in more traditional media, and supplemental information such as long proofs, software documentation, code listings, or elaborated examples.
+
+Technical reports listed here include the EECS Technical Report series (started in October 2005), the CS Technical Report series (from 1982 to 2005), and the ERL Technical Report series (from 1962 to 2005). Links to the full text are included in almost all cases.
+
+For more information, see the department policy for the technical reports. To submit a technical report, see the submission form.
+
+Search Technical Reports: 
+
+## By Year
+
+  * 2026
+  * 2025
+  * 2024
+  * 2023
+  * 2022
+  * 2021
+  * 2020
+  * 2019
+  * 2018
+  * 2017
+  * 2016
+  * 2015
+  * 2014
+  * 2013
+  * 2012
+  * 2011
+  * 2010
+  * 2009
+  * 2008
+  * 2007
+  * 2006
+  * 2005
+  * 2004
+  * 2003
+  * 2002
+  * 2001
+  * 2000
+  * 1999
+  * 1998
+  * 1997
+  * 1996
+  * 1995
+  * 1994
+  * 1993
+  * 1992
+  * 1991
+  * 1990
+  * 1989
+  * 1988
+  * 1987
+  * 1986
+  * 1985
+  * 1984
+  * 1983
+  * 1982
+  * 1981
+  * 1980
+  * 1979
+  * 1978
+  * 1977
+  * 1976
+  * 1975
+  * 1974
+  * 1973
+  * 1972
+  * 1971
+  * 1970
+  * 1969
+  * 1968
+  * 1967
+  * 1966
+  * 1965
+  * 1964
+  * 1963
+  * 1962
+
+
+
+## By Faculty
+
+  * Pieter Abbeel
+  * Elad Alon
+  * Venkat Anantharam
+  * Gopala Krishna Anumanchipalli
+  * Mekhail Anwar
+  * Murat Arcak
+  * Ana Claudia Arias
+  * Krste AsanoviÄ
+  * Jonathan Bachrach *
+  * Ahmad Bahai *
+  * Ruzena Bajcsy
+  * Brian A. Barsky
+  * Peter Bartlett
+  * Alexandre Bayen
+  * Arthur R. Bergen *
+  * Charles K. (Ned) Birdsall *
+  * Manuel Blum
+  * Jeffrey Bokor
+  * Robert K. Brayton *
+  * Eric Brewer
+  * Robert W. Brodersen *
+  * Aydin BuluÃ§
+  * Duncan Callaway
+  * John F. Canny
+  * Sarah Chasins
+  * Alvin Cheung
+  * Nathan W. Cheung *
+  * Jun-Chau Chien
+  * Alessandro Chiesa *
+  * Leon O. Chua
+  * John Chuang
+  * Michael J. Clancy *
+  * Phillip Colella
+  * Natacha Crooks
+  * David E. Culler
+  * Trevor Darrell
+  * James Demmel
+  * John DeNero
+  * Charles A. Desoer *
+  * Anca Dragan
+  * Prabal Dutta
+  * Alexei (Alyosha) Efros
+  * Laurent El Ghaoui
+  * Richard J. Fateman
+  * Ronald S. Fearing
+  * Jerome A. Feldman
+  * Domenico Ferrari
+  * Armando Fox
+  * Gerald Friedland *
+  * Robert Full
+  * Dan Garcia
+  * Michael Gastpar *
+  * Ali Ghodsi
+  * Ken Goldberg
+  * Shafi Goldwasser
+  * Joseph Gonzalez
+  * Martin H. Graham *
+  * Susan L. Graham
+  * Paul R. Gray
+  * Nika Haghtalab
+  * Michael A. Harrison *
+  * BjÃ¶rn Hartmann
+  * Brian Harvey
+  * Marti Hearst
+  * Joseph M. Hellerstein
+  * Thomas A. Henzinger *
+  * Paul N. Hilfinger
+  * David A. Hodges *
+  * Chenming Hu
+  * Joshua Hug
+  * Nilah Ioannidis
+  * Ali Javey
+  * Jiantao Jiao
+  * Michael Jordan
+  * Anthony D. Joseph
+  * William M. Kahan
+  * Angjoo Kanazawa
+  * Boubacar KantÃ©
+  * Richard M. Karp
+  * Randy H. Katz
+  * Kurt Keutzer
+  * Tsu-Jae King Liu
+  * Daniel Klein
+  * Aditi Krishnapriyan
+  * John D. Kubiatowicz
+  * Andreas Kuehlmann *
+  * Ernest S. Kuh *
+  * Kam Y. Lau
+  * Edward A. Lee
+  * Sergey Levine
+  * Allan J. Lichtenberg *
+  * Michael A. Lieberman
+  * Jennifer Listgarten
+  * Michael Lustig
+  * Yi Ma
+  * Michel Maharbiz
+  * Jitendra Malik
+  * Jerrold Marsden *
+  * Kenneth K. Mei *
+  * David G. Messerschmitt
+  * Robert G. Meyer
+  * Nelson Morgan
+  * Richard S. Muller
+  * Rikky Muller
+  * Andrew R. Neureuther *
+  * A. Richard Newton *
+  * Ren Ng
+  * Clark Nguyen
+  * Ali Niknejad
+  * Borivoje Nikolic
+  * Narges Norouzi
+  * James O'Brien
+  * William G. Oldham
+  * Bruno Olshausen
+  * Christos Papadimitriou
+  * Aditya Parameswaran
+  * Abhay Parekh *
+  * Shyam Parekh
+  * Beresford N. Parlett *
+  * David A. Patterson
+  * Eric Paulos
+  * Vern Paxson
+  * Donald O. Pederson *
+  * Emma Pierson
+  * Robert Pilawa-Podgurski
+  * Albert Pisano *
+  * Kristofer Pister
+  * Elijah Polak
+  * Kameshwar Poolla
+  * Raluca Ada Popa
+  * Jan M. Rabaey
+  * Jonathan Ragan-Kelley *
+  * Chittoor V. Ramamoorthy *
+  * Kannan Ramchandran
+  * Gireeja Ranade
+  * Satish Rao
+  * Sylvia Ratnasamy
+  * Benjamin Recht
+  * Lawrence A. Rowe
+  * Jaijeet Roychowdhury
+  * Stuart J. Russell
+  * Anant Sahai
+  * Sayeef Salahuddin
+  * Niloufar Salehi
+  * Seth R. Sanders
+  * Alberto L. Sangiovanni-Vincentelli
+  * S. Shankar Sastry
+  * Koushik Sen
+  * Carlo H. SÃ©quin
+  * Sanjit A. Seshia
+  * Sophia Shao
+  * Scott Shenker
+  * Jonathan Shewchuk
+  * Alistair Sinclair
+  * Alp Sipahigil
+  * Alan J. Smith
+  * Dawn Song
+  * Yun S. Song
+  * Costas J. Spanos
+  * Jacob Steinhardt
+  * Ion Stoica
+  * Vladimir Stojanovic
+  * Michael Stonebraker
+  * Vivek Subramanian *
+  * Alane Suhr
+  * Grigory Tikhomirov
+  * Claire Tomlin
+  * Stavros Tripakis *
+  * David Tse *
+  * Doug Tygar *
+  * Pravin Varaiya *
+  * Umesh Vazirani
+  * Martin Vetterli *
+  * David Wagner
+  * Martin Wainwright *
+  * Laura Waller
+  * Jean Walrand
+  * John Wawrzynek
+  * Robert Wilensky *
+  * Eugene Wong
+  * Felix F. Wu
+  * Ming C. Wu
+  * Eli Yablonovitch
+  * Adam Yala
+  * Lisa Yan
+  * Katherine A. Yelick
+  * Justin Yokota *
+  * Nir Yosef *
+  * Stella Yu
+  * Lotfi A. Zadeh *
+  * Matei Zaharia
+  * Avideh Zakhor
+
+
+
+* * *
+
+*No longer active in the department

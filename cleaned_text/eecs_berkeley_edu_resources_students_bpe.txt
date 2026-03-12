@@ -1,0 +1,166 @@
+Berkeley EECS at Tapia 2022 
+
+#  Broadening Participation in EECS 
+
+A warm welcome to the EECS department! We are committed to fair treatment, access, opportunity, and advancement for all students at every stage of their education and career development. Here you will be able to find updated and interesting information for your journey. We hope to encourage and spark your interest in EECS.
+
+##  Opportunities and Announcements 
+
+**News**
+
+  * **FAST **(Future Advancers of Science and Technology) of Berkeley is currently looking for new mentors to help out with an exciting pilot program with Oakland High Schoolers! Are you looking for a way to inspire the next generation of scientists, increase diversity in STEM (and also social sciences!), develop your mentoring skills, be part of a community, and have a ton of fun? We need mentors from a variety of fields to meet the needs of our students. FAST meets in person at East Bay high schools approximately two Saturdays per month between January and May. For more information fill out this form. For questions you can also reach out to Marlo Hall (mxhall@berkeley.edu) or Sydnee T. Gould (sydneet_gould@berkeley.edu).
+  * **Berkeley Underground Scholars program (**BUS) is seeking tutors! BUS is a program that supports formerly incarcerated and justice-impacted students at UC Berkeley. We could use your help! We’re currently searching for graduate students in STEM who may be interested in volunteering their time to tutor our students in STEM. Anyone who is interested can fill out our interest form or they could contact m.cerdajara@berkeley.edu.
+
+
+
+### More diversity-related EECS News
+
+##  Get Involved in Research 
+
+**Summer Undergraduate Program in Engineering Research at Berkeley (SUPERB)**  
+Undergraduates are invited to spend 9 weeks on campus over the summer conducting engineering-related research.
+
+**Transfer-to-Excellence Research Experiences for Undergraduates (TTE REU)**  
+A competitive, merit-based, 9-week, residential program that seeks to inspire California community college students through research at UC Berkeley so that they will ultimately transfer and complete their Bachelor’s degree in science and engineering.
+
+**BAIR Research Experience for Undergraduates (REU) Program **BAIR is pleased to announce the inaugural Research for Undergraduates (REU) Program! The goal of this program is to work with undergraduates from underrepresented backgrounds who are interested in the field of Artificial Intelligence (AI) in order to prepare students for careers in AI, whether industry or academia
+
+**The David Blackwell Summer Research Institute** A collaboration between the UC Berkeley Electrical Engineering and Computer Science (EECS) Department, the UCLA Math Department and Stanford Bioengineering Department. Eligibility is open to any undergraduate at a US institution. Research topics include applied probablity, analysis, and theoretical computer science.
+
+**Diversifying Access to Research in Engineering (DARE)**  
+A UC Berkeley program created to match undergraduate students with research opportunities in EE & CS.
+
+**NSF Computer and Information Science and Engineering Research Experiences for Undergraduates** **(CISE REU)**  
+The REU program supports active research participation by undergraduate students in specially designed NSF projects.
+
+**Academic project opportunities for EECS students**
+
+##  Cross-Institutional Alliances 
+
+#### Interested in a career in Academia?
+
+The goal of the **Diversifying LEAdership in the Professoriate (LEAP) Alliance,** formerly Diversifying Future Leadership in the Professoriate (FLIP) Alliance, is to address the broadening participation challenge of increasing the diversity of the future leadership in the professoriate in computing at research Universities as a way to achieve diversity across the field. UC Berkeley is a funding member of the LEAP Alliance and partners with 10 other institutions on this effort.
+
+**Hopper -Dean Foundation Collaboration (HDFC)**
+
+UC Berkeley is a proud partner in the Hopper-Dean Foundation Collaboration (HDFC) which is a partnership between 7 institutions’ CS Departments to work together to broaden participation in computing. The HDFC supports several programs in EECS, which are outlined in this article.
+
+##  Apply to Graduate School 
+
+The UC Berkeley Graduate Division has significantly expanded the number of organizations whose members qualify for application fee waivers. These groups include the National Society of Black Engineers (NSBE), the American Indian Science and Engineering Society (AISES), the Society for the Advancement of Chicanos and Native Americans in Science (SACNAS), and the National GEM Consortium (GEM), among many others.
+
+You may qualify for an application fee waiver if you can demonstrate financial need, or if you are a current participant in certain programs that qualify for a fee waiver. You must be a U.S. citizen or current permanent resident to be eligible for the graduate admissions application fee waiver. AB540 students may apply for the fee waiver if they meet the eligibility criteria.
+
+### **Equal Access to Application Assistance Program**
+
+The student-run Equal Access Assistance (EAAA) program aims to ensure that all applicants to higher degree programs (MS/PhD) at Berkeley’s EECS Department have access to guidance on the higher degree application process. One current (or recent graduate) in EECS will provide feedback on applicants statement of purpose, personal history statement, CV/resume, and other application materials in advance of higher-degree application deadlines every fall. The application cycle for Fall 2023 admissions will open in early Fall 2022. Equal Access to Application Assistance Program.
+
+Application for admission to UC Berkeley’s EECS Department is a process that must be completed separately; participation in EAAA does not guarantee admission nor affect the admissions decision-making process in any way. Contact eaaa@berkeley.edu for questions.
+
+##  EECS Anti-Racism Committee 
+
+The EECS Anti-Racism Committee was formed in response to the Black Graduate Engineering and Science Students (BGESS) Letters of Accomodations presented to the College of Engineering and the EECS Department in June 2020. The committee consists of EECS Department faculty, staff and students and meets regularly to work towards a more equitable climate and experience in the department.
+
+Recent actions and improvements stemming from the work of the committee include the creation of EECS 194-100 EECS for All: Social Justice in EECS and The EECS Student Incident Reporting Form, as well as this Broadening Participation in Engineering webpage to serve as a centralized hub of information, and the expanded graduate application fee waiver program in collaboration with the Graduate Division.
+
+Currently the committee is working on a holistic review of graduate admissions in EECS, the use of the GRE in graduate admissions, culture and climate in large lower division CS courses and several policy issues surrounding undergraduate majors in CS and EECS.
+
+##  Advising and Support 
+
+  * In Times of Stress
+  * CS Advising and EE Advising – including access to appointments for prospective students
+  * EECS Resiliency Project
+  * Undergraduate Diversity Programs
+  * Student Concerns and Grievances
+    * EECS Climate Feedback Form
+  * Center for Access to Engineering Excellence
+  * Berkeley Engineering Equity and Inclusion
+
+
+
+##  Scholarships 
+
+  * For underrepresented minority and immigrant undergraduates
+
+
+  * For women undergraduates
+
+
+  * Scholarships, fellowships, and grants for EECS students
+
+
+
+##  Campus Programs 
+
+  * College of Engineering Equity and Inclusion/Supporting Student Success
+
+
+  * Campus Gender Equity Resource Center
+
+  * Disabled Students’ Program
+
+  * Cal NERDS for first generation college students
+
+  * African American Student Development
+
+
+
+
+##  Internships 
+
+  * Professional opportunities for EECS students
+  * Berkeley Career Center internships and recruiting
+
+
+
+##  Career Preparation 
+
+  * HKN resume help
+  * Berkeley Engineering career counseling and workshops
+  * Berkeley Career Center 
+    * Interviewing and Job Offers
+    * Career planning
+
+
+
+##  Free Tutoring 
+
+  * HKN tutoring
+  * CS Mentors group tutoring
+  * Center for Access to Engineering Excellence Tutoring, wellness/ academic/ professional workshops, CAPS
+
+
+
+##  Affinity Groups for Student Engagement 
+
+  * The Association of Women in EE & CS (AWE)
+  * Bias Busters
+  * Black Engineering and Science Student Association (BESSA)
+  * Black Graduate Engineering and Science Students (BGESS)
+  * Hispanic Engineers and Scientists(HES)
+  * Latinx Association of Graduate Students in Engineering and Science(LAGSES)
+  * Queer Graduate Students in Computer Science and Electrical Engineering (QICSE)
+  * Society of Women Engineers (SWE)
+  * Women in Computer Science and Electrical Engineering (WICSE)
+
+
+
+****
+
+2018 EECS commencement 
+
+##  Support for Undergraduate Women 
+
+EECS offers a strong program to encourage and support undergraduate women students.
+
+Are you a woman majoring in CS or EE? 
+
+Fall 2018 cohort 
+
+##  Computer Science Scholars 
+
+CS Scholars is a first-year student support program intended to serve those from under-represented communities who have had little or no exposure to Computer Science.
+
+Learn more about CS Scholars 
+
+View  Open Faculty Positions __

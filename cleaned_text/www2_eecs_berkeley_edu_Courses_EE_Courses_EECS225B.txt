@@ -1,0 +1,15 @@
+# Page Not Found  
+  
+We're sorry, but the page you asked for does not exist on the EECS website. 
+
+Here are links to some of our most-requested information: 
+
+  * Graduate programs (M.Eng./M.S./Ph.D.) and admissions
+  * Undergraduate programs (B.A./B.S.) and admissions
+  * Student recruitment and job postings
+  * Computer or network support
+  * Contact someone in EECS
+
+
+
+If you'd like further assistance, feel free to contact webteam@eecs.berkeley.edu. 

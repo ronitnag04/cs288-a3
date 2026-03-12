@@ -1,0 +1,37 @@
+Dedicated to hosting presentations at the intersection of Electrical Engineering and Computer Science, the EECS Colloquium offers a mix of short talks by faculty describing their latest research results as well as internationally distinguished speakers. It provides an opportunity for an exchange of ideas between our department’s community and the outside world.
+
+**Wednesdays 4:00-5:00 PM, HP Auditorium, 306 Soda Hall** _(unless otherwise noted)_
+
+Subscribe to the eecs-announce mailing list through the web interface or via email so you can be apprised of upcoming talks
+
+### Ilya Sutskever, OpenAI
+
+#### **Meta Learning and Self Play**
+
+**January 24, 2018**
+
+* * *
+
+### Andries van Dam, Brown University
+
+#### **Pen- and Touch-Interaction with 2D Information Spaces**
+
+**January 31, 2018**
+
+* * *
+
+### Dieter Fox, University of Washington
+
+#### **Model-based Versus Learning-based Robotics**
+
+**February 7, 2018**
+
+* * *
+
+### Rajeev Alur, University of Pennsylvania
+
+#### **Syntax-Guided Program Synthesis**
+
+**April 25, 2018**
+
+View  Open Faculty Positions __

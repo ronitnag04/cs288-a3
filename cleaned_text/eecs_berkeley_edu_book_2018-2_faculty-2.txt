@@ -1,0 +1,42 @@
+  * Leaders 
+  * Speakers 
+
+
+
+## Leaders
+
+### James Demmel – EECS Chair
+
+Prof. Demmel received his B.S. in Mathematics from Caltech in 1975 and his Ph.D. in Computer Science from UC Berkeley in 1983. After spending six years on the faculty of the Courant Institute, New York University; he joined the Computer Science Division and Mathematics Departments at Berkeley in 1990, where he holds joint appointments. He is an ACM Fellow, a SIAM Fellow, an IEEE Fellow, and a member of both the National Academy of Engineering and the National Academy of Science. He has also won the IEEE Computer Society Sydney Fernbach Award for “computational science leadership in creating adaptive, innovative, high performance linear algebra software.”
+
+### Jeffrey Bokor – EECS Associate Chair
+
+Prof. Bokor is the Paul R. Gray Distinguished Professor of Engineering in EECS and has been the Associate Dean for Research in the College of Engineering since 2012. He currently holds a joint appointment with Lawrence Berkeley National Laboratory (LBNL) as Senior Scientist in the Materials Science Division, and formerly held a joint appointment as Deputy Director for Science at the Molecular Foundry, a nanoscale science research center at LBNL. His current research activities include nanomagnetics/spintronics, carbon nanotube and graphene electronics, nanophotonics, and nano-electromechanical systems. He is a fellow of IEEE, APS, and OSA.
+
+### Joseph Hellerstein – External Relations Vice Chair
+
+Prof. Hellerstein’s work focuses on data-centric systems and the way they drive computing. He is an ACM Fellow, an Alfred P. Sloan Research Fellow and the recipient of two ACM-SIGMOD “Test of Time” awards for his research. In 2010, Fortune Magazine included him in their list of 50 smartest people in technology , and MIT’s Technology Review magazine included his work on Distributed Programming on their 2010 TR10 list of the 10 technologies “most likely to change our world”. Key ideas from his research have been incorporated into commercial and open- source software from IBM, Oracle, and PostgreSQL. He is a past director of Intel Research Berkeley, and currently serves on the technical advisory boards of a number of computing and Internet companies.
+
+## Speakers
+
+### Sayeef Salahuddin –  _The Third Era of Scaling of Computing Technologies_
+
+Prof. Salahuddin is a co-director of the Berkeley Device Modeling Center and Berkeley Center for Negative Capacitance Transistors. He received his B.Sc. in Electrical and Electronic Engineering from BUET (Bangladesh University of Engineering and Technology) in 2003 and PhD in Electrical and Computer Engineering from Purdue University in 2007. His work has focused on conceptualization and exploration of novel device physics for low power electronic and spintronic devices. He has championed the concept of using ‘interacting systems’ for switching, showing fundamental advantage of such systems over the conventional devices in terms of power dissipation. This led to the discovery of Negative Capacitance Transistors that allows for sub kT/q subthreshold operation in transistors.
+
+### Krste Asanović –  _Berkeley ADEPT Lab: Reigniting innovation in the hardware industry_
+
+Prof. Asanović received a PhD in Computer Science from UC Berkeley in 1998 then joined the faculty at MIT, receiving tenure in 2005. He returned to join the faculty at Berkeley in 2007, where he co-founded the Berkeley Parallel Computing Laboratory (“Par Lab”). His main research areas are computer architecture, VLSI design, parallel programming and operating system design. He is currently Director of the Berkeley ASPIRE lab tackling the challenge of improving computational efficiency now that transistor scaling is ending. He leads the free RISC-V ISA project, is Chairman of the RISC-V Foundation, and has recently co-founded SiFive Inc. to support commercial use of RISC-V processors. He is also an Associate Director at the Berkeley Wireless Research Center, and holds a joint appointment with the Lawrence Berkeley National Laboratory.
+
+### Vladimir Stojanovic – _More-than-Moore with Integrated Silicon-Photonics_
+
+Prof. Stojanovic’s research interests include design, modeling and optimization of integrated systems, from CMOS-based VLSI blocks and interfaces to system design with emerging devices like NEM relays and silicon-photonics. He is also interested in design and implementation of energy-efficient electrical and optical networks, and digital communication techniques in high-speed interfaces and high-speed mixed-signal IC design. He received a Dipl. Ing. degree from the University of Belgrade, Serbia in 1998, and his Ph.D. in Electrical Engineering from Stanford University in 2005. He was with Rambus, Inc., Los Altos, CA, from 2001 through 2004 and with MIT as Associate Professor from 2005-2013.
+
+### Elad Alon – _Injecting Agile Into Analog Design_
+
+Prof. Alon’s research focuses on energy-efficient integrated systems, including the circuit, device, communications, and optimization techniques used to design them. He has held consulting or visiting positions at Cadence, Xilinx, Sun Labs, Intel, AMD, Rambus, Hewlett Packard, and IBM Research, where he worked on digital, analog, and mixed-signal integrated circuits for computing, test and measurement, and high-speed communications. He received the IBM Faculty Award in 2008, the 2009 Hellman Family Faculty Fund Award, the 2010 UC Berkeley Electrical Engineering Outstanding Teaching Award, and the 2010 ISSCC Jack Raper Award for Outstanding Technology Directions Paper. He is currently a co-director of the Berkeley Wireless Research Center (BWRC).
+
+< Berkeley EECS Annual Research Symposium (BEARS) 2018
+
+BEARS 2018 Schedule >
+
+View  Open Faculty Positions __

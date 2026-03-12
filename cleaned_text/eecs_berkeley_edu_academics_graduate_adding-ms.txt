@@ -1,0 +1,16 @@
+Beginning in Fall 2016, current UC Berkeley students from departments other than EECS will no longer be able to add a degree or change to a new degree program without applying through the UCB Online Application for Admission according to the program’s normal admissions and review cycle. There is no need to submit the old  _Application for Readmission_ or _Change of Major_ forms.
+
+When you submit your application, the Admissions Committee will look for the following items:
+
+  * Current Berkeley transcript
+  * 3 letters of recommendation: one must be from an EECS faculty member willing to sponsor your research; another might well be from your home department, talking about the quality of your research and your funding source (one letter must specify where your funding will come from, since EECS will not fund your MS)
+  * Personal statement
+  * Undergrad transcript (you can probably get copies of these from your home department)
+
+
+
+In some cases, exceptions to this process may be required. Please contact the Graduate Degrees Office (degrees@berkeley.edu) should such a situation arise. Please note that if you were an EECS graduate student returning to EECS after a period of absence, you should follow the readmissions process.
+
+If you are a Ph.D. student at one of the other UC campuses and applying to add the M.S. degree in EECS, please note that UC Berkeley will charge supplemental fees in addition to the fees from your home campus.
+
+View  Open Faculty Positions __

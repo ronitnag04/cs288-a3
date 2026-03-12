@@ -1,0 +1,34 @@
+## Cecilia Rodriguez Aragon (EECS Ph.D. 2004)
+
+### First Latina full professor at the University of Washington (2016)  
+and the First Latina pilot on the United States Unlimited Aerobatic Team (1991)
+
+### Director of the Human-Centered Data Science Lab at the University of Washington
+
+In 2016, Cecilia Aragon became the first Latina to be named to the rank of full Professor in the College of Engineering at the University of Washington in its hundred-year history. She is an alumna of EECS, having earned her Ph.D. in Computer Science from UC Berkeley in 2004 and a BS in Math from Caltech. Aragon was selected as the EECS Distinguished Alumna of the Year in 2013.
+
+But Aragon’s path to success did not come easily. After completing her master’s degree in computer science at Berkeley in 1987, Aragon faced a crisis of confidence and she withdrew from graduate study. “I agonized over deciding to leave in the 80s, because getting a PhD and working as a professor had been a long-held dream of mine. However, I suffered from a severe lack of self-confidence due to all the incidents of racism and sexism I had encountered throughout a lifetime of living in the US­ as a Latina daughter of immigrants — including a professor at Berkeley telling me that ‘women didn’t have the intellectual capability for computer science.’ By the late 80s, I feared in my heart that I wasn’t smart enough to complete a PhD in computer science.”
+
+Currently, however, Professor Aragon holds several appointments at the University of Washington: in the Department of Human Centered Design & Engineering, where she is Director of the Human Centered Data Science Lab; she is also Founding Co-Director of the UW Data Science Master’s Program, and Senior Data Science Fellow at the eScience Institute at the (UW) Seattle. Her research focuses on human-centered data science. As Professor Aragon explained: “Data science and artificial intelligence (AI) involve processing vast amounts of often human-generated data such as text or personal information. But it’s important to look beyond statistical and computational approaches to consider societal impacts of data science and AI. Systemic racism and sexism are often embedded within automated tools, and it’s critical to address the human context of the increasing levels of automation in our society today.”
+
+Aragon’s impact in the fields of computer science and data science began with purely technical discoveries. She is the co-inventor with former Berkeley CS faculty member Raimund Seidel of a data structure, the _treap_ , which has been commended for its elegance and efficiency, and is now widely used in production applications ranging from wireless networking to memory allocation to fast parallel aggregate set operations. During her career, Aragon has authored over 130 peer-reviewed publications in the areas of computer science, data science, visual analytics, machine learning, and astrophysics.
+
+While working at Lawrence Berkeley Lab, in 2008 Aragon received the Presidential Early Career Award for Scientists and Engineers (PECASE), the highest honor bestowed by the US government on outstanding scientists in the early stages of their careers, for her work in collaborative data-intensive science. Her career trajectory has continued upward ever since. Her work on the Sunfall data visualization and workflow management system for the Nearby Supernova Factory helped advance the study of supernovae in order to reduce the statistical uncertainties on key cosmological parameters that categorize dark energy, one of the grand challenges in physics today. Professor Aragon’s forthcoming co-authored book, _Human-Centered Data Science: An Introduction_ , will be published by MIT Press in 2021.
+
+While she was conducting mathematical and computational research, Aragon has always actively supported women and underrepresented groups in computing. As a graduate student, she served twice as President of WICSE, the graduate women’s organization, in 1985 and 2004. Aragon recalls, “I still remember a visit to EECS by MIT EE Professor Mildred Dresselhaus to WICSE in 1986. She looked over our small group and said, ‘I want to tell each of you that you are wonderful. I think women in science don’t hear that often enough.’ That talk had a tremendous impact on me. I still remember her voice as she said those words.”
+
+At Lawrence Berkeley Lab, she was a founding member of the Computing Sciences Diversity Working Group and Women in Science Council. Aragon was a board member of the Computing Research Association’s Committee on the Status of Women in Computing Research (CRA-W), and is one of the founders of Latinas in Computing.
+
+Cecilia continues to be engaged in broadening participation initiatives both on the UW campus and in the technical community worldwide: she has been in leadership roles or as a keynote speaker at conferences such as the Richard Tapia Celebration of Diversity in Computing, SACNAS, Grace Hopper, and Supercomputing. In 2017-18 she spent a year in Chile on a Fulbright Fellowship conducting research in human-centered data science. She was very active there supporting Latinx students and professors in CS.
+
+Aragon tells her story in a recent memoir, _Flying Free: My Victory over Fear to Become the First Latina Pilot on the US Aerobatic Team_, (Blackstone Publishing, 2020). “I knew that succeeding in a mathematical field involved emotional resilience and confidence as well as intellectual skill. I also knew that to overcome my internalized fears, I needed to take on the scariest challenge I could think of. That, it turned out, was learning to fly.” Using math to overcome fear, within six years she not only learned to fly, but went on to compete internationally on The US Aerobatic Team (a record for the shortest time between first solo flight and team membership). The confidence she gained from flying enabled Aragon to return to Berkeley and to finish her PhD in three semesters. She credits the strong mentoring of her research advisor Professor Marti Hearst. “Marti had high expectations for me but also a strong belief that I would exceed them. She was always willing to put in extra effort for me when I ran into bureaucratic snafus at EECS.”
+
+Aragon models that mentorship with her own doctoral students. “Today in academia, I try to be the professor I needed when I was in grad school. I try to be the strong voice of encouragement that can make a difference to students.” She counsels her students, if they become discouraged, to stay the course: “Stay. It’s worth getting a PhD. And the field will be better by your presence in it.”
+
+_—Contributed by Sheila Humphreys_
+
+< EECS Notable Women: Sheila Humphreys
+
+Other Profiles of Notable EECS Women >
+
+View  Open Faculty Positions __

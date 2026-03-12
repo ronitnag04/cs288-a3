@@ -1,0 +1,15 @@
+## Arlene Cole-Rhodes (EE Ph.D. ’89)
+
+### The first Black woman to earn a doctorate in Electrical Engineering from Berkeley
+
+Dr. Arlene Cole-Rhodes is Associate Dean of Graduate Studies & Research in the Clarence M. Mitchell School of Engineering and Professor in the department of Electrical & Computer Engineering at Morgan State University, an Historically Black University established in 1867. In her current role she is charged with overseeing graduate programs in the School of Engineering at Morgan State University. In spring 2017, Dr. Cole-Rhodes spent a six-month period of sabbatical leave at the Carnegie Mellon University, Africa campus as a Visiting Professor in the Information & Communications Technologies (ICT) Center of Excellence in Rwanda. While there she contributed to graduate talent development, while exploring the role of ICT as a development program in this region.
+
+Professor Cole-Rhodes is the first Black woman engineer to receive a doctoral degree in Electrical Engineering at UC Berkeley. She grew up in Sierra Leone and travelled to England to earn a B.Sc. degree in Applied Mathematics from Warwick University, England, and an M. Phil. degree in Control Engineering from Cambridge University, England. In 1989 Cole-Rhodes received her Ph.D. in Electrical Engineering from the University of California, Berkeley with Professor Shankar Sastry as her research advisor. In 1990 she joined the Machine Perception Research Department at AT&T Bell Labs in Holmdel, NJ as a member of Technical Staff. She has been on the faculty at Morgan State University since 1993. Her early research was in the area of control of robot manipulators; her more recent research has focused on developing adaptive algorithms for the detection and estimation of signals in wireless multiple-access MIMO communications. Her signal processing research has also focused on developing beamforming and equalization algorithms, as well as algorithms for multi-sensor remote-sensing image registration and fusion. Dr. Cole-Rhodes has worked with and mentored both graduate students and undergraduate students on research projects in her lab, and results have been presented at national and international conferences. Many of these research projects were collaborative efforts, funded by NASA, the Army Research Labs, the National Science Foundation and the Dept. of the Navy. She contributed three chapters to the book Image Registration for Remote Sensing, published by Cambridge University press (2011). In 2021 Cole-Rhodes was awarded a new patent titled, ‘Method and System for MIMO Communications in Millimeter-wave Networks’. She regularly performs peer reviews for IEEE and International Journals and conference publications, mainly in the areas of image registration and communications signal processing.
+
+_—Contributed by Sheila Humphreys_
+
+< EECS Notable Women: Melody Ivory
+
+Notable Women of EECS >
+
+View  Open Faculty Positions __

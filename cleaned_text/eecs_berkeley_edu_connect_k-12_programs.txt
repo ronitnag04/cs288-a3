@@ -1,0 +1,35 @@
+##  UC Outreach Programs 
+
+SMASH Academy: A three-year program that includes a 5-week summer math and science enrichment program and year-round academic support for low-income high school students of color under-represented in STEM.
+
+Black Girls Code: The mission of Black Girls Code is to increase the number of women of color in the digital space by empowering girls of color ages 7 to 17 to become innovators in STEM fields, leaders in their communities, and builders of their own futures through exposure to computer science and technology. UC Berkeley works with the Bay Area Chapter of Black Girls Code to host their Annual Robot Expo.
+
+SWE Get Set: Sponsored by the Silicon Valley Chapter of the Society of Women Engineers the SWE-SCV Get Science, Engineering and Technology program is a hands on program for high school girls of underrepresented ethnic groups to show them that engineering is fun, creative, improves lives, and is an exciting career option.
+
+Girls in Engineering: one-week faculty-led program to introduce middle-school girls to Engineering.
+
+ROAR Academy: a rigorous and intensive two-week program for high school students (who are entering 9th-12th grade in the Fall, and who have demonstrated an aptitude for STEM subjects) who would like to learn about Python programming and introductory autonomous driving algorithms.
+
+CS4HS Workshop: A two-day event each summer for high school computer science teachers who teach in districts that are not members of the CS Teachers Association and have high populations of underrepresented students.
+
+National Student Leadership Conference: A one-week engineering camp for high school students with high math SAT scores who indicate an interest in engineering.
+
+Girls Who Code is a national non-profit organization dedicated to closing the gender gap in technology.
+
+Cosmos is a 4-week summer residential program for high achieving math and science students. The program is open to 8th-12th graders.
+
+##  National Outreach Programs 
+
+Anita Borg Institute for Women and Technology The Anita Borg Institute for Women and Technology (ABI) was founded in 1994 by renowned computer scientist Anita Borg, Ph.D. (1949-2003). Initially known as the Institute for Women in Technology, IWT was renamed the Anita Borg Institute in 2003 to honor Dr. Borg.
+
+Empowering Leadership Alliance Supported by a $2 million, three-year grant from the National Science Foundation and directed by Rice University, the Empowering Leadership Alliance will engage underrepresented minority students in computing disciplines at majority institutions in a nationwide network. The network, composed of dozens of leading universities, professional societies, laboratories, research centers, and corporations, will involve students in research opportunities, professional development, mentoring programs, and support to keep the students excited and motivated as they pursue computing careers. This alliance, entitled “Empowering Leadership: Computing Scholars of Tomorrow,” or the Empowering Leadership (EL) Alliance, benefits from the leadership and vision of six of the nation’s top universities, with the active engagement of 24 diverse, initial partners and a plan for ongoing evaluation and feedback, particularly from the students involved.
+
+CRA-W: Multidisciplinary Research Opportunities for Women This program involves undergraduate students in collaborative, multidisciplinary research creating and using cyberinfrastructure. The goal of this initiative is to engage women undergraduates in computer science more fully in the research process by allowing them to investigate applications of computer science to other areas in which they may have an interest and to serve as a catalyst for forming new multidisciplinary partnerships with cyberinfrastructure expertise.
+
+CRA-W Distributed Mentor Program The objective of the DMP is to increase the number of women entering graduate studies in the fields of computer science and engineering. This highly selective program matches promising undergraduate women with a faculty mentor for a summer research experience at the faculty member’s home institution. Students are directly involved in a research project and interact with graduate students and professors on a daily basis. This experience is invaluable for students who are considering graduate school, providing them with a close-up view of what graduate school is really like and also increasing their competitiveness as an applicant for graduate admissions and fellowships.
+
+CRA-W Graduate Cohort for Women Program Eligible students are Eligible students are first year women graduate students in computer science or computer engineering and students who have attended previous cohorts workshops.
+
+If you have questions about EECS outreach efforts please contact: Audrey Sillers, EECS Director for Diversity and Achievement
+
+View  Open Faculty Positions __

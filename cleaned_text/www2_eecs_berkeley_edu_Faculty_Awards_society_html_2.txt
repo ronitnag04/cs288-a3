@@ -1,0 +1,1336 @@
+## In This Page
+
+## American Societies
+
+###  A. A. Michelson Award   
+Computer Measurement Group (CMG)
+
+  * Alan J. Smith, 2003
+  * Domenico Ferrari, 1987
+
+
+
+###  A. Nico Habermann Award   
+Computing Research Association (CRA)
+
+  * Eugene Lawler, 1995 *
+
+
+
+###  AAAI - EAAI Outstanding Educator Award   
+Association for the Advancement of Artificial Intelligence (AAAI)
+
+  * Stuart J. Russell, 2016
+
+
+
+###  AAAI Classic Paper Award   
+Association for the Advancement of Artificial Intelligence (AAAI)
+
+  * John F. Canny, 2002
+
+
+
+###  AAAI Feigenbaum Prize (formerly the Feigenbaum Medal)   
+Association for the Advancement of Artificial Intelligence (AAAI)
+
+  * Stuart J. Russell, 2019
+  * Lotfi A. Zadeh, 1998 *
+
+
+
+###  AACC O. Hugo Schuck Award   
+American Automatic Control Council (AACC)
+
+  * Kameshwar Poolla, 2020
+  * Pravin Varaiya, 2020 *
+
+
+
+###  Abacus Award   
+Upsilon Pi Epsilon (UPE)
+
+  * David A. Patterson, 2006
+
+
+
+###  Abie Award for Technical Leadership   
+Anita Borg Institute for Women and Technology
+
+  * Ruzena Bajcsy, 2009
+
+
+
+###  Alexander Margulis Award   
+Radiological Society of North America (RSNA)
+
+  * Chunlei Liu, 2015
+
+
+
+###  American Association for the Advancement of Science (AAAS) Fellow   
+American Association for the Advancement of Science (AAAS)
+
+  * Sayeef Salahuddin, 2023
+  * Ruzena Bajcsy, 2021
+  * Eric Brewer, 2021
+  * Katherine A. Yelick, 2018
+  * James Demmel, 2015
+  * Christian Borgs, 2014
+  * Robert Full, 2011
+  * Michael Jordan, 2011
+  * Randy H. Katz, 2011
+  * Stuart J. Russell, 2011
+  * Jeffrey Bokor, 2008
+  * Alan J. Smith, 2008
+  * Bin Yu, 2008
+  * David A. Patterson, 2007
+  * Jennifer Chayes, 2006
+  * Jerome A. Feldman, 2005
+  * Elwyn R. Berlekamp, 2001 *
+  * Michael A. Harrison, 1996 *
+  * Richard M. White, 1994 *
+  * Susan L. Graham, 1991
+  * Donald O. Pederson, 1988 *
+  * Michael A. Lieberman, 1984
+  * Otto J.M. Smith, 1984 *
+  * Manuel Blum, 1983
+  * Ernest S. Kuh, 1983 *
+  * Charles A. Desoer, 1982 *
+  * Lenore Blum, 1979 *
+  * Lenore Blum, 1979 *
+  * Lotfi A. Zadeh, 1976 *
+  * Robert K. Brayton, 1972 *
+
+
+
+###  American Institute for Medical and Biological Engineering (AIMBE) Fellow   
+American Institute for Medical and Biological Engineering (AIMBE)
+
+  * Chunlei Liu, 2022
+  * Laura Waller, 2021
+  * Steven Conolly, 2015
+  * Claire Tomlin, 2015
+  * Luke Lee, 2012
+  * Thomas F. Budinger, 1997
+
+
+
+###  American Mathematical Society (AMS) Fellow   
+American Mathematical Society (AMS)
+
+  * Venkatesan Guruswami, 2023
+  * Christian Borgs, 2014
+  * Elwyn R. Berlekamp, 2013 *
+  * Jennifer Chayes, 2013
+  * Lenore Blum, 2012 *
+  * James Demmel, 2011
+  * Bernd Sturmfels, 2011
+
+
+
+###  American Physical Society (APS) Fellow   
+American Physical Society (APS)
+
+  * Sayeef Salahuddin, 2019
+  * David Attwood, 2006
+  * Jeffrey Bokor, 1998
+  * Eli Yablonovitch, 1990
+  * Michael A. Lieberman, 1980
+  * Ivan P. Kaminow, 1975 *
+  * Charles K. (Ned) Birdsall, 1972 *
+  * Allan J. Lichtenberg, 1972 *
+
+
+
+###  American Roentgen Roy Society Gold Medal   
+American Roentgen Roy Society (ARRS)
+
+  * Thomas F. Budinger, 2009
+
+
+
+###  American Statistical Association (ASA) Fellow   
+American Statistical Association (ASA)
+
+  * Michael Jordan, 2007
+  * Bin Yu, 2005
+
+
+
+###  American Vacuum Society (AVS) Fellow   
+American Vacuum Society (AVS)
+
+  * Michael A. Lieberman, 2000
+
+
+
+###  Anita Borg Early Career Award   
+Computing Research Association - Widening Participation (CRA-WP)
+
+  * Sophia Shao, 2024
+
+
+
+###  Anita Borg Institute Women of Vision Award   
+Anita Borg Institute for Women and Technology
+
+  * Jennifer Chayes, 2012
+
+
+
+###  Aspen Brain Forum Junior Scientist Prize in Neurotechnology   
+New York Academy of Sciences (NYAS)
+
+  * Jose M. Carmena, 2010 *
+
+
+
+###  Association for the Advancement of Artificial Intelligence (AAAI) Fellow   
+Association for the Advancement of Artificial Intelligence (AAAI)
+
+  * Michael Jordan, 2002
+  * Stuart J. Russell, 1997
+  * Robert Wilensky, 1991 *
+  * Lotfi A. Zadeh, 1991 *
+  * Ruzena Bajcsy, 1990
+  * Jerome A. Feldman, 1990
+
+
+
+###  AVS Plasma Science and Technology Division Plasma Prize   
+American Vacuum Society (AVS)
+
+  * Michael A. Lieberman, 2022
+
+
+
+###  Axion Award   
+Hellenic American Professional Society of California (HAPS)
+
+  * Diogenes Angelakos, 1978 *
+
+
+
+###  Benjamin Garver Lamme Award   
+American Society for Engineering Education (ASEE)
+
+  * Paul R. Gray, 2005
+  * David A. Hodges, 1999 *
+  * Ernest S. Kuh, 1981 *
+  * John R. Whinnery, 1975 *
+
+
+
+###  C. Holmes MacDonald Outstanding Teaching Award   
+Eta Kappa Nu - Electrical Engineering Honor Society (HKN)
+
+  * A. Richard Newton, 1986 *
+
+
+
+###  Carl B. Allendoerfer Award   
+Mathematical Association of America (MAA)
+
+  * Bernd Sturmfels, 2010
+
+
+
+###  C.E.K. Mees Medal   
+Optica, Advancing Optics and Photonics Worldwide (OSA)
+
+  * Ming C. Wu, 2017
+
+
+
+###  Cognitive Science Society (CSS) Fellow   
+Cognitive Science Society (CSS)
+
+  * Michael Jordan, 2010
+
+
+
+###  CRA-E Undergraduate Research Faculty Mentoring Award   
+Computing Research Association - Education (CRA - E)
+
+  * Jelani Nelson, 2022
+  * Pieter Abbeel, 2016
+
+
+
+###  DAC's Most Influential Paper Award   
+Design Automation Conference (DAC)
+
+  * Krste AsanoviÄ, 2025
+  * John Wawrzynek, 2025
+  * Kurt Keutzer, 2023
+
+
+
+###  Delbert Ray Fulkerson Prize   
+American Mathematical Society (AMS)
+
+  * Satish Rao, 2012
+  * Umesh Vazirani, 2012
+  * Alistair Sinclair, 2006
+  * Richard M. Karp, 1979
+
+
+
+###  Distinguished Achievement in Nuclear Technology for Medical Diagnostics   
+American Nuclear Society (ANS)
+
+  * Thomas F. Budinger, 1984
+  * Stephen E. Derenzo, 1984 *
+
+
+
+###  Donald P. Eckman Award   
+American Automatic Control Council (AACC)
+
+  * Murat Arcak, 2006
+  * Claire Tomlin, 2003
+  * Kameshwar Poolla, 1994
+  * S. Shankar Sastry, 1990
+
+
+
+###  ECS Dielectric Science & Technology Division Thomas D. Callinan Award   
+Electrochemical Society (ECS)
+
+  * Tsu-Jae King Liu, 2011
+
+
+
+###  EMS Ross N. Tucker Award   
+Electronic Materials Symposium (EMS)
+
+  * Tsu-Jae King Liu, 1992
+
+
+
+###  Frederic Ives Medal/Quinn Prize   
+Optica, Advancing Optics and Photonics Worldwide (OSA)
+
+  * Eli Yablonovitch, 2019
+  * Ivan P. Kaminow, 2011 *
+
+
+
+###  Frederick Emmons Terman Award of the Electrical and Computer Engineering Division   
+American Society for Engineering Education (ASEE)
+
+  * Sanjit A. Seshia, 2016
+  * Ali Niknejad, 2012
+  * David Tse, 2009 *
+  * Randy H. Katz, 1999
+  * Edward A. Lee, 1997
+  * Leon O. Chua, 1974
+
+
+
+###  Georg Charles de Hevesy Pioneer Award   
+Society of Nuclear Medicine and Molecular Imaging (SNMMI)
+
+  * Thomas F. Budinger, 1996
+
+
+
+###  George David Birkhoff Prize in Applied Mathematics   
+American Mathematical Society (AMS) and the Society for Industrial and Applied Mathematics (SIAM)
+
+  * Bernd Sturmfels, 2017
+
+
+
+###  Golden Goose Award   
+American Association for the Advancement of Science (AAAS)
+
+  * Lotfi A. Zadeh, 2017 *
+
+
+
+###  IEEE-HKN Outstanding Young Professional Award   
+Eta Kappa Nu - Electrical Engineering Honor Society (HKN)
+
+  * Constance Chang-Hasnain, 1991
+  * Elwyn R. Berlekamp, 1971 *
+
+
+
+###  INFORMS Data Mining (DM) Best Paper Award   
+Institute for Operations Research and the Management Sciences (INFORMS)
+
+  * Somayeh Sojoudi, 2018
+
+
+
+###  Institute of Mathematical Statistics (IMS) Fellow   
+Institute of Mathematical Statistics (IMS)
+
+  * Peter Bartlett, 2011
+  * Martin Wainwright, 2011 *
+  * Michael Jordan, 2005
+  * Bin Yu, 1999
+
+
+
+###  International Society for Bayesian Analysis (ISBA) Fellow   
+International Society for Bayesian Analysis (ISBA)
+
+  * Michael Jordan, 2014
+
+
+
+###  Internet Defense Prize   
+Tthe Advanced Computing Systems Association (USENIX)
+
+  * Vern Paxson, 2017
+  * David Wagner, 2017
+
+
+
+###  James H. McGraw Award   
+American Society for Engineering Education (ASEE)
+
+  * Constance Chang-Hasnain, 1999
+
+
+
+###  John R. Ragazzini Education Award   
+American Automatic Control Council (AACC)
+
+  * S. Shankar Sastry, 2005
+  * Charles A. Desoer, 1983 *
+
+
+
+###  John Tyndall Award   
+Optica, Advancing Optics and Photonics Worldwide (OSA)
+
+  * Ivan P. Kaminow, 1997 *
+
+
+
+###  Mitchell Prize   
+International Society for Bayesian Analysis (ISBA)
+
+  * Stuart J. Russell, 2014
+
+
+
+###  Most Promising New Textbook Award   
+Textbook & Academic Authors Association (TAA)
+
+  * David A. Patterson, 2016
+
+
+
+###  MRS Outstanding Young Investigator Award   
+Materials Research Society (MRS)
+
+  * Ali Javey, 2015
+
+
+
+###  NCWIT Pioneer in Tech Award   
+National Center for Women & Information Technology (NCWIT)
+
+  * Ruzena Bajcsy, 2020
+
+
+
+###  Nick Holonyak Jr. Award   
+Optica, Advancing Optics and Photonics Worldwide (OSA)
+
+  * Kam Y. Lau, 2008
+  * Constance Chang-Hasnain, 2007
+
+
+
+###  NTLS Educational Technology Leadership Award   
+National Technology Leadership Summit (NTLS)
+
+  * Brian Harvey, 2020
+
+
+
+###  Oliver E. Buckley Condensed Matter Prize   
+American Physical Society (APS)
+
+  * Eli Yablonovitch, 2016
+
+
+
+###  Optica Fellows (formerly Optical Society of America (OSA) Fellow)   
+Optica, Advancing Optics and Photonics Worldwide (OSA)
+
+  * Boubacar KantÃ©, 2025
+  * Laura Waller, 2018
+  * Ming C. Wu, 2018
+  * Constance Chang-Hasnain, 1997
+  * David Attwood, 1994
+  * Kam Y. Lau, 1993
+  * Jeffrey Bokor, 1991
+  * Eli Yablonovitch, 1982
+  * T. Kenneth Gustafson, 1980 *
+  * John R. Whinnery, 1978 *
+  * Ivan P. Kaminow, 1976 *
+
+
+
+###  OSA Adolf Lomb Medal   
+Optica, Advancing Optics and Photonics Worldwide (OSA)
+
+  * Laura Waller, 2021
+  * Eli Yablonovitch, 1978
+
+
+
+###  OSA Charles H. Townes Award   
+Optica, Advancing Optics and Photonics Worldwide (OSA)
+
+  * Ivan P. Kaminow, 1995 *
+
+
+
+###  Paul C. Aebersold Award   
+Society of Nuclear Medicine and Molecular Imaging (SNMMI)
+
+  * Thomas F. Budinger, 1989
+
+
+
+###  Paul F. Forman Team Engineering Excellence Award   
+Optica, Advancing Optics and Photonics Worldwide (OSA)
+
+  * Ming C. Wu, 2007
+
+
+
+###  Phil Kaufman Award   
+Electronic System Design Alliance (ESDA)
+
+  * Chenming Hu, 2013
+  * Robert K. Brayton, 2007 *
+  * A. Richard Newton, 2003 *
+  * Alberto L. Sangiovanni-Vincentelli, 2001
+  * Ernest S. Kuh, 1998 *
+  * Donald O. Pederson, 1995 *
+
+
+
+###  Pioneer Award   
+Society for Pediatric Radiology (SPR)
+
+  * Michael Lustig, 2023
+
+
+
+###  R. W. Wood Prize   
+Optica, Advancing Optics and Photonics Worldwide (OSA)
+
+  * Eli Yablonovitch, 1996
+
+
+
+###  Richard E. Bellman Control Heritage Award   
+American Automatic Control Council (AACC)
+
+  * Pravin Varaiya, 2008 *
+  * Lotfi A. Zadeh, 1998 *
+
+
+
+###  Rufus Oldenburger Medal   
+American Society of Mechanical Engineers (ASME)
+
+  * S. Shankar Sastry, 2021
+  * Lotfi A. Zadeh, 1993 *
+  * Eliahu Jury, 1986 *
+
+
+
+###  SIA University Leadership Award   
+Semiconductor Industry Association (SIA)
+
+  * William G. Oldham, 2003
+  * Paul R. Gray, 2000
+
+
+
+###  SIA University Research Award   
+Semiconductor Industry Association (SIA)
+
+  * Ali Niknejad, 2020
+  * Tsu-Jae King Liu, 2014
+  * Chenming Hu, 2011
+  * Jan M. Rabaey, 2010
+  * Andrew R. Neureuther, 2007 *
+  * William G. Oldham, 2003
+  * Paul R. Gray, 2000
+  * Donald O. Pederson, 1995 *
+
+
+
+###  SIAM Activity Group Control and Systems Theory Prize   
+SIAM Activity Group (SIAG)
+
+  * Murat Arcak, 2007
+
+
+
+###  SNMMI Distinguished Scientist Award   
+Society of Nuclear Medicine and Molecular Imaging (SNMMI)
+
+  * Thomas F. Budinger, 1991
+
+
+
+###  Tau Beta Pi Eminent Engineer   
+Tau Beta Pi - The Engineering Honor Society (TBP)
+
+  * Randy H. Katz, 1999
+  * David A. Hodges, 1992 *
+
+
+
+###  Tau Beta Pi Outstanding Faculty of the Year Award   
+Tau Beta Pi - The Engineering Honor Society (TBP)
+
+  * John DeNero, 2015
+
+
+
+###  Technical Achievement (Oscar) Award   
+Academy of Motion Pictures Arts and Sciences (AMPAS)
+
+  * James O'Brien, 2015
+  * Elwyn R. Berlekamp, 1995 *
+
+
+
+###  Textbook Excellence Award ("Texty")   
+Textbook & Academic Authors Association (TAA)
+
+  * David A. Patterson, 2019
+  * David A. Patterson, 2014
+
+
+
+###  Thomas K. Caughey Dynamics Award   
+American Society of Mechanical Engineers (ASME)
+
+  * Jerrold Marsden, 2010 *
+
+
+
+###  Ulf Grenander Prize in Stochastic Theory and Modeling   
+American Mathematical Society (AMS)
+
+  * Michael Jordan, 2021
+
+
+
+###  USENIX Lifetime Achievement (Flame) Award   
+Tthe Advanced Computing Systems Association (USENIX)
+
+  * Michael Stonebraker, 2005
+
+
+
+###  USENIX Test of Time Award   
+Tthe Advanced Computing Systems Association (USENIX)
+
+  * Vern Paxson, 2022
+  * Eric Brewer, 2019
+  * David Wagner, 2019
+  * Doug Tygar, 2015 *
+  * David E. Culler, 2014
+
+
+
+###  VLDB Early Career Award   
+Very Large Data Base Endowment Inc. (VLDB)
+
+  * Alvin Cheung, 2023
+  * Aditya Parameswaran, 2019
+
+
+
+###  VLDB Test of Time Award   
+Very Large Data Base Endowment Inc. (VLDB)
+
+  * Joseph Gonzalez, 2023
+  * Joseph M. Hellerstein, 2023
+
+
+
+###  Walter L. Huber Civil Engineering Research Prize   
+American Society of Civil Engineers (ASCE)
+
+  * Alexandre Bayen, 2014
+
+
+
+###  Will Allis Prize for the Study of Ionized Gases   
+American Physical Society (APS)
+
+  * Michael A. Lieberman, 2006
+
+
+
+###  AAAI Award for Artificial Intelligence for the Benefit of Humanity   
+Association for the Advancement of Artificial Intelligence (AAAI)
+
+  * Stuart J. Russell, 2025
+
+
+
+###  American Academy of Letters and Sciences Member   
+American Academy of Letters and Sciences (AASL)
+
+  * Shafi Goldwasser, 2025
+
+
+
+###  CRA Distinguished Service Award   
+Computing Research Association (CRA)
+
+  * Katherine A. Yelick, 2022
+  * Susan L. Graham, 2012
+  * David A. Patterson, 2006
+  * Ruzena Bajcsy, 2003
+  * Randy H. Katz, 1995
+
+
+
+###  American Academy of Arts and Sciences Member   
+American Academy of Arts and Sciences
+
+  * Dawn Song, 2025
+  * Alberto L. Sangiovanni-Vincentelli, 2024
+  * Claire Tomlin, 2019
+  * Eric Brewer, 2018
+  * James Demmel, 2018
+  * Katherine A. Yelick, 2017
+  * Robert Full, 2016
+  * Scott Shenker, 2016
+  * Jennifer Chayes, 2014
+  * Jitendra Malik, 2013
+  * Bin Yu, 2013
+  * Eli Yablonovitch, 2011
+  * Michael Jordan, 2010
+  * Ruzena Bajcsy, 2007
+  * David A. Patterson, 2006
+  * S. Shankar Sastry, 2003
+  * William M. Kahan, 2003
+  * Shafi Goldwasser, 2001
+  * Elwyn R. Berlekamp, 1996 *
+  * Manuel Blum, 1995
+  * Susan L. Graham, 1995
+  * Randy H. Katz, 1990
+  * A. Richard Newton, 1990 *
+  * Christos Papadimitriou, 1990
+  * Pravin Varaiya, 1985 *
+  * Richard M. Karp, 1980
+  * Eugene Wong, 1980
+  * John R. Whinnery, 1975 *
+
+
+
+## International Societies
+
+###  A.C. Eringen Medal   
+Society of Engineering Science
+
+  * Lotfi A. Zadeh, 1976 *
+
+
+
+###  AI Special Contributions Award   
+International Foundation for Artificial Intelligence (IFAI)
+
+  * Lotfi A. Zadeh, 1992 *
+
+
+
+###  CAV Award   
+International Conference on Computer Aided Verification (CAV)
+
+  * Sanjit A. Seshia, 2021
+
+
+
+###  Computers and Thought Award   
+International Joint Conference on Artificial Intelligence (IJCAI)
+
+  * Stuart J. Russell, 1994
+
+
+
+###  COPSS Elizabeth L. Scott Award   
+Committee of Presidents of Statistical Societies (COPSS)
+
+  * Bin Yu, 2018
+
+
+
+###  COPSS Presidents' Award   
+Committee of Presidents of Statistical Societies (COPSS)
+
+  * Martin Wainwright, 2014 *
+
+
+
+###  EATCS Award   
+European Association for Theoretical Computer Science (EATCS)
+
+  * Christos Papadimitriou, 2015
+  * Richard M. Karp, 2000
+
+
+
+###  EDAA Lifetime Achievement Award   
+European Design and Automation Association (EDAA)
+
+  * Edward A. Lee, 2022
+  * Alberto L. Sangiovanni-Vincentelli, 2012
+  * Jan M. Rabaey, 2009
+  * Ernest S. Kuh, 2008 *
+  * Robert K. Brayton, 2006 *
+
+
+
+###  Electronic Imaging Scientist of the Year   
+Society for Imaging Science and Technology (IS&T)
+
+  * Avideh Zakhor, 2018
+
+
+
+###  Engineering Medicine & Biology Society Early Career Achievement Award   
+Engineering in Medicine & Biology Society (EMBS)
+
+  * Jose M. Carmena, 2011 *
+
+
+
+###  FLEXI R&D Achievements Award   
+FlexTech Allliance
+
+  * Ana Claudia Arias, 2017
+
+
+
+###  Hans Schneider Prize   
+International Linear Algebra Society (ILAS)
+
+  * Beresford N. Parlett, 2010 *
+
+
+
+###  Honorary Member of the London Mathematical Society   
+London Mathematical Society (LMS)
+
+  * Jennifer Chayes, 2022
+
+
+
+###  Honorary Member of the Romanian Academy   
+The Romanian Academy (ROA)
+
+  * Ion Stoica, 2022
+
+
+
+###  IACR EUROCRYPT Best Paper Award   
+International Association for Cryptologic Research (IACR)
+
+  * Sanjam Garg, 2013
+
+
+
+###  IET J. J. Thomson Medal for Electronics   
+Institution of Engineering and Technology (IET)
+
+  * Chenming Hu, 2019
+  * Kam Y. Lau, 2009
+
+
+
+###  IETI Distinguished Fellow   
+International Engineering and Technology Institute (IETI)
+
+  * Alberto L. Sangiovanni-Vincentelli, 2020
+  * Scott Shenker, 2020
+
+
+
+###  IFSA Certificate of Merit   
+International Fuzzy Systems Association (IFSA)
+
+  * Lotfi A. Zadeh, 1999 *
+
+
+
+###  IJCAI Award for Research Excellence   
+International Joint Conference on Artificial Intelligence (IJCAI)
+
+  * Stuart J. Russell, 2022
+  * Jitendra Malik, 2018
+  * Michael Jordan, 2016
+
+
+
+###  InTech Magazine's Leaders of the Pack   
+International Society of Automation (ISA)
+
+  * Otto J.M. Smith, 2003 *
+  * Lotfi A. Zadeh, 2003 *
+
+
+
+###  International Association for Cryptologic Research (IACR) Fellow   
+International Association for Cryptologic Research (IACR)
+
+  * Manuel Blum, 2012
+  * Shafi Goldwasser, 2007
+
+
+
+###  International Federation for Automatic Control (IFAC) Fellow   
+International Federation for Automatic Control (IFAC)
+
+  * Murat Arcak, 2020
+  * Kameshwar Poolla, 2020
+  * Claire Tomlin, 2020
+  * S. Shankar Sastry, 2017
+  * Pravin Varaiya, 2017 *
+
+
+
+###  International Fuzzy Systems Association (IFSA) Fellow   
+International Fuzzy Systems Association (IFSA)
+
+  * Lotfi A. Zadeh, 1997 *
+
+
+
+###  International Plasma Chemistry Society (IPCS) Fellow   
+International Plasma Chemistry Society (IPCS)
+
+  * Michael A. Lieberman, 1980
+
+
+
+###  International Society for Magnetic Resonance in Medicine Gold Medal   
+International Society of Magnetic Resonance in Medicine (ISMRM)
+
+  * Michael Lustig, 2026
+  * Michael Lustig, 2025
+
+
+
+###  International Speech Communication Association (ISCA) Fellow   
+International Speech Communication Association (ISCA)
+
+  * Nelson Morgan, 2010
+
+
+
+###  IS Physical Design Lifetime Achievement Award   
+International Symposium on Physical Design (ISPD)
+
+  * Alberto L. Sangiovanni-Vincentelli, 2019
+  * Ernest S. Kuh, 2011 *
+
+
+
+###  ISA Albert F. Sperry Founder Award   
+International Society of Automation (ISA)
+
+  * Kristofer Pister, 2009
+
+
+
+###  Isaac Newton Medal   
+Institute of Physics (IOP)
+
+  * Eli Yablonovitch, 2015
+
+
+
+###  ISMRM Distinguished Service (Silver) Medal   
+International Society of Magnetic Resonance in Medicine (ISMRM)
+
+  * Thomas F. Budinger, 1989
+
+
+
+###  ISMRM Fellow   
+International Society of Magnetic Resonance in Medicine (ISMRM)
+
+  * Chunlei Liu, 2022
+  * Michael Lustig, 2017
+  * Thomas F. Budinger, 1989
+
+
+
+###  James H. Wilkinson Prize in Numerical Analysis and Scientific Computing   
+Society for Industrial and Applied Mathematics (SIAM)
+
+  * James Demmel, 1993
+
+
+
+###  Japanese Society of Applied Physics (JSAP) Fellow   
+Japan Society of Applied Physics (JSAP)
+
+  * David Attwood, 2016
+
+
+
+###  Jean-Claude Laprie Award in Dependable Computing   
+International Federation for Information Processing (IFIP)
+
+  * David A. Patterson, 2012
+
+
+
+###  John Dawson Prize   
+International Conference on Numerical Simulation of Plasmas (ICNSP)
+
+  * Otto J.M. Smith, 2003 *
+
+
+
+###  Kalai Prize in Game Theory and Computer Science   
+Game Theory Society (GTS)
+
+  * Christos Papadimitriou, 2008
+
+
+
+###  KampÃ© de FÃ©riet Award   
+International Conference on Information Processing and Management of Uncertainty in Knowledge-Based Systems (IPMU)
+
+  * Lotfi A. Zadeh, 1992 *
+
+
+
+###  Kaufmann Prize   
+International Association for Fuzzy-Set Management & Economy (SIGEF)
+
+  * Lotfi A. Zadeh, 2004 *
+
+
+
+###  King-Sun Fu Prize   
+International Association for Pattern Recognition (IAPR)
+
+  * Jitendra Malik, 2014
+
+
+
+###  Lagrange Prize for Continuous Optimization   
+Society for Industrial and Applied Mathematics (SIAM)
+
+  * Benjamin Recht, 2012
+
+
+
+###  L'Oreal-UNESCO For Women in Science International Award   
+United Nations Educational, Scientific and Cultural Organization (UNESCO)
+
+  * Shafi Goldwasser, 2021
+
+
+
+###  Malcolm McIntosh Prize for Physical Scientist of the Year   
+Australian Prime Minister's Prizes for Science
+
+  * Peter Bartlett, 2001
+
+
+
+###  Microoptics Award   
+Japan Society of Applied Physics (JSAP)
+
+  * Constance Chang-Hasnain, 2009
+
+
+
+###  Morris L. Levinson Prize in Mathematics   
+Weizmann Institute of Science
+
+  * Shafi Goldwasser, 1999
+
+
+
+###  Mountbatten Medal   
+Institution of Engineering and Technology (IET)
+
+  * Eli Yablonovitch, 2010
+
+
+
+###  Norbert Wiener Prize in Applied Mathematics   
+Society for Industrial and Applied Mathematics (SIAM)
+
+  * Jerrold Marsden, 1990 *
+
+
+
+###  Okawa Research Grant   
+Okawa Foundation for Information and Telecommunications
+
+  * Song Mei, 2024
+  * Natacha Crooks, 2023
+  * Prabal Dutta, 2022
+  * Pierluigi Nuzzo, 2022
+  * Sophia Shao, 2022
+  * Nilah Ioannidis, 2021
+  * Sergey Levine, 2021
+  * Alessandro Chiesa, 2020 *
+  * Moritz Hardt, 2019 *
+  * Raluca Ada Popa, 2019
+  * Joseph Gonzalez, 2018
+  * Anca Dragan, 2017
+  * Sanjam Garg, 2016
+  * Nir Yosef, 2016 *
+  * Prasad Raghavendra, 2015
+  * Koushik Sen, 2015
+  * Michael Lustig, 2014
+  * Benjamin Recht, 2014
+  * Alexandre Bayen, 2013
+  * Sylvia Ratnasamy, 2013
+  * BjÃ¶rn Hartmann, 2012
+  * Pieter Abbeel, 2010
+  * Daniel Klein, 2009
+  * Alexei (Alyosha) Efros, 2008
+  * Michael Gastpar, 2008 *
+  * Dawn Song, 2008
+  * Krste AsanoviÄ, 2007
+  * Jose M. Carmena, 2007 *
+  * Claire Tomlin, 2006
+  * Martin Wainwright, 2005 *
+  * Katherine A. Yelick, 2005
+  * Avideh Zakhor, 2004
+  * John F. Canny, 2003
+  * Doug Tygar, 2003 *
+  * Alistair Sinclair, 2002
+  * Luca Trevisan, 2002 *
+  * Laurent El Ghaoui, 2001
+  * Ion Stoica, 2001
+  * James O'Brien, 2000
+  * Kannan Ramchandran, 2000
+  * David Wagner, 2000
+  * Anthony D. Joseph, 1999
+  * Satish Rao, 1999
+  * Jonathan Shewchuk, 1999
+  * Eric Brewer, 1998
+  * Marti Hearst, 1998
+  * John D. Kubiatowicz, 1998
+  * Joseph M. Hellerstein, 1997
+  * David Tse, 1997 *
+
+
+
+###  Quantum Device Award   
+International Symposium on Compound Semiconductors (ISCS)
+
+  * Constance Chang-Hasnain, 2014
+
+
+
+###  SIAM Activity Group Linear Algebra Best Paper Prize   
+SIAM Activity Group (SIAG)
+
+  * Beresford N. Parlett, 2006 *
+  * James Demmel, 1991
+  * William M. Kahan, 1991
+  * James Demmel, 1988
+
+
+
+###  SIAM Activity Group Optimization Prize   
+SIAM Activity Group (SIAG)
+
+  * Laurent El Ghaoui, 2008
+  * Michael Jordan, 2008
+
+
+
+###  Simons Foundation Investigator Award   
+Simons Foundation
+
+  * Venkatesan Guruswami, 2020
+  * Shafi Goldwasser, 2012
+
+
+
+###  Society for Industrial & Applied Mathematics (SIAM) Fellow   
+Society for Industrial and Applied Mathematics (SIAM)
+
+  * Yi Ma, 2020
+  * Bernd Sturmfels, 2014
+  * Michael Jordan, 2012
+  * Beresford N. Parlett, 2011 *
+  * Phillip Colella, 2009
+  * James Demmel, 2009
+  * Richard M. Karp, 2009
+  * Jerrold Marsden, 2009 *
+
+
+
+###  SPIE Early Career Achievement Award - Academic   
+International Society for Optics and Photonics (SPIE)
+
+  * Laura Waller, 2018
+
+
+
+###  UNESCO Medal for the Development of Nanosciences and Nanotechnologies   
+United Nations Educational, Scientific and Cultural Organization (UNESCO)
+
+  * Constance Chang-Hasnain, 2015
+
+
+
+###  Von Engel Prize   
+International Union of Pure and Applied Physics (IUPAP)
+
+  * Michael A. Lieberman, 2005
+
+
+
+###  World Molecular Imaging Society (WMIS) Fellow   
+World Molecular Imaging Society (WMIS)
+
+  * Thomas F. Budinger, 2012
+
+
+
+###  World Technology Policy Award   
+World Technology Network (WTN)
+
+  * Stuart J. Russell, 2015
+
+
+
+###  AITO Dahl Nygaard Junior Prize   
+Association Internationale pour les Technologies Objets (AITO)
+
+  * Alvin Cheung, 2024
+
+
+
+###  Chinese Academy of Sciences Foreign Member   
+Chinese Academy of Sciences
+
+  * Michael Jordan, 2025
+
+
+
+###  Dr. Morris Chang Exemplary Leadership Award   
+Global Semiconductor Alliance (GSA)
+
+  * Tsu-Jae King Liu, 2025
+
+
+
+###  Fellow of the Royal Society   
+Royal Society of London (RSL)
+
+  * Stuart J. Russell, 2025
+
+
+
+###  Premio Roma allo Sviluppo del Paese (Rome Prize for the Advancement of the Nation)   
+Comitato Nazionale Marconi 150 (Marconi 150)
+
+  * Alberto L. Sangiovanni-Vincentelli, 2025
+
+
+
+###  Presidential Science Prize of Taiwan   
+Office of the President of the Republic of China (ROC Pres Off)
+
+  * Chenming Hu, 2023
+
+
+
+###  SIAM John von Neumann Lecture Prize   
+Society for Industrial and Applied Mathematics (SIAM)
+
+  * Jennifer Chayes, 2015
+  * Bernd Sturmfels, 2010
+  * Jerrold Marsden, 2005 *
+  * William M. Kahan, 1997
+  * Richard M. Karp, 1987
+
+
+
+###  Okawa Prize   
+Okawa Foundation for Information and Telecommunications
+
+  * Constance Chang-Hasnain, 2018
+  * David E. Culler, 2013
+  * John R. Whinnery, 1997 *
+  * Lotfi A. Zadeh, 1996 *
+
+
+
+###  INFORMS Frederick W. Lanchester Prize   
+Institute for Operations Research and the Management Sciences (INFORMS)
+
+  * Jean Walrand, 1989
+  * Richard M. Karp, 1977
+
+
+
+###  INFORMS John von Neumann Theory Prize   
+Institute for Operations Research and the Management Sciences (INFORMS)
+
+  * Richard M. Karp, 1990
+
+
+
+###  INFORMS Applied Probability Society (APS) Erlang Prize   
+Institute for Operations Research and the Management Sciences (INFORMS)
+
+  * David Tse, 2000 *
+
+
+
+###  INFORMS Energy, Natural Resources, and the Environment (ENRE) Best Publication Award in Energy   
+Institute for Operations Research and the Management Sciences (INFORMS)
+
+  * Somayeh Sojoudi, 2016
+
+
+
+###  INFORMS Optimization Society Young Researchers Prize   
+Institute for Operations Research and the Management Sciences (INFORMS)
+
+  * Somayeh Sojoudi, 2015
+
+
+
+## Award Pages
+
+  * Major Awards
+  * ACM Awards
+  * NSF Awards
+  * IEEE Awards
+  * UC Berkeley Awards
+  * Society Awards
+  * Government & Private Awards
+  * Other Awards
+
+
+
+* * *
+
+*No longer active in the department

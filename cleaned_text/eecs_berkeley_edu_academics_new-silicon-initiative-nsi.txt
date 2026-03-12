@@ -1,0 +1,139 @@
+## Apple New Silicon Initiative
+
+Apple’s New Silicon Initiative (NSI) aims to prepare students for careers in hardware technology, computer architecture, and silicon chip design. The program’s objective is to address the growing demand in the US for a workforce in IC design and computer architecture areas. The NSI team provides various modes of support to help increase visibility in microelectronic circuits and hardware design. By reintroducing IC design and tapeout-to-silicon courses in the EECS curriculum, the program enables students to take IC design courses and a VLSI path, while gearing them for a career in hardware engineering.
+
+## Apple Scholarships
+
+Apple 5th-year Masters Scholarship in Integrated Systems
+
+The NSI program is facilitated in close coordination with graduate-level studies. Students are encouraged to pursue graduate-level education through Apple’s highly competitive scholarship program, which are available to prospective 5th-year M.S. students. Please visit the links above for more information about the application process and evaluation criteria.
+
+##  Academic Year 2025/2026 Recipients 
+
+###  Joshua You 
+
+5th-Year M.S. 
+
+###  Jessica Fan 
+
+5th-Year M.S. 
+
+###  Jack Kang 
+
+5th-Year M.S. 
+
+###  Sarika Madhvapathy 
+
+Ph.D 
+
+###  Hansung Kim 
+
+Ph.D 
+
+###  Tianrui Wei 
+
+Ph.D 
+
+###  Chun-Yen Yao 
+
+Ph.D 
+
+###  I-Ting Lin 
+
+Ph.D 
+
+Click here to view past recipients.
+
+## EECS Circuits/Computer Hardware Course Flow Map
+
+Above is the course sequence for students interested in careers in computer architecture, circuit design, and hardware technology. Many of these courses offer guest lectures by Apple engineers so students can have a deeper understanding of the opportunities available to them. Select courses are eligible for Apple-sponsored prizes at the end of the semester through design contests. EECS and CS students are encouraged to take EE 194, or the “tapeout” course, and to consider graduate-level study.
+
+Click here for more information on the courses above
+
+##  Faculty Partners 
+
+###  Rikky Muller 
+
+NSI Faculty Lead 
+
+Homepage
+
+###  Borivoje Nikolic 
+
+Founding Faculty Lead 
+
+Homepage
+
+###  Ana Claudia Arias 
+
+EE Division Chair 
+
+Homepage
+
+###  Sophia Shao 
+
+Participating Faculty 
+
+Homepage
+
+###  Kristofer Pister 
+
+Participating Faculty 
+
+Homepage
+
+###  Ali Niknejad 
+
+Participating Faculty 
+
+Homepage
+
+###  Jun-Chau Chien 
+
+Participating Faculty 
+
+Homepage
+
+###  John Wawrzynek 
+
+Participating Faculty 
+
+Homepage
+
+###  Christopher Fletcher 
+
+Participating Faculty 
+
+Homepage
+
+###  Lisa Yan 
+
+Participating Faculty 
+
+Homepage
+
+###  Dan Garcia 
+
+Participating Faculty 
+
+Homepage
+
+##  Staff 
+
+###  Bennett Agnew 
+
+Director of External Relations 
+
+bennettagnew  
+@berkeley.edu
+
+###  James Greene 
+
+Corporate Access Manager 
+
+jpgreene  
+@berkeley.edu
+
+If you have questions about the program, scholarships, fellowships, or would like to get involved, please contact us at the addresses above.
+
+View  Open Faculty Positions __

@@ -1,0 +1,44 @@
+### Antonio Puglielli and Borivoje Nikolic and Elad Alon
+
+### EECS Department, University of California, Berkeley
+
+### Technical Report No. UCB/EECS-2019-149
+
+###  December 1, 2019 
+
+###  http://www2.eecs.berkeley.edu/Pubs/TechRpts/2019/EECS-2019-149.pdf
+
+**Advisors:** Borivoje Nikolic and Elad Alon
+
+* * *
+
+BibTeX citation:
+    
+    
+    @phdthesis{Puglielli:EECS-2019-149,
+        Author= {Puglielli, Antonio and Nikolic, Borivoje and Alon, Elad},
+        Title= {System Architecture and Signal Processing Techniques for Massive Multi-user Antenna Arrays},
+        School= {EECS Department, University of California, Berkeley},
+        Year= {2019},
+        Month= {Dec},
+        Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2019/EECS-2019-149.html},
+        Number= {UCB/EECS-2019-149},
+    }
+    
+
+EndNote citation:
+    
+    
+    %0 Thesis
+    %A Puglielli, Antonio 
+    %A Nikolic, Borivoje 
+    %A Alon, Elad 
+    %T System Architecture and Signal Processing Techniques for Massive Multi-user Antenna Arrays
+    %I EECS Department, University of California, Berkeley
+    %D 2019
+    %8 December 1
+    %@ UCB/EECS-2019-149
+    %U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2019/EECS-2019-149.html
+    %F Puglielli:EECS-2019-149
+    
+    

@@ -1,0 +1,5 @@
+[show sections and labs]
+
+CCN | Course | Sec | Type | Title | Instructor | Day/Time | Location  
+---|---|---|---|---|---|---|---  
+No course schedule is available.

@@ -1,0 +1,37 @@
+## Minimum Graduate Admission Requirements
+
+  1. A bachelor’s degree or recognized equivalent from an accredited institution. (If you are in your final year of studies and expect to earn your degree by mid-August of the following year, you may apply. If you are admitted, you will be required to provide proof that you have earned your bachelor’s degree, usually in the form of a final official transcript.)
+  2. If you attended an American university or a university that uses a similar 4.0 scale, a satisfactory scholastic average with a minimum grade-point average (GPA) of 3.0 (B) is required. If you attended a university that does not use the 4.0 system, please do not convert your grades to our system; instead, leave that section blank on your application.
+  3. If you received or are a candidate to receive a degree from an institution outside the United States, please read the Minimum Degree Requirements for International Applicants and Evidence of English Language Proficiency.
+
+
+
+Please see the Admission Requirements page for more information.
+
+## Suggestions for People Without a Technical Background Who Wish to Apply to Our Computer Science Program
+
+We do not require applicants to have a technical background. However, a certain technical foundation is needed to prepare a successful application. To this end, it is recommended that you take courses equivalent to the ones listed below before submitting a graduate application. 
+
+  * Math 51 and 52 = college level calculus
+  * Math 54 = linear algebra and differential equations
+  * CS61A = computer programming
+  * CS61B = data structures
+  * CS61C = machine structures
+  * CS70 = discrete mathematics and probability theory
+
+
+
+The junior/senior level or specialized courses in computer science that you take depend on what field of CS you want to study in grad school. Traditionally, the best approach is to obtain a broad education in CS. Berkeley courses that could satisfy this include:
+
+  * CS150 = Components and Design Techniques for Digital Systems
+  * CS162 = Operating Systems and System Programming
+  * CS164 = Programming Languages and Compiler Design
+  * CS170 = Efficient Algorithms and Intractable Problems*
+
+
+
+*Since there are no set upper division requirements in CS at UC Berkeley other than CS170, it is hard to tell what upper division courses to take. Again, it depends on your areas of interest. You should consult experts in the various fields of CS to decide what would be best for you.
+
+**Also, please keep in mind that these are NOT required courses, just suggestions.**
+
+View  Open Faculty Positions __

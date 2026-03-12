@@ -1,0 +1,18 @@
+The David A. Patterson Computer Science Education and Research Fund is dedicated to supporting the efforts of Berkeley Computer Science faculty and students to advance instruction and curriculum development in computing.
+
+The endowed fund honors our distinguished colleague, Professor David A. Patterson, who has dedicated the last four decades to advancing the field of computer architecture, through highly visible research projects that have revolutionized the industry and a landmark series of textbooks that has transformed how computer architecture is taught throughout the world. Professor Patterson has personally taught thousands of students at Berkeley, and many more through his books and on-line courses. In addition, Professor Patterson has mentored more than 30 graduate students, many of whom are now leaders in academia and industry.
+
+With diminishing state support for our university, the Patterson Fund will significantly assist the EECS Department to handle the enormous challenges caused by the explosive growth in computer science course enrollments, caused by the tremendous interest of students for instruction in the field.
+
+Specifically, the payout will be used to support:
+
+  * Faculty academic base salaries, especially in support of faculty whose work further advances computer science curriculum or instruction and research
+  * CS education and research programs and activities in support of students
+  * CS curriculum and program development and enhancement activities
+  * General CS programmatic initiatives and efforts to benefit the Department’s academic and research goals
+
+
+
+To make a donation online, please go to give.berkeley.edu.
+
+View  Open Faculty Positions __

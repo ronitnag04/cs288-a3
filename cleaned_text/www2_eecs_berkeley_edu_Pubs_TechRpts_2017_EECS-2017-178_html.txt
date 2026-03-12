@@ -1,0 +1,55 @@
+### Ali Moin and Jan M. Rabaey and Elad Alon
+
+### EECS Department, University of California, Berkeley
+
+### Technical Report No. UCB/EECS-2017-178
+
+###  December 1, 2017 
+
+###  http://www2.eecs.berkeley.edu/Pubs/TechRpts/2017/EECS-2017-178.pdf
+
+Neuromodulation methods have shown increasing promise to treat and cure neuropsychiatric disorders. This requires an active electronic device capable of modulating the brain system. However, existing "neurostimulators" have very limited capabilities and are not advancing as fast as the clinical research. They support small number and low density of neural data acquisition channels and stimulation sites. Moreover, a single region of the brain is often targeted. However, research shows that an effective therapy requires system-level modulation to force the brain to unlearn its dysfunction.
+
+Octopus-Mimetic Neural Implant (OMNI) is a novel neuromodulation system which acts at the system level and provides real-time closed-loop therapy. It targets a wide range of neuropsychiatric disorders including Major Depressive Disorder (MDD) and Generalized Anxiety Disorder (GAD). OMNI's unique properties can be summarized by the following keywords: multi-scale, distributed, modular and self-contained. The system is a network of several neural implants performing simultaneous recording and stimulation from multiple sites, both cortical and subcortical, and in both hemispheres. It includes flexible and modular data aggregation, and contains sufficient computation power, storage and energy supply.
+
+To achieve such a complex distributed system, definition of a complete custom network protocol stack is required as well as the hardware, software and firmware design for each module. In this thesis, we have designed and implemented the first prototype of OMNI device in collaboration with Cortera Neurotechnologies Inc. and Lawrence Livermore National Laboratory.
+
+**Advisors:** Jan M. Rabaey and Elad Alon
+
+* * *
+
+BibTeX citation:
+    
+    
+    @mastersthesis{Moin:EECS-2017-178,
+        Author= {Moin, Ali and Rabaey, Jan M. and Alon, Elad},
+        Title= {OMNI: A Distributed, Modular, Closed-Loop Neuromodulation Device for the Treatment of Neuropsychiatric Disorders},
+        School= {EECS Department, University of California, Berkeley},
+        Year= {2017},
+        Month= {Dec},
+        Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2017/EECS-2017-178.html},
+        Number= {UCB/EECS-2017-178},
+        Abstract= {Neuromodulation methods have shown increasing promise to treat and cure neuropsychiatric disorders. This requires an active electronic device capable of modulating the brain system. However, existing "neurostimulators" have very limited capabilities and are not advancing as fast as the clinical research. They support small number and low density of neural data acquisition channels and stimulation sites. Moreover, a single region of the brain is often targeted. However, research shows that an effective therapy requires system-level modulation to force the brain to unlearn its dysfunction.
+    
+    Octopus-Mimetic Neural Implant (OMNI) is a novel neuromodulation system which acts at the system level and provides real-time closed-loop therapy. It targets a wide range of neuropsychiatric disorders including Major Depressive Disorder (MDD) and Generalized Anxiety Disorder (GAD). OMNI's unique properties can be summarized by the following keywords: multi-scale, distributed, modular and self-contained. The system is a network of several neural implants performing simultaneous recording and stimulation from multiple sites, both cortical and subcortical, and in both hemispheres. It includes flexible and modular data aggregation, and contains sufficient computation power, storage and energy supply.
+    
+    To achieve such a complex distributed system, definition of a complete custom network protocol stack is required as well as the hardware, software and firmware design for each module. In this thesis, we have designed and implemented the first prototype of OMNI device in collaboration with Cortera Neurotechnologies Inc. and Lawrence Livermore National Laboratory.},
+    }
+    
+
+EndNote citation:
+    
+    
+    %0 Thesis
+    %A Moin, Ali 
+    %A Rabaey, Jan M. 
+    %A Alon, Elad 
+    %T OMNI: A Distributed, Modular, Closed-Loop Neuromodulation Device for the Treatment of Neuropsychiatric Disorders
+    %I EECS Department, University of California, Berkeley
+    %D 2017
+    %8 December 1
+    %@ UCB/EECS-2017-178
+    %U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2017/EECS-2017-178.html
+    %F Moin:EECS-2017-178
+    
+    

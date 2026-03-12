@@ -1,0 +1,65 @@
+### Konstantin Trotskovsky
+
+### EECS Department, University of California, Berkeley
+
+### Technical Report No. UCB/EECS-2020-188
+
+###  December 1, 2020 
+
+###  http://www2.eecs.berkeley.edu/Pubs/TechRpts/2020/EECS-2020-188.pdf
+
+The ongoing exponential mobile traffic increase is continuing to push the requirements of wireless communication systems. Currently in dense urban areas the major limitation to the capacity of wireless links is interference between different users. Massive MIMO is a promising technology to address this challenge, where directional spatial beams are formed by an antenna array on a base station, each serving a different user. This concept is currently verified using commercial general-purpose analog hardware, with power consumption in the kW range for large arrays.
+
+This thesis focuses on energy-efficient RF receiver design for Massive MIMO systems. In order to be energy-efficient, the system requirements for a large antenna array receiver are different from a conventional single-antenna receiver. We use the fact that the noise of each receiver is uncorrelated across the array, so we can save power by using receivers with larger noise, while still meeting the link budget requirements. However, receiver linearity cannot be relaxed due to the digital beamforming used in the system. 
+
+To address these challenges a novel RF receiver architecture is proposed, using a mixer-first approach with mixer switch resistance larger than 50 Ohm. Configurable mixer and baseband Gm sizes allow the receiver to trade noise figure for power consumption and use the same receiver for various array sizes and array-level noise specifications. Harmonic recombination is performed early in the signal path, enabling rejection of harmonic blockers up to -10dBm of power.
+
+This architecture was implemented in a first chip prototype. Scalable element noise figure results in sub-2.5 dB array-level noise figure with 16 to 64 antennas and less than 368 mW total power consumption, for a frequency range of 0.25-1.7GHz.
+
+In the second chip we perform an optimized design using the Berkeley Analog Generator (BAG). The proposed generator design methodology produces instances with optimum power consumption for a given noise figure specification. An instance of this generator is implemented in the chip, showing power consumption improvement of 50% and wider frequency range of 1-6GHz compared to the first chip.
+
+**Advisors:** Elad Alon
+
+* * *
+
+BibTeX citation:
+    
+    
+    @phdthesis{Trotskovsky:EECS-2020-188,
+        Author= {Trotskovsky, Konstantin},
+        Editor= {Alon, Elad and Niknejad, Ali and Adler, Ilan},
+        Title= {Scalable RF Receivers for Large Antenna Arrays},
+        School= {EECS Department, University of California, Berkeley},
+        Year= {2020},
+        Month= {Dec},
+        Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2020/EECS-2020-188.html},
+        Number= {UCB/EECS-2020-188},
+        Abstract= {The ongoing exponential mobile traffic increase is continuing to push the requirements of wireless communication systems. Currently in dense urban areas the major limitation to the capacity of wireless links is interference between different users. Massive MIMO is a promising technology to address this challenge, where directional spatial beams are formed by an antenna array on a base station, each serving a different user. This concept is currently verified using commercial general-purpose analog hardware, with power consumption in the kW range for large arrays.
+    
+    This thesis focuses on energy-efficient RF receiver design for Massive MIMO systems. In order to be energy-efficient, the system requirements for a large antenna array receiver are different from a conventional single-antenna receiver. We use the fact that the noise of each receiver is uncorrelated across the array, so we can save power by using receivers with larger noise, while still meeting the link budget requirements. However, receiver linearity cannot be relaxed due to the digital beamforming used in the system. 
+    
+    To address these challenges a novel RF receiver architecture is proposed, using a mixer-first approach with mixer switch resistance larger than 50 Ohm. Configurable mixer and baseband Gm sizes allow the receiver to trade noise figure for power consumption and use the same receiver for various array sizes and array-level noise specifications. Harmonic recombination is performed early in the signal path, enabling rejection of harmonic blockers up to -10dBm of power.
+    
+    This architecture was implemented in a first chip prototype. Scalable element noise figure results in sub-2.5 dB array-level noise figure with 16 to 64 antennas and less than 368 mW total power consumption, for a frequency range of 0.25-1.7GHz.
+    
+    In the second chip we perform an optimized design using the Berkeley Analog Generator (BAG). The proposed generator design methodology produces instances with optimum power consumption for a given noise figure specification. An instance of this generator is implemented in the chip, showing power consumption improvement of 50% and wider frequency range of 1-6GHz compared to the first chip.},
+    }
+    
+
+EndNote citation:
+    
+    
+    %0 Thesis
+    %A Trotskovsky, Konstantin 
+    %E Alon, Elad 
+    %E Niknejad, Ali 
+    %E Adler, Ilan 
+    %T Scalable RF Receivers for Large Antenna Arrays
+    %I EECS Department, University of California, Berkeley
+    %D 2020
+    %8 December 1
+    %@ UCB/EECS-2020-188
+    %U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2020/EECS-2020-188.html
+    %F Trotskovsky:EECS-2020-188
+    
+    

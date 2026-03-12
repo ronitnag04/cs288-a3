@@ -1,0 +1,26 @@
+* * *
+
+The EECS Department is proud to present the 2025 Distinguished Alumni Awards in Electrical Engineering and Computer Sciences. The Department of Electrical Engineering & Computer Sciences has established a Distinguished Alumni Award to recognize valuable contributions made by the distinguished alumni of Berkeley to the fields of Electrical Engineering and Computer Sciences. The Distinguished Alumni Awards were established in 1991 to honor our most esteemed and accomplished alumni across industry and academia. Since then, we have had the privilege of adding over 116 individuals to the ranks of our Distinguished Alumni in Electrical Engineering and Computer Sciences.
+
+Four outstanding alumni were named Berkeley EECS Distinguished Alumni Award recipients this year: Srinivas Devadas, DJ Seo, Dana Angluin, and John Schulman.
+
+Professor Srinivas Devadas earned both his Master’s and Ph.D. degrees in EE from UC Berkeley, graduating in 1988, advised by Professor A. Richard Newton. He has gone on to become the Edwin Sibley Webster Professor of Electrical Engineering and Computer Science at the Massachusetts Institute of Technology.  
+Professor Devadas is renowned globally for his pioneering work, particularly his invention of silicon Physical Unclonable Functions (PUFs). This technology has transformed device authentication and secure key generation and has led to the founding of the company Verayo. His extraordinary achievements have been recognized with a wide array of honors. He is a Fellow of both the IEEE and ACM and has received prestigious awards, such as the IEEE Computer Society’s Edward J. McCluskey Technical Achievement Award, the W. Wallace McDowell Award, and the ACM/IEEE A. Richard Newton Technical Impact Award. In 2018, he received the IEEE Circuits and Systems Society Charles A. Desoer Technical Achievement Award for the development of Physical Unclonable Functions and enabling the deployment of secure circuits, processors and systems. In 2021, he received the IEEE Cybersecurity Award for Practice and the ACM SIGSAC Outstanding Innovation Award for fundamental contributions to secure microprocessors, circuits, and systems. Professor Devadas is also a deeply dedicated educator, having received top teaching awards at MIT and authoring a well-received textbook.
+
+Dr. Seo earned his PhD in Electrical Engineering and Computer Sciences here at UC Berkeley in 2016, advised by Michel Maharbiz and Elad Alon. During his time on campus, he was a pivotal figure in groundbreaking research, notably pioneering the concept of “neural dust” – microscopic electronic sensors designed to interface with the brain. Since completing his Ph.D., Dr. Seo has co-founded Neuralink, a company at the cutting edge of developing high-bandwidth brain-machine interfaces. As co-founder and VP, he has been instrumental in creating technologies that aim to revolutionize the treatment of neurological conditions.  
+Dr. Seo’s brilliance has been widely recognized; in 2020, he was named one of MIT Technology Review’s Innovators Under 35, a testament to his forward-thinking contributions.
+
+Professor Dana Angluin received both her B.A. and her Ph.D. at UC Berkeley. Her 1976 Ph.D. was supervised by Manuel Blum. She is now a computer science professor emerita at Yale University, and her research helped establish the theoretical foundations for machine learning. Her main focus has been algorithmic approaches to learning. She was one of the creators of the Computational Learning Theory (COLT) conference, and in 2020, she and co-authors won the Dijkstra Prize in Distributed Computing. She has also won three of Yale’s major awards for undergraduate teaching.
+
+Dr. John Schulman completed his Ph.D. in Computer Science in 2016, advised by Pieter Abbeel. Shortly before he graduated, he co-founded OpenAI with a number of others, and he went on to lead the reinforcement learning team that created ChatGPT. In 2024, he left OpenAI, and he is currently the Chief Scientist at Thinking Machines Lab. Dr. Schulman has been named one of the 35 Innovators Under 35 by MIT’s Technical Review. He has also received the Mark Bingham Award for Excellence in Achievement by Young Alumni from UC Berkeley.
+
+## Categories
+
+  * Alumni 
+  * Faculty 
+  * Honors 
+  * Industry 
+
+
+
+View  Open Faculty Positions __

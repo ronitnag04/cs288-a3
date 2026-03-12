@@ -1,0 +1,550 @@
+## In This Page
+
+## Individual
+
+###  ACM Distinguished Educator   
+
+
+  * Michael J. Clancy, 2016 *
+  * Dan Garcia, 2012
+
+
+
+###  ACM Distinguished Scientist Award   
+
+
+  * Krste AsanoviÄ, 2011
+  * Armando Fox, 2011
+  * James O'Brien, 2009
+
+
+
+###  ACM Distinguished Service Award   
+
+
+  * Jennifer Chayes, 2020
+  * David A. Patterson, 2007
+  * Susan L. Graham, 2006
+  * Ruzena Bajcsy, 2003
+
+
+
+###  ACM Doctoral Dissertation Award   
+
+
+  * Sewon Min, 2025
+  * Alane Suhr, 2022
+  * Sanjam Garg, 2013
+  * Ren Ng, 2006
+  * Venkatesan Guruswami, 2002
+  * Ion Stoica, 2001
+  * David Wagner, 2001
+  * John F. Canny, 1987
+
+
+
+###  ACM Eugene L. Lawler Award   
+
+
+  * Jelani Nelson, 2022
+
+
+
+###  ACM Software System Award   
+
+
+  * Michael Stonebraker, 1988
+  * Eugene Wong, 1988
+
+
+
+###  ACM-AAAI Allen Newell Award   
+
+
+  * Stuart J. Russell, 2023
+  * Jitendra Malik, 2016
+  * Michael Jordan, 2009
+  * Ruzena Bajcsy, 2001
+  * Lotfi A. Zadeh, 2000 *
+
+
+
+###  Athena Lecturer Award   
+
+
+  * Katherine A. Yelick, 2013
+  * Shafi Goldwasser, 2008
+
+
+
+###  Eckert-Mauchly Award   
+
+
+  * David A. Patterson, 2008
+
+
+
+###  Grace Murray Hopper Award   
+
+
+  * Raluca Ada Popa, 2021
+  * Sylvia Ratnasamy, 2014
+  * Vern Paxson, 2007
+  * Daniel Klein, 2006
+  * Shafi Goldwasser, 1996
+
+
+
+###  Karl V. Karlstrom Outstanding Educator Award   
+
+
+  * Dan Garcia, 2025
+  * Brian Harvey, 2025
+  * Armando Fox, 2015
+  * Stuart J. Russell, 2005
+  * Randy H. Katz, 1999
+  * David A. Patterson, 1991
+
+
+
+###  Paris Kanellakis Theory and Practice Award   
+
+
+  * Scott Shenker, 2017
+  * James Demmel, 2014
+  * Robert K. Brayton, 2006 *
+
+
+
+###  ACM A.M. Turing Award   
+
+
+  * David A. Patterson, 2017
+  * Michael Stonebraker, 2014
+  * Shafi Goldwasser, 2012
+  * Manuel Blum, 1995
+  * William M. Kahan, 1989
+  * Richard M. Karp, 1985
+
+
+
+###  ACM Prize in Computing   
+
+
+  * Pieter Abbeel, 2021
+  * Alexei (Alyosha) Efros, 2016
+  * Eric Brewer, 2009
+
+
+
+## Special Interest Groups
+
+###  ACM SENSYS Test of Time Award   
+
+
+  * Prabal Dutta, 2022
+  * David E. Culler, 2018
+  * David E. Culler, 2015
+  * David E. Culler, 2014
+
+
+
+###  ACM SIGACT Distinguished Service Prize   
+
+
+  * Jelani Nelson, 2023
+  * Alistair Sinclair, 2017
+  * Richard M. Karp, 2008
+
+
+
+###  ACM SIGACT Knuth Prize   
+
+
+  * Christos Papadimitriou, 2002
+
+
+
+###  ACM SIGARCH Distinguished Service Award   
+
+
+  * David A. Patterson, 2011
+
+
+
+###  ACM SIGARCH/IEEE CS TCCA Outstanding Dissertation Award   
+
+
+  * Sagar Karandikar, 2025
+
+
+
+###  ACM SIGBED Technical Achievement Award   
+
+
+  * Edward A. Lee, 2022
+
+
+
+###  ACM SIGCHI Academy Member   
+
+
+  * Eric Paulos, 2026
+  * BjÃ¶rn Hartmann, 2024
+  * Marti Hearst, 2017
+
+
+
+###  ACM SIGCHI Best Paper Award   
+
+
+  * Alvin Cheung, 2021
+
+
+
+###  ACM SIGCOMM Award   
+
+
+  * Vern Paxson, 2011
+  * Domenico Ferrari, 2006
+  * Scott Shenker, 2002
+
+
+
+###  ACM SIGCOMM Test of Time Paper Award   
+
+
+  * Scott Shenker, 2017
+  * David E. Culler, 2013
+  * Richard M. Karp, 2011
+  * Sylvia Ratnasamy, 2011
+  * Scott Shenker, 2011
+  * Ion Stoica, 2011
+  * Vern Paxson, 2006
+  * Scott Shenker, 2006
+
+
+
+###  ACM SIGCSE Award for Outstanding Contribution to Computer Science Education   
+
+
+  * Michael J. Clancy, 2009 *
+
+
+
+###  ACM SIGDA Pioneering Achievement Award   
+
+
+  * Alberto L. Sangiovanni-Vincentelli, 2018
+  * Robert K. Brayton, 2011 *
+
+
+
+###  ACM SIGECOM Test of Time Award   
+
+
+  * Umesh Vazirani, 2024
+
+
+
+###  ACM SIGGRAPH Significant New Researcher Award   
+
+
+  * Jonathan Ragan-Kelley, 2021 *
+  * Alexei (Alyosha) Efros, 2010
+
+
+
+###  ACM SIGIR Academy Member   
+
+
+  * Marti Hearst, 2021
+
+
+
+###  ACM SIGKDD Dissertation Award   
+
+
+  * Rediet Abebe, 2020 *
+
+
+
+###  ACM SIGMM Technical Achievement Award   
+
+
+  * Lawrence A. Rowe, 2009
+
+
+
+###  ACM SIGMM Test of Time Paper Award   
+
+
+  * Trevor Darrell, 2024
+
+
+
+###  ACM SIGMOBILE Outstanding Contribution Award   
+
+
+  * David E. Culler, 2007
+  * Randy H. Katz, 2002
+  * Robert W. Brodersen, 1998 *
+
+
+
+###  ACM SIGMOD Best Demonstration Award   
+
+
+  * Alvin Cheung, 2017
+  * Ken Goldberg, 2016
+
+
+
+###  ACM SIGMOD Best Paper Award   
+
+
+  * Jelani Nelson, 2022
+  * Aditya Parameswaran, 2020
+  * Jelani Nelson, 2010
+  * Christos Papadimitriou, 2000
+  * Christos Papadimitriou, 1997
+
+
+
+###  ACM SIGMOD Edgar F. Codd Innovations Award   
+
+
+  * Joseph M. Hellerstein, 2023
+  * Michael Stonebraker, 1992
+
+
+
+###  ACM SIGMOD Systems Award   
+
+
+  * Lawrence A. Rowe, 2015
+  * Michael Stonebraker, 2015
+
+
+
+###  ACM SIGMOD Test of Time Award   
+
+
+  * Joseph M. Hellerstein, 2013
+  * Joseph M. Hellerstein, 2007
+  * Joseph M. Hellerstein, 2002
+  * Randy H. Katz, 1999
+  * David A. Patterson, 1999
+
+
+
+###  ACM SIGNUM George E. Forsythe Memorial Award   
+
+
+  * William M. Kahan, 1972
+
+
+
+###  ACM SIGOPS Dennis M. Ritchie Doctoral Dissertation Award   
+
+
+  * Rishabh Iyer, 2023
+  * Natacha Crooks, 2020
+
+
+
+###  ACM SIGOPS Hall of Fame Award   
+
+
+  * Susan L. Graham, 2015
+  * Ion Stoica, 2015
+  * Randy H. Katz, 2011
+  * David A. Patterson, 2011
+
+
+
+###  ACM SIGOPS Mark Weiser Award   
+
+
+  * Matei Zaharia, 2023
+  * Ion Stoica, 2019
+  * Eric Brewer, 2009
+
+
+
+###  ACM SIGPLAN Distinguished Paper Award (OOPSLA)   
+
+
+  * Koushik Sen, 2019
+  * Dawn Song, 2019
+
+
+
+###  ACM SIGPLAN Distinguished Paper Award (PLDI)   
+
+
+  * Alvin Cheung, 2022
+
+
+
+###  ACM SIGPLAN Most Influential Principles of Programming Languages (POPL) Paper Award   
+
+
+  * Thomas A. Henzinger, 2014 *
+
+
+
+###  ACM SIGPLAN Most Influential Programming Language Design and Implementation (PLDI) Paper Award   
+
+
+  * Eric Brewer, 2013
+  * David E. Culler, 2013
+
+
+
+###  ACM SIGPLAN Programming Languages Achievement Award   
+
+
+  * Susan L. Graham, 2000
+
+
+
+###  ACM SIGSAC Outstanding Innovation Award   
+
+
+  * Dawn Song, 2020
+  * David Wagner, 2016
+
+
+
+###  ACM SIGSOFT Distinguished Paper Award   
+
+
+  * Alvin Cheung, 2019
+  * Koushik Sen, 2016
+
+
+
+###  ACM SIGSOFT ICSE Most Influential Paper Award   
+
+
+  * Sanjit A. Seshia, 2020
+
+
+
+###  ACM SIGSOFT Impact Paper Award   
+
+
+  * Koushik Sen, 2019
+
+
+
+###  ACM-IEEE CS Ken Kennedy Award   
+
+
+  * Katherine A. Yelick, 2015
+  * Susan L. Graham, 2011
+
+
+
+###  ACM-IEEE Supercomputing Conference Test of Time Award   
+
+
+  * James Demmel, 2019
+
+
+
+###  GÃ¶del Prize   
+
+
+  * Christos Papadimitriou, 2012
+  * Shafi Goldwasser, 2001
+  * Alistair Sinclair, 1996
+  * Shafi Goldwasser, 1993
+
+
+
+###  Symposium on Theory of Computing (STOC) Best Paper Award   
+
+
+  * Venkatesan Guruswami, 2024
+
+
+
+###  Symposium on Theory of Computing (STOC) Test of Time Award   
+
+
+  * Umesh Vazirani, 2023
+  * Shafi Goldwasser, 2021
+  * Alistair Sinclair, 2021
+
+
+
+## Fellows
+
+###  Association for Computing Machinery (ACM) Fellow   
+
+
+  * Sylvia Ratnasamy, 2025
+  * John F. Canny, 2020
+  * Sanjit A. Seshia, 2020
+  * Dawn Song, 2019
+  * Krste AsanoviÄ, 2018
+  * Peter Bartlett, 2018
+  * Shafi Goldwasser, 2017
+  * Venkatesan Guruswami, 2017
+  * Yi Ma, 2017
+  * Alberto L. Sangiovanni-Vincentelli, 2014
+  * Marti Hearst, 2013
+  * Satish Rao, 2013
+  * Ion Stoica, 2012
+  * Alistair Sinclair, 2012
+  * Katherine A. Yelick, 2012
+  * Michael Jordan, 2010
+  * Jennifer Chayes, 2010
+  * Joseph M. Hellerstein, 2009
+  * Jitendra Malik, 2008
+  * Eric Brewer, 2007
+  * Thomas A. Henzinger, 2006 *
+  * Vern Paxson, 2006
+  * Umesh Vazirani, 2005
+  * Stuart J. Russell, 2003
+  * Scott Shenker, 2003
+  * David E. Culler, 2002
+  * Domenico Ferrari, 2001
+  * Christos Papadimitriou, 2001
+  * Alan J. Smith, 2001
+  * Manuel Blum, 1999
+  * James Demmel, 1999
+  * Richard J. Fateman, 1999
+  * Lawrence A. Rowe, 1997
+  * Carlo H. SÃ©quin, 1997
+  * Ruzena Bajcsy, 1996
+  * Michael A. Harrison, 1996 *
+  * Robert Wilensky, 1996 *
+  * Randy H. Katz, 1995
+  * Susan L. Graham, 1994
+  * William M. Kahan, 1994
+  * Richard M. Karp, 1994
+  * David A. Patterson, 1994
+  * Michael Stonebraker, 1994
+  * Lotfi A. Zadeh, 1994 *
+
+
+
+## Award Pages
+
+  * Major Awards
+  * ACM Awards
+  * NSF Awards
+  * IEEE Awards
+  * UC Berkeley Awards
+  * Society Awards
+  * Government & Private Awards
+  * Other Awards
+
+
+
+* * *
+
+*No longer active in the department

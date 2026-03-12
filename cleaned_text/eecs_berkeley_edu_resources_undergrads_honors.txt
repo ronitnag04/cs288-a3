@@ -1,0 +1,138 @@
+2025 EECS Alumni Honors Event 
+
+##  EECS Honors Program 
+
+The EECS Honors Program is designed to provide very talented undergraduate students interested in undergraduate research. Honors students pursue an academic concentration outside of the department, engage in research, receive a special faculty advisor, and are invited to special events with faculty and EECS Honors alumni.
+
+Current Honors Students 
+
+##  Benefits 
+
+  * Option to complete honors thesis and receive letter graded research units
+  * Official notation of honors degree on Berkeley transcript*
+  * Faculty Advising with Chairs of the EE and CS divisions
+  * Annual event with alumni
+  * Membership in Honor Program Linked-in group with program alumni
+
+
+
+##  Contact 
+
+EECS Honors Program Coordinator**  
+** 205 Cory Hall  
+eecs-advising@eecs.berkeley.edu
+
+****Info Session Slides****
+
+##  Admissions Requirements 
+
+### Eligibility
+
+  * At least 45 units completed at UC Berkeley if admitted as a first-year student. At least 12 units completed at UC Berkeley if admitted as a Junior Transfer.
+  * Minimum overall and technical GPA of 3.7
+  * Declared in EECS, ECE, or Computer Science major.
+  * Must be a part of the Honors program for at least one year – Applying in Spring 2026 means graduating in Spring 2027 or later.
+  * Students must have lower-division major requirements completed or in progress. 
+    * For EECS: CS 61A/B/C, CS 70, EECS 16A/B
+    * For ECE: CS 61A/C, Math 54, EECS 16A/B
+    * For CS: Math 1A/B, CS 61A/B/C, CS 70 (or Math 55 if DM in Math), Math 54 or EECS 16A or Math 56 (Linear Algebra [Math 91 Fall 2022])*
+    * Junior transfer students may apply without CS 61C completed.
+
+
+
+### Applications
+
+  * Submit the online EECS Honors Application Form
+  * Applications are accepted in Fall and Spring semesters only. They should include a resume, a proposed Program Planning Form, and an essay explaining the student’s motivation for applying and interest in their proposed breadth area. 
+    * Essay. This essay is an important part of your application and should be carefully organized and well-written. The essay should address both: a) How your proposed breadth courses will address a unifying theme and your area of interest. b) Your educational goals, including any applicable work and research experience, and future research interests. Maximum length: 3000 characters.
+  * In the form, applicants will need to attach the following supporting documents: 
+    * Program Planning Form
+    * Optional: EECS Honors Program petition to have non-course credit count toward the honors program research requirement.  _Only submit this page if you have completed research that you have not earned units for._
+  * **DEADLINE — For Fall 2026 Admission: Wednesday, May 6th at 4 pm PT**
+    * Application Form
+  * Applications are reviewed by a committee convened by the Vice Chairs by the end of the month the application is due. The committee evaluates applications for various signs of aptitude including a well-written essay, grades, above-average course loads, sincere commitment to a breadth area outside EECS, and an interest in undergraduate research.
+
+
+
+### Requirements for Completion
+
+  * Fulfill all Bachelor’s degree requirements for Computer Science, EECS, or ECE Degree.
+  * Maintain a 3.50 cumulative and technical GPA.
+  * Complete at least four units of “Supervised Independent Study” or other approved research credit.
+  * Study in a breadth area outside the EECS department, consisting of at least three upper-division courses (totaling at least 10 units) 
+    * These courses may be taken in a single department, or in related departments if they address a unifying theme. Explanation of the breadth interest is part of the honors application; these courses may be changed later by petition only.
+    * Cross-listed courses with CS/EE/EECS are not allowed.
+    * These courses must be taken for a letter grade.
+  * Honor Students have the option to complete an Honor Thesis. Senior thesis expectations and grades will be agreed upon by the student and their sponsoring faculty. Students should then enroll in four units of EE H196 or CS H196 during their senior year. They may complete these units for a letter grade. Honors Thesis Form. Please note students must complete at least four units of “Supervised Independent Study” or other approved research credit before pursuing the Honors Thesis.
+
+
+
+### Questions?
+
+Check out the EECS Honors FAQ!
+
+##  Honors Program Class of 2025 
+
+We’re so excited for our new graduates, here are where some are headed…
+
+  * **Samuel Bobick** , Pursuing a PhD
+  * **Circle (Liangyuan) Chen** , Meta as a Software Engineer
+  * **Ryan Cheng** , EECS 5th Year Masters
+  * **Soohyuk Cho** , PhD in Electrical and Computer Engineering at Princeton University
+  * **Ryan Cottone** , PhD in Computer Science at Stanford
+  * **Anna Dawes** , Pursuing a PhD
+  * **Alexander Di** , EECS PhD at Berkeley
+  * **Matthew Ding** , PhD in Computer Science at Stanford University
+  * **Kevin Dong** , Business Analyst at McKinsey & Company in New York
+  * **Ria Doshi** , ML PhD Student at Stanford
+  * **Jiaxin Fang** , Stanford MSCS
+  * **Tushar Goyal** , Engineering at Apple
+  * **Adam Hassan** , Georgia Tech Master’s in Robotics
+  * **Shujing Hu** , Amazon
+  * **Evan Huang** , Software Engineer at Everlaw
+  * **David Huang** , CS PhD at Princeton
+  * **Julia Isaac** , MSCS at Stanford, SWE at Google
+  * **Nikhil Jain** , PhD in EECS at UC Berkeley
+  * **Joshua Jones** , Codeium as SWE
+  * **Rishi Khare** , Master’s at Georgia Tech
+  * **Daven Lim** , Master’s at ETH Zurich
+  * **Zipeng Lin** , PhD
+  * **Joyce Lu** , MS in CS at Stanford
+  * **Huanzhi Ma** , PhD at UC Berkeley Sky Computing Lab, focus on AI and ML Systems
+  * **Kanav Mittal** , Master’s in CS
+  * **Quang Nguyen** , Graduate Student
+  * **Meenakshi Mittal** , 5th Year EECS MS at UC Berkeley
+  * **Junho Park** , ECE PhD at University of Michigan – Ann Arbor
+  * **Rami Ratl** , Mrad Harvard CSE MS
+  * **Katie Sie** , PhD
+  * **Lawrence Shieh** , Berkeley EECS 5th Year M.S. Program
+  * **Hongbo Wei** , SWE at AWS Automated Reasoning
+  * **Candice Yang** , Meta SWE
+  * **Gavin Zhang** , EECS 5th Year Masters
+  * **Zhiming Zhang** , Master of Science Student at Yale University
+  * **Aanvi Kothari** , Software Engineer at ServiceNow
+
+
+
+##  Honors Student Achievements 
+
+_Including but not limited to:_
+
+  * **Yash Aggarwal** (2024), Arthur M. Hopkin Award
+  * **Nitish Dashora**(2023-24), Goldwater Scholarship and (2022-23), Astronaut Scholar
+  * **Simon Zirui Guo**(2022), Arthur M. Hopkin Award
+  * **Chase Norman** (2022), Selected to participate in the Heidelberg Laureate Forum (HLF)
+  * ****Anjali Kantharuban**** (2022), Gates Cambridge Scholarship
+  * **Jennifer Grannen**(2021),**** Timothy B. Campbell Innovation Award
+  * **Simon (Xuanlin) Li** (2021), Arthur M. Hopkin Award
+  * **Leyla Kabuli** (2021), Arthur M. Hopkin Award, University Medal
+  * **Danny Halawi** (2021), Eugene L. Lawler Prize
+  * **Eden McEwen** (2020), Goldwater Scholarship and the SPIE Education Scholarship
+  * **Candy Xu**(2020), Jim and Donna Gray Endowment Award
+  * **Ahad Rauf** (2020), Warren Y. Dere Design Award and NSF GRFP Fellowship
+  * **Matthew Yeh** (2020), Arthur M. Hopkin Award
+  * **Russell Mendonca** (2020), Finalist for the CRA Outstanding Undergraduate Researcher Award
+
+
+
+View  Open Faculty Positions __

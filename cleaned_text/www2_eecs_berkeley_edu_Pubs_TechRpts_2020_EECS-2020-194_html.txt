@@ -1,0 +1,49 @@
+### James Dunn
+
+### EECS Department, University of California, Berkeley
+
+### Technical Report No. UCB/EECS-2020-194
+
+###  December 1, 2020 
+
+###  http://www2.eecs.berkeley.edu/Pubs/TechRpts/2020/EECS-2020-194.pdf
+
+Multi-user massive MIMO enables orders of magnitude higher spectral efficiency than non-spatial techniques, increasing channel capacity and enabling the next generation of wireless communications. This thesis presents hardware design, assembly, and testing of Hydra, a real-time, multi-user massive MIMO system. Hydra consists of a base station and user equipment constructed with commercial, off-the-shelf components, and addresses implementation and scalability issues with current massive MIMO systems by demonstrating hardware-efficient distributed beam-forming at mm-wave carrier frequencies.
+
+**Advisors:** Borivoje Nikolic
+
+* * *
+
+BibTeX citation:
+    
+    
+    @mastersthesis{Dunn:EECS-2020-194,
+        Author= {Dunn, James},
+        Editor= {Nikolic, Borivoje and Niknejad, Ali and Alon, Elad},
+        Title= {An Open, Scalable Massive MIMO Testbed Operating at E-Band Frequencies},
+        School= {EECS Department, University of California, Berkeley},
+        Year= {2020},
+        Month= {Dec},
+        Url= {http://www2.eecs.berkeley.edu/Pubs/TechRpts/2020/EECS-2020-194.html},
+        Number= {UCB/EECS-2020-194},
+        Abstract= {Multi-user massive MIMO enables orders of magnitude higher spectral efficiency than non-spatial techniques, increasing channel capacity and enabling the next generation of wireless communications. This thesis presents hardware design, assembly, and testing of Hydra, a real-time, multi-user massive MIMO system. Hydra consists of a base station and user equipment constructed with commercial, off-the-shelf components, and addresses implementation and scalability issues with current massive MIMO systems by demonstrating hardware-efficient distributed beam-forming at mm-wave carrier frequencies.},
+    }
+    
+
+EndNote citation:
+    
+    
+    %0 Thesis
+    %A Dunn, James 
+    %E Nikolic, Borivoje 
+    %E Niknejad, Ali 
+    %E Alon, Elad 
+    %T An Open, Scalable Massive MIMO Testbed Operating at E-Band Frequencies
+    %I EECS Department, University of California, Berkeley
+    %D 2020
+    %8 December 1
+    %@ UCB/EECS-2020-194
+    %U http://www2.eecs.berkeley.edu/Pubs/TechRpts/2020/EECS-2020-194.html
+    %F Dunn:EECS-2020-194
+    
+    

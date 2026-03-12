@@ -1,0 +1,102 @@
+##  IT Support Contacts 
+
+See separate box for Website Contacts.
+
+  * help@eecs.berkeley.edu 
+
+Computing services and networks in Cory, Soda, Sutardja Dai, and Jacobs Halls. 
+
+  * inst@eecs.berkeley.edu 
+
+EECS instructional and computer lab support. 
+
+  * esg@eecs.berkeley.edu 
+
+Electronics labs and A/V support. 
+
+  * acg@eecs.berkeley.edu 
+
+Databases and departmental administrative staff support. 
+
+  * IRIS information 
+
+Help and news for departmental computing infrastructure: networks, home directories, project storage, print server, personal web pages. 
+
+
+
+
+##  Help getting new EECS accounts 
+
+  * New faculty hires should contact: acad-personnel@eecs.berkeley.edu
+  * New research employees should contact their faculty sponsor
+
+
+
+##  Website Support Contacts 
+
+  * roster@eecs.berkeley.edu 
+
+Online Directory updates (room, phone, and name changes). 
+
+  * news@eecs.berkeley.edu 
+
+Report news about faculty, students, alumni, and staff to include on the EECS home page (awards, media features, professional milestones, etc.) 
+
+  * eecsfac-updates@eecs.berkeley.edu 
+
+Faculty home page corrections. 
+
+  * webteam@eecs.berkeley.edu 
+
+Departmental web sites and servers. 
+
+
+
+
+### EECS general computing Help Desk
+
+Instructional and Research Information Systems (IRIS)
+
+  * CUSG: Computer User Support Group
+  * IDSG: Infrastructure Development and Support Group
+  * ISG: Instructional Support Group
+
+
+
+Audio/Visual Support (A/V)
+
+ACG: Administrative Computing Group
+
+To file a request for departmental A/V work, email esg@eecs.berkeley.edu
+
+##  Instructional Computing Support 
+
+EECS Instructional computing and computer lab support in Cory, Soda, and Sutardja Dai Halls: workstations & servers, accounts, email, and course home pages.
+
+### Instructional Support Group Manager
+
+#### Finsen Chiu
+
+378 Cory, +1 (510) 643-6141, finsen@eecs.berkeley.edu
+
+### Senior System Administrators
+
+#### Marcelino Enriquez
+
+333 Soda, mars@eecs.berkeley.edu
+
+#### Linda Huang
+
+384 Cory, +1 (510) 643-6096, lindah@eecs.berkeley.edu
+
+#### Steven Luo
+
+386 Cory, s_luo@eecs.berkeley.edu
+
+### Offices
+
+378, 384 & 386 Cory, 333 Soda  
+inst@eecs.berkeley.edu  
++1 (510) 643-6141, +1 (510) 642-9543
+
+View  Open Faculty Positions __

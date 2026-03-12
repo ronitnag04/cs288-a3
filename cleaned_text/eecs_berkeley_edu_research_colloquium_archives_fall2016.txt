@@ -1,0 +1,95 @@
+Dedicated to hosting presentations at the intersection of Electrical Engineering and Computer Science, the EECS Colloquium offers a mix of short talks by faculty describing their latest research results as well as internationally distinguished speakers. It provides an opportunity for an exchange of ideas between our department’s community and the outside world.
+
+**Wednesdays 4:00-5:00 PM, HP Auditorium, 306 Soda Hall** _(unless otherwise noted)_
+
+Subscribe to the eecs-announce mailing list through the web interface or via email so you can be apprised of upcoming talks
+
+###  José del R. Millán
+
+#### **Brain-Machine Interfaces: The Perception-Action Closed Loop**
+
+**September 7, 2016**
+
+* * *
+
+###  Daniel Lee
+
+#### Decision Making and Manifolds in Intelligent Systems
+
+**September 14, 2016**
+
+* * *
+
+###  Srini Devadas
+
+####  Time Traveling Hardware and Software Systems
+
+**September 21, 2016**
+
+* * *
+
+###  Nir Shavit
+
+#### High Throughput Connectomics
+
+**September 28, 2016**
+
+* * *
+
+### Jur van den Berg
+
+#### Planning and Control for Self-Driving Trucks
+
+**October 5, 2016**
+
+* * *
+
+###  Bruce Maggs
+
+#### The Internet at the Speed of Light
+
+**October 12, 2016**
+
+* * *
+
+###  John DeNero
+
+####  Course Delivery as a Software Problem: Scaling a Course to 1,600 Students
+
+**October 19, 2016**
+
+* * *
+
+###  Shiva Shivakumar
+
+#### Internet of Moving Things: Improving Urban Mobility
+
+**October 26, 2016**
+
+* * *
+
+###  Fei-Fei Li
+
+#### A Quest for Visual Intelligence in Computers
+
+**November 9, 2016**
+
+* * *
+
+###  Meredith Ringel Morris
+
+#### Enhancing the Throughput and Expressivity of Augmentative and Alternative Communication Technologies for People with ALS
+
+**November 16, 2016**
+
+* * *
+
+###  David Bamman
+
+#### The Large-Scale Analysis of Books
+
+**November 30, 2016**
+
+## Colloquium Archives
+
+View  Open Faculty Positions __

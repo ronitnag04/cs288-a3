@@ -1,0 +1,394 @@
+[show sections and labs]
+
+CCN | Course | Sec | Type | Title | Instructor | Day/Time | Location  
+---|---|---|---|---|---|---|---  
+29330 | EECS 16A | 001 | LEC | Foundations of Signals, Dynamical Systems, and Information Processing | Alok Thakrar  
+Andrew Song  
+Babak Ayazifar  
+Jaimyn Matthew Drake  
+Mishty Mou Dhekial  
+| MoWe 18:30-19:59  
+| Pimentel 1  
+  
+29346 | EECS 16B | 001 | LEC | Introduction to Circuits & Devices | Ashvin Verma  
+Carolyn Schwendeman  
+Prabal Dutta  
+Sayeef Salahuddin  
+| TuTh 14:00-15:29  
+| Valley Life Sciences 2050  
+  
+33672 | EECS C106A | 001 | LEC | Introduction to Robotics | Ishan Dogra  
+Jean-Paul Tennant  
+Valmik Prabhu  
+| Tu 17:00-18:29  
+Th 17:00-18:29  
+| Hearst Field Annex A1  
+Evans 10  
+  
+29266 | EECS C106B | 001 | LEC | Robotic Manipulation and Interaction | Giuseppe Loianno  
+Sosale Shankar Sastry  
+| TuTh 09:30-10:59  
+| Soda 306  
+  
+29261 | EECS 126 | 001 | LEC | Probability and Random Processes | Kannan Ramchandran  
+Lance Mathias  
+| TuTh 12:30-13:59  
+| Dwinelle 145  
+  
+29257 | EECS 127 | 001 | LEC | Optimization Models in Engineering | Gireeja Vishnu Ranade  
+Tung-Wei Lin  
+| TuTh 14:00-15:29  
+| Stanley 105  
+  
+34588 | EECS 144 | 001 | LEC | Introduction to Design Automation | Matthew Low  
+Pierluigi Nuzzo  
+| TuTh 15:30-16:59  
+| Cory 540AB  
+  
+29135 | EECS 151 | 001 | LEC | Introduction to Digital Design and Integrated Circuits | Anish Krishna Dhanashekar  
+Borivoje Nikolic  
+Sagar Karandikar  
+| TuTh 12:30-13:59  
+| Soda 306  
+  
+29137 | EECS 151LA | 101 | LAB | Application Specific Integrated Circuits Laboratory | Alonzo De Jesus Zul Alonso  
+Anish Krishna Dhanashekar  
+Borivoje Nikolic  
+Kelly Liang Tou  
+Sagar Karandikar  
+| Tu 14:00-16:59  
+| Cory 140  
+  
+29536 | EECS 151LA | 102 | LAB | Application Specific Integrated Circuits Laboratory | Alonzo De Jesus Zul Alonso  
+Anish Krishna Dhanashekar  
+Borivoje Nikolic  
+Kelly Liang Tou  
+Sagar Karandikar  
+| Mo 11:00-13:59  
+| Cory 140  
+  
+29138 | EECS 151LB | 001 | LAB | Field-Programmable Gate Array Laboratory | Advay Ratan  
+Anish Krishna Dhanashekar  
+Borivoje Nikolic  
+Danny Lam  
+Jason Jiang  
+Sagar Karandikar  
+| Th 14:00-16:59  
+| Cory 140  
+  
+29139 | EECS 151LB | 002 | LAB | Field-Programmable Gate Array Laboratory | Advay Ratan  
+Anish Krishna Dhanashekar  
+Borivoje Nikolic  
+Danny Lam  
+Jason Jiang  
+Sagar Karandikar  
+| We 17:00-19:59  
+| Cory 140  
+  
+32154 | EECS C191B | 001 | LEC | Introduction to Quantum Computing II | Ashok Ajoy  
+Hartmut Haeffner  
+K Birgitta Whaley  
+| TuTh 11:00-12:29  
+| Physics Building 251  
+  
+33758 | EECS C206A | 001 | LEC | Introduction to Robotics | Ishan Dogra  
+Jean-Paul Tennant  
+Valmik Prabhu  
+| Tu 17:00-18:29  
+Th 17:00-18:29  
+| Hearst Field Annex A1  
+Evans 10  
+  
+29772 | EECS C206B | 001 | LEC | Robotic Manipulation and Interaction | Giuseppe Loianno  
+Sosale Shankar Sastry  
+| TuTh 09:30-10:59  
+| Soda 306  
+  
+29832 | EECS 219A | 001 | LEC | Numerical Simulation and Modeling | Jaijeet Shankar Roychowdhury  
+| MoWe 14:00-15:59  
+| Cory 531  
+  
+29662 | EECS 219C | 001 | LEC | Formal Methods: Specification, Verification, and Synthesis | Sanjit A Seshia  
+| MoWe 13:00-14:29  
+| Cory 299  
+  
+29649 | EECS 227AT | 001 | LEC | Optimization Models in Engineering | Gireeja Vishnu Ranade  
+Tung-Wei Lin  
+| TuTh 14:00-15:29  
+| Stanley 105  
+  
+34591 | EECS 244 | 001 | LEC | Introduction to Design Automation | Matthew Low  
+Pierluigi Nuzzo  
+| TuTh 15:30-16:59  
+| Cory 540AB  
+  
+29611 | EECS 251A | 001 | LEC | Introduction to Digital Design and Integrated Circuits | Anish Krishna Dhanashekar  
+Borivoje Nikolic  
+Sagar Karandikar  
+| TuTh 12:30-13:59  
+| Soda 306  
+  
+29765 | EECS 251B | 001 | LEC | Advanced Digital Integrated Circuits and Systems | Arya Bahram Reais-Parsi  
+Richard Dorrance  
+Sarah Cynthia Gomes  
+| Fr 13:00-15:59  
+| Cory 540AB  
+  
+29613 | EECS 251LA | 101 | LAB | Introduction to Digital Design and Integrated Circuits Lab | Alonzo De Jesus Zul Alonso  
+Anish Krishna Dhanashekar  
+Borivoje Nikolic  
+Kelly Liang Tou  
+Sagar Karandikar  
+| Tu 14:00-16:59  
+| Cory 140  
+  
+29615 | EECS 251LB | 101 | LAB | Introduction to Digital Design and Integrated Circuits | Advay Ratan  
+Anish Krishna Dhanashekar  
+Borivoje Nikolic  
+Danny Lam  
+Jason Jiang  
+Sagar Karandikar  
+| Th 14:00-16:59  
+| Cory 140  
+  
+29616 | EECS 251LB | 102 | LAB | Introduction to Digital Design and Integrated Circuits | Advay Ratan  
+Anish Krishna Dhanashekar  
+Borivoje Nikolic  
+Danny Lam  
+Jason Jiang  
+Sagar Karandikar  
+| We 17:00-19:59  
+| Cory 140  
+  
+29501 | ELENG 39 | 001 | SEM | High-Altitude Balloon Tracking with Amateur (ham) Radio | Miki Lustig  
+| Mo 14:00-15:59  
+| Cory 293  
+  
+29476 | ELENG 84 | 001 | SEM | Fun with Ham Radio | Michael Werner Zuerch  
+| We 16:00-17:59  
+| Cory 531  
+  
+30086 | ELENG 98 | 014 | GRP | Directed Group Studies for Underrepresented Undergraduates | Boubacar Kante  
+Brendan Bernard Kariithi  
+Yoel Amanuel Nrayo  
+| Mo 18:00-19:59  
+|   
+  
+29148 | ELENG 105 | 001 | LEC | Microelectronic Devices and Circuits | Aditya Varma Muppala  
+Haifah Sambo  
+| TuTh 11:00-12:29  
+| Soda 306  
+  
+29895 | ELENG 108 | 001 | LEC | Introduction to Electric Power and Renewable Energy | Robert C N Pilawa-Podgurski  
+| MoWe 09:30-10:59  
+| Cory 540AB  
+  
+29897 | ELENG 113B | 001 | LEC | Power Electronics Design | Brycen Halfmann  
+Dennis James Woo  
+Emmi Zhongyi Wyttenbach  
+Jessica Boles  
+Tahmid Mahbub  
+| Tu 08:00-09:29  
+| Cory 540AB  
+  
+29153 | ELENG 117 | 001 | LEC | Electromagnetic Fields and Waves | Boubacar Kante  
+Md Ishfak Tahmid  
+| TuTh 09:30-10:59  
+| Cory 540AB  
+  
+29156 | ELENG 120 | 001 | LEC | Signals and Systems | Babak Ayazifar  
+Laura Waller  
+Sabriya Alam  
+Tiffany Chien  
+| MoWe 14:00-15:59  
+| Physics Building 4  
+  
+29488 | ELENG 122 | 001 | LEC | Introduction to Communication Networks | Divit Rawal  
+Shyam Parekh  
+| TuTh 17:00-18:29  
+| Cory 241  
+  
+29160 | ELENG 123 | 001 | LEC | Digital Signal Processing | FNU Yashaswini  
+Gopala Krishna Anumanchipalli  
+| TuTh 12:30-13:59  
+| Tan 180  
+  
+29169 | ELENG 130 | 001 | LEC | Integrated-Circuit Devices | Asir Intisar Khan  
+Kim Pham  
+Richard McManus  
+| TuTh 12:30-13:59  
+| Lewis 9  
+  
+29171 | ELENG 134 | 001 | LEC | Fundamentals of Photovoltaic Devices | Clayton Yau-Kai Cheung  
+Mengjie Yu  
+| TuTh 12:30-13:59  
+| Wheeler 204  
+  
+29364 | ELENG 140 | 001 | LEC | Linear Integrated Circuits | Rami Raif Mehdi Hijab  
+Rikky Muller  
+| MoWe 14:00-15:29  
+| Cory 540AB  
+  
+29841 | ELENG 142 | 001 | LEC | Integrated Circuits for Communications | Ali M Niknejad  
+Kadircan Godeneli  
+Sasvath M Ramachandran  
+Suhrith Sudhee Bellamkonda  
+| TuTh 11:00-12:29  
+| Cory 247  
+  
+29175 | ELENG 143 | 001 | LEC | Microfabrication Technology | Ali Javey  
+Jamie Geng  
+| TuTh 14:00-15:29  
+| Soda 306  
+  
+19795 | ELENG 194 | 001 | LEC | IC Design Project: 16nm SoC for IoT | Alex Seungyeon Um  
+Benjamin Keller  
+Daniel Chen  
+Dev Sajnani  
+Evan Li  
+Jim Fang  
+Kristofer S J Pister  
+Nicolas Rakela  
+Richard Yan  
+Sophia Shao  
+Tucker Skinner  
+| TuTh 11:00-12:29  
+| Cory 540AB  
+  
+19798 | ELENG 194 | 100 | LEC | Business and Finance for Engineers | Jean-Paul Tennant  
+| TuTh 14:00-15:29  
+| Cory 540AB  
+  
+34668 | ELENG 194 | 16 | LEC | Scalable AI: Bridging Theory, Understanding, and Practice | Anant Sahai  
+Jiantao Jiao  
+| TuTh 09:30-10:59  
+| Cory 521  
+  
+35283 | ELENG 197 | 030 | FLD | Field Study | Kristofer S J Pister  
+Sophia Shao  
+|  |   
+35284 | ELENG 197 | 031 | FLD | Field Study | Miki Lustig  
+|  |   
+29181 | ELENG 198 | 002 | GRP | Hands-On PCB Engineering (HOPE) | Clark Tu-Cuong Nguyen  
+Roman Silivra  
+| We 20:00-21:59  
+| Cory 125  
+  
+29183 | ELENG 198 | 004 | GRP | Hands-On PCB Engineering (HOPE) | Clark Tu-Cuong Nguyen  
+Roman Silivra  
+| Th 20:00-21:59  
+| Cory 125  
+  
+30090 | ELENG 198 | 005 | GRP | IEEE Micromouse | Charles Su  
+Isaiah Tapia  
+Louie Laylay Labata  
+Miki Lustig  
+| Mo 20:00-21:59  
+| Cory 125  
+  
+30059 | ELENG 198 | 020 | GRP | EECS 151 Tapeout | Borivoje Nikolic  
+Jim Fang  
+Loren Hung  
+|  |   
+30089 | ELENG 198 | 022 | GRP | APE: Advanced PCB Engineering | Aidan Michael Rickert  
+Jessica Boles  
+| Tu 20:00-21:59  
+| Cory 125  
+  
+29898 | ELENG 213B | 001 | LEC | Power Electronics Design | Brycen Halfmann  
+Dennis James Woo  
+Emmi Zhongyi Wyttenbach  
+Jessica Boles  
+Tahmid Mahbub  
+| Tu 08:00-09:29  
+| Cory 540AB  
+  
+29830 | ELENG 223 | 001 | LEC | Stochastic Systems: Estimation and Control | Venkatachalam Anantharam  
+| MoWe 17:00-18:29  
+| Cory 293  
+  
+29700 | ELENG C225E | 001 | LEC | Principles of Magnetic Resonance Imaging | Miki Lustig  
+Rinni Bhansali  
+| MoWe 09:30-10:59  
+| Cory 293  
+  
+33744 | ELENG 226B | 001 | LEC | Applications of Stochastic Process Theory | Thomas A Courtade  
+Yigit Efe Erginbas  
+| MoWe 14:00-14:59  
+| Cory 521  
+  
+33733 | ELENG 227BT | 001 | LEC | Convex Optimization | Neelay Junnarkar  
+Venkatachalam Anantharam  
+| MoWe 15:30-16:59  
+| Cory 540AB  
+  
+29617 | ELENG 230A | 001 | LEC | Integrated-Circuit Devices | Asir Intisar Khan  
+Kim Pham  
+Richard McManus  
+| TuTh 12:30-13:59  
+| Lewis 9  
+  
+29620 | ELENG 232 | 001 | LEC | Lightwave Devices | Zaijun Chen  
+| MoWe 09:30-10:59  
+| Cory 521  
+  
+30021 | ELENG 234A | 001 | LEC | Fundamentals of Photovoltaic Devices | Clayton Yau-Kai Cheung  
+Mengjie Yu  
+| TuTh 12:30-13:59  
+| Wheeler 204  
+  
+29723 | ELENG C235 | 001 | LEC | Nanoscale Fabrication | Grigory Tikhomirov  
+Myoungseok Kim  
+| TuTh 12:30-13:59  
+| Cory 540AB  
+  
+29681 | ELENG 240A | 001 | LEC | Analog Integrated Circuits | Rami Raif Mehdi Hijab  
+Rikky Muller  
+| MoWe 14:00-15:29  
+| Cory 540AB  
+  
+29705 | ELENG 240B | 001 | LEC | Advanced Analog Integrated Circuits | Amanda Jung  
+Jun-Chau Chien  
+Yunping Wang  
+| TuTh 11:00-12:29  
+| Cory 521  
+  
+33775 | ELENG 240C | 001 | LEC | Analysis and Design of VLSI Analog-Digital Interface Integrated Circuits | Jun-Chau Chien  
+Nikhil Jain  
+| TuTh 15:30-16:59  
+| Cory 521  
+  
+30023 | ELENG 242A | 001 | LEC | Integrated Circuits for Communications | Ali M Niknejad  
+Kadircan Godeneli  
+Sasvath M Ramachandran  
+Suhrith Sudhee Bellamkonda  
+| TuTh 11:00-12:29  
+| Cory 247  
+  
+29627 | ELENG C247B | 001 | LEC | Introduction to MEMS Design | Mojtaba Safari  
+Sourav Naval  
+Yuan Cao  
+| WeFr 15:30-16:59  
+| Cory 293  
+  
+19800 | ELENG 290 | 004 | LEC | Learning Enabled Multi-Agent Systems | Sosale Shankar Sastry  
+| TuTh 14:00-15:29  
+| Cory 521  
+  
+19804 | ELENG 290 | 009 | LEC | Advanced Topics in Electrical Engineering | Jaijeet Shankar Roychowdhury  
+| MoWe 10:00-10:59  
+Fr 13:00-13:59  
+|   
+  
+  
+33670 | ELENG 290 | 14 | LEC | Fundamentals of EUV Lithography | Tony Yen  
+| Fr 14:00-15:59  
+| Cory 521  
+  
+34123 | ELENG 290 | 16 | LEC | Scalable AI: Bridging Theory, Understanding, and Practice | Anant Sahai  
+Jiantao Jiao  
+| TuTh 09:30-10:59  
+| Cory 521  
+  
+29629 | ELENG 375 | 001 | SEM | Teaching Techniques for Electrical Engineering | Chunlei Liu  
+|  | 

@@ -1,0 +1,138 @@
+##  In This Page 
+
+  * Pre-Admissions Questions 
+  * Application Questions 
+  * Program Questions 
+
+
+
+##  Pre-Admissions Questions 
+
+  * Contact three individuals, preferably professors, to write letters of recommendation. To aid your recommenders with writing your letters, you may want to prepare packages for them that include copies of work you have done with them, transcripts, and a resume/CV. Letters are very important to the admissions committee so it’s best to make sure that your recommenders know you well enough to compose a detailed and positive letter.
+  * If you received your bachelor’s degree in a country in which English is not an official language must satisfy the Evidence of Language Proficiency Requirement. You can do this by taking the TOEFL or the IELTS.
+  * Please see the UC Berkeley Graduate Division Admissions Requirements for more information.
+
+
+
+Please see the Prerequisites.
+
+Please see our Research-Oriented Graduate Degree Programs.
+
+No, all of our graduate programs are on campus.
+
+The EECS Department does not allow part-time study for the MS or PhD programs. All MS and PhD students are required to maintain a full-time load of 8-12 units. There are no evening or weekend courses.
+
+No, we do not have a supplemental application. Applicants only need to complete the university graduate application.
+
+No, we do not offer rolling admission. You must submit a completed application by the deadline to be considered for admission.
+
+No, we only offer admission for the Fall semester.
+
+No, you can only submit one graduate school application per admission cycle.
+
+Yes, however, to have a strong application you will need to demonstrate your technical knowledge, your ability to do graduate level research and equivalent coursework, and your academic potential in general. Please see our Suggestions for People Without a Technical Background.
+
+Some three-year Bologna Process bachelor-level degrees are accepted for graduate admission. A bachelor-level honors degree is required for applicants from universities in Australia and New Zealand who have completed three-year degrees. Three-year degrees from India are not accepted; instead, a 4-year degree (such as a B.Eng or a B.Tech) or a 3-year bachelor’s degree followed by a 2-year master’s degree is required for applicants from India.
+
+No, we do not require a master’s degree to apply to our PhD program. Students with a bachelor’s degree can apply directly to the PhD program.
+
+Applicants who already hold a master’s degree in Electrical Engineering, Computer Science, or any field closely related are not eligible for the two-year MS or MS/PhD degrees in our department. Instead, these applicants should apply for the PhD-only degree. Students who already hold a doctoral degree in Electrical Engineering, Computer Science, or any field closely related are not eligible for a PhD degree or a lesser degree, such as an MS, in our department.
+
+The MS/PhD and PhD programs are similar doctoral degree programs. Both programs have the same course requirements, and, for students coming in with a bachelor’s degree, take approximately the same length of time to complete. The MS/PhD program allows students to earn the MS degree while continuing to work towards earning their PhD degree. Students usually submit a thesis report to earn the MS. There is no break in coursework or research for students in the MS/PhD program. The PhD program allows students to earn only a PhD. Students do not need a master’s degree to apply for PhD program. Also, students who already have a master’s in a similar field should apply to the PhD program rather than the MS/PhD program. Applications to the MS/PhD and PhD are reviewed together with no preference given to one degree program over the other for admission.
+
+No, we do not accept transfer students to our graduate programs. All students apply for regular admission.
+
+Yes, you would need to submit an application for consideration during the regular admissions cycle. If you are accepted into the program, please note that UC Berkeley will charge supplemental fees in addition to the fees from your home campus.
+
+##  Application Questions 
+
+Yes, you must submit an application fee by the application deadline for your application to be reviewed. The application fee is not refundable. Please view the Application Fee rates.
+
+U.S. citizens or permanent residents who can demonstrate financial need are eligible to apply for an application fee waiver. Please see the eligibility requirements and deadlines for Requesting an Application Fee Waiver.
+
+No, you do not need to contact faulty or establish an advisor in order to apply. Instead, on the application, you will list faculty members who you would like to work with should you be admitted to our graduate program. You can view the list of all our current faculty or you can view the faculty associated with each research area.
+
+Read about our new faculty joining in 2025
+
+The GRE is no longer required nor accepted.
+
+Send all scores electronically to UC Berkeley institution code 4833. You do not need to provide a department code; we will receive your scores through the institution code regardless of whether or not you enter a department code.
+
+Please see the university requirements for who needs to submit Evidence of English Language Proficiency. Please note that having lived and worked in the U.S. or another English-speaking country does not satisfy the English language proficiency requirement or exempt you from the TOEFL or IELTS.
+
+The minimum TOEFL score required by UC Berkeley for graduate admission is 570 on the paper-based test (PBT), 230 on the computer based test (CBT), and 90 on the Internet Based Test (iBT). The minimum score for the IELTS is an overall band score of 7; there are no minimum scores for the individual bands. Applicants with scores below these will not be admitted.
+
+You can have official test scores (TOEFL, or IELTS) sent any time during the year as long as they are sent by the application deadline.
+
+It’s not uncommon for the online application to experience difficulties matching official test scores. Unfortunately, due to the large volume of applications, staff cannot confirm the receipt of official scores. However, as long as you’ve entered valid/unexpired test scores into your application, requested that your official scores be sent to institution code 4833, and submitted your application by the deadline, then we can use your self-reported scores for the admissions review. If you are recommended for admission and we are still unable to locate your official scores, we will contact you.
+
+Applicants whose GPAs are based on a 4.0 scale will need to enter their cumulative GPA, as well as calculate their Advanced GPA and Major GPA for the application. The application will specify which courses to calculate for each GPA field. The EECS Department nor the university provide a GPA calculator. Applicants should use their university’s grading scale to calculate their GPAs to the best of their abilities.
+
+Applicants whose GPAs are not based on a 4.0 scale should not calculate or convert their GPAs or input WES evaluations. Instead, these applicants should leave the aforementioned GPA fields blank or enter “0.00” and enter their cumulative GPA as it appears on their transcript in the “Other Scale GPA” section.
+
+For applicants who attended a university that is outside of the U.S. or that does not use a 4.0 GPA scale, please include a GPA calculation worksheet if you have one.
+
+Upload to your application unofficial copies (PDFs) of transcripts for all university-level coursework. Unofficial transcripts must include the name of institution, applicant name, courses, grades, and, if applicable, degree conferral. Hardcopy/official transcripts are not required for the application review process. International students who’ve completed their degree should also upload additional documents, such as a degree certificate, if their transcripts do not include evidence of the award of their degree. Official or unofficial transcripts mailed or emailed to the department will not be accepted.
+
+International transcripts and degree certificates that are in a language other than English or Spanish must have an official English translation of the transcript uploaded to the application along with the original transcript. Translations should be prepared and issued by the school the student attended or an ATA certified translator.
+
+No, you cannot submit a new transcript after you’ve submitted your application. If you are currently finishing your undergraduate degree, please just upload the most current version of your transcript; it is okay if your fall grades do not appear on your transcript. The application will provide a space for you to list any additional courses that you are currently taking or plan to take in the future.
+
+At least three letters of recommendation are required.
+
+The online application will allow you to submit more than three letters of recommendation. However, there is no guarantee that more than three letters will be read. Also keep in mind that submitting three good letters and one bad letter will put your application at a disadvantage.
+
+Recommendations from professors are highly preferred, however letters from employers in industry or outside academia are acceptable. Regardless of who the recommender is, the letter should demonstrate your academic and research ability and potential.
+
+Your recommenders are asked to give their personal impressions of your intellectual ability, your aptitude in research or professional skills, your character, and the quality of your previous work and potential for future productive scholarship.
+
+Applicants who waive the right to access a letter of recommendation means that they have not and will not view or inspect the letter. Instead, the letter remains private between the recommender and the admissions committee.
+
+Applicants choose whether or not to waive the right to inspect their letters in the Recommendations section of the application. Please note that the application does not allow you to reverse your waiver decision after you’ve submitted it.
+
+The application can continue to receive recommendation letters after you’ve submitted your application and after the deadline. However, the review process begins immediately after the application deadline. If the admissions committee has already reviewed your application before your recommender has submitted their letter, it is not guaranteed that your application will be reviewed again. Therefore, it is highly advised that you contact recommenders at least three months before the application deadline to give them ample time to write and submit their letters by the deadline.
+
+Ask you recommender to check their SPAM folder for the email containing the recommendation link and instructions. If your recommender still cannot locate this email, contact UC Berkeley’s Graduate Admissions Office at gradadm@berkeley.edu and ask for assistance.
+
+The Statement of Purpose (SOP) is the place for you to discuss your academic goals and research interests. The online application will provide you with some questions to help you write the essay, but other questions we recommend you consider addressing in your SOP are: Why are you applying to this program at UC Berkeley? What do you hope to accomplish at this institution? What are you research goals? How will your research impact you or others? What do you want to do after you receive your degree?
+
+The Personal History Statement (PHS) is the place for you to discuss your academic goals and research interests in relation to your background/personal history. In addition to the online application prompt, some other questions you may want to address in your PHS are: How has your background influenced your academic goals, research interests, or desire to go into this field? How can your background help you succeed both in this program and with your future goals?
+
+There is no minimum or maximum length requirement for either essay. Though many applicants aim for each essay to be between 500-1000 words or 1-2 pages. It’s okay if there is a little overlap of information between the SOP and PHS.
+
+Applicants to the PhD and MS programs are automatically considered for these types of support. If you are admitted the details of your financial support will be disclosed at the time of admission.
+
+All previous applicants must submit a completed new online application and pay the application fee. Applicants must re-submit all their materials with their online application in order for it to be complete. It’s highly recommended that these materials be new or updated, including letters of recommendation, Statement of Purpose, Personal History Statement, and the Resume/CV. New TOEFL/IELTS scores will need to be submitted if your previous scores expired. Once your new application and items are submitted, if you applied to an EECS Department graduate program within past two years, then your most recent previous application will be linked to your new application.
+
+No, even if you submit the application before the deadline, we cannot update your application after you have submitted it. Please make sure to check that your application is complete and all information and materials are correct before you submit.
+
+The application review begins immediately after the application deadline.
+
+Once you submit your online application, you will receive an email confirming your submission. You may log back into your application to monitor the status of the materials received or processed such as fee waivers, test scores, letters of recommendation, and admission decision.
+
+All admission decisions will be sent via email by April 1st.
+
+If you experience technical difficulty when applying online, please send an email describing the problem to UC Berkeley’s Graduate Admissions Office at gradadm@berkeley.edu.
+
+##  Program Questions 
+
+Please see our Research-Oriented Graduate Degree Programs.
+
+Please see the Information for Current Graduate Students.
+
+All incoming students to our doctoral programs (MS/PhD and PhD) and some incoming students to our two-year MS program are offered support, however we also encourage students to apply for external fellowships. Applications are reviewed on the same basis regardless of an applicant’s financial background.
+
+International students who are seeking an MS or a PhD are given the same financial considerations that domestic students.  
+****
+
+PhD-only students in the EECS Department may petition to add an EECS Department MS degree. However, terminal master’s students in the EECS Department must apply through regular admission should they also wish to receive PhD degree from the EECS Department. UC Berkeley graduate students who are not in the EECS Department, must apply through regular admission to add an MS or a PhD degree from the EECS Department.
+
+Students who wish to change their program division (from CS to EE or vice-versa) can petition to do so with approval from an appropriate faculty advisor. Please note that newly admitted students must wait until they start their graduate program to submit this petition.
+
+Students can petition to transfer relevant coursework from another institution. MS students can petition up to 4 semester units (6 quarter units) of coursework towards their course requirements. MS/PhD and PhD students can petition up to 12 semester units (18 quarter units) of coursework toward their course requirements. Coursework petitions must be approved by the student’s advisor and Graduate Vice Chair in order for units to officially transfer. Approval of transfer units is never guaranteed and units that were used to complete a bachelor’s degree will not be accepted. Please note that newly admitted students must wait until they start their graduate program to submit this petition.
+
+### Who should I contact if I have further questions or wish to set up an advising appointment?
+
+Please email gradadmissions@eecs.berkeley.edu. If you are on campus and wish to meet with a staff member in person, please email Tiffany Grimsley at grimsley@eecs.berkeley.edu, in advance to schedule a time.
+
+View  Open Faculty Positions __

@@ -1,0 +1,1376 @@
+## In This Page
+
+## Medals
+
+###  IEEE Alexander Graham Bell Medal   
+
+
+  * David G. Messerschmitt, 1999
+
+
+
+###  IEEE Centennial Medal   
+
+
+  * Elwyn R. Berlekamp, 1984 *
+  * Donald O. Pederson, 1984 *
+  * John R. Whinnery, 1984 *
+
+
+
+###  IEEE Founders Medal   
+
+
+  * Tsu-Jae King Liu, 2024
+  * Eugene Wong, 2005
+
+
+
+###  IEEE James Clerk Maxwell Medal   
+
+
+  * Kam Y. Lau, 2023
+  * Richard S. Muller, 2013
+  * Richard M. White, 2013 *
+  * Alberto L. Sangiovanni-Vincentelli, 2008
+
+
+
+###  IEEE James H. Mulligan Jr. Education Medal   
+
+
+  * Jan M. Rabaey, 2024
+  * Randy H. Katz, 2010
+  * Paul R. Gray, 2004
+  * David A. Patterson, 2000
+  * David A. Hodges, 1997 *
+  * Ernest S. Kuh, 1981 *
+  * Charles A. Desoer, 1975 *
+  * Lotfi A. Zadeh, 1973 *
+  * Donald O. Pederson, 1969 *
+  * John R. Whinnery, 1967 *
+
+
+
+###  IEEE John von Neumann Medal   
+
+
+  * Michael Jordan, 2020
+  * Christos Papadimitriou, 2016
+  * Susan L. Graham, 2009
+  * Michael Stonebraker, 2005
+  * David A. Patterson, 2000
+
+
+
+###  IEEE Jun-ichi Nishizawa Medal   
+
+
+  * Chenming Hu, 2009
+
+
+
+###  IEEE Medal for Innovations in Healthcare Technology   
+
+
+  * Ruzena Bajcsy, 2021
+  * Thomas F. Budinger, 2018
+
+
+
+###  IEEE Richard W. Hamming Medal   
+
+
+  * David Tse, 2019 *
+  * Lotfi A. Zadeh, 1992 *
+  * Elwyn R. Berlekamp, 1991 *
+
+
+
+###  IEEE Robert N. Noyce Medal   
+
+
+  * Paul R. Gray, 2008
+
+
+
+###  IEEE Simon Ramo Medal   
+
+
+  * Pravin Varaiya, 2022 *
+
+
+
+###  IEEE Medal of Honor   
+
+
+  * Chenming Hu, 2020
+  * Donald O. Pederson, 1998 *
+  * Lotfi A. Zadeh, 1993 *
+  * John R. Whinnery, 1985 *
+
+
+
+###  IEEE Mildred Dresselhaus Medal   
+
+
+  * Claire Tomlin, 2024
+
+
+
+###  IEEE Edison Medal   
+
+
+  * Eli Yablonovitch, 2018
+  * Robert W. Brodersen, 2016 *
+  * Ivan P. Kaminow, 2013 *
+
+
+
+###  Nick Holonyak Jr. Medal for Semiconductor Optoelectronics Technologies   
+
+
+  * Constance Chang-Hasnain, 2024
+
+
+
+## Technical Field Awards
+
+###  IEEE Andrew S. Grove Award   
+
+
+  * Sayeef Salahuddin, 2025
+
+
+
+###  IEEE Cledo Brunetti Award   
+
+
+  * William G. Oldham, 2005
+  * Andrew R. Neureuther, 2003 *
+  * Richard S. Muller, 1998
+  * Richard M. White, 1986 *
+
+
+
+###  IEEE Control Systems Award   
+
+
+  * Pravin Varaiya, 2002 *
+  * Charles A. Desoer, 1986 *
+
+
+
+###  IEEE Donald O. Pederson Award in Solid-State Circuits   
+
+
+  * Jan M. Rabaey, 2025
+  * Robert G. Meyer, 2014
+  * Chenming Hu, 2002
+  * Robert W. Brodersen, 1997 *
+  * Paul R. Gray, 1994
+
+
+
+###  IEEE Electromagnetics Award   
+
+
+  * Kenneth K. Mei, 2009 *
+
+
+
+###  IEEE Gustav Robert Kirchhoff Award   
+
+
+  * Charles A. Desoer, 2011 *
+  * Ernest S. Kuh, 2009 *
+  * Leon O. Chua, 2005
+
+
+
+###  IEEE Internet Award   
+
+
+  * Vern Paxson, 2015
+  * Scott Shenker, 2006
+
+
+
+###  IEEE Kiyo Tomiyasu Award   
+
+
+  * Pieter Abbeel, 2022
+  * Vivek Subramanian, 2015 *
+  * Tsu-Jae King Liu, 2010
+
+
+
+###  IEEE Koji Kobayashi Computers and Communications Award   
+
+
+  * Ion Stoica, 2023
+  * Kannan Ramchandran, 2017
+  * Jean Walrand, 2012
+  * Elwyn R. Berlekamp, 1990 *
+
+
+
+###  IEEE Leon K. Kirchmayer Graduate Teaching Award   
+
+
+  * Robert G. Meyer, 2003
+  * Alberto L. Sangiovanni-Vincentelli, 1995
+
+
+
+###  IEEE Photonics Award   
+
+
+  * Eli Yablonovitch, 2012
+  * Ivan P. Kaminow, 2010 *
+
+
+
+###  IEEE Robotics & Automation Award   
+
+
+  * Ruzena Bajcsy, 2013
+
+
+
+###  IEEE Transportation Technologies Award   
+
+
+  * Claire Tomlin, 2017
+
+
+
+###  IEEE Undergraduate Teaching Award   
+
+
+  * David A. Patterson, 1995
+
+
+
+## Recognitions
+
+###  IEEE Richard M. Emberson Award   
+
+
+  * David A. Hodges, 2017 *
+
+
+
+## Discontinued IEEE-Level Awards
+
+###  IEEE Browder J. Thompson Memorial Prize Paper Award   
+
+
+  * Leon O. Chua, 1967
+
+
+
+###  IEEE David Sarnoff Award   
+
+
+  * Constance Chang-Hasnain, 2011
+  * Kam Y. Lau, 2009
+
+
+
+###  IEEE Emanuel R. Piore Award   
+
+
+  * Shafi Goldwasser, 2011
+  * Robert K. Brayton, 2006 *
+  * William M. Kahan, 2000
+
+
+
+###  IEEE Jack A. Morton Award   
+
+
+  * Chenming Hu, 1997
+
+
+
+###  IEEE Morris N. Liebmann Memorial Award   
+
+
+  * Robert W. Brodersen, 1983 *
+  * Paul R. Gray, 1983
+  * David A. Hodges, 1983 *
+
+
+
+###  IEEE Reynold B. Johnson Information Storage Systems Award   
+
+
+  * Alan J. Smith, 2008
+  * Randy H. Katz, 1999
+  * David A. Patterson, 1999
+
+
+
+###  IEEE W. R. G. Baker Prize Paper Award   
+
+
+  * Robert W. Brodersen, 1980 *
+  * Paul R. Gray, 1980
+  * Leon O. Chua, 1973
+
+
+
+## Society Awards
+
+###  APS Transactions on Antennas and Propagation Special Recognition Paper   
+
+
+  * Kenneth K. Mei, 1967 *
+
+
+
+###  CEDA A. Richard Newton Technical Impact Award in Electronic Design Automation   
+
+
+  * Robert K. Brayton, 2009 *
+  * Alberto L. Sangiovanni-Vincentelli, 2009
+
+
+
+###  CEDA TCAD ICS Donald O. Pederson Best Paper Award   
+
+
+  * Sanjit A. Seshia, 2017
+  * Robert K. Brayton, 2008 *
+
+
+
+###  CEDA William J. McCalla ICCAD Best Paper Award   
+
+
+  * Vladimir Stojanovic, 2008
+
+
+
+###  CIS Fuzzy Systems Pioneer Award   
+
+
+  * Lotfi A. Zadeh, 2000 *
+
+
+
+###  CIS Neural Networks Pioneer Award   
+
+
+  * Michael Jordan, 2007
+  * Leon O. Chua, 2000
+
+
+
+###  CS Charles Babbage Award   
+
+
+  * James Demmel, 2013
+  * Christos Papadimitriou, 2004
+  * Richard M. Karp, 1995
+
+
+
+###  CS Harry H. Goode Memorial Award   
+
+
+  * Alan J. Smith, 2006
+
+
+
+###  CS PAMI Azriel Rosenfeld Lifetime Achievement Award   
+
+
+  * Ruzena Bajcsy, 2021
+
+
+
+###  CS PAMI Distinguished Researcher Award   
+
+
+  * Jitendra Malik, 2013
+
+
+
+###  CS Richard E. Merwin Distinguished Service Award   
+
+
+  * Chittoor V. Ramamoorthy, 1993 *
+
+
+
+###  CS Sidney Fernbach Award   
+
+
+  * James Demmel, 2010
+
+
+
+###  CS Symposium on Foundations of Computer Science (FOCS) Machtey Award   
+
+
+  * John F. Canny, 1987
+
+
+
+###  CS Taylor L. Booth Education Award   
+
+
+  * Chittoor V. Ramamoorthy, 1990 *
+
+
+
+###  CS TCMF LICS Test of Time Award   
+
+
+  * Thomas A. Henzinger, 2012 *
+
+
+
+###  CS TCPAMI CVPR Best Paper Award   
+
+
+  * Alexei (Alyosha) Efros, 2006
+
+
+
+###  CS TCPAMI ICCV Best Paper Award/David Marr Prize   
+
+
+  * Yi Ma, 1999
+
+
+
+###  CS TCPAMI Thomas S. Huang Memorial Prize   
+
+
+  * Alexei (Alyosha) Efros, 2023
+
+
+
+###  CS Technical Achievement Award   
+
+
+  * Carlo H. SÃ©quin, 2003
+  * David A. Patterson, 1995
+
+
+
+###  CSS Antonio Ruberti Young Researcher Prize   
+
+
+  * Murat Arcak, 2014
+  * Alexandre Bayen, 2013
+
+
+
+###  CSS Transactions on Control of Network Systems Outstanding Paper Award   
+
+
+  * Murat Arcak, 2017
+
+
+
+###  EAB Major Educational Innovation Award   
+
+
+  * Ken Goldberg, 2001
+
+
+
+###  EPS Transactions on Advanced Packaging Best Paper Award   
+
+
+  * Vladimir Stojanovic, 2008
+
+
+
+###  ES Mac Van Valkenburg Early Career Teaching Award   
+
+
+  * Robert Pilawa-Podgurski, 2018
+  * Babak Ayazifar, 2012
+
+
+
+###  Foundations of Computer Science (FOCS) Test of Time Award   
+
+
+  * Umesh Vazirani, 2025
+  * Sanjam Garg, 2023
+  * Shafi Goldwasser, 2021
+
+
+
+###  IEEE AESS Pioneer Award   
+
+
+  * Kam Y. Lau, 2013
+
+
+
+###  IEEE CASS Charles A. Desoer Technical Achievement Award   
+
+
+  * Leon O. Chua, 1993
+  * Robert K. Brayton, 1992 *
+  * Robert W. Brodersen, 1987 *
+  * Paul R. Gray, 1987
+  * David A. Hodges, 1987 *
+
+
+
+###  IEEE CASS Darlington Best Paper Award   
+
+
+  * Ali Niknejad, 2017
+  * Alberto L. Sangiovanni-Vincentelli, 1988
+  * Robert K. Brayton, 1987 *
+
+
+
+###  IEEE CASS Golden Jubilee Medal   
+
+
+  * Robert K. Brayton, 2000 *
+  * Robert W. Brodersen, 2000 *
+  * A. Richard Newton, 2000 *
+  * Donald O. Pederson, 2000 *
+  * Alberto L. Sangiovanni-Vincentelli, 2000
+
+
+
+###  IEEE CASS Guillemin-Cauer Best Paper Award   
+
+
+  * Leon O. Chua, 1989
+  * Leon O. Chua, 1985
+  * Alberto L. Sangiovanni-Vincentelli, 1982
+  * Ernest S. Kuh, 1973 *
+  * Leon O. Chua, 1972
+  * Robert K. Brayton, 1970 *
+
+
+
+###  IEEE CASS John Choma Education Award   
+
+
+  * Jan M. Rabaey, 2025
+  * Eliahu Jury, 1985 *
+
+
+
+###  IEEE CASS Mac E. Van Valkenburg Award   
+
+
+  * Jan M. Rabaey, 2008
+  * Leon O. Chua, 1998
+  * Charles A. Desoer, 1996 *
+  * Leon O. Chua, 1995
+  * Ernest S. Kuh, 1988 *
+
+
+
+###  IEEE CASS Transactions on Computer Aided Design Best Paper Award   
+
+
+  * Jan M. Rabaey, 1985
+
+
+
+###  IEEE CASS Very Large Scale Integration Systems Best Paper Award   
+
+
+  * Sayeef Salahuddin, 2013
+
+
+
+###  IEEE CASS Vitold Belevitch Circuits and Systems Award   
+
+
+  * Leon O. Chua, 2007
+
+
+
+###  IEEE CASS 2000 Millennium Medal   
+
+
+  * Robert K. Brayton, 2000 *
+  * Robert W. Brodersen, 2000 *
+  * Leon O. Chua, 2000
+  * Charles A. Desoer, 2000 *
+  * Ernest S. Kuh, 2000 *
+
+
+
+###  IEEE Communications Society (COMSOC) & Information Theory Society (IT) Joint Paper Award   
+
+
+  * David Tse, 2015 *
+  * Kannan Ramchandran, 2012
+  * Martin Wainwright, 2012 *
+  * Alex Dimakis, 2010
+  * David Tse, 2000 *
+
+
+
+###  IEEE ComSoc Leonard G. Abraham Prize   
+
+
+  * Anant Sahai, 2012
+
+
+
+###  IEEE ComSoc Outstanding Young Engineer Award   
+
+
+  * David G. Messerschmitt, 1984
+
+
+
+###  IEEE ComSoc Stephen O. Rice Prize   
+
+
+  * Venkat Anantharam, 2000
+  * Jean Walrand, 2000
+
+
+
+###  IEEE ComSoc William R. Bennett Prize   
+
+
+  * Ion Stoica, 2004
+  * Vern Paxson, 2002
+  * Vern Paxson, 1998
+  * Abhay Parekh, 1994 *
+
+
+
+###  IEEE CS TCDE Early Career/Rising Star Award   
+
+
+  * Natacha Crooks, 2024
+  * Alvin Cheung, 2020
+  * Aditya Parameswaran, 2017
+
+
+
+###  IEEE CS TCDP Outstanding Contribution Award   
+
+
+  * Richard M. Karp, 2008
+
+
+
+###  IEEE CS Women of ENIAC Computer Pioneer Award   
+
+
+  * Scott Shenker, 2023
+  * Christos Papadimitriou, 2022
+  * Jitendra Malik, 2019
+
+
+
+###  IEEE CSC Award for Continuing & Significant Contributions in the Field of Applied Superconductivity   
+
+
+  * Theodore Van Duzer, 2000 *
+
+
+
+###  IEEE CSS Hendrik W. Bode Lecture Prize   
+
+
+  * Pravin Varaiya, 2005 *
+
+
+
+###  IEEE CSS Transition to Practice Award   
+
+
+  * Alexandre Bayen, 2024
+  * Kameshwar Poolla, 2010
+
+
+
+###  IEEE EDS Celebrated Member Award   
+
+
+  * Leon O. Chua, 2019
+
+
+
+###  IEEE EDS Distinguished Service Award   
+
+
+  * Richard S. Muller, 2007
+
+
+
+###  IEEE EDS Education Award   
+
+
+  * Tsu-Jae King Liu, 2021
+  * Chenming Hu, 2011
+
+
+
+###  IEEE EDS George E. Smith Award   
+
+
+  * Chenming Hu, 2019
+  * Sayeef Salahuddin, 2019
+
+
+
+###  IEEE EDS ISDRS Aldert van der Ziel Award   
+
+
+  * Tsu-Jae King Liu, 2016
+  * Chenming Hu, 2011
+
+
+
+###  IEEE EDS Paul Rappaport Award   
+
+
+  * Jeffrey Bokor, 2002
+  * Chenming Hu, 2002
+  * Tsu-Jae King Liu, 2002
+  * Vivek Subramanian, 2002 *
+
+
+
+###  IEEE EDS Robert Bosch Micro and Nano Electro Mechanical Systems (MEMS) Award   
+
+
+  * Ming C. Wu, 2020
+  * Clark Nguyen, 2017
+
+
+
+###  IEEE EDS 2000 Millennium Medal   
+
+
+  * David A. Hodges, 2000 *
+  * Richard S. Muller, 2000
+
+
+
+###  IEEE Electron Devices Society (EDS) Fellows   
+
+
+  * Vladimir Stojanovic, 2023
+  * Borivoje Nikolic, 2017
+  * Kameshwar Poolla, 2013
+  * Tsu-Jae King Liu, 2007
+  * Clark Nguyen, 2007
+  * Bin Yu, 2007
+  * Bernhard Boser, 2003
+  * Ming C. Wu, 2002
+  * Jeffrey Bokor, 2000
+  * Costas J. Spanos, 2000
+
+
+
+###  IEEE GHTC Best Paper Award   
+
+
+  * Ken Goldberg, 2015
+
+
+
+###  IEEE ICRA Best Paper Award on Robotic Learning   
+
+
+  * Ken Goldberg, 2025
+  * John D. Kubiatowicz, 2025
+
+
+
+###  IEEE Information Theory Society Paper Award   
+
+
+  * Venkat Anantharam, 2023
+  * Venkatesan Guruswami, 2020
+  * Venkat Anantharam, 1998
+
+
+
+###  IEEE International Conference on Data Engineering (ICDE) Best Demo Award   
+
+
+  * Aditya Parameswaran, 2019
+
+
+
+###  IEEE ITS Lifetime Achievement Award   
+
+
+  * Pravin Varaiya, 2018 *
+
+
+
+###  IEEE ITS Outstanding Research Award   
+
+
+  * Alexandre Bayen, 2024
+  * Pravin Varaiya, 2009 *
+
+
+
+###  IEEE ITSoc Claude E. Shannon Award   
+
+
+  * David Tse, 2017 *
+  * Elwyn R. Berlekamp, 1993 *
+
+
+
+###  IEEE ITSoc Golden Jubilee Award for Technological Innovation   
+
+
+  * Elwyn R. Berlekamp, 1998 *
+
+
+
+###  IEEE ITSoc Paper Award   
+
+
+  * David Tse, 2003 *
+  * Venkat Anantharam, 1998
+  * Elwyn R. Berlekamp, 1969 *
+
+
+
+###  IEEE NTC Early Career Award in Nanotechnology   
+
+
+  * Sayeef Salahuddin, 2012
+  * Ali Javey, 2010
+
+
+
+###  IEEE Photonics Society Distinguished Lecturer   
+
+
+  * Kam Y. Lau, 1996
+  * Constance Chang-Hasnain, 1994
+
+
+
+###  IEEE Photonics Society LEOS Third Millenium Medal   
+
+
+  * Ivan P. Kaminow, 2000 *
+
+
+
+###  IEEE Photonics Society Quantum Electronics Award   
+
+
+  * Ivan P. Kaminow, 1983 *
+
+
+
+###  IEEE Photonics Society William Streifer Scientific Achievement Award   
+
+
+  * Ming C. Wu, 2016
+  * Constance Chang-Hasnain, 2003
+  * Kam Y. Lau, 1996
+  * Eli Yablonovitch, 1993
+
+
+
+###  IEEE Power Electronics Society Transactions Prize Paper Award   
+
+
+  * Robert Pilawa-Podgurski, 2020
+
+
+
+###  IEEE PVSC William R. Cherry Award   
+
+
+  * Eli Yablonovitch, 2017
+
+
+
+###  IEEE Symposium on Security and Privacy Test of Time Award   
+
+
+  * Vern Paxson, 2020
+  * Dawn Song, 2020
+  * Doug Tygar, 2020 *
+  * David Wagner, 2020
+
+
+
+###  IEEE TCCPS Mid-Career Award   
+
+
+  * Sanjit A. Seshia, 2019
+  * Alexandre Bayen, 2018
+
+
+
+###  IEEE TCCPS Technical Achievement Award   
+
+
+  * Edward A. Lee, 2019
+  * Alberto L. Sangiovanni-Vincentelli, 2017
+
+
+
+###  MTTS Microwave Career Award   
+
+
+  * John R. Whinnery, 1976 *
+
+
+
+###  MTTS Microwave Pioneer Award   
+
+
+  * Kam Y. Lau, 2021
+
+
+
+###  NÂ² Women: Rising Stars in Computer Networking and Communications   
+
+
+  * Rikky Muller, 2020
+  * Sylvia Ratnasamy, 2016
+
+
+
+###  NÂ² Women: Star in Computer Networking and Communications   
+
+
+  * Sylvia Ratnasamy, 2019
+
+
+
+###  NPSS Glenn F. Knoll Radiation Instrumentation Outstanding Achievement Award   
+
+
+  * Stephen E. Derenzo, 2001 *
+
+
+
+###  NPSS Merit Award   
+
+
+  * Stephen E. Derenzo, 1992 *
+
+
+
+###  NPSS Plasma Science & Applications Award   
+
+
+  * Michael A. Lieberman, 1995
+  * Charles K. (Ned) Birdsall, 1988 *
+
+
+
+###  PELS Richard M. Bass Outstanding Young Power Electronics Engineer Award   
+
+
+  * Robert Pilawa-Podgurski, 2014
+
+
+
+###  RAS Distinguished Lecturer   
+
+
+  * Ken Goldberg, 2005
+
+
+
+###  RAS Distinguished Service Award   
+
+
+  * Ken Goldberg, 2011
+
+
+
+###  RAS Early Career Award   
+
+
+  * Anca Dragan, 2021
+  * Pieter Abbeel, 2012
+
+
+
+###  RAS ICRA Best Paper Award in Cognitive Robotics   
+
+
+  * Trevor Darrell, 2013
+
+
+
+###  RAS Pioneer Award   
+
+
+  * Ruzena Bajcsy, 2010
+
+
+
+###  SMC Joseph G. Wohl Outstanding Career Award   
+
+
+  * Lotfi A. Zadeh, 1997 *
+
+
+
+###  SPS James L. Flanagan Speech and Audio Processing Award   
+
+
+  * Nelson Morgan, 2022
+
+
+
+###  SPS Senior (Best Paper) Award   
+
+
+  * Jan M. Rabaey, 1994
+
+
+
+###  SPS Technical Achievement Award   
+
+
+  * Martin Vetterli, 2001 *
+  * David G. Messerschmitt, 1993
+  * Robert W. Brodersen, 1991 *
+
+
+
+###  SPS 2000 Millennium Medal   
+
+
+  * David G. Messerschmitt, 2000
+
+
+
+###  SSCS Distinguished Lecturer   
+
+
+  * Rikky Muller, 2019
+  * Borivoje Nikolic, 2014
+
+
+
+###  SSCS ISSCC Jack Raper Award for Outstanding Technology Directions Paper   
+
+
+  * Elad Alon, 2010
+  * Tsu-Jae King Liu, 2010
+  * Vladimir Stojanovic, 2010
+  * Clark Nguyen, 2006
+  * Jan M. Rabaey, 2002
+
+
+
+###  SSCS ISSCC Lewis Winner Award for Outstanding Paper   
+
+
+  * Bernhard Boser, 2016
+
+
+
+###  SSCS New Frontier Award   
+
+
+  * Rikky Muller, 2021
+
+
+
+###  SSCS Solid-State Circuits Council Outstanding Development Award   
+
+
+  * Donald O. Pederson, 1985 *
+
+
+
+###  SSCS 2000 Millennium Medal   
+
+
+  * Paul R. Gray, 2000
+  * Robert G. Meyer, 2000
+
+
+
+###  TCHPC Award for Excellence for Early Career Researchers in High Performance Computing   
+
+
+  * Aydin BuluÃ§, 2015
+
+
+
+###  TCRTS Outstanding Technical Achievement and Leadership Award   
+
+
+  * Edward A. Lee, 2016
+
+
+
+###  UFFC Achievement Award   
+
+
+  * Richard M. White, 1988 *
+
+
+
+###  UFFC Rayleigh Ultrasonics Award   
+
+
+  * Richard M. White, 2003 *
+
+
+
+###  UFFC W. G. Cady Frequency Control Award   
+
+
+  * Clark Nguyen, 2006
+  * Richard M. White, 2000 *
+  * Richard M. White, 1987 *
+
+
+
+###  CEDA Ernest S. Kuh Early Career Award   
+
+
+  * Pierluigi Nuzzo, 2023
+
+
+
+###  CS PAMI Mark Everingham Prize   
+
+
+  * Trevor Darrell, 2017
+
+
+
+###  IEEE Power Electronics Prize Letter Award   
+
+
+  * Jessica Boles, 2024
+
+
+
+###  IEEE TCCA Young Computer Architect Award   
+
+
+  * Sophia Shao, 2022
+
+
+
+###  IEEE TCCPS Early Career Award   
+
+
+  * Pierluigi Nuzzo, 2022
+
+
+
+###  CS TCPAMI CVPR Longuet-Higgins Prize   
+
+
+  * Trevor Darrell, 2024
+  * Jitendra Malik, 2024
+  * Jitendra Malik, 2008
+  * Jitendra Malik, 2007
+
+
+
+###  IEEE CS TCPAMI Young Researcher Award   
+
+
+  * Angjoo Kanazawa, 2024
+  * John Wright, 2015
+
+
+
+###  SSCC ISSCC Jack Kilby Award for Outstanding Student Paper   
+
+
+  * Paul R. Gray, 2004
+  * Borivoje Nikolic, 2004
+
+
+
+###  CS TCPAMI ICCV Helmholtz Prize   
+
+
+  * Trevor Darrell, 2017
+  * Alexei (Alyosha) Efros, 2017
+  * Jitendra Malik, 2017
+  * Jitendra Malik, 2015
+  * Alexei (Alyosha) Efros, 2013
+
+
+
+## Other Awards
+
+###  IEEE PES Best-of-the-Best Conference Paper Award   
+
+
+  * Somayeh Sojoudi, 2022
+
+
+
+###  IEEE VIS Test of Time Award   
+
+
+  * Joseph M. Hellerstein, 2022
+
+
+
+## Fellows
+
+###  Institute of Electrical & Electronics Engineers (IEEE) Fellow   
+
+
+  * Michel Maharbiz, 2026
+  * Somayeh Sojoudi, 2026
+  * Ana Claudia Arias, 2025
+  * Robert Pilawa-Podgurski, 2024
+  * Benjamin Recht, 2024
+  * Osama Shana'a, 2024
+  * Vladimir Stojanovic, 2024
+  * Alexandre Bayen, 2023
+  * Ali Javey, 2023
+  * Elad Alon, 2019
+  * Venkatesan Guruswami, 2019
+  * Sayeef Salahuddin, 2019
+  * Dawn Song, 2019
+  * Pieter Abbeel, 2018
+  * Hany Farid, 2018
+  * Sanjit A. Seshia, 2018
+  * Jose M. Carmena, 2017 *
+  * Borivoje Nikolic, 2017
+  * Krste AsanoviÄ, 2014
+  * Yi Ma, 2013
+  * Murat Arcak, 2012
+  * Ali Niknejad, 2012
+  * Kameshwar Poolla, 2012
+  * Susan L. Graham, 2012
+  * Ahmad Bahai, 2011 *
+  * Claire Tomlin, 2010
+  * Seth R. Sanders, 2009
+  * Jaijeet Roychowdhury, 2009
+  * David Tse, 2008 *
+  * Tsu-Jae King Liu, 2007
+  * Clark Nguyen, 2007
+  * Thomas A. Henzinger, 2006 *
+  * David E. Culler, 2005
+  * Jitendra Malik, 2005
+  * Ken Goldberg, 2005
+  * Michael Jordan, 2005
+  * Kannan Ramchandran, 2004
+  * Andreas Kuehlmann, 2003 *
+  * Bernhard Boser, 2002
+  * James Demmel, 2002
+  * Ming C. Wu, 2002
+  * Bin Yu, 2002
+  * Avideh Zakhor, 2002
+  * Stephen E. Derenzo, 2000 *
+  * Scott Shenker, 2000
+  * Costas J. Spanos, 2000
+  * Jeffrey Bokor, 1999
+  * Nelson Morgan, 1999
+  * Venkat Anantharam, 1998
+  * Constance Chang-Hasnain, 1997
+  * Kurt Keutzer, 1996
+  * Randy H. Katz, 1995
+  * Kam Y. Lau, 1995
+  * Jan M. Rabaey, 1995
+  * S. Shankar Sastry, 1995
+  * Martin Vetterli, 1995 *
+  * Edward A. Lee, 1994
+  * Michael A. Lieberman, 1994
+  * Michael A. Harrison, 1993 *
+  * Jean Walrand, 1993
+  * Ruzena Bajcsy, 1992
+  * Eli Yablonovitch, 1992
+  * T. Kenneth Gustafson, 1991 *
+  * Felix F. Wu, 1991
+  * Chenming Hu, 1990
+  * David A. Patterson, 1990
+  * Andrew R. Neureuther, 1989 *
+  * Alan J. Smith, 1989
+  * Richard S. Muller, 1988
+  * A. Richard Newton, 1988 *
+  * Domenico Ferrari, 1987
+  * Diogenes Angelakos, 1985 *
+  * Arthur R. Bergen, 1984 *
+  * David G. Messerschmitt, 1983
+  * Alberto L. Sangiovanni-Vincentelli, 1983
+  * Manuel Blum, 1982
+  * Robert W. Brodersen, 1982 *
+  * Robert K. Brayton, 1981 *
+  * Paul R. Gray, 1981
+  * Robert G. Meyer, 1981
+  * William G. Oldham, 1981
+  * Pravin Varaiya, 1980 *
+  * Kenneth K. Mei, 1979 *
+  * Chittoor V. Ramamoorthy, 1978 *
+  * David A. Hodges, 1977 *
+  * Elijah Polak, 1977
+  * Theodore Van Duzer, 1977 *
+  * Edwin R. Lewis, 1976
+  * William J. Welch, 1975 *
+  * Leon O. Chua, 1974
+  * Ivan P. Kaminow, 1974 *
+  * Eugene Wong, 1974
+  * Richard M. White, 1972 *
+  * Elwyn R. Berlekamp, 1971 *
+  * George L. Turin, 1971 *
+  * Martin H. Graham, 1968 *
+  * Ernest S. Kuh, 1965 *
+  * Donald O. Pederson, 1964 *
+  * Charles K. (Ned) Birdsall, 1962 *
+  * Otto J.M. Smith, 1959 *
+  * Lotfi A. Zadeh, 1958 *
+  * John R. Whinnery, 1952 *
+
+
+
+## Life Members
+
+###  IEEE Life Member   
+
+
+  * David A. Patterson, 2016
+  * Donald O. Pederson, 1999 *
+  * Charles K. (Ned) Birdsall, 1994 *
+  * Otto J.M. Smith, 1993 *
+  * Lotfi A. Zadeh, 1990 *
+  * John R. Whinnery, 1982 *
+  * Richard M. White, 1961 *
+
+
+
+## Award Pages
+
+  * Major Awards
+  * ACM Awards
+  * NSF Awards
+  * IEEE Awards
+  * UC Berkeley Awards
+  * Society Awards
+  * Government & Private Awards
+  * Other Awards
+
+
+
+* * *
+
+*No longer active in the department

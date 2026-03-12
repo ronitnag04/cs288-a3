@@ -1,0 +1,155 @@
+##  Fall 2023 
+
+Dedicated to hosting presentations at the intersection of Electrical Engineering and Computer Science, the EECS Colloquium offers a mix of short talks by faculty describing their latest research results as well as internationally distinguished speakers. It provides an opportunity for an exchange of ideas between our department’s community and the outside world.
+
+**Wednesdays 4:00-5:00 PM, HP Auditorium, 306 Soda Hall**  _(unless otherwise noted)_  
+_Light refreshments served at 3:30 pm_
+
+Subscribe to the eecs-announce mailing list through the web interface or via email so you can be apprised of upcoming talks.
+
+###  Eli Yablonovitch, UC Berkeley
+
+####  Carbon Negative Technology to Solve the Climate Crisis
+
+Youtube Webinar
+
+**August 30, 2023  
+**
+
+* * *
+
+### No talk this week
+
+**September 6, 2023**
+
+* * *
+
+###  Jeffrey Welser
+
+####  IBM Research: Inventing What’s Next 
+
+Youtube Webinar
+
+**September 13, 2023**
+
+* * *
+
+### No talk this week
+
+**September 20, 2023**
+
+* * *
+
+### TBD
+
+**September 27, 2023**
+
+* * *
+
+###  Larry Zitnick, Meta-FAIR
+
+####  Modeling Atoms to Address Our Climate Crisis
+
+Youtube Webinar
+
+**October 4, 2023**
+
+* * *
+
+###  Jack Gallant, UC Berkeley
+
+####  Toward reverse engineering the deep networks of the human brain  
+
+
+Youtube Webinar
+
+**October 11, 2023  
+**
+
+* * *
+
+### No talk this week
+
+**October 18, 2023**
+
+* * *
+
+###  CS Education Panel
+
+####  The Evolution of CS Education: Embracing Diversity, AI, and Competency Amidst Historical Context 
+
+Youtube Webinar
+
+**October 25, 2023**
+
+* * *
+
+###  Edward Chang & Gopala Anumanchipalli
+
+####  Turning Brain Waves into Words
+
+Youtube Webinar
+
+**November 1, 2023**
+
+* * *
+
+###  Alison Gopnik
+
+####  Transmission vs. Truth, Imitation vs. Innovation: How children’s learning can inform AI
+
+Youtube Webinar
+
+**November 8, 2023**
+
+* * *
+
+### No talk this week
+
+**November 15, 2023**
+
+* * *
+
+### No talk this week
+
+**November 22, 2023**
+
+* * *
+
+###  Caroline Uhler
+
+####  Causal Representation Learning and Optimal Intervention Design
+
+Youtube Webinar
+
+**November 29, 2023**
+
+* * *
+
+### No talk this week
+
+**December 6, 2023**
+
+* * *
+
+###  Mikhail Lukin
+
+####  Exploring Quantum Error Correction Frontier with Programmable Atom Arrays
+
+Youtube Webinar
+
+**December 12, 2023**
+
+* * *
+
+###  Daewon Ha
+
+####  Sustainable Future Semiconductor Industry by Innovative Technologies: Transforming Physical Challenges into Growth Opportunities
+
+Youtube Webinar
+
+**December 13, 2023**
+
+* * *
+
+View  Open Faculty Positions __

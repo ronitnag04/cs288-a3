@@ -1,0 +1,123 @@
+##  In this Page 
+
+  * Department 
+  * General 
+  * For Canadians 
+
+
+
+The fellowships listed below are for U.S. citizens and permanent residents unless otherwise noted. In addition, the Graduate Division also maintains its own fellowship website.
+
+##  Industry-Sponsored 
+
+Apple scholarships for Berkeley EECS students.
+
+  * Apple Masters Scholarship in Integrated Systems
+
+
+
+##  General 
+
+### National Science Foundation (NSF) Graduate Research Fellowship Program
+
+GRF Operations Center  
+Suite 600  
+1818 N Street NW  
+Washington, DC 20036
+
+**Eligible Degree Programs: M.S. and Ph.D. **
+
+**Fastlane Application Phone: **866-673-4737   
+**E-mail: **info@nsfgrfp.org   
+**Homepage: **https://www.fastlane.nsf.gov/grfp
+
+### National Defense Science and Engineering Graduate (NDSEG) Fellowships
+
+DoD NDSEG Fellowship Program Office  
+One Research Court, Suite 360  
+Rockville, MD 20850
+
+**Eligible Degree Programs: all graduate engineering programs **
+
+**Phone: **(202) 331-3516   
+**Fax: **(202) 265-8504   
+**E-mail: **ndseg@asee.org   
+**Homepage: **http://www.asee.org/ndseg   
+**ASEE Graduate Fellowships: **http://www.asee.org/fellowship-programs/graduate
+
+### Semiconductor Research Corporation (SRC) Fellowship
+
+Semiconductor Research Corporation   
+Graduate Fellowship Program   
+P.O. Box 12053   
+Research Triangle Park, NC 27709-2053
+
+**Eligible Degree Program: M.S. and Ph.D. **
+
+**Phone: **(919) 941-9400   
+**E-mail: **apply@src.org   
+**Homepage: **http://www.src.org/student-center/fellowship
+
+### Department of Energy Computational Science Graduate Fellowships
+
+DOE CSGF Program Coordinator   
+1609 Golden Aspen Drive, Suite 101   
+Ames, IA 50010
+
+**Eligible Degree Program: PhD. only **
+
+**Phone: **(515) 956-3696   
+**E-mail: **csgf@krellinst.org   
+**Fax: **(515) 956-3699   
+**Homepage: **http://www.krellinst.org/csgf/
+
+### Fannie and John Hertz Foundation Fellowships
+
+2456 Research Drive   
+Livermore CA 94550-3850
+
+**Eligible Degree Program: PhD. only **
+
+**Phone: **(925) 373-1642 (8am-3pm Pacific Standard Time)   
+**E-mail: **askhertz@hertzfoundation.org   
+**Fax: **(925) 373-6329   
+**Homepage: **http://www.hertzfoundation.org/
+
+### The Paul and Daisy Soros Fellowships for New Americans
+
+400 West 59th Street, 4th Floor   
+New York, NY 10019
+
+**Eligible Degree Programs: all graduate engineering programs **
+
+**Phone: **212-547-6926   
+**E-mail: **pdsoros_fellows@sorosny.org   
+**Homepage: **http://www.pdsoros.org
+
+### Symantec Graduate Fellowship Program
+
+The application is online only. The focus of the program is on information security, availability, and integrity. It is open to international students.
+
+**E-mail: **SRLFellowship@Symantec.com
+
+**Eligible Degree Program: PhD. only **
+
+**Homepage: https://www.symantec.com/about/careers/graduate-fellowship**
+
+##  For Canadians 
+
+### Natural Sciences and Engineering Research Council (NSERC)  
+Postgraduate Scholarships (PGS D or M)
+
+Scholarships and Fellowships Division   
+350 Albert St.   
+Ottawa ON  
+CANADA K1A 1H5
+
+**Eligible Degree Programs: Master’s or Ph.D. **
+
+**Phone: **(613) 995-4273   
+**E-mail: **schol@nserc.ca   
+**Homepage: **http://www.nserc-crsng.gc.ca/Students-Etudiants/PG-CS/BellandPostgrad-BelletSuperieures_eng.asp
+
+View  Open Faculty Positions __

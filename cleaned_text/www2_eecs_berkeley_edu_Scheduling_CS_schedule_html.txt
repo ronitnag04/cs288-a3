@@ -1,0 +1,307 @@
+[show sections and labs]
+
+CCN | Course | Sec | Type | Title | Instructor | Day/Time | Location  
+---|---|---|---|---|---|---|---  
+10663 | COMPSCI 10 | 001 | LEC | The Beauty and Joy of Computing | Dan Garcia  
+| MoWeFr 10:00-10:59  
+| Evans 60  
+  
+30964 | COMPSCI 39 | 001 | SEM | Technology, Society, and Power | Lisa Yan  
+Manuel A Sabin  
+| We 15:00-16:59  
+| Soda 606  
+  
+10353 | COMPSCI 47A | 001 | SLF | Completion of Work in Computer Science 61A | John DeNero  
+|  |   
+10354 | COMPSCI 47B | 001 | SLF | Completion of Work in Computer Science 61B | Joshua A Hug  
+Kay Ousterhout  
+|  |   
+10355 | COMPSCI 47C | 001 | SLF | Completion of Work in Computer Science 61C | Lisa Yan  
+|  |   
+10356 | COMPSCI 61A | 001 | LEC | The Structure and Interpretation of Computer Programs | Amy Wang Xu  
+Apollo Loh  
+Dan Garcia  
+Manuel A Sabin  
+| MoWeFr 13:00-13:59  
+| Dwinelle 155  
+  
+10391 | COMPSCI 61B | 001 | LEC | Data Structures | Joshua A Hug  
+Kay Ousterhout  
+| MoWeFr 13:00-13:59  
+| Wheeler 150  
+  
+10458 | COMPSCI 61C | 001 | LEC | Great Ideas of Computer Architecture (Machine Structures) | Andrea Lou  
+Cassie An Jeng  
+Lisa Yan  
+Nicolas Alexander Reed  
+| MoWeFr 11:00-11:59  
+| Evans 10  
+  
+10479 | COMPSCI 70 | 001 | LEC | Discrete Mathematics and Probability Theory | Alistair J Sinclair  
+Yun S. Song  
+| TuTh 12:30-13:59  
+| Dwinelle 155  
+  
+10609 | COMPSCI 152 | 001 | LEC | Computer Architecture and Engineering | Anto Kam  
+Christopher Fletcher  
+Hansung Kim  
+Jessica Jing Fan  
+Kris Shengjun Dong  
+Wen Cao  
+Yan Zhu  
+| TuTh 17:00-18:29  
+| Valley Life Sciences 2050  
+  
+10586 | COMPSCI 161 | 001 | LEC | Computer Security | Frederick Dehmel  
+Henry Corrigan-Gibbs  
+Jonah Alex Bedouch  
+Raluca Ada Popa  
+Tanya Bhakhri  
+| MoWeFr 15:00-15:59  
+| Wheeler 150  
+  
+10498 | COMPSCI 162 | 001 | LEC | Operating Systems and System Programming | Chloe Shen Yi Wong  
+John Kubiatowicz  
+Luca Manolache  
+| TuTh 15:30-16:59  
+| Hearst Field Annex A1  
+  
+10657 | COMPSCI 164 | 001 | LEC | Programming Languages and Compilers | Koushik Sen  
+| MoWe 14:00-15:29  
+| Soda 306  
+  
+31056 | COMPSCI 168 | 001 | LEC | Introduction to the Internet: Architecture and Protocols | Jonah Alex Bedouch  
+Rishabh Iyer  
+| TuTh 17:00-18:29  
+| Dwinelle 155  
+  
+10585 | COMPSCI 169L | 001 | DIS | Software Engineering Team Project | Armando Fox  
+Michael Ball  
+| MoFr 10:30-11:59  
+| Soda 320  
+  
+10509 | COMPSCI 170 | 001 | LEC | Efficient Algorithms and Intractable Problems | Carolyn Aiwei Liu  
+Lijie Chen  
+Umesh V Vazirani  
+| TuTh 15:30-16:59  
+| Stanley 105  
+  
+10829 | COMPSCI C176 | 001 | LEC | Algorithms for Computational Biology | Allon Wagner  
+Canal Li  
+| TuTh 15:30-16:59  
+| Cory 247  
+  
+32800 | COMPSCI C177 | 001 | LEC | Algorithmic Economics | Federico Manuel Echenique  
+| MoWeFr 09:00-09:59  
+| Valley Life Sciences 2040  
+  
+32555 | COMPSCI 184 | 001 | LEC | Foundations of Computer Graphics | James O'Brien  
+| TuTh 14:00-15:29  
+|   
+  
+32557 | COMPSCI 185 | 001 | LEC | Deep Reinforcement Learning, Decision Making, and Control | Sergey Levine  
+| We 09:00-09:59  
+Fr 08:00-09:59  
+| Hearst Field Annex A1  
+Hearst Field Annex A1  
+  
+34809 | COMPSCI 185 | 106 | LEC | Deep Reinforcement Learning, Decision Making, and Control |  | We 15:00-15:59  
+| Social Sciences Building 60  
+  
+10758 | COMPSCI 186 | 001 | LEC | Introduction to Database Systems | Alvin Cheung  
+Natacha Crooks  
+| MoWe 10:00-11:29  
+| Soda 306  
+  
+10527 | COMPSCI 188 | 001 | LEC | Introduction to Artificial Intelligence | Dan Klein  
+Stuart J Russell  
+| TuTh 12:30-13:59  
+| Lewis 100  
+  
+10541 | COMPSCI 189 | 001 | LEC | Introduction to Machine Learning | Alex Dimakis  
+Jennifer Listgarten  
+| TuTh 14:00-15:29  
+| Wheeler 150  
+  
+34495 | COMPSCI 194 | 198 | LEC | Networks: Models, Processes & Algorithms | Christian H Borgs  
+| TuTh 09:30-10:59  
+We 17:00-17:59  
+| Soda 405  
+Evans 70  
+  
+34953 | COMPSCI 194 | 202 | LEC | Careers in Data Science, Computing, and Mathematical and Physical Sciences | Narges Norouzi  
+William R Boos  
+| Tu 09:30-10:59  
+| Soda 438  
+  
+10835 | COMPSCI 194 | 271 | LEC | Research in AI Education | Gireeja Vishnu Ranade  
+Narges Norouzi  
+| Tu 12:30-13:59  
+| Soda 606  
+  
+10679 | COMPSCI 198 | 002 | GRP | GamesCrafters | Dan Garcia  
+| MoWeFr 11:00-11:59  
+| Soda 606  
+  
+10666 | COMPSCI 198 | 003 | GRP | UCBUGG: 3D Modeling and Animation | Dan Garcia  
+Francis Esguerra Basco  
+Han Li  
+Travis Van Le  
+| Mo 19:00-20:59  
+| Soda 330  
+  
+10674 | COMPSCI 198 | 008 | GRP | Linux System Administration DeCal | Erdaifu Luo  
+Jaysa Maria Garcia  
+Joe Wang  
+Michael Ball  
+Sawan Srivastava  
+| Tu 19:00-20:59  
+|   
+  
+10672 | COMPSCI 198 | 099 | GRP | Introduction to Full-Stack Development | Darren Brandon Ich  
+Gisella Chan  
+Jessie C Liu  
+Joshua A Hug  
+Juni Choy Kim  
+Matthew John Robillard  
+Seeun Ahn  
+Warren Chang  
+| We 18:30-19:59  
+Th 18:30-19:59  
+| Physics Building 3  
+Physics Building 2  
+  
+10843 | COMPSCI 198 | 142 | GRP | Collaborative Small-Group Mentorship | Christopher Todd Hunn  
+Mohamed Ganda  
+| We 17:00-17:59  
+|   
+  
+10667 | COMPSCI 198 | 303 | GRP | UCBUGG: 3D Modeling and Animation | Dan Garcia  
+Francis Esguerra Basco  
+Han Li  
+Travis Van Le  
+| Fr 19:00-20:59  
+| Soda 330  
+  
+31750 | COMPSCI 252A | 001 | LEC | Graduate Computer Architecture | Anto Kam  
+Christopher Fletcher  
+Hansung Kim  
+Jessica Jing Fan  
+Kris Shengjun Dong  
+Wen Cao  
+Yan Zhu  
+| TuTh 17:00-18:29  
+| Valley Life Sciences 2050  
+  
+30965 | COMPSCI 261 | 001 | LEC | Security in Computer Systems | David Wagner  
+| MoWe 13:00-14:29  
+| Soda 405  
+  
+31049 | COMPSCI 263 | 001 | LEC | Design of Programming Languages | Max Willsey  
+| TuTh 14:00-15:29  
+| Soda 310  
+  
+31053 | COMPSCI 274 | 001 | LEC | Computational Geometry | Jonathan Shewchuk  
+| MoWe 14:30-15:59  
+| Soda 320  
+  
+31054 | COMPSCI 276 | 001 | LEC | Cryptography | Sanjam Garg  
+| TuTh 11:00-12:29  
+| Soda 310  
+  
+31055 | COMPSCI C280 | 001 | LEC | Computer Vision | Alexei Efros  
+Angjoo Kanazawa  
+| TuTh 15:30-16:59  
+| Hearst Mining 390  
+  
+10751 | COMPSCI C281B | 001 | LEC | Advanced Topics in Learning and Decision Making | Jason Lee  
+| We 14:00-16:59  
+| Evans 344  
+  
+32606 | COMPSCI 284A | 001 | LEC | Foundations of Computer Graphics | James O'Brien  
+| TuTh 14:00-15:29  
+|   
+  
+32614 | COMPSCI 285 | 001 | LEC | Deep Reinforcement Learning, Decision Making, and Control | Sergey Levine  
+| We 09:00-09:59  
+Fr 08:00-09:59  
+| Hearst Field Annex A1  
+Hearst Field Annex A1  
+  
+30967 | COMPSCI 286 | 001 | LEC | Implementation of Data Base Systems | Aditya Parameswaran  
+| MoWe 09:00-10:29  
+| Soda 606  
+  
+34486 | COMPSCI 288 | 001 | LEC | Natural Language Processing | Alane Suhr  
+Sewon Min  
+| TuTh 15:30-16:59  
+| Soda 306  
+  
+10688 | COMPSCI 289A | 001 | LEC | Introduction to Machine Learning | Alex Dimakis  
+Jennifer Listgarten  
+| TuTh 14:00-15:29  
+| Wheeler 150  
+  
+10308 | COMPSCI 294 | 184 | LEC | Building User-Centered Programming Tools | S. E. Chasins  
+| WeFr 09:00-10:29  
+| Soda 405  
+  
+10309 | COMPSCI 294 | 194 | LEC | Research to Startup | Ali Ghodsi  
+Ion Stoica  
+Joseph E. Gonzalez  
+Kurt W Keutzer  
+Prabal Dutta  
+Trevor Darrell  
+| Th 17:00-18:29  
+| Soda 310  
+  
+10313 | COMPSCI 294 | 258 | LEC | Computational Models of Language Use | Alane Suhr  
+| Mo 14:00-16:59  
+| Etcheverry 3105  
+  
+34847 | COMPSCI 294 | 265 | LEC | Building Real-World Systems with AI from Scratch | Ion Stoica  
+| Mo 09:00-11:59  
+| Soda 310  
+  
+33679 | COMPSCI 294 | 268 | LEC | Proving TCS and Math Theorems in Lean | Venkatesan Guruswami  
+| Fr 13:00-14:59  
+| Soda 320  
+  
+10834 | COMPSCI 294 | 271 | LEC | Research in AI Education | Gireeja Vishnu Ranade  
+Narges Norouzi  
+| Tu 12:30-13:59  
+| Soda 606  
+  
+31047 | COMPSCI 294 | 273 | LEC | Designing Algorithmic Media | Jonathan Stray  
+| Th 09:00-11:59  
+| Soda 320  
+  
+34496 | COMPSCI 294 | 277 | LEC | Robots that Learn | Jitendra Malik  
+| Mo 15:00-16:59  
+| Soda 405  
+  
+10840 | COMPSCI 294 | 279 | LEC | Data Science for Social Change | Emma Pierson  
+| TuTh 15:30-16:59  
+| Soda 405  
+  
+30971 | COMPSCI 294 | 290 | LEC | Learning for Dynamics & Control | Benjamin Recht  
+| Mo 13:00-15:59  
+| Soda 310  
+  
+30973 | COMPSCI 294 | 304 | LEC | Human-AI interaction | Bjoern Hartmann  
+| TuTh 14:00-15:29  
+| Jacobs Hall 310  
+  
+30966 | COMPSCI 302 | 001 | LEC | Designing Computer Science Education | Dan Garcia  
+Michael Ball  
+| Fr 14:00-15:59  
+| Soda 606  
+  
+10833 | COMPSCI 365 | 001 | LEC | Introduction to Instructional Methods in Computer Science for Academic Interns | Christopher Todd Hunn  
+| Fr 10:00-11:59  
+| Soda 438  
+  
+10686 | COMPSCI 370 | 002 | LEC | Adaptive Instruction Methods in Computer Science | Christopher Todd Hunn  
+| Th 19:00-20:59  
+| Dwinelle 182  
+

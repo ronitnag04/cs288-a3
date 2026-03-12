@@ -1,0 +1,74 @@
+Hybrid Baud-Rate CDR and Clock Distribution Techniques for High-Speed 100Gbps Wireline Receiver  
+Yi-Hsuan Shih [2025]
+
+Design Methodologies and Automated Generation of Ultra High Speed Wireline SerDes Transmitters  
+Ayan Biswas [2023]
+
+Feedforward MLSE Equalization for High Speed Serial Links  
+Paul Kwon [2023]
+
+Sub-THz Transmitter Design Techniques for High Speed Wireless Communication  
+Meng Wei [2023]
+
+Scaling Phased Array Receivers to Massive MIMO and Wide Bandwidth with Analog Baseband Beamforming  
+Emily Naviasky [2022]
+
+Analog Generators for SerDes Clock Generation and Distribution  
+Zhongkai Wang [2021]
+
+Human-Centered Circuit Board Design With Flexible Levels of Abstraction and Ambiguity  
+Richard Lin [2021]
+
+Design of Spectral Filtering Wireless Transmitters  
+Bonjern Yang [2019]
+
+Design Techniques for Energy-Efficient, Low Latency High Speed Wireline Links  
+Nick Sutardja [2019]
+
+Human Intranet: Connecting Wearable and Implantable Devices  
+Ali Moin [2019]
+
+Neuromodulation IC for System Integration and Self-Interference Cancellation  
+Seobin Jung [2018]
+
+RF Transmitter Design for Large Antenna Array Applications  
+Pengpeng Lu [2018]
+
+Scalable RF Receivers for Large Antenna Arrays  
+Konstantin Trotskovsky [2018]
+
+Design and Automatic Generation of 60Gb/s Wireline Transceivers  
+Jaeduk Han [2017]
+
+System Architecture and Signal Processing Techniques for Massive Multi-user Antenna Arrays  
+Antonio Puglielli [2017]
+
+Inkjet-Printed Microelectromechanical Systems: Materials, Process and Devices  
+Muhammed Karim [2016]
+
+Capacitive-Gap MEMS Resonator-Based Oscillator Systems for Low-Power Signal Processing  
+Thura Lin Naing [2015]
+
+Design Considerations for Nano-Electromechanical Relay Circuits  
+Matthew Spencer [2015]
+
+Design Techniques for Ultra-High-Speed Time-Interleaved Analog-to-Digital Converters (ADCs)  
+Yida Duan [2015]
+
+Energy-Efficient Equalization Circuits for High-Speed Wireline Links  
+Yue Lu [2014]
+
+Formal Techniques for the Verification and Optimal Control of Probabilistic Systems in the Presence of Modeling Uncertainties  
+Alberto Puggelli [2014]
+
+BAG: A Designer-Oriented Framework for the Development of AMS Circuit Generators  
+John Wiley Crossley [2013]
+
+Design Techniques for Fully Integrated Switched-Capacitor Voltage Regulators  
+Hanh-Phuc Le [2013]
+
+Design of Multi-Gb/s Multi-Coefficient Mixed-Signal Equalizers  
+Chintan Thakkar [2012]
+
+Energy-Efficient 60GHz Phased-Array Design for Multi-Gb/s Communication Systems  
+Lingkai Kong [2012]

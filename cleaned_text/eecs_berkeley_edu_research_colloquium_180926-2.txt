@@ -1,0 +1,23 @@
+## EECS Colloquium
+
+### Wednesday, September 26, 2018
+
+306 Soda Hall (HP Auditorium)  
+4:00 – 5:00 pm
+
+### **Dave Fick  
+**
+
+CTO and co-founder of Mythic, Inc.
+
+Dave Fick speaks on "The Benefits of Mixed-Signal Computing for Artificial Intelligence," 9/26/18 
+
+#### Abstract
+
+Neural networks are making major impacts in all forms of edge computing, including computer vision, speech recognition, motor control, and more. Although covering many different applications, these inference applications share a common trait: their workload is dominated by matrix multiplies by static coefficients. Mythic has developed a technology to exploit that commonality by using embedded non-volatile memories to store those static matrix co-efficients and mixed-signal computing to efficiently multiply them. In this presentation, we discuss the properties of neural network inference and how Mythic’s technology is able to achieve 20-100x improvements in energy efficiency and performance.
+
+#### Biography
+
+Dave Fick is the CTO and co-founder of Mythic, a US-based startup that is creating the next generation of AI inference microchips. Mythic builds unique technologies to approach neural network inference and has raised $55M from top-tier investors to execute on this vision. Dave Fick earned his Ph.D. from the University of Michigan.
+
+View  Open Faculty Positions __

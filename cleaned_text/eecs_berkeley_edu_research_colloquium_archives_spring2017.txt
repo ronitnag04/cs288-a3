@@ -1,0 +1,55 @@
+Dedicated to hosting presentations at the intersection of Electrical Engineering and Computer Science, the EECS Colloquium offers a mix of short talks by faculty describing their latest research results as well as internationally distinguished speakers. It provides an opportunity for an exchange of ideas between our department’s community and the outside world.
+
+**Wednesdays 4:00-5:00 PM, HP Auditorium, 306 Soda Hall** _(unless otherwise noted)_
+
+Subscribe to the eecs-announce mailing list through the web interface or via email so you can be apprised of upcoming talks.
+
+###  John Bowers
+
+#### How the New US National Institute for Photonics Will Change Information Technology
+
+**January 25, 2017**
+
+* * *
+
+###  Rob Wood
+
+#### The Mechanical Side of AI
+
+**February 1, 2017**
+
+* * *
+
+###  Rob A. Rutenbar
+
+#### Taking Computing+Data Wide Across the Curriculum: The Illinois CS+X and MCS-DS Degree Programs
+
+**February 8, 2017**
+
+* * *
+
+###  Achin Bhowmik
+
+#### Adding “Human-Like” Sensing and Intelligence to Devices and Machines
+
+**February 15, 2017**
+
+* * *
+
+###  Philip Lubin
+
+#### Enabling the First Interstellar Missions with Integrated Photonics and Electronics
+
+**April 26, 2017**
+
+* * *
+
+###  Dave Patterson
+
+####  Evaluation of the Tensor Processing Unit: A Deep Neural Network Accelerator for the Datacenter
+
+**May 3, 2017**
+
+## Colloquium Archives
+
+View  Open Faculty Positions __
