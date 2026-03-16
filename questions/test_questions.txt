@@ -1,0 +1,130 @@
+{"question": "What year did Pieter Abbeel receive his Ph.D.?", "answer": "2008", "url": "https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html"}
+{"question": "What is the office number of Elad Alon?", "answer": "519 Cory Hall", "url": "https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html"}
+{"question": "Where did Gopala Krishna Anumanchipalli receive his Ph.D. in Language and Information Technologies?", "answer": "Carnegie Mellon University", "url": "https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html"}
+{"question": "Where did Murat Arcak receive his Ph.D.?", "answer": "University of California, Santa Barbara", "url": "https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html"}
+{"question": "What is Ana Claudia Arias's office number?", "answer": "501 Cory Hall", "url": "https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html"}
+{"question": "What is Ana Claudia Arias's title?", "answer": "Professor, EE Division Chair", "url": "https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html"}
+{"question": "What is Michael Ball's office number?", "answer": "784 Soda Hall", "url": "https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html"}
+{"question": "What is David Bamman's title?", "answer": "Below The Line Associate Professor", "url": "https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html"}
+{"question": "Where did David Bamman receive his Ph.D.?", "answer": "Carnegie Mellon University", "url": "https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html"}
+{"question": "Where did Peter Bartlett receive his Ph.D.?", "answer": "University of Queensland, Australia", "url": "https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html"}
+{"question": "Where did Manuel Blum receive his Ph.D.?", "answer": "MIT", "url": "https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html"}
+{"question": "What is Eric Brewer's office number?", "answer": "417 Sutardja Dai Hall", "url": "https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html"}
+{"question": "What is Sanjam Garg's email address?", "answer": "sanjamg@berkeley.edu", "url": "https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html"}
+{"question": "Where did Sanjam Garg receive his Ph.D.?", "answer": "University of California, Los Angeles", "url": "https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html"}
+{"question": "What is Shafi Goldwasser's office number?", "answer": "689 Soda Hall", "url": "https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html"}
+{"question": "Where did Bjorn Hartmann receive his Ph.D.?", "answer": "Stanford University", "url": "https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html"}
+{"question": "What is Ali Javey's email address?", "answer": "ajavey@berkeley.edu", "url": "https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html"}
+{"question": "What is Anthony Joseph's office number?", "answer": "465 Soda Hall", "url": "https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html"}
+{"question": "Where did Richard Karp receive his Ph.D.?", "answer": "Harvard", "url": "https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html"}
+{"question": "What is Randy Katz's email address?", "answer": "randy@cs.berkeley.edu", "url": "https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html"}
+{"question": "What is John Kubiatowicz's office number?", "answer": "673 Soda Hall", "url": "https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html"}
+{"question": "Who is the EECS Department Chair?", "answer": "Jelani Nelson", "url": "https://eecs.berkeley.edu/people/leadership/"}
+{"question": "Who is the EE Division Chair?", "answer": "Ana Claudia Arias", "url": "https://eecs.berkeley.edu/people/leadership/"}
+{"question": "Who is the CS Division Chair?", "answer": "John Wawrzynek", "url": "https://eecs.berkeley.edu/people/leadership/"}
+{"question": "Who is the CS Division Vice Chair for Undergraduate Study?", "answer": "Josh Hug", "url": "https://eecs.berkeley.edu/people/leadership/"}
+{"question": "Who is the CS Division Vice Chair for Graduate Matters?", "answer": "Joseph Gonzalez", "url": "https://eecs.berkeley.edu/people/leadership/"}
+{"question": "Who is the EE Division Vice Chair for Graduate Matters?", "answer": "Ali Javey", "url": "https://eecs.berkeley.edu/people/leadership/"}
+{"question": "What email should you use to contact the EECS Chairs?", "answer": "eecs-chair@eecs.berkeley.edu", "url": "https://eecs.berkeley.edu/people/leadership/"}
+{"question": "Who is the Director of Graduate Affairs and EE Graduate Advisor?", "answer": "Judy Smithson", "url": "https://eecs.berkeley.edu/resources/grads/"}
+{"question": "What is the email address for CS graduate student matters?", "answer": "grads-cs@berkeley.edu", "url": "https://eecs.berkeley.edu/resources/grads/"}
+{"question": "Who is the CS Graduate Advisor?", "answer": "Carissa Caloud", "url": "https://eecs.berkeley.edu/resources/grads/"}
+{"question": "What is the office number of the CS Graduate Advisor?", "answer": "367 Soda", "url": "https://eecs.berkeley.edu/resources/grads/"}
+{"question": "Who is the Masters Degrees Advisor?", "answer": "Michael Sun", "url": "https://eecs.berkeley.edu/resources/grads/"}
+{"question": "What is the email for MEng graduate student matters?", "answer": "grads-meng@berkeley.edu", "url": "https://eecs.berkeley.edu/resources/grads/"}
+{"question": "What is the email for 5th Year MS graduate student matters?", "answer": "grads-fifthyrms@berkeley.edu", "url": "https://eecs.berkeley.edu/resources/grads/"}
+{"question": "Who is the CS Graduate Admissions Coordinator?", "answer": "Glenna Anton", "url": "https://eecs.berkeley.edu/resources/grads/"}
+{"question": "What is the office number of the CS Graduate Admissions Coordinator?", "answer": "215 Cory", "url": "https://eecs.berkeley.edu/resources/grads/"}
+{"question": "What is the phone number of the CS Graduate Admissions Coordinator?", "answer": "(510) 642-6285", "url": "https://eecs.berkeley.edu/resources/grads/"}
+{"question": "Who is the EE Graduate Admissions Coordinator?", "answer": "Patrick Hernan", "url": "https://eecs.berkeley.edu/resources/grads/"}
+{"question": "What is the application deadline for the EECS Ph.D. program?", "answer": "December", "url": "https://eecs.berkeley.edu/academics/graduate/research-programs/"}
+{"question": "In which semester are EECS PhD students admitted?", "answer": "Fall", "url": "https://eecs.berkeley.edu/academics/graduate/research-programs/"}
+{"question": "How long does the EECS PhD typically take starting with a Bachelor's?", "answer": "5-6 years", "url": "https://eecs.berkeley.edu/academics/graduate/research-programs/"}
+{"question": "How long does the EECS PhD typically take starting with a Master's?", "answer": "3-5 years", "url": "https://eecs.berkeley.edu/academics/graduate/research-programs/"}
+{"question": "How long does the EECS M.S. degree typically take?", "answer": "~2 years", "url": "https://eecs.berkeley.edu/academics/graduate/research-programs/"}
+{"question": "What is the faculty advising email for questions or concerns?", "answer": "faculty-advising@eecs.berkeley.edu", "url": "https://eecs.berkeley.edu/resources/undergrads/faculty-advising/"}
+{"question": "Who won the Eugene L. Lawler Prize in 2024-25?", "answer": "Joel Cisneros | Garv Goswami | Wael Hijazi | Riley Peterlinz", "url": "https://www2.eecs.berkeley.edu/Students/Awards/11"}
+{"question": "Who won the Eugene L. Lawler Prize in 2023-24?", "answer": "Di Bao | Shaan Gill | Nathaniel Iskandar | Rickey McGregor | Haroon Muwonge | Tsadiku Obolu | Mialy Rasetarinera-Rabarison", "url": "https://www2.eecs.berkeley.edu/Students/Awards/11"}
+{"question": "Who was the first winner of the Eugene L. Lawler Prize?", "answer": "Troy Shahoumian", "url": "https://www2.eecs.berkeley.edu/Students/Awards/11"}
+{"question": "What year was the first Eugene L. Lawler Prize awarded?", "answer": "1994-1995", "url": "https://www2.eecs.berkeley.edu/Students/Awards/11"}
+{"question": "How many students won the Eugene L. Lawler Prize in 2020-21?", "answer": "10", "url": "https://www2.eecs.berkeley.edu/Students/Awards/11"}
+{"question": "Who won the Eugene L. Lawler Prize in 2022-23?", "answer": "Alexia Camacho | Grace Jung | Alp Eren Ozdarendeli", "url": "https://www2.eecs.berkeley.edu/Students/Awards/11"}
+{"question": "What does the Eugene L. Lawler Prize honor?", "answer": "computer science undergraduates and graduates who have surmounted unusual difficulties in pursuing a degree with demonstrated academic effort", "url": "https://www2.eecs.berkeley.edu/Students/Awards/11"}
+{"question": "What deadline is there for OGSI/EECS Outstanding TA Award nominations in 2025-26?", "answer": "2/18/26", "url": "https://eecs.berkeley.edu/people/students-2/awards/"}
+{"question": "What is the deadline for all other department award nominations in 2025-26?", "answer": "3/5/26", "url": "https://eecs.berkeley.edu/people/students-2/awards/"}
+{"question": "What is the CS Division Vice Chair for External Relations?", "answer": "Ion Stoica", "url": "https://eecs.berkeley.edu/people/leadership/"}
+{"question": "Who is the Director of External Relations?", "answer": "Bennett Agnew", "url": "https://eecs.berkeley.edu/people/leadership/"}
+{"question": "Who is the Director of Information Technology?", "answer": "Eric Fraser", "url": "https://eecs.berkeley.edu/people/leadership/"}
+{"question": "Who is the Director of Facilities and Capital Projects?", "answer": "Logan Baldini", "url": "https://eecs.berkeley.edu/people/leadership/"}
+{"question": "What is the EE Division Vice Chair for Undergraduate Study?", "answer": "Robert Pilawa-Podgurski", "url": "https://eecs.berkeley.edu/people/leadership/"}
+{"question": "What is Alexei Efros's office number?", "answer": "724 Sutardja Dai Hall", "url": "https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html"}
+{"question": "What is Armando Fox's phone number?", "answer": "510-642-6820", "url": "https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html"}
+{"question": "What is Leon Chua's office number?", "answer": "564 Cory Hall", "url": "https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html"}
+{"question": "What is Leon Chua's email address?", "answer": "chua@eecs.berkeley.edu", "url": "https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html"}
+{"question": "What is James Demmel's office number?", "answer": "564 Soda Hall", "url": "https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html"}
+{"question": "Is the EECS Faculty Advising managed by the Center for Student Affairs?", "answer": "Yes", "url": "https://eecs.berkeley.edu/resources/undergrads/faculty-advising/"}
+{"question": "Do EECS students need to bring paperwork to Faculty Advising sessions since 2017-18?", "answer": "No", "url": "https://eecs.berkeley.edu/resources/undergrads/faculty-advising/"}
+{"question": "What is Nika Haghtalab's email address?", "answer": "nika@berkeley.edu", "url": "https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html"}
+{"question": "What is Angjoo Kanazawa's email address?", "answer": "kanazawa@berkeley.edu", "url": "https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html"}
+{"question": "Where did Angjoo Kanazawa receive her Ph.D.?", "answer": "University of Maryland, College Park", "url": "https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html"}
+{"question": "What is Sergey Levine's email address?", "answer": "svlevine@eecs.berkeley.edu", "url": "https://www2.eecs.berkeley.edu/Faculty/Lists/faculty.html"}
+{"question": "How many GSI hours are required to fulfill the EECS PhD teaching requirement?", "answer": "30", "url": "https://eecs.berkeley.edu/book/phd/teaching-req/"}
+{"question": "How many of the required GSI hours must be in EE or CS undergraduate courses?", "answer": "20", "url": "https://eecs.berkeley.edu/book/phd/teaching-req/"}
+{"question": "What is the minimum number of units a PhD student must enroll in to be considered full-time?", "answer": "12", "url": "https://eecs.berkeley.edu/book/phd/coursework/"}
+{"question": "How many units are required for the PhD major coursework?", "answer": "12+ | 12 or more | at least 12", "url": "https://eecs.berkeley.edu/book/phd/coursework/"}
+{"question": "What minimum GPA is required for PhD major coursework?", "answer": "3.5", "url": "https://eecs.berkeley.edu/book/phd/coursework/"}
+{"question": "What minimum GPA is required for the PhD minor coursework?", "answer": "3", "url": "https://eecs.berkeley.edu/book/phd/coursework/"}
+{"question": "What is the minimum number of units for the outside minor in the EECS PhD program?", "answer": "6", "url": "https://eecs.berkeley.edu/book/phd/coursework/"}
+{"question": "Where must EE PhD students submit their completed student progress review forms?", "answer": "grads-ee@berkeley.edu | 217 Cory Hall", "url": "https://eecs.berkeley.edu/book/phd/review/"}
+{"question": "Where must CS PhD students submit their completed student progress review forms?", "answer": "grads-cs@berkeley.edu | 367 Soda Hall", "url": "https://eecs.berkeley.edu/book/phd/review/"}
+{"question": "Is the PhD student review required for MS students?", "answer": "no", "url": "https://eecs.berkeley.edu/book/phd/review/"}
+{"question": "What pedagogy course must EECS PhD students complete before or concurrent to their first GSI assignment?", "answer": "375", "url": "https://eecs.berkeley.edu/book/phd/teaching-req/"}
+{"question": "What is the email address for the EE graduate staff advisor?", "answer": "grads-ee@berkeley.edu", "url": "https://eecs.berkeley.edu/book/phd/review/"}
+{"question": "How many CS breadth courses must a CS PhD student complete?", "answer": "3", "url": "https://eecs.berkeley.edu/book/phd/coursework/"}
+{"question": "What minimum grade is required for CS PhD breadth courses?", "answer": "B+", "url": "https://eecs.berkeley.edu/book/phd/coursework/"}
+{"question": "What minimum grade is needed to satisfy the EE breadth requirement?", "answer": "A-", "url": "https://eecs.berkeley.edu/book/phd/coursework/"}
+{"question": "What is the full name of the BAIR lab at Berkeley?", "answer": "Berkeley Artificial Intelligence Research Lab", "url": "https://www2.eecs.berkeley.edu/Research/Areas/Centers/"}
+{"question": "What does the acronym BSAC stand for at Berkeley EECS?", "answer": "Berkeley Sensor & Actuator Center", "url": "https://www2.eecs.berkeley.edu/Research/Areas/Centers/"}
+{"question": "What does BLISS stand for at Berkeley EECS?", "answer": "Berkeley Laboratory of Information and System Sciences", "url": "https://www2.eecs.berkeley.edu/Research/Areas/Centers/"}
+{"question": "What is the full name of the CHAI center at Berkeley?", "answer": "Center for Human Compatible Artificial Intelligence", "url": "https://www2.eecs.berkeley.edu/Research/Areas/Centers/"}
+{"question": "What is the full name of the CITRIS center at Berkeley?", "answer": "Center for Information Technology Research in the Interest of Society", "url": "https://www2.eecs.berkeley.edu/Research/Areas/Centers/"}
+{"question": "What does BWRC stand for in Berkeley EECS research centers?", "answer": "Berkeley Wireless Research Center", "url": "https://www2.eecs.berkeley.edu/Research/Areas/Centers/"}
+{"question": "What does BCCI stand for at Berkeley EECS?", "answer": "Berkeley Center for Computational Imaging", "url": "https://www2.eecs.berkeley.edu/Research/Areas/Centers/"}
+{"question": "Which Berkeley EECS lab is directed by Professor Ken Goldberg?", "answer": "AUTOLab | AUTOLAB | Laboratory for Automation Science and Engineering", "url": "https://www2.eecs.berkeley.edu/Research/Areas/Centers/"}
+{"question": "What does ADEPT stand for in the context of Berkeley EECS labs?", "answer": "Agile Design of Efficient Processing Technologies", "url": "https://www2.eecs.berkeley.edu/Research/Areas/Centers/"}
+{"question": "What cleanroom facility is located in Sutardja Dai Hall at Berkeley?", "answer": "Marvell NanoLab", "url": "https://www2.eecs.berkeley.edu/Research/Areas/Centers/"}
+{"question": "What is the full name of the RDI center at Berkeley?", "answer": "Berkeley Center for Responsible, Decentralized Intelligence", "url": "https://www2.eecs.berkeley.edu/Research/Areas/Centers/"}
+{"question": "What is the full name of the BPEC center at Berkeley?", "answer": "Berkeley Power and Energy Center", "url": "https://www2.eecs.berkeley.edu/Research/Areas/Centers/"}
+{"question": "Who received the CS Distinguished Alumni Award in 2025 for co-founding OpenAI?", "answer": "John Schulman", "url": "https://eecs.berkeley.edu/people/alumni/cs-distinguished-alumni/"}
+{"question": "Who received the CS Distinguished Alumni Award in 2025 as Professor Emeritus of CS at Yale?", "answer": "Dana Angluin", "url": "https://eecs.berkeley.edu/people/alumni/cs-distinguished-alumni/"}
+{"question": "Who received the CS Distinguished Alumni Award in 2024 as co-founder of Google Maps?", "answer": "Lars Rasmussen", "url": "https://eecs.berkeley.edu/people/alumni/cs-distinguished-alumni/"}
+{"question": "Who was the 2019 CS Distinguished Alumni Award winner who is a Professor at Stanford and former head of Google Brain?", "answer": "Andrew Ng", "url": "https://eecs.berkeley.edu/people/alumni/cs-distinguished-alumni/"}
+{"question": "Which year did Steve Wozniak receive the CS Distinguished Alumni Award?", "answer": "1998", "url": "https://eecs.berkeley.edu/people/alumni/cs-distinguished-alumni/"}
+{"question": "Who was the 2016 CS Distinguished Alumni Award winner who co-founded VMware?", "answer": "Diane Greene", "url": "https://eecs.berkeley.edu/people/alumni/cs-distinguished-alumni/"}
+{"question": "What year did Eric Schmidt receive the CS Distinguished Alumni Award?", "answer": "1997", "url": "https://eecs.berkeley.edu/people/alumni/cs-distinguished-alumni/"}
+{"question": "Who was the advisor of John Schulman, the 2025 CS Distinguished Alumni Award winner?", "answer": "Pieter Abbeel", "url": "https://eecs.berkeley.edu/people/alumni/cs-distinguished-alumni/"}
+{"question": "Which year did Peter Norvig receive the CS Distinguished Alumni Award?", "answer": "2006", "url": "https://eecs.berkeley.edu/people/alumni/cs-distinguished-alumni/"}
+{"question": "Who received the EE Distinguished Alumni Award in 2025 as co-founder and president of Neuralink?", "answer": "DJ Seo", "url": "https://eecs.berkeley.edu/people/alumni/ee-distinguished-alumni/"}
+{"question": "Who received the EE Distinguished Alumni Award in 2025 as Webster Professor of EECS at MIT?", "answer": "Srinivas Devadas", "url": "https://eecs.berkeley.edu/people/alumni/ee-distinguished-alumni/"}
+{"question": "Who was the 2013 EE Distinguished Alumni Award winner from Stanford University?", "answer": "Nick McKeown", "url": "https://eecs.berkeley.edu/people/alumni/ee-distinguished-alumni/"}
+{"question": "Which year did William Joy receive the EE Distinguished Alumni Award?", "answer": "1992", "url": "https://eecs.berkeley.edu/people/alumni/ee-distinguished-alumni/"}
+{"question": "Who was the 2018 EE Distinguished Alumni Award winner who was a professor at Stanford and former head of Google Brain?", "answer": "Andrea Goldsmith", "url": "https://eecs.berkeley.edu/people/alumni/ee-distinguished-alumni/"}
+{"question": "Who received the 2019 EE Distinguished Alumni Award as Chief Technical Officer of Texas Instruments?", "answer": "Ahmad Bahai", "url": "https://eecs.berkeley.edu/people/alumni/ee-distinguished-alumni/"}
+{"question": "What is the email address for CS graduate student advising?", "answer": "grads-cs@berkeley.edu", "url": "https://eecs.berkeley.edu/people/staff/student-affairs/"}
+{"question": "What room in Cory Hall is the EE PhD Advisor located in?", "answer": "217", "url": "https://eecs.berkeley.edu/people/staff/student-affairs/"}
+{"question": "What is the room number of the CS PhD Advisor in Soda Hall?", "answer": "367", "url": "https://eecs.berkeley.edu/people/staff/student-affairs/"}
+{"question": "What is the name of the Director of Graduate Affairs for EECS?", "answer": "Judy Smithson", "url": "https://eecs.berkeley.edu/people/staff/student-affairs/"}
+{"question": "What is the name of the Director of Undergraduate Affairs for EECS?", "answer": "Michelle Fong", "url": "https://eecs.berkeley.edu/people/staff/student-affairs/"}
+{"question": "What is the phone number for the Director of Graduate Affairs at EECS?", "answer": "(510) 643-8347 | 510-643-8347 | 5106438347", "url": "https://eecs.berkeley.edu/people/staff/student-affairs/"}
+{"question": "What is the email address for the EE Graduate Admissions coordinator?", "answer": "hernan@eecs.berkeley.edu", "url": "https://eecs.berkeley.edu/people/staff/student-affairs/"}
+{"question": "What is the name of the CS Graduate Admissions Coordinator?", "answer": "Glenna Anton", "url": "https://eecs.berkeley.edu/people/staff/student-affairs/"}
+{"question": "What is the email address for EECS undergraduate student advising?", "answer": "eecs-advising@berkeley.edu", "url": "https://eecs.berkeley.edu/people/staff/student-affairs/"}
+{"question": "What is the email address for the CS Enrollment and Scheduling Manager?", "answer": "cs-enrollments@eecs.berkeley.edu", "url": "https://eecs.berkeley.edu/people/staff/student-affairs/"}
+{"question": "What is the name of the CS Enrollment and Scheduling Manager?", "answer": "Savannah Scarlett", "url": "https://eecs.berkeley.edu/people/staff/student-affairs/"}
+{"question": "What is the email for prospective undergraduate students interested in EECS or LS CS?", "answer": "prospective-ugradstudents@eecs.berkeley.edu", "url": "https://eecs.berkeley.edu/people/staff/student-affairs/"}
+{"question": "What is the name of the CS PhD Advisor at Soda Hall?", "answer": "Carissa Caloud", "url": "https://eecs.berkeley.edu/people/staff/student-affairs/"}
+{"question": "What dual-degree program allows EECS students to earn both a B.S. in EECS and a B.S. in Business Administration?", "answer": "M.E.T. | Management, Entrepreneurship, & Technology", "url": "https://eecs.berkeley.edu/academics/undergraduate/eecs-bs/"}
+{"question": "What honor society leads department tours for prospective EECS students?", "answer": "Eta Kappa Nu", "url": "https://eecs.berkeley.edu/academics/undergraduate/eecs-bs/"}
+{"question": "What email address handles diversity and outreach questions for EECS?", "answer": "diversity@eecs.berkeley.edu", "url": "https://eecs.berkeley.edu/people/staff/student-affairs/"}
+{"question": "What is the phone number of the Director of Undergraduate Affairs at EECS?", "answer": "(510) 642-7214 | 510-642-7214 | 5106427214", "url": "https://eecs.berkeley.edu/people/staff/student-affairs/"}
+{"question": "What college does the EECS B.S. degree belong to at UC Berkeley?", "answer": "College of Engineering", "url": "https://eecs.berkeley.edu/academics/undergraduate/eecs-bs/"}
