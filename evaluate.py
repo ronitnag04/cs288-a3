@@ -10,7 +10,6 @@ import argparse
 import json
 import os
 import sys
-import subprocess
 
 
 def normalize_answer(s):
@@ -37,7 +36,7 @@ def metrics(prediction, ground_truth):
     common = Counter(prediction_tokens) & Counter(ground_truth_tokens)
     num_same = sum(common.values())
     if num_same == 0:
-        return 0
+        return 0, 0, 0
     precision = 1.0 * num_same / len(prediction_tokens)
     recall = 1.0 * num_same / len(ground_truth_tokens)
     f1 = (2 * precision * recall) / (precision + recall)
@@ -46,7 +45,10 @@ def metrics(prediction, ground_truth):
 
 def evaluate(questions_file, predictions_file):
     with open(questions_file, 'r') as f:
-        questions = json.load(f)
+        questions = []
+        for line in f:
+            question = json.loads(line.strip())
+            questions.append(question)
     with open(predictions_file, 'r') as f:
         predictions = [line.strip() for line in f]
 
@@ -70,27 +72,13 @@ def evaluate(questions_file, predictions_file):
 
 
 if __name__ == '__main__':
-    questions_file = 'questions/test_questions.txt'
-    predictions_file = 'predictions/test_predictions.txt'
-
-    os.makedirs(os.path.dirname(predictions_file), exist_ok=True)
-
-    # Call the run.sh bash script
-    result = subprocess.run(['bash', 'run.sh', questions_file, predictions_file], 
-                          capture_output=True, text=True)
-    
-    # Print the output
-    if result.stdout:
-        print(result.stdout)
-    if result.stderr:
-        print(result.stderr, file=sys.stderr)
-
-    if result.returncode != 0:
-        print(f"Error: {result.stderr}", file=sys.stderr)
-        sys.exit(result.returncode)
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--questions_file", type=str, default='questions/test_questions.txt')
+    parser.add_argument("--predictions_file", type=str, default='predictions/test_predictions.txt')
+    args = parser.parse_args()
 
     # Evaluate the predictions
-    results = evaluate(questions_file, predictions_file)
+    results = evaluate(args.questions_file, args.predictions_file)
     print(f"Average F1: {results['average_f1']}")
     print(f"Average Precision: {results['average_precision']}")
     print(f"Average Recall: {results['average_recall']}")
