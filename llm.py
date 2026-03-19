@@ -10,7 +10,6 @@ ALLOWED_MODELS = [
     "allenai/olmo-3-7b-instruct",
     "mistralai/mistral-7b-instruct"
     ]
-    
 DEFAULT_MODEL = ALLOWED_MODELS[0]
 
 
