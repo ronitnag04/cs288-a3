@@ -5,6 +5,7 @@ import sys
 from typing import Callable, Optional
 
 import embeddings
+from tqdm import tqdm
 
 
 def _get_llm_callable() -> Callable[..., str]:
@@ -91,6 +92,8 @@ def _read_questions(path: str) -> list[str]:
 
 
 def _write_answers(path: str, answers: list[str]) -> None:
+    if not os.path.exists(os.path.dirname(path)):
+        os.makedirs(os.path.dirname(path))
     with open(path, "w", encoding="utf-8") as f:
         for a in answers:
             f.write(_postprocess_answer(a).replace("\n", " ") + "\n")
@@ -120,16 +123,9 @@ def main(argv: list[str]) -> int:
     model = args.llm_model.strip() or None
 
     questions = _read_questions(args.questions_path)
-    answers = [
-        answer_question(
-            q,
-            llm_call=llm_call,
-            top_k=args.top_k,
-            timeout_s=args.timeout_s,
-            model=model,
-        )
-        for q in questions
-    ]
+    answers: list[str] = []
+    for q in tqdm(questions, desc="Answering Questions", unit="q",):
+        answers.append(answer_question( q, llm_call, args.top_k, args.timeout_s, model))
 
     _write_answers(args.predictions_out_path, answers)
     return 0

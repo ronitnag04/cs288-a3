@@ -14,7 +14,7 @@ import numpy as np
 import faiss
 from sentence_transformers import SentenceTransformer
 
-EMBEDDING_MODEL = os.environ.get("EMBEDDING_MODEL", "sentence-transformers/all-MiniLM-L6-v2")
+EMBEDDING_MODEL = os.environ.get("EMBEDDING_MODEL", "google/embeddinggemma-300m")
 CLEANED_TEXT_DIR = os.environ.get("CLEANED_TEXT_DIR", os.path.join("html", "cleaned_text"))
 
 MAX_CHARS = 900
@@ -27,10 +27,7 @@ DEFAULT_INDEX_NAME = "embeddings_only_index"
 CACHE_META_PATH = os.path.join(CACHE_DIR, f"{DEFAULT_INDEX_NAME}.pkl")
 CACHE_FAISS_PATH = os.path.join(CACHE_DIR, f"{DEFAULT_INDEX_NAME}.faiss")
 
-
-# In-memory chunk metadata aligned with FAISS row ids:
-# list of (filename, chunk_text)
-_chunks: list[tuple[str, str]] = []
+_chunks: list[tuple[str, str]] = [] # list of (filename, chunk_text)
 _model: Optional[SentenceTransformer] = None
 _index: Optional[faiss.Index] = None
 
@@ -38,9 +35,13 @@ _index: Optional[faiss.Index] = None
 def _get_model() -> SentenceTransformer:
     global _model
     if _model is None:
-        # Autograder-style runs have no network access. Require that the model
-        # already exists in the local HuggingFace cache (download beforehand).
-        _model = SentenceTransformer(EMBEDDING_MODEL, local_files_only=True)
+        try:
+            _model = SentenceTransformer(EMBEDDING_MODEL, local_files_only=True)   
+            print(f"Loaded embedding model {EMBEDDING_MODEL} from local cache")
+        except Exception as e:
+            print(f"Embedding model {EMBEDDING_MODEL} not found locally, downloading...")
+            _model = SentenceTransformer(EMBEDDING_MODEL)
+            print(f"Downloaded embedding model {EMBEDDING_MODEL} to local cache")
     return _model
 
 
@@ -117,8 +118,7 @@ def _load_index(index_dir: str, index_name: str, cache_key: dict) -> bool:
     except Exception:
         return False
 
-    raw_chunks = obj.get("chunks", [])
-    # Expected format: list[(filename, text)]
+    raw_chunks = obj.get("chunks", []) # Expected format: list[(filename, text)]
     if not isinstance(raw_chunks, list):
         return False
     if raw_chunks and not (isinstance(raw_chunks[0], (tuple, list)) and len(raw_chunks[0]) == 2):
@@ -149,9 +149,7 @@ def build_index(
 ) -> None:
     """
     OFFLINE STEP (run once): chunk + embed all documents and write FAISS index + metadata.
-
-    Runtime evaluation should NOT rebuild this; it should call `load_index(...)` once and then
-    `search(...)` for each question (which only embeds the question).
+    Runtime search should call `load_index(...)` once and then `search(...)` for each query.
     """
     global _chunks, _index
     if not os.path.isdir(corpus_dir):
@@ -270,8 +268,6 @@ def load_index(
 def search(query, top_k=5):
     global _index
     if not _chunks or _index is None:
-        # For evaluation, prefer calling `load_index()` once in startup.
-        # This fallback keeps notebook/dev usage convenient.
         build_index()
     if not _chunks or _index is None:
         return []

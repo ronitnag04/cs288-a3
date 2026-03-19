@@ -18,21 +18,8 @@ fi
 
 PREDICTIONS_DIR=$(dirname "$PREDICTIONS_FILE")
 if [ ! -d "$PREDICTIONS_DIR" ]; then
-    echo "Error: Predictions directory '$PREDICTIONS_DIR' does not exist"
-    exit 1
+    echo "Creating predictions directory '$PREDICTIONS_DIR'"
+    mkdir -p "$PREDICTIONS_DIR"
 fi
-
-MODEL_NAME="${EMBEDDING_MODEL:-sentence-transformers/all-MiniLM-L6-v2}"
-python3 -c "
-from sentence_transformers import SentenceTransformer
-try:
-    SentenceTransformer('${MODEL_NAME}', local_files_only=True)
-    print('Embedding model ${MODEL_NAME} found in local cache')
-except:
-    # If not found locally, download it
-    print('Embedding model ${MODEL_NAME} not found locally, downloading...')
-    SentenceTransformer('${MODEL_NAME}')
-    print('Embedding model ${MODEL_NAME} downloaded')
-"
 
 python3 main.py "$QUESTIONS_FILE" "$PREDICTIONS_FILE"
