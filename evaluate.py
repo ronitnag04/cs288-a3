@@ -73,12 +73,12 @@ def evaluate(questions_file, predictions_file):
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
-    parser.add_argument("--questions_file", type=str, default='questions/test_questions.txt')
-    parser.add_argument("--predictions_file", type=str, default='predictions/test_predictions.txt')
+    parser.add_argument("-q", "--questions", type=str, default='questions/test_questions.txt')
+    parser.add_argument("-p", "--predictions", type=str, default='predictions/test_predictions.txt')
     args = parser.parse_args()
 
     # Evaluate the predictions
-    results = evaluate(args.questions_file, args.predictions_file)
+    results = evaluate(args.questions, args.predictions)
     print(f"Average F1: {results['average_f1']}")
     print(f"Average Precision: {results['average_precision']}")
     print(f"Average Recall: {results['average_recall']}")
