@@ -108,7 +108,8 @@ def _load_index(index_dir: str, index_name: str, cache_key: dict) -> bool:
     except Exception:
         return False
 
-    if obj.get("cache_key") != cache_key:
+    # If cache_key is None, skip validation (for when html not sent in submission)
+    if cache_key is not None and obj.get("cache_key") != cache_key:
         return False
 
     try:
@@ -245,17 +246,19 @@ def load_index(
     """
     RUNTIME STEP: Load index + metadata. This must be called before evaluation queries.
     """
-    files = [f for f in os.listdir(corpus_dir) if f.endswith(".txt") and "_pdf" not in f]
-    files.sort()
-    if max_files is not None:
-        files = files[:max_files]
-    cache_key = {
-        "embedding_model": EMBEDDING_MODEL,
-        "max_chars": max_chars,
-        "overlap": overlap,
-        "max_files": max_files,
-        "files": {fn: _sha256_file(os.path.join(corpus_dir, fn)) for fn in files},
-    }
+    cache_key = None
+    if os.path.isdir(corpus_dir):
+        files = [f for f in os.listdir(corpus_dir) if f.endswith(".txt") and "_pdf" not in f]
+        files.sort()
+        if max_files is not None:
+            files = files[:max_files]
+        cache_key = {
+            "embedding_model": EMBEDDING_MODEL,
+            "max_chars": max_chars,
+            "overlap": overlap,
+            "max_files": max_files,
+            "files": {fn: _sha256_file(os.path.join(corpus_dir, fn)) for fn in files},
+        }
     ok = _load_index(index_dir=index_dir, index_name=index_name, cache_key=cache_key)
     if not ok:
         raise RuntimeError(
