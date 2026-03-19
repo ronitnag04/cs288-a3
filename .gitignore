@@ -2,4 +2,5 @@
 
 .env
 
-html/
+html/cleaned_text/
+.ipynb_checkpoints/
