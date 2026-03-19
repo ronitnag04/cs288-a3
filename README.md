@@ -55,6 +55,11 @@ pip install awscli
 aws configure
 ```
 
+Set this environment variable to make `main.py` use `llm_local.py` for LLM API calls instead of `llm.py`.
+```bash
+LLM_BACKEND=bedrock
+```
+
 ### 3. Data Collection
 If scraping and cleaning is already complete, you can download the files from the [shared gdrive folder](https://drive.google.com/drive/folders/1s-L0gxE-MGne73tlFe1MraiguHOHJkJi?usp=drive_link). Unzip the cleaned_text.zip and make sure the `.txt` files are located at `html/cleaned_text/*.txt`.
 
