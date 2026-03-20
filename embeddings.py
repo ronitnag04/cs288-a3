@@ -26,6 +26,7 @@ CACHE_DIR = "embeddings_cache"
 DEFAULT_INDEX_NAME = "embeddings_only_index"
 CACHE_META_PATH = os.path.join(CACHE_DIR, f"{DEFAULT_INDEX_NAME}.pkl")
 CACHE_FAISS_PATH = os.path.join(CACHE_DIR, f"{DEFAULT_INDEX_NAME}.faiss")
+MAX_INDEX_PART_BYTES = int(os.environ.get("INDEX_PART_MAX_BYTES", str(100_000_000 - 1)))  # <10MB decimal safety
 
 _chunks: list[tuple[str, str]] = [] # list of (filename, chunk_text)
 _model: Optional[SentenceTransformer] = None
@@ -95,37 +96,101 @@ def _chunk_text(text, max_chars=MAX_CHARS, overlap=OVERLAP):
     return chunks
 
 
-def _load_index(index_dir: str, index_name: str, cache_key: dict) -> bool:
+def _load_index(index_dir: str, index_name: str, cache_key: dict) -> None:
     global _chunks, _index
     meta_path = os.path.join(index_dir, f"{index_name}.pkl")
     faiss_path = os.path.join(index_dir, f"{index_name}.faiss")
 
-    if not (os.path.exists(meta_path) and os.path.exists(faiss_path)):
-        return False
+    # Backward compatible: prefer single-file artifacts if present; otherwise
+    # reconstruct from split parts created by newer versions.
+    has_single = os.path.exists(meta_path) and os.path.exists(faiss_path)
+    faiss_parts = _list_part_paths(index_dir=index_dir, index_name=index_name, artifact="faiss")
+    pkl_parts = _list_part_paths(index_dir=index_dir, index_name=index_name, artifact="pkl")
+    has_parts = bool(faiss_parts) and bool(pkl_parts)
+    should_resave_legacy = has_single and not has_parts
+    if not (has_single or has_parts):
+        raise FileNotFoundError(
+            f"Index artifacts not found in '{index_dir}' for index_name='{index_name}'. "
+            f"Expected either legacy '{index_name}.faiss' + '{index_name}.pkl' or split parts."
+        )
 
     try:
-        with open(meta_path, "rb") as f:
-            obj = pickle.load(f)
-    except Exception:
-        return False
+        if has_single:
+            with open(meta_path, "rb") as f:
+                obj = pickle.load(f)
+        else:
+            tmp_meta_path = os.path.join(index_dir, f"{index_name}.pkl.recon.tmp.pkl")
+            try:
+                _stitch_parts_to_file(index_dir=index_dir, index_name=index_name, artifact="pkl", out_path=tmp_meta_path)
+                with open(tmp_meta_path, "rb") as f:
+                    obj = pickle.load(f)
+            finally:
+                try:
+                    os.remove(tmp_meta_path)
+                except OSError:
+                    pass
+    except Exception as e:
+        raise RuntimeError(f"Failed to load index metadata for '{index_name}' from cache.") from e
 
     # If cache_key is None, skip validation (for when html not sent in submission)
     if cache_key is not None and obj.get("cache_key") != cache_key:
-        return False
+        raise RuntimeError(f"Index cache key mismatch for '{index_name}'. Cache needs rebuild.")
 
     try:
-        _index = faiss.read_index(faiss_path)
-    except Exception:
-        return False
+        if has_single:
+            _index = faiss.read_index(faiss_path)
+        else:
+            tmp_faiss_path = os.path.join(index_dir, f"{index_name}.faiss.recon.tmp.faiss")
+            try:
+                _stitch_parts_to_file(index_dir=index_dir, index_name=index_name, artifact="faiss", out_path=tmp_faiss_path)
+                _index = faiss.read_index(tmp_faiss_path)
+            finally:
+                try:
+                    os.remove(tmp_faiss_path)
+                except OSError:
+                    pass
+    except Exception as e:
+        raise RuntimeError(f"Failed to load FAISS index for '{index_name}' from cache.") from e
 
     raw_chunks = obj.get("chunks", []) # Expected format: list[(filename, text)]
     if not isinstance(raw_chunks, list):
-        return False
+        raise RuntimeError(f"Invalid cache metadata format for '{index_name}': chunks must be a list.")
     if raw_chunks and not (isinstance(raw_chunks[0], (tuple, list)) and len(raw_chunks[0]) == 2):
-        return False
+        raise RuntimeError(f"Invalid cache metadata format for '{index_name}': chunk entries must be pairs.")
     _chunks = [(str(fn), str(txt)) for fn, txt in raw_chunks]
 
-    return True
+    if should_resave_legacy:
+        print(
+            "Detected legacy monolithic embeddings cache; splitting into <100MB parts for upload...",
+            flush=True,
+        )
+        try:
+            _split_file_to_parts(
+                in_path=faiss_path,
+                index_dir=index_dir,
+                index_name=index_name,
+                artifact="faiss",
+                max_bytes=MAX_INDEX_PART_BYTES,
+            )
+            _split_file_to_parts(
+                in_path=meta_path,
+                index_dir=index_dir,
+                index_name=index_name,
+                artifact="pkl",
+                max_bytes=MAX_INDEX_PART_BYTES,
+            )
+
+            # Remove legacy monolithic artifacts to keep submission size small.
+            for p in [faiss_path, meta_path]:
+                try:
+                    os.remove(p)
+                except OSError:
+                    pass
+
+            print("Legacy cache split/resaved into parts.", flush=True)
+        except Exception as e:
+            # Loading still succeeded; splitting is just a cache-format upgrade.
+            print(f"Warning: failed to split legacy cache into parts: {e}", flush=True)
 
 
 def _save_index(index_dir: str, index_name: str, cache_key: dict):
@@ -133,9 +198,124 @@ def _save_index(index_dir: str, index_name: str, cache_key: dict):
     os.makedirs(index_dir, exist_ok=True)
     if _index is None:
         raise RuntimeError("Index is not built; cannot save cache.")
-    faiss.write_index(_index, os.path.join(index_dir, f"{index_name}.faiss"))
-    with open(os.path.join(index_dir, f"{index_name}.pkl"), "wb") as f:
-        pickle.dump({"cache_key": cache_key, "chunks": _chunks}, f)
+
+    # Write full artifacts to temp files, then split them into <100MB parts.
+    tmp_faiss_path = os.path.join(index_dir, f"{index_name}.faiss.save.tmp.faiss")
+    tmp_pkl_path = os.path.join(index_dir, f"{index_name}.pkl.save.tmp.pkl")
+    try:
+        faiss.write_index(_index, tmp_faiss_path)
+        _split_file_to_parts(
+            in_path=tmp_faiss_path,
+            index_dir=index_dir,
+            index_name=index_name,
+            artifact="faiss",
+            max_bytes=MAX_INDEX_PART_BYTES,
+        )
+
+        with open(tmp_pkl_path, "wb") as f:
+            pickle.dump({"cache_key": cache_key, "chunks": _chunks}, f)
+        _split_file_to_parts(
+            in_path=tmp_pkl_path,
+            index_dir=index_dir,
+            index_name=index_name,
+            artifact="pkl",
+            max_bytes=MAX_INDEX_PART_BYTES,
+        )
+
+        # Remove legacy monolithic artifacts (to ensure submission upload stays small).
+        legacy_faiss_path = os.path.join(index_dir, f"{index_name}.faiss")
+        legacy_pkl_path = os.path.join(index_dir, f"{index_name}.pkl")
+        for p in [legacy_faiss_path, legacy_pkl_path]:
+            try:
+                os.remove(p)
+            except OSError:
+                pass
+    finally:
+        for p in [tmp_faiss_path, tmp_pkl_path]:
+            try:
+                os.remove(p)
+            except OSError:
+                pass
+
+
+def _list_part_paths(index_dir: str, index_name: str, artifact: str) -> list[str]:
+    """
+    List part files matching:
+      {index_name}.{artifact}.partNNN
+    and return them sorted by part number.
+    """
+    prefix = f"{index_name}.{artifact}.part"
+    parts: list[tuple[int, str]] = []
+    try:
+        files = os.listdir(index_dir)
+    except FileNotFoundError:
+        return []
+
+    for fn in files:
+        if not fn.startswith(prefix):
+            continue
+        part_str = fn[len(prefix) :]
+        if not part_str.isdigit():
+            continue
+        parts.append((int(part_str), os.path.join(index_dir, fn)))
+
+    parts.sort(key=lambda x: x[0])
+    return [p for _, p in parts]
+
+
+def _split_file_to_parts(
+    in_path: str,
+    index_dir: str,
+    index_name: str,
+    artifact: str,
+    max_bytes: int,
+) -> None:
+    """
+    Split `in_path` into numbered parts, each <= `max_bytes`.
+
+    Part files are:
+      {index_name}.{artifact}.part000, part001, ...
+    """
+    # Clean old parts (prevents mixing parts from different index builds).
+    for part_path in _list_part_paths(index_dir=index_dir, index_name=index_name, artifact=artifact):
+        try:
+            os.remove(part_path)
+        except OSError:
+            pass
+
+    size = os.path.getsize(in_path)
+    if size == 0:
+        return
+
+    num_parts = (size + max_bytes - 1) // max_bytes
+    with open(in_path, "rb") as src:
+        for part_idx in range(num_parts):
+            part_path = os.path.join(index_dir, f"{index_name}.{artifact}.part{part_idx:03d}")
+            remaining = min(max_bytes, size - (part_idx * max_bytes))
+            with open(part_path, "wb") as dst:
+                while remaining > 0:
+                    chunk = src.read(min(1024 * 1024, remaining))
+                    if not chunk:
+                        break
+                    dst.write(chunk)
+                    remaining -= len(chunk)
+
+
+def _stitch_parts_to_file(index_dir: str, index_name: str, artifact: str, out_path: str) -> None:
+    part_paths = _list_part_paths(index_dir=index_dir, index_name=index_name, artifact=artifact)
+    if not part_paths:
+        raise FileNotFoundError(
+            f"No split parts found for index '{index_name}' artifact '{artifact}' in '{index_dir}'."
+        )
+
+    with open(out_path, "wb") as out_f:
+        for part_path in part_paths:
+            with open(part_path, "rb") as in_f:
+                while True:
+                    chunk = in_f.read(1024 * 1024)
+                    if not chunk:
+                        break
+                    out_f.write(chunk)
 
 
 def build_index(
@@ -171,9 +351,15 @@ def build_index(
         "files": {fn: _sha256_file(os.path.join(corpus_dir, fn)) for fn in files},
     }
 
-    if _load_index(index_dir=index_dir, index_name=index_name, cache_key=cache_key):
-        print("Loaded dense FAISS index from cache.")
-        return
+    try:
+        if _load_index(index_dir=index_dir, index_name=index_name, cache_key=cache_key):
+            print("Loaded dense FAISS index from cache.")
+            return
+    except FileNotFoundError:
+        pass
+    except Exception as e:
+        # Any cache load failure should trigger a rebuild.
+        print(f"Cache load failed ({e}); rebuilding dense FAISS index...", flush=True)
 
     print(f"Building dense FAISS index from {len(files)} files...", flush=True)
 
@@ -257,12 +443,8 @@ def load_index(
             "max_files": max_files,
             "files": {fn: _sha256_file(os.path.join(corpus_dir, fn)) for fn in files},
         }
-    ok = _load_index(index_dir=index_dir, index_name=index_name, cache_key=cache_key)
-    if not ok:
-        raise RuntimeError(
-            f"Index not found or cache key mismatch. Build it first:\n"
-            f"  python3 embeddings.py build --corpus_dir {corpus_dir}"
-        )
+    _load_index(index_dir=index_dir, index_name=index_name, cache_key=cache_key)
+    print("Loaded document embeddings index.")
 
 
 def search(query, top_k=5):
