@@ -52,33 +52,69 @@ def evaluate(questions_file, predictions_file):
     with open(predictions_file, 'r') as f:
         predictions = [line.strip() for line in f]
 
-    sum_f1 = 0
-    sum_precision = 0
-    sum_recall = 0
-    total = len(questions)
+    prediction_metrics = []
 
     for question, prediction in zip(questions, predictions):
         ground_truth = question['answer']
+        question_text = question['question']
+        answer_url = question['url']
         f1, precision, recall = metrics(prediction, ground_truth)
-        sum_f1 += f1
-        sum_precision += precision
-        sum_recall += recall
+        d = {
+            'f1': f1,
+            'precision': precision,
+            'recall': recall,
+            'prediction': prediction,
+            'ground_truth': ground_truth,
+            'question': question_text,
+            'answer_url': answer_url
+        }
+        prediction_metrics.append(d)
 
-    average_f1 = sum_f1 / total
-    average_precision = sum_precision / total
-    average_recall = sum_recall / total
+    return prediction_metrics
 
-    return {'average_f1': average_f1, 'average_precision': average_precision, 'average_recall': average_recall}
+
+def get_average_metrics(prediction_metrics):
+    average_f1 = sum(metric['f1'] for metric in prediction_metrics) / len(prediction_metrics)
+    average_precision = sum(metric['precision'] for metric in prediction_metrics) / len(prediction_metrics)
+    average_recall = sum(metric['recall'] for metric in prediction_metrics) / len(prediction_metrics)
+    return average_f1, average_precision, average_recall
+
+
+def log_mistakes(prediction_metrics, log_path):
+    with open(log_path, 'w') as f:
+        for i, metric in enumerate(prediction_metrics):
+            if metric['f1'] < 1.0:
+                question_idx = i + 1
+                f1, precision, recall = metric['f1'], metric['precision'], metric['recall']
+                ground_truth = metric['ground_truth']
+                prediction = metric['prediction']
+                question = metric['question']
+                answer_url = metric['answer_url']
+
+                f.write(f"=== Question {question_idx} ===\n")
+                f.write(f"Question: {question}\n")
+                f.write(f"Answer URL: {answer_url}\n")
+                f.write(f"Ground Truth: {ground_truth}\n")
+                f.write(f"Prediction: {prediction}\n")
+                f.write(f"F1: {f1} Precision: {precision} Recall: {recall}\n")
+                f.write("\n")
+                
 
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
     parser.add_argument("-q", "--questions", type=str, default='questions/test_questions.txt')
     parser.add_argument("-p", "--predictions", type=str, default='predictions/test_predictions.txt')
+    parser.add_argument("-l", "--log-mistakes", action='store_true', help='Log mistakes')
     args = parser.parse_args()
 
     # Evaluate the predictions
-    results = evaluate(args.questions, args.predictions)
-    print(f"Average F1: {results['average_f1']}")
-    print(f"Average Precision: {results['average_precision']}")
-    print(f"Average Recall: {results['average_recall']}")
+    prediction_metrics = evaluate(args.questions, args.predictions)
+    average_f1, average_precision, average_recall = get_average_metrics(prediction_metrics)
+    print(f"Average F1: {average_f1}")
+    print(f"Average Precision: {average_precision}")
+    print(f"Average Recall: {average_recall}")
+    if args.log_mistakes:
+        log_path = os.path.splitext(args.predictions)[0] + '_mistakes.log'
+        log_mistakes(prediction_metrics, log_path)
+        print(f"Logged mistakes to {log_path}")
