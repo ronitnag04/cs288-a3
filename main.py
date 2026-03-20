@@ -44,16 +44,16 @@ def _format_prompt(question: str, hits: list[tuple[str, str]]) -> tuple[str, str
 
 def _postprocess_answer(s: str) -> str:
     if s is None:
-        return "Unknown"
+        return "No Answer"
     s = str(s).strip()
     if not s:
-        return "Unknown"
+        return "No Stripped Answer"
     # Force single line for Gradescope format.
     s = s.splitlines()[0].strip()
     # Strip surrounding quotes.
     if len(s) >= 2 and ((s[0] == s[-1] == '"') or (s[0] == s[-1] == "'")):
         s = s[1:-1].strip()
-    return s if s else "Unknown"
+    return s if s else "No Stripped Unquoted Answer"
 
 
 def answer_question(
@@ -83,7 +83,7 @@ def answer_question(
             fut = ex.submit(_call)
             return _postprocess_answer(fut.result(timeout=timeout_s + 2.0))
     except Exception:
-        return "Unknown"
+        return "Error"
 
 
 def _read_questions(path: str) -> list[str]:
@@ -105,7 +105,7 @@ def main(argv: list[str]) -> int:
     p.add_argument("predictions_out_path")
     p.add_argument("--index_dir", default="embeddings_cache")
     p.add_argument("--index_name", default="embeddings_only_index")
-    p.add_argument("--corpus_dir", default=os.path.join("html", "cleaned_text"))
+    p.add_argument("--corpus_path", default=os.path.join("html", "eecs_text_bs_rewritten.jsonl"))
     p.add_argument("--top_k", type=int, default=int(os.environ.get("TOP_K", "5")))
     p.add_argument("--timeout_s", type=float, default=float(os.environ.get("TIMEOUT_S", "20")))
     p.add_argument("--llm_model", default=os.environ.get("LLM_MODEL", ""))
@@ -113,7 +113,7 @@ def main(argv: list[str]) -> int:
 
     # Load retrieval index once (offline artifacts).
     embeddings.load_index(
-        corpus_dir=args.corpus_dir,
+        corpus_path=args.corpus_path,
         index_dir=args.index_dir,
         index_name=args.index_name,
         max_files=None,

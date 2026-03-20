@@ -3,6 +3,7 @@ import re
 import pickle
 import hashlib
 import argparse
+import json
 from typing import Optional
 
 # Avoid occasional crashes/oversubscription on CPU-only environments.
@@ -14,8 +15,9 @@ import numpy as np
 import faiss
 from sentence_transformers import SentenceTransformer
 
-EMBEDDING_MODEL = os.environ.get("EMBEDDING_MODEL", "google/embeddinggemma-300m")
-CLEANED_TEXT_DIR = os.environ.get("CLEANED_TEXT_DIR", os.path.join("html", "cleaned_text"))
+EMBEDDING_MODEL = os.environ.get("EMBEDDING_MODEL", "sentence-transformers/all-MiniLM-L6-v2")
+# CORPUS_PATH = os.environ.get("CORPUS_PATH", os.path.join("html", "cleaned_text"))
+CORPUS_PATH = os.environ.get("CORPUS_PATH", os.path.join("html", "eecs_text_bs_rewritten.jsonl"))
 
 MAX_CHARS = 900
 OVERLAP = 150
@@ -74,6 +76,75 @@ def _sha256_file(path):
         for chunk in iter(lambda: f.read(1024 * 1024), b""):
             h.update(chunk)
     return h.hexdigest()
+
+
+def _is_jsonl_corpus(corpus_path: str) -> bool:
+    return os.path.isfile(corpus_path) and corpus_path.lower().endswith(".jsonl")
+
+
+def _iter_corpus_docs(corpus_path: str, max_files: Optional[int]):
+    """
+    Yield (doc_id, text) pairs from either:
+    - a directory of cleaned .txt files, or
+    - a .jsonl file with one document per line.
+    """
+    if _is_jsonl_corpus(corpus_path):
+        emitted = 0
+        with open(corpus_path, "r", encoding="utf-8", errors="ignore") as f:
+            for line_no, line in enumerate(f, 1):
+                if max_files is not None and emitted >= max_files:
+                    break
+                line = line.strip()
+                if not line:
+                    continue
+                try:
+                    obj = json.loads(line)
+                except Exception:
+                    continue
+                text = str(obj.get("text", "")).strip()
+                if not text:
+                    continue
+                url = str(obj.get("url", "")).strip()
+                doc_id = url if url else f"{os.path.basename(corpus_path)}:{line_no}"
+                yield (doc_id, text)
+                emitted += 1
+        return
+
+    files = [f for f in os.listdir(corpus_path) if f.endswith(".txt") and "_pdf" not in f]
+    files.sort()
+    if max_files is not None:
+        files = files[:max_files]
+    for fn in files:
+        path = os.path.join(corpus_path, fn)
+        with open(path, "r", encoding="utf-8", errors="ignore") as f:
+            yield (fn, f.read())
+
+
+def _build_cache_key(corpus_path: str, max_files: Optional[int], max_chars: int, overlap: int) -> dict:
+    if _is_jsonl_corpus(corpus_path):
+        return {
+            "embedding_model": EMBEDDING_MODEL,
+            "max_chars": max_chars,
+            "overlap": overlap,
+            "max_files": max_files,
+            "corpus_type": "jsonl",
+            "corpus_path": corpus_path,
+            "corpus_sha256": _sha256_file(corpus_path),
+        }
+
+    files = [f for f in os.listdir(corpus_path) if f.endswith(".txt") and "_pdf" not in f]
+    files.sort()
+    if max_files is not None:
+        files = files[:max_files]
+    return {
+        "embedding_model": EMBEDDING_MODEL,
+        "max_chars": max_chars,
+        "overlap": overlap,
+        "max_files": max_files,
+        "corpus_type": "txt_dir",
+        "corpus_path": corpus_path,
+        "files": {fn: _sha256_file(os.path.join(corpus_path, fn)) for fn in files},
+    }
 
 
 def _chunk_text(text, max_chars=MAX_CHARS, overlap=OVERLAP):
@@ -139,7 +210,7 @@ def _save_index(index_dir: str, index_name: str, cache_key: dict):
 
 
 def build_index(
-    corpus_dir: str = CLEANED_TEXT_DIR,
+    corpus_path: str = CORPUS_PATH,
     index_dir: str = CACHE_DIR,
     index_name: str = DEFAULT_INDEX_NAME,
     max_files: Optional[int] = MAX_FILES,
@@ -152,30 +223,42 @@ def build_index(
     Runtime search should call `load_index(...)` once and then `search(...)` for each query.
     """
     global _chunks, _index
-    if not os.path.isdir(corpus_dir):
-        print(f"Warning: '{corpus_dir}' directory not found, index is empty.")
+    if not (os.path.isdir(corpus_path) or _is_jsonl_corpus(corpus_path)):
+        print(f"Warning: corpus '{corpus_path}' not found, index is empty.")
         _chunks = []
         _index = None
         return
 
-    files = [f for f in os.listdir(corpus_dir) if f.endswith(".txt") and "_pdf" not in f]
-    files.sort()
-    if max_files is not None:
-        files = files[:max_files]
+    corpus_type = "JSONL" if _is_jsonl_corpus(corpus_path) else "directory"
+    print("Starting dense embedding index build...", flush=True)
+    print(f"  corpus_path={corpus_path}", flush=True)
+    print(f"  corpus_type={corpus_type}", flush=True)
+    print(f"  embedding_model={EMBEDDING_MODEL}", flush=True)
+    print(
+        f"  chunking=max_chars:{max_chars}, overlap:{overlap}, batch_size:{batch_size}, max_files:{max_files}",
+        flush=True,
+    )
 
-    cache_key = {
-        "embedding_model": EMBEDDING_MODEL,
-        "max_chars": max_chars,
-        "overlap": overlap,
-        "max_files": max_files,
-        "files": {fn: _sha256_file(os.path.join(corpus_dir, fn)) for fn in files},
-    }
+    cache_key = _build_cache_key(
+        corpus_path=corpus_path,
+        max_files=max_files,
+        max_chars=max_chars,
+        overlap=overlap,
+    )
 
     if _load_index(index_dir=index_dir, index_name=index_name, cache_key=cache_key):
-        print("Loaded dense FAISS index from cache.")
+        print("Loaded dense FAISS index from cache.", flush=True)
         return
 
-    print(f"Building dense FAISS index from {len(files)} files...", flush=True)
+    if _is_jsonl_corpus(corpus_path):
+        source_msg = f"JSONL corpus '{corpus_path}'"
+    else:
+        files = [f for f in os.listdir(corpus_path) if f.endswith(".txt") and "_pdf" not in f]
+        files.sort()
+        if max_files is not None:
+            files = files[:max_files]
+        source_msg = f"{len(files)} files in '{corpus_path}'"
+    print(f"Building dense FAISS index from {source_msg}...", flush=True)
 
     # Stream embedding/indexing to avoid holding all chunk texts in RAM at once.
     # Note: we still store chunk texts in metadata for prompting; this can be large.
@@ -204,17 +287,13 @@ def build_index(
         pending_texts = []
         pending_chunks = []
 
-    for i, fn in enumerate(files):
+    for i, (doc_id, text) in enumerate(_iter_corpus_docs(corpus_path, max_files=max_files)):
         if i % 200 == 0:
-            print(f"  processed_files={i}/{len(files)} chunks={len(built)}", flush=True)
-
-        path = os.path.join(corpus_dir, fn)
-        with open(path, "r", encoding="utf-8", errors="ignore") as f:
-            text = f.read()
+            print(f"  processed_docs={i} chunks={len(built)}", flush=True)
         for chunk_text in _chunk_text(text, max_chars=max_chars, overlap=overlap):
             if max_total_chunks is not None and (len(built) + len(pending_chunks)) >= max_total_chunks:
                 break
-            pending_chunks.append((fn, chunk_text))
+            pending_chunks.append((doc_id, chunk_text))
             pending_texts.append(chunk_text)
             if len(pending_texts) >= batch_size:
                 flush_batch()
@@ -234,7 +313,7 @@ def build_index(
 
 
 def load_index(
-    corpus_dir: str = CLEANED_TEXT_DIR,
+    corpus_path: str = CORPUS_PATH,
     index_dir: str = CACHE_DIR,
     index_name: str = DEFAULT_INDEX_NAME,
     max_files: Optional[int] = MAX_FILES,
@@ -245,23 +324,18 @@ def load_index(
     RUNTIME STEP: Load index + metadata. This must be called before evaluation queries.
     """
     cache_key = None
-    if os.path.isdir(corpus_dir):
-        files = [f for f in os.listdir(corpus_dir) if f.endswith(".txt") and "_pdf" not in f]
-        files.sort()
-        if max_files is not None:
-            files = files[:max_files]
-        cache_key = {
-            "embedding_model": EMBEDDING_MODEL,
-            "max_chars": max_chars,
-            "overlap": overlap,
-            "max_files": max_files,
-            "files": {fn: _sha256_file(os.path.join(corpus_dir, fn)) for fn in files},
-        }
+    if os.path.isdir(corpus_path) or _is_jsonl_corpus(corpus_path):
+        cache_key = _build_cache_key(
+            corpus_path=corpus_path,
+            max_files=max_files,
+            max_chars=max_chars,
+            overlap=overlap,
+        )
     ok = _load_index(index_dir=index_dir, index_name=index_name, cache_key=cache_key)
     if not ok:
         raise RuntimeError(
             f"Index not found or cache key mismatch. Build it first:\n"
-            f"  python3 embeddings.py build --corpus_dir {corpus_dir}"
+            f"  python3 embeddings.py build --corpus_path {corpus_path}"
         )
 
 
@@ -288,7 +362,7 @@ def _main() -> int:
     sub = parser.add_subparsers(dest="cmd", required=True)
 
     p_build = sub.add_parser("build", help="Offline: build and save FAISS index")
-    p_build.add_argument("--corpus_dir", default=CLEANED_TEXT_DIR)
+    p_build.add_argument("--corpus_path", default=CORPUS_PATH)
     p_build.add_argument("--index_dir", default=CACHE_DIR)
     p_build.add_argument("--index_name", default=DEFAULT_INDEX_NAME)
     p_build.add_argument("--max_files", type=int, default=None)
@@ -299,7 +373,7 @@ def _main() -> int:
     p_query = sub.add_parser("query", help="Runtime: load index and run a single query")
     p_query.add_argument("question")
     p_query.add_argument("--top_k", type=int, default=5)
-    p_query.add_argument("--corpus_dir", default=CLEANED_TEXT_DIR)
+    p_query.add_argument("--corpus_path", default=CORPUS_PATH)
     p_query.add_argument("--index_dir", default=CACHE_DIR)
     p_query.add_argument("--index_name", default=DEFAULT_INDEX_NAME)
     p_query.add_argument("--max_files", type=int, default=None)
@@ -310,7 +384,7 @@ def _main() -> int:
 
     if args.cmd == "build":
         build_index(
-            corpus_dir=args.corpus_dir,
+            corpus_path=args.corpus_path,
             index_dir=args.index_dir,
             index_name=args.index_name,
             max_files=args.max_files,
@@ -322,7 +396,7 @@ def _main() -> int:
 
     if args.cmd == "query":
         load_index(
-            corpus_dir=args.corpus_dir,
+            corpus_path=args.corpus_path,
             index_dir=args.index_dir,
             index_name=args.index_name,
             max_files=args.max_files,

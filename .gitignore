@@ -8,6 +8,6 @@ __pycache__/
 *.zip
 *.pdf
 
-html/cleaned_text/
+html*
 predictions*
-embeddings_cache*
+embeddings*

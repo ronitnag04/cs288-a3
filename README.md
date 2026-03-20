@@ -6,7 +6,9 @@ embed the cleaned corpus, retrieve top-k chunks for each question, then ask an L
 ## Expected paths
 - Raw/crawled HTML: `html/*.html`
   - Optional if cleaned_text is availible
-- Cleaned corpus used for embeddings: `html/cleaned_text/*.txt`
+- Corpus used for embeddings (either format):
+  - Directory of cleaned text files: `html/cleaned_text/*.txt`
+  - Rewritten JSONL corpus: `html/eecs_text_bs_rewritten.jsonl` (downloaded from [course staff files](https://drive.google.com/drive/folders/1Aad_kpZzfWX7K7iJcQe3o-G_J3WNlakg?usp=sharing))
   - Download and unzip from [shared gdrive folder](https://drive.google.com/drive/folders/1s-L0gxE-MGne73tlFe1MraiguHOHJkJi?usp=drive_link)
 - Embedding cache (autograder/submission artifact): `embeddings_cache/`
   - FAISS index: `embeddings_cache/<index_name>.faiss`
@@ -16,11 +18,12 @@ embed the cleaned corpus, retrieve top-k chunks for each question, then ask an L
 
 ## File overview
 - `main.py`: loads the index, retrieves top-k chunks per question, calls the LLM, writes predictions to a file.
-- `embeddings.py`: builds/loads the FAISS index from `html/cleaned_text/*.txt` and stores it in `embeddings_cache/`.
+- `embeddings.py`: builds/loads the FAISS index from either `html/cleaned_text/*.txt` or `html/eecs_text_bs_rewritten.jsonl`, and stores it in `embeddings_cache/`.
   - You may need to set HF_TOKEN to use some embedding models (like google/embeddinggemma-300m)
 - `llm.py`: OpenRouter chat completion wrapper (uses `OPENROUTER_API_KEY`) used in submission environment.
 - `llm_local.py`: local/dev LLM backend using Amazon Bedrock (uses `boto3`; not required by autograder).
     - Configure AWS profile with AWS IAM Access Key
+    - Set `LLM_BACKEND=bedrock` to use instead of `llm.py`
 - `evaluate.py`: evaluates predictions vs reference answers (average F1/precision/recall).
 - `run.sh`: convenience wrapper that runs `main.py` and ensures the embedding model is available.
 - `zip_submission.sh`: creates `submission.zip` (includes code + `embeddings_cache/*`).
@@ -50,6 +53,7 @@ export HF_TOKEN=<token>
 If you are using AWS Bedrock for local development, make sure to configure your environment. 
 ```bash
 pip install awscli
+pip install boto3
 ```
 ```bash
 aws configure
