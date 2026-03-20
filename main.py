@@ -56,6 +56,40 @@ def _postprocess_answer(s: str) -> str:
     return s if s else "No Stripped Unquoted Answer"
 
 
+def _default_verbose_log_path(predictions_out_path: str) -> str:
+    base_path = os.path.splitext(predictions_out_path)[0]
+    return base_path + '.log'
+
+def _init_verbose_log(path: str, top_k: int) -> None:
+    parent = os.path.dirname(path)
+    if parent:
+        os.makedirs(parent, exist_ok=True)
+    with open(path, "w", encoding="utf-8") as f:
+        f.write(f"# Verbose QA log\n# top_k={top_k}\n\n")
+
+
+def _append_verbose_log(
+    path: str,
+    question_idx: int,
+    question: str,
+    hits: list[dict[str, object]],
+    answer: str,
+) -> None:
+    with open(path, "a", encoding="utf-8") as f:
+        f.write(f"=== Question {question_idx} ===\n")
+        f.write(f"Question: {question}\n")
+        f.write("Top-k documents:\n")
+        if not hits:
+            f.write("  (no retrieved context)\n")
+        for i, hit in enumerate(hits, 1):
+            doc_id = str(hit.get("doc_id", "unknown"))
+            score = float(hit.get("score", 0.0))
+            text = str(hit.get("text", ""))
+            f.write(f"  [{i}] doc_id={doc_id} score={score:.6f}\n")
+            f.write(f"  text: {text}\n")
+        f.write(f"Answer: {answer}\n\n")
+
+
 def answer_question(
     question: str,
     llm_call: Callable[..., str],
@@ -86,6 +120,37 @@ def answer_question(
         return "Error"
 
 
+def answer_question_with_context(
+    question: str,
+    llm_call: Callable[..., str],
+    top_k: int = 5,
+    timeout_s: float = 20.0,
+    model: Optional[str] = None,
+) -> tuple[str, list[dict[str, object]]]:
+    scored_hits = embeddings.search_with_scores(question, top_k=top_k)
+    hits_for_prompt = [(str(h["text"]), str(h["doc_id"])) for h in scored_hits]
+    system_prompt, user_prompt = _format_prompt(question, hits_for_prompt)
+
+    def _call() -> str:
+        kwargs = {
+            "query": user_prompt,
+            "system_prompt": system_prompt,
+            "max_tokens": 64,
+            "temperature": 0.0,
+            "timeout": int(timeout_s),
+        }
+        if model:
+            kwargs["model"] = model
+        return llm_call(**kwargs)
+
+    try:
+        with cf.ThreadPoolExecutor(max_workers=1) as ex:
+            fut = ex.submit(_call)
+            return _postprocess_answer(fut.result(timeout=timeout_s + 2.0)), scored_hits
+    except Exception:
+        return "Error", scored_hits
+
+
 def _read_questions(path: str) -> list[str]:
     with open(path, "r", encoding="utf-8", errors="ignore") as f:
         return [ln.rstrip("\n") for ln in f.readlines()]
@@ -109,6 +174,7 @@ def main(argv: list[str]) -> int:
     p.add_argument("--top_k", type=int, default=int(os.environ.get("TOP_K", "5")))
     p.add_argument("--timeout_s", type=float, default=float(os.environ.get("TIMEOUT_S", "20")))
     p.add_argument("--llm_model", default=os.environ.get("LLM_MODEL", ""))
+    p.add_argument("--verbose", action="store_true", help="Write per-question retrieval + answer log")
     args = p.parse_args(argv)
 
     # Load retrieval index once (offline artifacts).
@@ -124,8 +190,18 @@ def main(argv: list[str]) -> int:
 
     questions = _read_questions(args.questions_path)
     answers: list[str] = []
-    for q in tqdm(questions, desc="Answering Questions", unit="q",):
-        answers.append(answer_question( q, llm_call, args.top_k, args.timeout_s, model))
+    verbose_log_path = _default_verbose_log_path(args.predictions_out_path)
+    if args.verbose:
+        print(f"Verbose log path: {verbose_log_path}")
+        _init_verbose_log(verbose_log_path, args.top_k)
+
+    for i, q in enumerate(tqdm(questions, desc="Answering Questions", unit="q"), 1):
+        if args.verbose:
+            answer, scored_hits = answer_question_with_context(q, llm_call, args.top_k, args.timeout_s, model)
+            answers.append(answer)
+            _append_verbose_log(verbose_log_path, i, q, scored_hits, answer)
+        else:
+            answers.append(answer_question(q, llm_call, args.top_k, args.timeout_s, model))
 
     _write_answers(args.predictions_out_path, answers)
     return 0

@@ -4,7 +4,7 @@ import pickle
 import hashlib
 import argparse
 import json
-from typing import Optional
+from typing import Optional, TypedDict
 
 # Avoid occasional crashes/oversubscription on CPU-only environments.
 os.environ.setdefault("TOKENIZERS_PARALLELISM", "false")
@@ -32,6 +32,12 @@ CACHE_FAISS_PATH = os.path.join(CACHE_DIR, f"{DEFAULT_INDEX_NAME}.faiss")
 _chunks: list[tuple[str, str]] = [] # list of (filename, chunk_text)
 _model: Optional[SentenceTransformer] = None
 _index: Optional[faiss.Index] = None
+
+
+class SearchHit(TypedDict):
+    doc_id: str
+    text: str
+    score: float
 
 
 def _get_model() -> SentenceTransformer:
@@ -339,7 +345,7 @@ def load_index(
         )
 
 
-def search(query, top_k=5):
+def search_with_scores(query: str, top_k: int = 5) -> list[SearchHit]:
     global _index
     if not _chunks or _index is None:
         build_index()
@@ -348,12 +354,30 @@ def search(query, top_k=5):
 
     q_emb = get_embedding(query).reshape(1, -1)
     scores, idxs = _index.search(q_emb, int(top_k))
-    out = []
+    out: list[SearchHit] = []
     for score, idx in zip(scores[0].tolist(), idxs[0].tolist()):
         if idx < 0 or idx >= len(_chunks):
             continue
-        fn, txt = _chunks[idx]
-        out.append((txt, fn))
+        doc_id, txt = _chunks[idx]
+        out.append({"doc_id": doc_id, "text": txt, "score": float(score)})
+    return out
+
+
+def search(query, top_k=5):
+    global _index
+    if not _chunks or _index is None:
+        build_index()
+    if not _chunks or _index is None:
+        return []
+
+    q_emb = get_embedding(query).reshape(1, -1)
+    _scores, idxs = _index.search(q_emb, int(top_k))
+    out = []
+    for idx in idxs[0].tolist():
+        if idx < 0 or idx >= len(_chunks):
+            continue
+        doc_id, txt = _chunks[idx]
+        out.append((txt, doc_id))
     return out
 
 
@@ -403,9 +427,10 @@ def _main() -> int:
             max_chars=args.max_chars,
             overlap=args.overlap,
         )
-        hits = search(args.question, top_k=args.top_k)
-        for text, fn in hits:
-            print(f"[{fn}] {text}")
+        hits = search_with_scores(args.question, top_k=args.top_k)
+        for i, hit in enumerate(hits, 1):
+            print(f"[{i}] doc={hit['doc_id']} score={hit['score']:.4f}")
+            print(hit["text"])
         return 0
 
     return 2
