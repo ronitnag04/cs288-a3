@@ -25,7 +25,7 @@ embed the cleaned corpus, retrieve top-k chunks for each question, then ask an L
     - Configure AWS profile with AWS IAM Access Key
     - Set `LLM_BACKEND=bedrock` to use instead of `llm.py`
 - `evaluate.py`: evaluates predictions vs reference answers (average F1/precision/recall).
-- `run.sh`: convenience wrapper that runs `main.py` and ensures the embedding model is available.
+- `run.sh`: convenience wrapper for submission environment that runs `main.py`.
 - `zip_submission.sh`: creates `submission.zip` (includes code + `embeddings_cache/*`).
 - `crawler.ipynb`: crawls pages and writes cleaned text into `html/cleaned_text/*.txt`.
 - `test_rag.ipynb`: small notebook to test chunking/retrieval with the cached index.
@@ -91,4 +91,4 @@ Use the `evaluate.py` script to compare the predictions to the expected answers 
 ```bash
 python evaluate.py -q questions/test_questions.txt -p predictions/test_predictions.txt
 ```
-This will output the average F1, Precision, and Recall scores for the questions and predictions.
+This will output the average F1, Precision, Recall, and Exact Match (any `answer` alternative after normalization) scores.
