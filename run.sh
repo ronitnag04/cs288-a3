@@ -22,4 +22,4 @@ if [ ! -d "$PREDICTIONS_DIR" ]; then
     mkdir -p "$PREDICTIONS_DIR"
 fi
 
-python3 main.py "$QUESTIONS_FILE" "$PREDICTIONS_FILE"
+python3 main.py "$QUESTIONS_FILE" "$PREDICTIONS_FILE" --skip_cache_key_validation

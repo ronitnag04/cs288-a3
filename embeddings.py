@@ -32,6 +32,8 @@ CACHE_FAISS_PATH = os.path.join(CACHE_DIR, f"{DEFAULT_INDEX_NAME}.faiss")
 _chunks: list[tuple[str, str]] = [] # list of (filename, chunk_text)
 _model: Optional[SentenceTransformer] = None
 _index: Optional[faiss.Index] = None
+_chunks_path: Optional[str] = None
+_chunk_offsets: Optional[list[int]] = None
 
 
 class SearchHit(TypedDict):
@@ -127,6 +129,7 @@ def _iter_corpus_docs(corpus_path: str, max_files: Optional[int]):
 
 
 def _build_cache_key(corpus_path: str, max_files: Optional[int], max_chars: int, overlap: int) -> dict:
+    print(f"Building cache key for corpus path: {corpus_path}")
     if _is_jsonl_corpus(corpus_path):
         return {
             "embedding_model": EMBEDDING_MODEL,
@@ -173,7 +176,7 @@ def _chunk_text(text, max_chars=MAX_CHARS, overlap=OVERLAP):
 
 
 def _load_index(index_dir: str, index_name: str, cache_key: dict) -> bool:
-    global _chunks, _index
+    global _chunks, _index, _chunks_path, _chunk_offsets
     meta_path = os.path.join(index_dir, f"{index_name}.pkl")
     faiss_path = os.path.join(index_dir, f"{index_name}.faiss")
 
@@ -195,12 +198,32 @@ def _load_index(index_dir: str, index_name: str, cache_key: dict) -> bool:
     except Exception:
         return False
 
+    # Newer cache format: sidecar JSONL chunk store + byte offsets (lazy text loading).
+    raw_chunks_path = obj.get("chunks_path")
+    raw_offsets = obj.get("chunk_offsets")
+    if isinstance(raw_chunks_path, str) and isinstance(raw_offsets, list):
+        chunks_path = raw_chunks_path
+        if not os.path.isabs(chunks_path):
+            chunks_path = os.path.join(index_dir, chunks_path)
+        if not os.path.exists(chunks_path):
+            return False
+        try:
+            _chunk_offsets = [int(x) for x in raw_offsets]
+        except Exception:
+            return False
+        _chunks_path = chunks_path
+        _chunks = []
+        return True
+
+    # Backward-compatible legacy format: all chunks embedded in pickle metadata.
     raw_chunks = obj.get("chunks", []) # Expected format: list[(filename, text)]
     if not isinstance(raw_chunks, list):
         return False
     if raw_chunks and not (isinstance(raw_chunks[0], (tuple, list)) and len(raw_chunks[0]) == 2):
         return False
     _chunks = [(str(fn), str(txt)) for fn, txt in raw_chunks]
+    _chunks_path = None
+    _chunk_offsets = None
 
     return True
 
@@ -211,8 +234,53 @@ def _save_index(index_dir: str, index_name: str, cache_key: dict):
     if _index is None:
         raise RuntimeError("Index is not built; cannot save cache.")
     faiss.write_index(_index, os.path.join(index_dir, f"{index_name}.faiss"))
+    chunks_jsonl_name = f"{index_name}.chunks.jsonl"
+    chunks_jsonl_path = os.path.join(index_dir, chunks_jsonl_name)
+    offsets: list[int] = []
+    with open(chunks_jsonl_path, "w", encoding="utf-8") as cf:
+        for doc_id, text in _chunks:
+            offsets.append(cf.tell())
+            cf.write(json.dumps({"doc_id": doc_id, "text": text}, ensure_ascii=False) + "\n")
     with open(os.path.join(index_dir, f"{index_name}.pkl"), "wb") as f:
-        pickle.dump({"cache_key": cache_key, "chunks": _chunks}, f)
+        pickle.dump(
+            {
+                "cache_key": cache_key,
+                "chunks_path": chunks_jsonl_name,
+                "chunk_offsets": offsets,
+            },
+            f,
+        )
+
+
+def _num_chunks() -> int:
+    if _chunks:
+        return len(_chunks)
+    if _chunk_offsets is not None:
+        return len(_chunk_offsets)
+    return 0
+
+
+def _get_chunk_by_idx(idx: int) -> Optional[tuple[str, str]]:
+    if idx < 0:
+        return None
+    if _chunks:
+        if idx >= len(_chunks):
+            return None
+        return _chunks[idx]
+
+    if _chunks_path is None or _chunk_offsets is None:
+        return None
+    if idx >= len(_chunk_offsets):
+        return None
+
+    try:
+        with open(_chunks_path, "r", encoding="utf-8", errors="ignore") as f:
+            f.seek(_chunk_offsets[idx])
+            line = f.readline()
+        obj = json.loads(line)
+        return str(obj.get("doc_id", "")), str(obj.get("text", ""))
+    except Exception:
+        return None
 
 
 def build_index(
@@ -228,11 +296,13 @@ def build_index(
     OFFLINE STEP (run once): chunk + embed all documents and write FAISS index + metadata.
     Runtime search should call `load_index(...)` once and then `search(...)` for each query.
     """
-    global _chunks, _index
+    global _chunks, _index, _chunks_path, _chunk_offsets
     if not (os.path.isdir(corpus_path) or _is_jsonl_corpus(corpus_path)):
         print(f"Warning: corpus '{corpus_path}' not found, index is empty.")
         _chunks = []
         _index = None
+        _chunks_path = None
+        _chunk_offsets = None
         return
 
     corpus_type = "JSONL" if _is_jsonl_corpus(corpus_path) else "directory"
@@ -308,6 +378,8 @@ def build_index(
     flush_batch()
 
     _chunks = built
+    _chunks_path = None
+    _chunk_offsets = None
     if not _chunks or _index is None:
         _index = None
         print("Index built: 0 chunks.", flush=True)
@@ -324,12 +396,13 @@ def load_index(
     max_files: Optional[int] = MAX_FILES,
     max_chars: int = MAX_CHARS,
     overlap: int = OVERLAP,
+    validate_cache_key: bool = True,
 ) -> None:
     """
     RUNTIME STEP: Load index + metadata. This must be called before evaluation queries.
     """
     cache_key = None
-    if os.path.isdir(corpus_path) or _is_jsonl_corpus(corpus_path):
+    if validate_cache_key and (os.path.isdir(corpus_path) or _is_jsonl_corpus(corpus_path)):
         cache_key = _build_cache_key(
             corpus_path=corpus_path,
             max_files=max_files,
@@ -346,36 +419,38 @@ def load_index(
 
 def search_with_scores(query: str, top_k: int = 5) -> list[SearchHit]:
     global _index
-    if not _chunks or _index is None:
+    if _num_chunks() == 0 or _index is None:
         build_index()
-    if not _chunks or _index is None:
+    if _num_chunks() == 0 or _index is None:
         return []
 
     q_emb = get_embedding(query).reshape(1, -1)
     scores, idxs = _index.search(q_emb, int(top_k))
     out: list[SearchHit] = []
     for score, idx in zip(scores[0].tolist(), idxs[0].tolist()):
-        if idx < 0 or idx >= len(_chunks):
+        chunk = _get_chunk_by_idx(int(idx))
+        if chunk is None:
             continue
-        doc_id, txt = _chunks[idx]
+        doc_id, txt = chunk
         out.append({"doc_id": doc_id, "text": txt, "score": float(score)})
     return out
 
 
 def search(query, top_k=5):
     global _index
-    if not _chunks or _index is None:
+    if _num_chunks() == 0 or _index is None:
         build_index()
-    if not _chunks or _index is None:
+    if _num_chunks() == 0 or _index is None:
         return []
 
     q_emb = get_embedding(query).reshape(1, -1)
     _scores, idxs = _index.search(q_emb, int(top_k))
     out = []
     for idx in idxs[0].tolist():
-        if idx < 0 or idx >= len(_chunks):
+        chunk = _get_chunk_by_idx(int(idx))
+        if chunk is None:
             continue
-        doc_id, txt = _chunks[idx]
+        doc_id, txt = chunk
         out.append((txt, doc_id))
     return out
 

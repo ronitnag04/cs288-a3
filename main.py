@@ -200,8 +200,9 @@ def main(argv: list[str]) -> int:
     p.add_argument("--index_name", default="embeddings_only_index")
     p.add_argument("--corpus_path", default=os.path.join("html", "eecs_text_bs_rewritten.jsonl"))
     p.add_argument("--top_k", type=int, default=5)
-    p.add_argument("--timeout_s", type=float, default=20)
+    p.add_argument("--timeout_s", type=float, default=60)
     p.add_argument("--llm_model", default="")
+    p.add_argument("--skip_cache_key_validation", action="store_true", help="Skip corpus hash/cache-key validation when loading index")
     p.add_argument("--verbose", action="store_true", help="Write per-question retrieval + answer log")
     args = p.parse_args(argv)
 
@@ -210,7 +211,7 @@ def main(argv: list[str]) -> int:
         corpus_path=args.corpus_path,
         index_dir=args.index_dir,
         index_name=args.index_name,
-        max_files=None,
+        validate_cache_key=not args.skip_cache_key_validation,
     )
 
     llm_call = _get_llm_callable()
