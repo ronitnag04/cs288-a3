@@ -20,15 +20,7 @@ def call_llm(
 ) -> str:
     """
     Local-development LLM backend using Amazon Bedrock.
-
-    This file is NOT used by the autograder. `main.py` uses it only when
-    you set `LLM_BACKEND=bedrock` (or `LLM_BACKEND=local`).
-
-    Dependencies:
-    - boto3 (install locally for development)
-
-    Environment variables:
-    - AWS_REGION / AWS_DEFAULT_REGION
+    Set `LLM_BACKEND=bedrock` to use this backend instead of llm.py (used by autograder).
     """
     assert model in ALLOWED_MODELS, (
         f"Model '{model}' is not allowed. Allowed models: {ALLOWED_MODELS}"
@@ -41,13 +33,7 @@ def call_llm(
             "boto3 is required for Bedrock local development. Install it locally (pip/conda)."
         ) from e
 
-    region = (
-        os.environ.get("AWS_REGION")
-        or os.environ.get("AWS_DEFAULT_REGION")
-        or "us-west-2"
-    )
-
-    client = boto3.client("bedrock-runtime", region_name=region)
+    client = boto3.client("bedrock-runtime")
 
     # Prefer the newer Converse API when available.
     if hasattr(client, "converse"):

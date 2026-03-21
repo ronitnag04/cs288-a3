@@ -15,9 +15,9 @@ import numpy as np
 import faiss
 from sentence_transformers import SentenceTransformer
 
-EMBEDDING_MODEL = os.environ.get("EMBEDDING_MODEL", "sentence-transformers/all-MiniLM-L6-v2")
-# CORPUS_PATH = os.environ.get("CORPUS_PATH", os.path.join("html", "cleaned_text"))
-CORPUS_PATH = os.environ.get("CORPUS_PATH", os.path.join("html", "eecs_text_bs_rewritten.jsonl"))
+EMBEDDING_MODEL = "sentence-transformers/all-MiniLM-L6-v2"
+# CORPUS_PATH = os.path.join("html", "cleaned_text")
+CORPUS_PATH = os.path.join("html", "eecs_text_bs_rewritten.jsonl")
 
 MAX_CHARS = 900
 OVERLAP = 150
@@ -272,8 +272,7 @@ def build_index(
     pending_texts: list[str] = []
     pending_chunks: list[tuple[str, str]] = []
 
-    max_total_chunks_env = os.environ.get("MAX_TOTAL_CHUNKS")
-    max_total_chunks = int(max_total_chunks_env) if max_total_chunks_env else None
+    max_total_chunks = None
 
     _index = None
     dim: Optional[int] = None

@@ -16,11 +16,12 @@ def _get_llm_callable() -> Callable[..., str]:
     - Local dev: set LLM_BACKEND=bedrock to use `llm_local.py` (Amazon Bedrock).
     """
     backend = os.environ.get("LLM_BACKEND", "").strip().lower()
-    if backend in {"bedrock", "aws", "local"}:
+    if backend in {"bedrock"}:
+        print("Using local LLM backend with Amazon Bedrock")
         from llm_local import call_llm as call_llm_local  # local-only dependency
-
         return call_llm_local
 
+    print("Using OpenRouter LLM backend")
     from llm import call_llm as call_llm_openrouter
 
     return call_llm_openrouter
@@ -176,9 +177,9 @@ def main(argv: list[str]) -> int:
     p.add_argument("--index_dir", default="embeddings_cache")
     p.add_argument("--index_name", default="embeddings_only_index")
     p.add_argument("--corpus_path", default=os.path.join("html", "eecs_text_bs_rewritten.jsonl"))
-    p.add_argument("--top_k", type=int, default=int(os.environ.get("TOP_K", "5")))
-    p.add_argument("--timeout_s", type=float, default=float(os.environ.get("TIMEOUT_S", "20")))
-    p.add_argument("--llm_model", default=os.environ.get("LLM_MODEL", ""))
+    p.add_argument("--top_k", type=int, default=5)
+    p.add_argument("--timeout_s", type=float, default=20)
+    p.add_argument("--llm_model", default="")
     p.add_argument("--verbose", action="store_true", help="Write per-question retrieval + answer log")
     args = p.parse_args(argv)
 
