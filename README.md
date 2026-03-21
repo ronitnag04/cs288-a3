@@ -17,14 +17,14 @@ embed the cleaned corpus, retrieve top-k chunks for each question, then ask an L
   - Download and unzip from [shared gdrive folder](https://drive.google.com/drive/folders/1s-L0gxE-MGne73tlFe1MraiguHOHJkJi?usp=drive_link)
 
 ## File overview
-- `main.py`: loads the index, retrieves top-k chunks per question, calls the LLM, writes predictions to a file.
+- `main.py`: loads the index, retrieves top-k chunks per question, calls the LLM, writes predictions to a file. Optional `--verbose` writes a per-question retrieval + answer log (see Usage §5).
 - `embeddings.py`: builds/loads the FAISS index from either `html/cleaned_text/*.txt` or `html/eecs_text_bs_rewritten.jsonl`, and stores it in `embeddings_cache/`.
   - You may need to set HF_TOKEN to use some embedding models (like google/embeddinggemma-300m)
 - `llm.py`: OpenRouter chat completion wrapper (uses `OPENROUTER_API_KEY`) used in submission environment.
 - `llm_local.py`: local/dev LLM backend using Amazon Bedrock (uses `boto3`; not required by autograder).
     - Configure AWS profile with AWS IAM Access Key
     - Set `LLM_BACKEND=bedrock` to use instead of `llm.py`
-- `evaluate.py`: evaluates predictions vs reference answers (average F1/precision/recall).
+- `evaluate.py`: evaluates predictions vs the questions’ `answer` field (averages F1 / precision / recall / exact match). Optional `--log-mistakes` writes incorrect items to a log (see Usage §6).
 - `run.sh`: convenience wrapper for submission environment that runs `main.py`.
 - `zip_submission.sh`: creates `submission.zip` (includes code + `embeddings_cache/*`).
 - `crawler.ipynb`: crawls pages and writes cleaned text into `html/cleaned_text/*.txt`.
@@ -86,9 +86,21 @@ bash run.sh questions/test_questions.txt predictions/test_predictions.txt
 ```
 The questions files are located at `questions/reference_questions.txt` and `questions/test_questions.txt`. You can set the predictions path to whatever you want, but we recommend a file name in the `predictions` folder.
 
+**Verbose mode (`main.py`):** To log retrieval details for debugging, run `main.py` with `--verbose`. For each question it writes to a log file: the question text, the top‑`k` retrieved chunks (doc id, score, chunk text), and the model’s answer. The log path is derived from the predictions output path by replacing the extension with `.log` (e.g. `predictions/test_answers.txt` → `predictions/test_answers.log`). The script prints that path when verbose is enabled.
+
+```bash
+python3 main.py questions/test_questions.txt predictions/test_predictions.txt --verbose
+```
+
 ### 6. Evaluate Results
 Use the `evaluate.py` script to compare the predictions to the expected answers for the questions.
 ```bash
 python evaluate.py -q questions/test_questions.txt -p predictions/test_predictions.txt
 ```
 This will output the average F1, Precision, Recall, and Exact Match (any `answer` alternative after normalization) scores.
+
+**Log mistakes (`evaluate.py`):** Pass `-l` or `--log-mistakes` to write only items that are not fully correct under the script’s metrics (F1 score below 1.0) to a side log: question, answer URL, reference answer(s), prediction, and F1 / precision / recall. The log path is `<predictions_basename>_mistakes.log` next to the predictions file (e.g. `predictions/test_predictions.txt` → `predictions/test_predictions_mistakes.log`).
+
+```bash
+python evaluate.py -q questions/test_questions.txt -p predictions/test_predictions.txt --log-mistakes
+```
