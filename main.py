@@ -62,6 +62,28 @@ def _postprocess_answer(s: str) -> str:
     return s if s else "No Stripped Unquoted Answer"
 
 
+def _format_error_answer(err: Exception) -> str:
+    name = err.__class__.__name__.lower()
+    msg = str(err).strip().replace("\n", " ")
+    if "timeout" in name or "timed out" in msg.lower():
+        label = "Error: Timeout"
+    elif "auth" in name or "credential" in msg.lower() or "permission" in msg.lower():
+        label = "Error: Auth"
+    elif "connection" in name or "connection" in msg.lower() or "endpoint" in msg.lower():
+        label = "Error: Connection"
+    elif "response" in name:
+        label = "Error: Response"
+    elif "config" in name or "valueerror" in name or "assertionerror" in name:
+        label = "Error: Config"
+    else:
+        label = "Error: Runtime"
+
+    if msg:
+        short = msg[:120] + ("..." if len(msg) > 120 else "")
+        return f"{label} - {short}"
+    return label
+
+
 def _default_verbose_log_path(predictions_out_path: str) -> str:
     base_path = os.path.splitext(predictions_out_path)[0]
     return base_path + '.log'
@@ -122,8 +144,8 @@ def answer_question(
         with cf.ThreadPoolExecutor(max_workers=1) as ex:
             fut = ex.submit(_call)
             return _postprocess_answer(fut.result(timeout=timeout_s + 2.0))
-    except Exception:
-        return "Error"
+    except Exception as e:
+        return _format_error_answer(e)
 
 
 def answer_question_with_context(
@@ -153,8 +175,8 @@ def answer_question_with_context(
         with cf.ThreadPoolExecutor(max_workers=1) as ex:
             fut = ex.submit(_call)
             return _postprocess_answer(fut.result(timeout=timeout_s + 2.0)), scored_hits
-    except Exception:
-        return "Error", scored_hits
+    except Exception as e:
+        return _format_error_answer(e), scored_hits
 
 
 def _read_questions(path: str) -> list[str]:
