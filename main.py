@@ -35,6 +35,11 @@ def _format_prompt(question: str, hits: list[tuple[str, str]]) -> tuple[str, str
     system = (
         "You are a factual QA assistant. Answer using ONLY the provided context.\n"
         "Return a short answer (ideally a short span, under ~10 words).\n"
+        "If there are multiple possible answers or people, don't return all options, just return the best or first one."
+        "If the answer is a list of people, don't return all people, just return the best or first one."
+        "Numerical answers should be returned as numbers, not words."
+        "If the question can be answered with a Yes or No answer, return Yes or No.\n"
+        "If the question is abstractive (requiring counting or simple arithmetic), follow these steps: 1. Extract all the numbers and labels from the text, 2. Explicitly write out the equations needed, and 3. Calculate the result for the answer.\n"
         "If the answer is not in the context, return Unknown.\n"
         "Do not include citations, explanations, or newlines."
     )
