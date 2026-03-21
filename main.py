@@ -1,3 +1,16 @@
+"""
+Main script for RAG pipeline for CS 288 Assignment 3.
+
+Loads the index, retrieves top-k chunks per question, calls the LLM, writes predictions to a file. 
+Optional `--verbose` writes a per-question retrieval + answer log (for local development and debugging).
+Optional `--skip_cache_key_validation` skips corpus hash/cache-key validation when loading index (for autograder acceleration).
+
+AI Acknowledgement: 
+I acknowledge the use of Cursor(https://cursor.com/product) to accelerate my coding process.
+I used the outputs to debug code, refactor changes efficiently, and accelerate coding with moderated use of tab completions. 
+I have the ability to explain and even independently replicate the work done in this document if asked by an instructor.
+"""
+
 import argparse
 import concurrent.futures as cf
 import os
